@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./TOC/NTOC.jpg" width="50%" height="50%">
+<img src="./TOC/TOC.jpg" width="50%" height="50%">
 </p>
 
 ## Citation
