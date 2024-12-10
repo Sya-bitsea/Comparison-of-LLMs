@@ -1,0 +1,96 @@
+[
+    {
+        "material": "Compound 1",
+        "synthesis_conditions": [
+            {
+                "chemicals": [
+                    {
+                        "name": "H2BPDC",
+                        "amount": "0.0488 g"
+                    },
+                    {
+                        "name": "CuCl2\u00b76H2O",
+                        "amount": "0.0123 g"
+                    },
+                    {
+                        "name": "DyCl3\u00b76H2O",
+                        "amount": "0.0377 g"
+                    },
+                    {
+                        "name": "distilled water",
+                        "amount": "4 mL"
+                    },
+                    {
+                        "name": "anhydrous alcohol",
+                        "amount": "4 mL"
+                    }
+                ]
+            },
+            {
+                "temperature": "145 \u00b0C"
+            },
+            {
+                "time": "72 h"
+            },
+            {
+                "pressure": "autogenous pressure"
+            },
+            {
+                "cooling_rate": "1.2 \u00b0C/h"
+            },
+            {
+                "product_description": "Blue block crystals"
+            },
+            {
+                "yield": "62%"
+            }
+        ]
+    },
+    {
+        "material": "Compound 2",
+        "synthesis_conditions": [
+            {
+                "chemicals": [
+                    {
+                        "name": "H2BPDC",
+                        "amount": "0.0366 g"
+                    },
+                    {
+                        "name": "Cu(NO3)2\u00b76H2O",
+                        "amount": "0.0148 g"
+                    },
+                    {
+                        "name": "Dy(NO3)3\u00b76H2O",
+                        "amount": "0.0456 g"
+                    },
+                    {
+                        "name": "distilled water",
+                        "amount": "4 mL"
+                    },
+                    {
+                        "name": "anhydrous alcohol",
+                        "amount": "4 mL"
+                    }
+                ]
+            },
+            {
+                "temperature": "145 \u00b0C"
+            },
+            {
+                "time": "72 h"
+            },
+            {
+                "pressure": "autogenous pressure"
+            },
+            {
+                "cooling_rate": "1.2 \u00b0C/h"
+            },
+            {
+                "product_description": "Blue needlelike crystals"
+            },
+            {
+                "yield": "45%"
+            }
+        ]
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "material": "ZIF-20",
+        "chemical_formula": "Zn(Pur)2\u00b7(DMF)0.75(H2O)1.5",
+        "chemicals_used": [
+            {
+                "chemical": "zinc nitrate tetrahydrate",
+                "formula": "Zn(NO3)2\u00b74H2O",
+                "amount": "65 mg",
+                "supplier": "EM Science"
+            },
+            {
+                "chemical": "purine",
+                "formula": null,
+                "amount": "150 mg",
+                "supplier": "Fluka or Sigma"
+            },
+            {
+                "chemical": "N,N-dimethylformamide",
+                "formula": "DMF",
+                "amount": "5 ml",
+                "supplier": "Fisher"
+            }
+        ],
+        "temperature": "65 \u00b0C",
+        "time": "3 days",
+        "product": "pale yellow octahedral crystals",
+        "washing_method": "The powder product was removed by decanting with mother liquor and washed three times with DMF (5 ml).",
+        "drying_method": "The crystals were dried in air for 30 min",
+        "yield": "48 mg, 50% based on Zn(NO3)2\u00b74H2O"
+    },
+    {
+        "material": "ZIF-21",
+        "chemical_formula": "Co(Pur)2\u00b7(DMF)(H2O)",
+        "chemicals_used": [
+            {
+                "chemical": "cobalt(II) nitrate hexahydrate",
+                "formula": "Co(NO3)2\u00b76H2O",
+                "amount": "146 mg",
+                "supplier": "Aldrich"
+            },
+            {
+                "chemical": "purine",
+                "formula": null,
+                "amount": "300 mg",
+                "supplier": null
+            },
+            {
+                "chemical": "N,N-dimethylformamide",
+                "formula": "DMF",
+                "amount": "5 ml",
+                "supplier": null
+            },
+            {
+                "chemical": "dimethylamine solution in methanol",
+                "formula": null,
+                "amount": "1.25 ml",
+                "concentration": "2.0 M",
+                "supplier": "Aldrich"
+            }
+        ],
+        "temperature": "85 \u00b0C",
+        "time": "24 h",
+        "product": "purple octrahedral crystals",
+        "washing_method": "the mother liquor was decanted and the crystals were rinsed three times with DMF (5 ml)",
+        "drying_method": "dried in air for 1 h",
+        "yield": "92 mg, 47% based on Co(NO3)2\u00b76H2O"
+    },
+    {
+        "material": "ZIF-22",
+        "chemical_formula": "Zn(5-Azabenzimidazolato)2\u00b7(DMF)0.75(H2O)2",
+        "chemicals_used": [
+            {
+                "chemical": "zinc nitrate tetrahydrate",
+                "formula": "Zn(NO3)2\u00b74H2O",
+                "amount": "52 mg",
+                "supplier": null
+            },
+            {
+                "chemical": "5-azabenzimidazole",
+                "formula": null,
+                "amount": "238 mg",
+                "supplier": "Aldrich"
+            },
+            {
+                "chemical": "N,N-dimethylformamide",
+                "formula": "DMF",
+                "amount": "2 ml",
+                "supplier": null
+            }
+        ],
+        "temperature": "150 \u00b0C",
+        "time": "3 days",
+        "product": "pale yellow octahedral crystals",
+        "washing_method": "The powder product was removed by decanting with\nmother liquor and rinsed three times with DMF (4 ml\u00d7 3).",
+        "drying_method": "The crystals were\ndried in air for 30 min",
+        "yield": "68 mg, 87% based on Zn(NO3)2\u00b74H2O"
+    },
+    {
+        "material": "ZIF-23",
+        "chemical_formula": "Zn(4-Azabenzimidazolato)2\u00b7(H2O)0.25",
+        "chemicals_used": [
+            {
+                "chemical": "zinc nitrate tetrahydrate",
+                "formula": "Zn(NO3)2\u00b74H2O",
+                "amount": "52 mg",
+                "supplier": null
+            },
+            {
+                "chemical": "4-azabenzimidazole",
+                "formula": null,
+                "amount": "119 mg",
+                "supplier": "Aldrich"
+            },
+            {
+                "chemical": "N,N-dimethylformamide",
+                "formula": "DMF",
+                "amount": "1 ml",
+                "supplier": null
+            }
+        ],
+        "temperature": "100 \u00b0C",
+        "time": "1 day",
+        "product": "pale yellow prism crystals",
+        "washing_method": "the crystals were rinsed three times with DMF (5 ml)",
+        "drying_method": "dried in air for 30 min",
+        "yield": "55 mg, 90% based on Zn(NO3)2\u00b74H2O",
+        "other_conditions": "The same\nproduct was obtained in reactions at di\ufb00erent temperatures (65 and 150\n\u00b0C), at\nwhich ZIF-20 and ZIF-22 were synthesized, respectively. Reaction with a\ndi\ufb00erent ligand/metal ratio (1:10, instead of 1:5) as used in the synthesis of\nZIF-21 also gave the same compound."
+    },
+    {
+        "material": "activated ZIF-20",
+        "synthesis_method": "The as-synthesized sample of ZIF-20 was immersed in anhydrous methanol in a glove box for 3 days; during the exchange the methanol was refreshed six times. The resulting methanol-exchanged sample of ZIF-20 in methanol was transferred to a quartz cell in a glove box and the solvent was roughly decanted using a pipette. The wet sample then was evacuated at ambient temperature for 12 h to yield an activated sample (about 200 mg) for gas adsorption measurements."
+    }
+]

@@ -1,0 +1,81 @@
+s the machine-readable .json file containing the synthesis conditions for ZJU-74a:
+
+{
+  "ZJU-74a": {
+    "synthesis_method_1": {
+      "reactants": [
+        {
+          "chemical_name": "K2[Ni(CN)4]·nH2O",
+          "amount": "0.125 mmol",
+          "solvent": "aqueous solution (3 mL)"
+        },
+        {
+          "chemical_name": "Co(NO3)2·6H2O",
+          "amount": "0.125 mmol",
+          "solvent": "methanol/aqueous solution (1/1, 5 mL)"
+        },
+        {
+          "chemical_name": "pyrazine (pyz)",
+          "amount": "0.125 mmol",
+          "solvent": "methanol/aqueous solution (1/1, 5 mL)"
+        }
+      ],
+      "synthesis_procedure": "An aqueous solution of K2[Ni(CN)4]·nH2O (3 mL, 0.125 mmol) was slowly and carefully layered with a methanol/aqueous solution (1/1, 5 mL) of Co(NO3)2·6H2O (0.125 mmol) and pyrazine (pyz, 0.125 mmol) using a methanol/water buffer solution (2/3, 4 mL).",
+      "temperature": "room temperature",
+      "time": "two weeks",
+      "product_form": "orange square-block-shaped single crystals"
+    },
+    "synthesis_method_2": {
+      "reactants": [
+        {
+          "chemical_name": "K2[Ni(CN)4]·nH2O",
+          "amount": "0.5 mmol",
+          "solvent": "aqueous solution (2 mL)"
+        },
+        {
+          "chemical_name": "Co(NO3)2·6H2O",
+          "amount": "0.5 mmol",
+          "solvent": "methanol/water solution (1/1, 10 mL)"
+        },
+        {
+          "chemical_name": "pyrazine (pyz)",
+          "amount": "0.5 mmol",
+          "solvent": "methanol/water solution (1/1, 10 mL)"
+        }
+      ],
+      "synthesis_procedure": "An aqueous solution (2 mL) of K2[Ni(CN)4]·nH2O (0.5 mmol) was added to a methanol/water solution (1/1, 10 mL) of Co(NO3)2·6H2O (0.5 mmol) and pyz (0.5 mmol) at 30 °C, and the resulted light pink precipitate was obtained under constant stirring for 3 h.",
+      "temperature": "30 °C",
+      "time": "3 h",
+      "yield": "78% based on pyz",
+      "product_form": "powder"
+    },
+    "activation": {
+      "solvent_exchange": "dry acetone at least 10 times within two days",
+      "evacuation_conditions": [
+        {
+          "temperature": "room temperature (296 K)",
+          "time": "24 h"
+        },
+        {
+          "temperature": "363 K",
+          "time": "12 h"
+        }
+      ],
+      "evacuation_rate": "until the outgas rate was 5 mmHg min−1"
+    }
+  }
+}
+
+The key synthesis details are:
+
+1. Two synthesis methods are provided - a slow diffusion method to obtain single crystals, and a fast direct mixing method to obtain powder samples in larger quantities. 
+
+2. The reactants used are K2[Ni(CN)4]·nH2O, Co(NO3)2·6H2O and pyrazine (pyz) in specific molar ratios and solvents.
+
+3. The synthesis is carried out at room temperature for the single crystal method and at 30°C for the powder method. 
+
+4. The activation involves solvent exchange with dry acetone followed by evacuation at room temperature and 363 K to remove guest solvents.
+
+5. The yield for the powder synthesis method is reported as 78% based on pyrazine.
+
+Let me know if you need any clarification or have additional questions

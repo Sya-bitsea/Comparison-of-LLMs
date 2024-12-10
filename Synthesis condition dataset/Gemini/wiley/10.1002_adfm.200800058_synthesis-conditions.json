@@ -1,0 +1,40 @@
+[
+    {
+        "material": "[Co3(HCOO)6] * DMF (1 * DMF)",
+        "synthesis_condition": {
+            "chemicals_used": [
+                "cobalt(II) nitrate hexahydrate (97.7%)",
+                "formic acid (97%)",
+                "N,N-dimethylformamide (DMF)"
+            ],
+            "temperature": "100 \u00b0C",
+            "time": "48 hours",
+            "equipment": "Teflon-lined acid digestion bomb",
+            "yield": "quantitative",
+            "washing_method": [
+                "DMF",
+                "diethyl ether"
+            ],
+            "drying_method": "vacuum oven at 50 \u00b0C for 15 minutes"
+        }
+    },
+    {
+        "material": "[Mn3(HCOO)6] * DMF (2 * DMF)",
+        "synthesis_condition": {
+            "chemicals_used": [
+                "manganese nitrate hexahydrate",
+                "formic acid (97%)",
+                "DMF"
+            ],
+            "temperature": "100 \u00b0C",
+            "time": "24 hours",
+            "equipment": "isothermal oven"
+        }
+    },
+    {
+        "material": "[Ni3(HCOO)6] * DMF (3 * DMF)",
+        "synthesis_condition": {
+            "method": "similar to 1 * DMF"
+        }
+    }
+]

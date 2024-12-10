@@ -1,0 +1,64 @@
+{
+    "material_1": {
+        "name": "C2H10N2\u00b7Mg(H2PO3)2(C2O4)",
+        "synthesis_method": "Solvent-free synthesis",
+        "chemicals": [
+            {
+                "name": "Mg(OAc)2\u00b74H2O",
+                "amount": "0.428 g"
+            },
+            {
+                "name": "H3PO3",
+                "amount": "0.410 g"
+            },
+            {
+                "name": "ethylenediamine",
+                "amount": "200 \u03bcL"
+            },
+            {
+                "name": "H2C2O4\u00b72H2O",
+                "amount": "0.252 g"
+            }
+        ],
+        "equipment": [
+            "25 mL Teflon-lined steel autoclave"
+        ],
+        "temperature": "130 \u00b0C",
+        "time": "3 days",
+        "cooling_rate": "6 \u00b0C h\u22121",
+        "yield": "60% based on magnesium",
+        "washing_solvent": "distilled water",
+        "drying_method": "air drying"
+    },
+    "material_2": {
+        "name": "C7H20N2\u00b7Mg2(H2PO3)2(C2O4)2\u00b7H2O",
+        "synthesis_method": "Solvent-free synthesis",
+        "chemicals": [
+            {
+                "name": "Mg(OAc)2\u00b74H2O",
+                "amount": "0.428 g"
+            },
+            {
+                "name": "H3PO3",
+                "amount": "0.328 g"
+            },
+            {
+                "name": "N,N,N\u2032,N\u2032-tetramethyl-1,3-propanediamine",
+                "amount": "335 \u03bcL"
+            },
+            {
+                "name": "H2C2O4\u00b72H2O",
+                "amount": "0.504 g"
+            }
+        ],
+        "equipment": [
+            "25 mL Teflon-lined steel autoclave"
+        ],
+        "temperature": "150 \u00b0C",
+        "time": "7 days",
+        "cooling_rate": "6 \u00b0C h\u22121",
+        "yield": "41% based on magnesium",
+        "washing_solvent": "distilled water",
+        "drying_method": "air drying"
+    }
+}

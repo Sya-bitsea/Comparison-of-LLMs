@@ -1,0 +1,41 @@
+s the machine readable .json file containing the synthesis conditions for the material in the given text:
+
+{
+    "material": "[Mn(TPP)][Mn(TPP)(CN)2]",
+    "synthesis": {
+        "chemicals": {
+            "MnTPP(H2O)2Cl": {
+                "amount": "73.9 mg",
+                "molar amount": "0.1 mmol"
+            },
+            "sodium cyanide": {
+                "amount": "19.6 mg", 
+                "molar amount": "0.4 mmol"
+            },
+            "tris(2-pyridylmethyl)amine": {
+                "amount": "29 mg",
+                "molar amount": "0.1 mmol"  
+            },
+            "manganese(II) perchlorate hexahydrate": {
+                "amount": "equivalent to tris(2-pyridylmethyl)amine"
+            }
+        },
+        "solvent": "methyl cyanide",
+        "solvent amount": "10 mL",
+        "procedure": [
+            "Sodium cyanide was added to a solution of MnTPP(H2O)2Cl in methyl cyanide.",
+            "In a separate container, tris(2-pyridylmethyl)amine and equivalent manganese(II) perchlorate hexahydrate were mixed in 10 mL methyl cyanide.",
+            "The tris(2-pyridylmethyl)amine/Mn(II) solution was added to the MnTPP/cyanide solution.",
+            "The dark green solution turned dark brown.",
+            "The solution was kept in a dark place for several days."
+        ],
+        "result": "Black plate-shaped crystals were collected by evaporation.",
+        "yield": "33% based on MnTPP(H2O)2Cl"
+    },
+    "characterization": {
+        "IR (KBr, cm-1)": "2143 (C≡N)",
+        "elemental analysis": {
+            "calculated": "C 77.92, H 4.07, N 10.10",
+            "measured": "C 77.8, H 4.1, N 10.2"
+        }
+    }

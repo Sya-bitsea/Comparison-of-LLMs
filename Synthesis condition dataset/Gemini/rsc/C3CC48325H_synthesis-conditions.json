@@ -1,0 +1,22 @@
+{
+    "material_1": {
+        "name": "[Mn(Me-ip)(DMF)]n",
+        "synthetic_procedure": "A mixture of Mn(CH3COO)2\u00b74H2O (0.25 mmol, 0.061 g), 5-methylisophthalic acid (0.50 mmol, 0.089 g) and LiNO3 (0.50 mmol, 0.035 g) was kept in a 20 mL of Teflon-lined stainless steel vessel with 5 ml DMF (N,N-dimethylformamide), and was heated at 160 \u00b0C for 2 days under autogenous pressure. After cooling to room temperature, colorless needle-like crystals of 1 were obtained.",
+        "yield": "89% based on Mn"
+    },
+    "material_2": {
+        "name": "not given",
+        "synthetic_procedure": "The de-DMF sample 2 was prepared by heating the as-synthesis sample 1 at 250 \u00b0C under vacuum for 8 h for the magnetic, EPR, PXRD and IR measurements.",
+        "yield": "not given"
+    },
+    "material_3": {
+        "name": "not given",
+        "synthetic_procedure": "The re-DMF sample 1\u2032 was prepared by immersing the de-DMF sample 2 in DMF at room temperature for 48 h for PXRD, EPR and IR measurements.",
+        "yield": "not given"
+    },
+    "material_4": {
+        "name": "not given",
+        "synthetic_procedure": "The de-DMF sample 2\u2032 was prepared by heating sample 1\u2032 at 250 \u00b0C under vacuum for 8 h for the EPR, PXRD and IR measurements.",
+        "yield": "not given"
+    }
+}

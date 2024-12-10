@@ -1,0 +1,32 @@
+s a machine-readable .json file containing the synthesis conditions for the material [Mn(pba)2] (1) described in the text:
+
+{
+  "1": {
+    "chemicals": {
+      "MnCl2": {
+        "amount": "0.1 mol/L in DMA",
+        "volume": "20 mL"
+      },
+      "3-(pyridin-4-yl)benzoic acid (Hpba)": {
+        "amount": "0.80 g",
+        "moles": "4.0 mmol"
+      },
+      "N,N-dimethylacetamide (DMA)": {
+        "volume": "60 mL"
+      },
+      "methanol": {
+        "volume": "40 mL"
+      }
+    },
+    "synthesis": {
+      "vessel": "250-mL vial",
+      "mixing": "Hpba was dissolved in 60 mL DMA, then added with 20 mL 0.1 mol/L MnCl2 in DMA solution and 40 mL methanol",
+      "temperature": "90 °C",
+      "time": "24 h"
+    },
+    "purification": {
+      "washing": "methanol",
+      "drying": "in air"
+    },
+    "yield": "ca. 80%"
+  }

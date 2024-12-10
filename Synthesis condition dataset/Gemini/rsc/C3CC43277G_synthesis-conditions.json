@@ -1,0 +1,59 @@
+{
+    "Gd-1": {
+        "chemicals_used": [
+            "Gd(NO3)3\u00b76H2O",
+            "m-H2LRu",
+            "H4SiW12O40\u00b7xH2O"
+        ],
+        "solvents_used": [
+            "DMF",
+            "H2O",
+            "HAc"
+        ],
+        "solvent_ratio": "DMF:H2O 3:1",
+        "temperature": "358 K",
+        "time": "12 days",
+        "washing_method": "DMF",
+        "drying_method": "Air dry",
+        "yield": "81%"
+    },
+    "Dy-2": {
+        "chemicals_used": [
+            "Dy(NO3)3\u00b76H2O",
+            "m-H2LRu",
+            "H4SiW12O40\u00b7xH2O"
+        ],
+        "solvents_used": [
+            "DMF",
+            "H2O",
+            "HAc"
+        ],
+        "solvent_ratio": "DMF:H2O 3:1",
+        "temperature": "358 K",
+        "time": "12 days",
+        "washing_method": "DMF",
+        "drying_method": "Air dry",
+        "yield": "76%"
+    },
+    "Er-3": {
+        "chemicals_used": [
+            "Er(NO3)3\u00b76H2O",
+            "m-H2LRu",
+            "H4SiW12O40\u00b7xH2O"
+        ],
+        "solvents_used": [
+            "DMF",
+            "H2O",
+            "HAc"
+        ],
+        "solvent_ratio": "DMF:H2O 3:1",
+        "temperature": "358 K",
+        "time": "12 days",
+        "washing_method": "DMF",
+        "drying_method": "Air dry",
+        "yield": "85%"
+    },
+    "m-H2LRu": {
+        "synthesis_method": "See reference 1 in the Electronic Supporting Information"
+    }
+}

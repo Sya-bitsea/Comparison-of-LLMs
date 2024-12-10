@@ -1,0 +1,20 @@
+{
+    "material_1": {
+        "material_name": "[Co(tzpo)(N3)(H2O)2]n\u00b7nH2O",
+        "synthesis_condition": {
+            "chemicals_1": "CoCl2\u00b74H2O",
+            "amount_1": "0.30 mmol, 72 mg",
+            "chemicals_2": "4-cyanopyridine N-oxide",
+            "amount_2": "0.20 mmol, 24 mg",
+            "chemicals_3": "NaN3",
+            "amount_3": "1.0 mmol, 65 mg",
+            "solvent": "H2O",
+            "amount_solvent": "6 mL",
+            "vessel": "Teflon-lined autoclave",
+            "temperature": "100 \u00b0C",
+            "time": "24 h",
+            "cooling_rate": "room temperature in 12 h",
+            "yield": "52%"
+        }
+    }
+}

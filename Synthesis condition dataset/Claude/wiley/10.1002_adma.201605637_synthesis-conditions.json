@@ -1,0 +1,82 @@
+
+{
+  "In-MOF": {
+    "reactants": [
+      {
+        "chemical": "InCl3",
+        "amount": "4 mg, 0.018 mmol"
+      },
+      {
+        "chemical": "H4TCPE",
+        "amount": "8 mg, 0.009 mmol"
+      }
+    ],
+    "solvents": [
+      {
+        "solvent": "DMF",
+        "amount": "2 mL"
+      },
+      {
+        "solvent": "ethanol",
+        "amount": "0.5 mL"  
+      },
+      {
+        "solvent": "1 M HCl",
+        "amount": "10 µL"
+      }
+    ],
+    "conditions": {
+      "temperature": "85 °C",
+      "time": "48 h",
+      "cooling": "to room temperature at the rate of 5 °C h−1"
+    },
+    "product": {
+      "appearance": "Pale-yellow block-shaped single crystals",
+      "formula": "(DMA)[In(TCPE)](solv)"
+    },
+    "purification": "washed with excess DMF and ethanol and dried at room temperature",
+    "yield": "8 mg, 73%"
+  },
+
+  "Zn-MOF": {
+    "reactants": [
+      {
+        "chemical": "Zn(NO3)2⋅4H2O",
+        "amount": "14 mg, 0.054 mmol"
+      },
+      {
+        "chemical": "H4TCPE",
+        "amount": "8 mg, 0.009 mmol"  
+      },
+      {
+        "chemical": "4,4′-bipyridylethene",
+        "amount": "3 mg, 0.017 mmol"
+      }
+    ],
+    "solvents": [
+      {
+        "solvent": "DMF",
+        "amount": "2 mL"
+      },
+      {
+        "solvent": "methanol",
+        "amount": "0.5 mL"
+      },
+      {
+        "solvent": "1 M HCl",
+        "amount": "10 µL"  
+      }
+    ],
+    "conditions": {
+      "temperature": "110 °C",
+      "time": "48 h",
+      "cooling": "to room temperature at the rate of 5 °C h−1"  
+    },
+    "product": {
+      "appearance": "Pale-yellow rod-like single crystals",
+      "formula": "(DMA)[Zn(HTCPE)]"
+    },
+    "purification": "washed with excess DMF and methanol, and dried at room temperature",
+    "yield": "7.5 mg, 81%"
+  }
+}

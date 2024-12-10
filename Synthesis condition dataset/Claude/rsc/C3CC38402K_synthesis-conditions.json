@@ -1,0 +1,74 @@
+
+{
+  "compound1": {
+    "chemicals": [
+      {
+        "name": "H2BPDC",
+        "amount": "0.0488 g",
+        "mmol": 0.15
+      },
+      {
+        "name": "CuCl2·6H2O", 
+        "amount": "0.0123 g",
+        "mmol": 0.05
+      },
+      {
+        "name": "DyCl3·6H2O",
+        "amount": "0.0377 g", 
+        "mmol": 0.1
+      }
+    ],
+    "solvents": [
+      {
+        "name": "distilled water",
+        "amount": "4 mL"
+      },
+      {
+        "name": "anhydrous alcohol",
+        "amount": "4 mL"  
+      }
+    ],
+    "equipment": "Teflon-lined stainless vessel (25 mL)",
+    "temperature": "145°C",
+    "time": "72 h",
+    "pressure": "autogenous pressure",
+    "cooling": "cooled slowly down to room temperature at 1.2°C/h",
+    "yield": "62% (based on DyCl3·6H2O)"
+  },
+  
+  "compound2": {
+    "chemicals": [
+      {
+        "name": "H2BPDC",
+        "amount": "0.0366 g",
+        "mmol": 0.15
+      },
+      {
+        "name": "Cu(NO3)2·6H2O",
+        "amount": "0.0148 g",
+        "mmol": 0.05
+      },
+      {
+        "name": "Dy(NO3)3·6H2O",
+        "amount": "0.0456 g",
+        "mmol": 0.1
+      }
+    ],
+    "solvents": [
+      {
+        "name": "distilled water",
+        "amount": "4 mL"
+      },
+      {
+        "name": "anhydrous alcohol",
+        "amount": "4 mL"
+      }
+    ],
+    "equipment": "Teflon-lined stainless vessel (25 mL)",
+    "temperature": "145°C",
+    "time": "72 h",
+    "pressure": "autogenous pressure",
+    "cooling": "cooled slowly down to room temperature at 1.2°C/h",
+    "yield": "45% (based on Dy(NO3)3·6H2O)"
+  }
+}

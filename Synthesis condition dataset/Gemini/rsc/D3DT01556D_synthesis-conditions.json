@@ -1,0 +1,93 @@
+{
+    "21Cu2Br4(bmtte) (1m and 1t)": {
+        "Method A": {
+            "chemicals used": {
+                "bmtte": "0.228 g, 0.9 mmol",
+                "CuBr2": "0.787 g, 3.6 mmol",
+                "acetonitrile": "20 mL"
+            },
+            "equipment": [
+                "domestic microwave oven"
+            ],
+            "temperature": "rt",
+            "time": "20 min",
+            "power": "700 W",
+            "yield": "46%"
+        },
+        "Method B": {
+            "chemicals used": {
+                "CuBr2": "0.202 g, 0.9 mmol",
+                "bmtte": "0.234 g, 0.9 mmol",
+                "acetonitrile": "20 mL"
+            },
+            "temperature": "rt",
+            "time": "1 week",
+            "yield": "61%"
+        }
+    },
+    "[Cu3Br4(bmtte)2] (2)": {
+        "Method A": {
+            "chemicals used": {
+                "CuBr2": "0.197 g, 0.9 mmol",
+                "bmtte": "0.235 g, 0.9 mmol",
+                "acetonitrile": "20 mL"
+            },
+            "equipment": [
+                "domestic microwave oven"
+            ],
+            "time": "30 min",
+            "power": "700 W"
+        },
+        "Method B": {
+            "chemicals used": {
+                "bmtte": "0.237 g, 0.9 mmol",
+                "CuBr2": "0.209 g, 0.9 mmol",
+                "acetonitrile": "20 mL",
+                "iPrOH/CH3CN (1:1) mixture": "Not specified"
+            },
+            "temperature": "rt",
+            "time": "8 days to obtain the first crop of crystals, 2 months to obtain single crystals from the residual solution",
+            "yield": "80%"
+        }
+    },
+    "[Cu2Br2(bmtte)]2 (3)": {
+        "Method B": {
+            "chemicals used": {
+                "CuBr2": "0.207 g, 0.9 mmol",
+                "bmtte": "0.230 g, 0.9 mmol",
+                "tetrahydrofuran": "20 mL"
+            },
+            "temperature": "rt",
+            "time": "24 h"
+        },
+        "Method C": {
+            "chemicals used": {
+                "CuBr2": "0.144 g, 0.6 mmol",
+                "bmtte": "0.055 g, 0.2 mmol",
+                "water": "15 mL"
+            },
+            "equipment": [
+                "Teflon-lined stainless steel vessel (20 mL)"
+            ],
+            "temperature": "160 \u00b0C",
+            "time": "72 h",
+            "cooling rate": "2.25 \u00b0C h\u22121",
+            "yield": "12%"
+        }
+    },
+    "21Cu4I4(bmtte) (4)": {
+        "Method A": {
+            "chemicals used": {
+                "CuI": "0.719 g, 3.80 mmol",
+                "bmtte": "0.260 g, 1.01 mmol",
+                "acetonitrile": "20 mL"
+            },
+            "equipment": [
+                "microwave"
+            ],
+            "time": "10 minutes",
+            "power": "700 W",
+            "yield": "51%"
+        }
+    }
+}

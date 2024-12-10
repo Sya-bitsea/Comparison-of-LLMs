@@ -1,0 +1,63 @@
+s the machine readable .json file containing the synthesis conditions for the material in the given text:
+
+{
+  "materials": [
+    {
+      "name": "[Co(tzpo)(N3)(H2O)2]n·nH2O",
+      "synthesis_conditions": {
+        "reactants": [
+          {
+            "chemical": "CoCl2·4H2O",
+            "amount": "0.30 mmol, 72 mg"
+          },
+          {
+            "chemical": "4-cyanopyridine N-oxide",
+            "amount": "0.20 mmol, 24 mg"  
+          },
+          {
+            "chemical": "NaN3",
+            "amount": "1.0 mmol, 65 mg"
+          },
+          {
+            "chemical": "H2O",
+            "amount": "6 mL"
+          }
+        ],
+        "procedure": [
+          {
+            "step": "The mixture of reactants was sealed in a Teflon-lined autoclave"
+          },
+          {
+            "step": "Heated at 100°C for 24 h"
+          },
+          {
+            "step": "Cooled to room temperature in 12 h"
+          }
+        ],
+        "product": {
+          "appearance": "Dark red crystals",
+          "yield": "52%"
+        }
+      }
+    }
+  ]
+}
+
+The key points are:
+
+1. The material name is [Co(tzpo)(N3)(H2O)2]n·nH2O 
+
+2. The reactants used are:
+- CoCl2·4H2O (0.30 mmol, 72 mg)  
+- 4-cyanopyridine N-oxide (0.20 mmol, 24 mg)
+- NaN3 (1.0 mmol, 65 mg)
+- H2O (6 mL)
+
+3. The synthesis procedure involves:
+- Sealing the mixture in a Teflon-lined autoclave
+- Heating at 100°C for 24 h 
+- Cooling to room temperature in 12 h
+
+4. The product is obtained as dark red crystals in 52% yield.
+
+No other synthesis conditions or characterization data are provided in the given text. The json captures the key information about the reactants, amounts, procedure and product

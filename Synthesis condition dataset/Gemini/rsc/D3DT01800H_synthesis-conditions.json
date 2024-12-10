@@ -1,0 +1,65 @@
+{
+    "material_1": {
+        "name": "[Er(CA)(ACA)(DMF)(H2O)]n",
+        "abbreviation": "1",
+        "synthesis": {
+            "chemicals": {
+                "ErCl3\u00b76H2O": "0.1 mmol, 38.1 mg",
+                "H2CA": "0.02 mmol, 4.2 mg",
+                "HACA": "0.04 mmol, 8.9 mg",
+                "DMF": "5.2 mL",
+                "H2O": "8 mL"
+            },
+            "steps": [
+                "ErCl3\u00b76H2O (0.1 mmol, 38.1 mg), H2CA (0.02 mmol, 4.2 mg), HACA (0.04 mmol, 8.9 mg), DMF (5.2 mL) and H2O (8 mL) were added into a 20 mL glass vial.",
+                "The mixture was ultrasonicated for about ten minutes to be completely dissolved.",
+                "The glass vial was heated at 96 \u00b0C for 9.5 hours.",
+                "After cooling down to room temperature, rhomboid shaped brown crystals were collected.",
+                "The crystals were washed by water (5 mL \uf0b4 5).",
+                "The crystals were dried under air."
+            ],
+            "yield": "54.3% based on H2CA"
+        }
+    },
+    "material_2": {
+        "name": "[Er0.17Y0.83(CA)(ACA)(DMF)(H2O)]n",
+        "abbreviation": "1@Y",
+        "synthesis": {
+            "chemicals": {
+                "ErCl3\u00b76H2O": "See Note",
+                "YCl3\u00b76H2O": "See Note",
+                "H2CA": null,
+                "HACA": null,
+                "DMF": null,
+                "H2O": null
+            },
+            "steps": [
+                "1@Y was prepared by the same synthetic procedure as 1 with ErCl3\u00b76H2O and YCl3\u00b76H2O in a 1:7 molar ratio."
+            ],
+            "yield": null,
+            "note": "The exact amount of chemicals used were not mentioned in the paper, but it was mentioned that the synthetic procedure for the material is the same as that of material 1, but with  ErCl3\u00b76H2O and YCl3\u00b76H2O in a 1:7 molar ratio"
+        }
+    },
+    "material_3": {
+        "name": "Light-transformed product of [Er(CA)(ACA)(DMF)(H2O)]n",
+        "abbreviation": "1a",
+        "synthesis": {
+            "chemicals": [],
+            "steps": [
+                "The reported compound [Er(CA)(ACA)(DMF)(H2O)]n was irradiated with 365 nm light for 30 minutes to obtain the light-transformed product."
+            ],
+            "yield": null
+        }
+    },
+    "material_4": {
+        "name": "Light-transformed product of [Er0.17Y0.83(CA)(ACA)(DMF)(H2O)]n",
+        "abbreviation": "1a@Y",
+        "synthesis": {
+            "chemicals": [],
+            "steps": [
+                "The reported compound [Er0.17Y0.83(CA)(ACA)(DMF)(H2O)]n was irradiated with 365 nm light for 30 minutes to obtain the light-transformed product."
+            ],
+            "yield": null
+        }
+    }
+}

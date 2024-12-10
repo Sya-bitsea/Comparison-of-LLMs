@@ -1,0 +1,18 @@
+[
+    {
+        "material": "[\u2013{Ru2II,II}\u2013TCNQR0\u2013{Ru2II,II}\u2013]n",
+        "synthesis_condition": "neutral layered D/A-MOF with a [\u2013{Ru2 II,II}\u2013TCNQR0\u2013{Ru2II,II}\u2013]n lattice  was  selected  as  the  starting  material  for  the  cathode"
+    },
+    {
+        "material": "[Ru2II,II(CF3CO2)4(THF)2]",
+        "synthesis_condition": "In  this  work,  a  combination  of  [Ru2 II,II(CF3CO2)4(THF)2]  with EHOMO(D)  =  \u20135.6183  eV[40]  and  BTDA-TCNQ  with  ELUMO(A)  =   \u20134.7353  eV[41]  (Figure  1b)  was  chosen  to  give  a  positive \u0394EH-L(DA)  value  for  the  neutral  D2A  (0.883  eV)"
+    },
+    {
+        "material": " [{Ru2(CF3CO2)4}2(BTDA-TCNQ)]\u00b7nCH2Cl2\u00b7(p-xylene)",
+        "synthesis_condition": "Compound 1 was synthesized using a slow diffusion reaction technique: a solution of BTDA-TCNQ (20.0 mg, 0.065 mmol) in CH2Cl2(50 mL) was separated into 2 mL portions and placed in narrow-diameter glass  tubes  as  the  bottom  layer.  A  solution  of  [Ru2(CF3CO2)4(THF)2] (100 mg, 0.125 mmol) in p-xylene (50 mL) was placed in 2 mL portions over the bottom CH2Cl2 layer. The glass tubes were left undisturbed for one  week  or  more  to  yield  black  crystals  of  [{Ru2(CF3CO2)4}2(BTDA-TCNQ)]\u00b7nCH2Cl2\u00b7(p-xylene) (1). Yield: 36%."
+    },
+    {
+        "material": "[{Ru2(CF3CO2)4}2 (BTDA-TCNQ)]\u00b7(p-xylene)",
+        "synthesis_condition": "The  CH2Cl2-free  compound,  [{Ru2(CF3CO2)4}2 (BTDA-TCNQ)]\u00b7(p-xylene) (1\u2032), which was used to investigate magnetism control through an  LIB  system,  was  prepared  by  evacuating  a  sample  of  1  for  about 12  h  at  room  temperature."
+    }
+]

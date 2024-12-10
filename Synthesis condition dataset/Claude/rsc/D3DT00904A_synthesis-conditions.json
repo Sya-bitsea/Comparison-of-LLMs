@@ -1,0 +1,53 @@
+s the machine-readable .json file containing the synthesis conditions for the given text:
+
+{
+    "ZnLOCl2·2.5H2O": {
+        "synthesis": {
+            "reagents": {
+                "LO": {
+                    "amount": "0.10 mmol",
+                    "mass": "0.037 g"
+                },
+                "ZnCl2": {
+                    "amount": "0.15 mmol", 
+                    "mass": "0.023 g"
+                }
+            },
+            "solvent": "MeCN/CH2Cl2 mixture (4 mL/1 mL) and EtOH (2 mL)",
+            "procedure": "A solution of LO in the MeCN/CH2Cl2 mixture was added to a solution of ZnCl2 in EtOH. Slow evaporation of this solution yielded a light yellow precipitate of the complex.",
+            "yield": {
+                "amount": "0.023 g",
+                "percentage": "42%"
+            },
+            "purification": "The powder was filtered off, washed with a MeCN/CH2Cl2/EtOH mixture and dried in a vacuum desiccator."
+        },
+        "single_crystals": {
+            "method": "Slow crystallization at room temperature from the supernatant",
+            "product": "[ZnLOCl2]·MeCN"
+        }
+    },
+    "CdLOCl2·0.5H2O": {
+        "synthesis": {
+            "reagents": {
+                "LO": {
+                    "amount": "0.10 mmol",
+                    "mass": "0.037 g"  
+                },
+                "CdCl2·2.5H2O": {
+                    "amount": "0.10 mmol",
+                    "mass": "0.023 g"
+                }
+            },
+            "solvent": "EtOH (4 mL for LO, 2 mL for CdCl2·2.5H2O)",
+            "procedure": "A hot solution of LO in EtOH was added to a hot solution of CdCl2·2.5H2O in EtOH. A light yellow precipitate formed immediately. The mixture was stirred at 60 °C for two hours.",
+            "yield": {
+                "amount": "0.031 g",
+                "percentage": "55%"  
+            },
+            "purification": "The precipitate was filtered off, washed with water and dried in a vacuum desiccator."
+        },
+        "single_crystals": {
+            "method": "Slow crystallization at room temperature from the supernatant",
+            "product": "[CdLOCl2]n·nH2O"
+        }
+    }

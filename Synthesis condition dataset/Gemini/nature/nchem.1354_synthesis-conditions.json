@@ -1,0 +1,132 @@
+{
+    "material_1": {
+        "material_name": "1",
+        "synthesis_procedure": "Diethyl-5-amino-isophthalate (1.5 g, 6.3 mmol) and diethyl-5-formyl-isophthalate (1.6 g, 6.4 mmol) were stirred overnight in chloroform with excess MgSO4. The solution was filtered and evaporated to yield an off white solid (2.95 g). The solid was dissolved in a 3:1 mixture of THF/EtOH (40 mL) and 1.1 equivalents (0.276 g) of NaBH4 slowly added. The mixture was stirred at room temperature for 5 h after which a small amount of water was added to quench any remaining NaBH4. The solvent was subsequently removed via a rotary evaporator and a two layer extraction was performed using EtOAc and H2O. The aqueous phase was discarded and the organic layer was washed with H2O (3 x 20 mL), dried over MgSO4 and the solvent removed to yield a white solid",
+        "yield": "90%",
+        "melting_point": "153-158 \u00b0C",
+        "chemicals_used": [
+            "Diethyl-5-amino-isophthalate",
+            "diethyl-5-formyl-isophthalate",
+            "chloroform",
+            "MgSO4",
+            "THF",
+            "EtOH",
+            "NaBH4",
+            "EtOAc",
+            "H2O"
+        ],
+        "temperature": "room temperature",
+        "time": "overnight for step 1 and 5h for step 2"
+    },
+    "material_2": {
+        "material_name": "2[BF4]",
+        "synthesis_procedure": "1 (500 mg, 1.06 mmol) was dissolved in Et2O (10 mL) and two equivalents of HBF4 added with stirring. A white solid precipitated and was filtered under vacuum and then washed 3 times with Et2O",
+        "yield": "93%",
+        "melting_point": "172-177 \u00b0C",
+        "chemicals_used": [
+            "1",
+            "Et2O",
+            "HBF4"
+        ],
+        "time": "till precipitation"
+    },
+    "material_3": {
+        "material_name": "3[BF4]",
+        "synthesis_procedure": "Pentaethyleneglycol-dipent-4-enyl ether (0.83 g 2.2 mmol) was dissolved in CH2Cl2 (10mL) and 2[BF4] (1.12 g 2.0 mmol) was dissolved in MeNO2 (10 mL) which were added to degassed CH2Cl2 under an N2 atmosphere (100 mL). To this solution was added Grubbs I catalyst, [RuCl2(=CHPh)(PCy3)2], (91 mg, 5 mol%) and the mixture heated at 42 \u00b0C for 8 h after which another 5% catalyst was added and the reaction continued for a further 16 h. The solution was cooled to room temperature, ethylvinyl ether (0.5 mL) added and the mixture stirred for 1 h. The solvent was removed via a rotary evaporator and the residue washed with Et2O. The remaining material was dissolved in EtOAc (5 mL) and precipitated with Et2O (50 mL) to obtain the product (E/Z mixture ~70/30) as an off white solid",
+        "yield": "75%",
+        "melting_point": "127-133 \u00b0C",
+        "chemicals_used": [
+            "Pentaethyleneglycol-dipent-4-enyl ether",
+            "CH2Cl2",
+            "2[BF4]",
+            "MeNO2",
+            "Grubbs I catalyst, [RuCl2(=CHPh)(PCy3)2]",
+            "ethylvinyl ether",
+            "Et2O",
+            "EtOAc"
+        ],
+        "temperature": "42 \u00b0C for 8h and then continued at same temperature for 16h after addition of 5% catalyst",
+        "time": "8h and then 16h"
+    },
+    "material_4": {
+        "material_name": "4[BF4]",
+        "synthesis_procedure": "Pd/C 10 wt% (600 mg 0.662 mmol) was added to 3[BF4] dissolved in MeOH (55 mL). A slight vacuum was applied to the reaction mixture until boiling of the solvent was observed. The reaction vessel was flushed with H2, introduced via a balloon, and the mixture stirred vigorously for 1 h under ambient conditions. The mixture was filtered through Celite and evaporated on a rotary evaporator to yield a white crystalline solid",
+        "yield": "90%",
+        "melting_point": "113-117 \u00b0C",
+        "chemicals_used": [
+            "Pd/C 10 wt%",
+            "3[BF4]",
+            "MeOH",
+            "H2"
+        ],
+        "time": "1h",
+        "temperature": "solvent boiling point"
+    },
+    "material_5": {
+        "material_name": "5",
+        "synthesis_procedure": "4[BF4] (100 mg 0.11 mmol) was dissolved in CHCl3 (10 mL) and 2.0 equivalence of triethylamine (22 mg) was added and stirred for 1 h. The solvent was subsequently removed via a rotary evaporator and placed under high vacuum to remove any residual triethylamine. A two layer extraction was performed using EtOAc and H2O.  The aqueous phase was discarded and the organic layer was washed with H2O (2 x 10 mL), dried over MgSO4, and the solvent removed to yield a white solid",
+        "yield": "94%",
+        "melting_point": "92-96 \u00b0C",
+        "chemicals_used": [
+            "4[BF4]",
+            "CHCl3",
+            "triethylamine",
+            "EtOAc",
+            "H2O",
+            "MgSO4"
+        ],
+        "time": "1h"
+    },
+    "material_6": {
+        "material_name": "6 (MIM)",
+        "synthesis_procedure": "4[BF4] (280 mg 0.3 mmol) was dissolved in a 2:1 mixture of MeOH/THF (12 mL) to which 2M NaOH was added (4 mL). The solution was refluxed at 80 \u00b0C for 24 h after which the non-aqueous solvent was removed with a rotary evaporator. To the remaining solution distilled water was added (5 mL) and the solution was acidified dropwise with 1M HCl to pH=4 to yield a white precipitate. The solid was slowly filtered and washed with pH=4 water and then Et2O several times and left to dry",
+        "yield": "91%",
+        "decomposition_temperature": ">250 \u00b0C",
+        "chemicals_used": [
+            "4[BF4]",
+            "MeOH",
+            "THF",
+            "NaOH",
+            "HCl",
+            "Et2O"
+        ],
+        "temperature": "80 \u00b0C",
+        "time": "24h"
+    },
+    "material_7": {
+        "material_name": "7(d2-6)",
+        "synthesis_procedure": "Conditions used and results were the same as for the non-deuterated compound except that D2(g) was used in place of H2(g)",
+        "decomposition_temperature": ">250 \u00b0C",
+        "chemicals_used": [
+            "D2(g)"
+        ]
+    },
+    "material_8": {
+        "material_name": "UWDM-1",
+        "synthesis_procedure": "6 (25 mg, 0.035 mmol) and Cu(NO3)2\u00b73H2O (16.5 mg, 0.07 mmol) were dissolved in a solution of DMF/EtOH/H2O (2.67 mL 3:3:2 v/v/v), to which 2 drops of HNO3 were added. Upon addition of the acid the solution changed color from green to colorless. The solution was then injected through a 13 mm syringe filter (0.2 \u03bcm PTFE membrane) into a 20 mL borosilicate scintillation vial which was rinsed with deionized water and dried at 100 \u00b0C prior to use. The vial was then placed in a programmable heating oven at a constant heating rate of 1 \u00b0C min-1 to 65 \u00b0C, kept at that temperature for 48 hours, and cooled to room temperature at a constant heating rate of 0.1 \u00b0C min-1. A green crystalline product was collected and washed with acetone several times to yield pure UWDM-1",
+        "yield": "78%",
+        "chemicals_used": [
+            "6",
+            "Cu(NO3)2\u00b73H2O",
+            "DMF",
+            "EtOH",
+            "H2O",
+            "HNO3",
+            "acetone"
+        ],
+        "temperature": "65 \u00b0C for 48h",
+        "time": "48h"
+    },
+    "material_9": {
+        "material_name": "d2-UWDM-1",
+        "synthesis_procedure": "A MIM linker with a smaller [22]crown-6 macrocycle was prepared using the same synthetic methodology as 7 but utilizing a pentaethyleneglycol precursor with two less carbons to create d2-MIM(22C6). Reaction of d2-MIM(22C6) with Cu(NO3)2\u00b73H2O under exactly the same conditions used to prepare UWDM-1 lead to an isomorphous MOF, d2-UWDM-1(22C6)",
+        "chemicals_used": [
+            "d2-MIM(22C6)",
+            "Cu(NO3)2\u00b73H2O"
+        ]
+    },
+    "material_10": {
+        "material_name": "d2-UWDM-1(22C6)",
+        "synthesis_procedure": "A MIM linker with a smaller [22]crown-6 macrocycle was prepared using the same synthetic methodology as 7 but utilizing a pentaethyleneglycol precursor with two less carbons to create d2-MIM(22C6). Reaction of d2-MIM(22C6) with Cu(NO3)2\u00b73H2O under exactly the same conditions used to prepare UWDM-1 lead to an isomorphous MOF, d2-UWDM-1(22C6)"
+    }
+}

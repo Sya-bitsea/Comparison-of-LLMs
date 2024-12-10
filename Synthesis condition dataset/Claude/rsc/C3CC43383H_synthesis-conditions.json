@@ -1,0 +1,41 @@
+
+{
+  "compound": "(Et2NH2)[In(BCBAIP)]·4DEF·4EtOH",
+  "synthesis": [
+    {
+      "reagents": [
+        {
+          "name": "H4BCBAIP",
+          "amount": "40 mg",
+          "moles": "0.089 mmol"
+        },
+        {  
+          "name": "InCl3·4H2O",
+          "amount": "45 mg",
+          "moles": "0.157 mmol"
+        }
+      ],
+      "solvent": [
+        {
+          "name": "DEF",
+          "amount": "2 mL"
+        },
+        {
+          "name": "C2H5OH", 
+          "amount": "0.5 mL"
+        }
+      ],
+      "procedure": [
+        "Reagents added to solvent and stirred for 10 min",
+        "Mixture sealed in 20 mL vial",
+        "Heated at 95 °C for 3 days"
+      ],
+      "productWorkup": [
+        "Cooled to room temperature",
+        "Washed with C2H5OH",
+        "Air-dried"
+      ],
+      "yield": "Brown block crystals"
+    }
+  ]
+}

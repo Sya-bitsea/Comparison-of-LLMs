@@ -1,0 +1,58 @@
+{
+    "AQNU-4": {
+        "chemicals used": [
+            "DTDA",
+            "TbCl3\u00b76H2O",
+            "DMF",
+            "CH3OH",
+            "H2O"
+        ],
+        "synthesis method": "A mixture of DTDA (20.30 mg, 0.05 mmol) and TbCl3\u00b76H2O (18.67 mg, 0.05 mmol) in a mixed solvent of DMF/CH3OH/H2O (6.0 mL, v : v, 1/2/3) was sealed in a Teflon-lined stainless steel autoclave. The autoclave was heated at 100 \u00b0C for 3 days under autogenous pressure and then slowly cooled to room temperature. Large quantities of colorless columnar crystals were obtained and filtered off, washed with mother liquid, and dried under ambient conditions.",
+        "temperature": "100 \u00b0C",
+        "time": "3 days",
+        "yield": "65%",
+        "washing method": "washed with mother liquid",
+        "drying method": "dried under ambient conditions"
+    },
+    "1,4-diethoxybenzene": {
+        "chemicals used": [
+            "KOH",
+            "ethanol",
+            "hydroquinone",
+            "ethyl bromide"
+        ],
+        "synthesis method": "KOH (80 mmol, 5.40 g) was added to 20 mL of ethanol, and dissolved by stirring at room temperature. A mixture of hydroquinone (45 mmol, 5.00 g) in 20 mL of ethanol was added to the above solution. Further, ethyl bromide (95 mmol, 10.50 mL) was added to the above solution. Then the temperature was elevated to 75 \u00b0C and the mixture was refluxed for 12 hours. After cooling to room temperature, ethanol was removed by distillation under vacuum. The solid was extracted with chloroform and water.",
+        "temperature": "75 \u00b0C",
+        "time": "12 hours",
+        "yield": "90%",
+        "washing method": "The product was washed with distilled water (3 \u00d7 50 mL)",
+        "drying method": "dried"
+    },
+    "2,5-dibromophenediethyl ether": {
+        "chemicals used": [
+            "1,4-diethoxybenzene",
+            "glacial acetic acid",
+            "liquid bromine",
+            "saturated NaHCO3",
+            "Na2SO3 solutions"
+        ],
+        "synthesis method": "1,4-Diethoxybenzene (10 mmol, 1.62 g) was added to 20 mL of glacial acetic acid, then liquid bromine (20 mmol, 1.80 mL) was added through a constant pressure drop funnel, and the mixture was stirred at room temperature for 10 hours. After suction filtration, the remaining acetic acid and liquid bromine were removed using saturated NaHCO3 and Na2SO3 solutions, respectively.",
+        "time": "10 hours",
+        "washing method": "The product was washed with distilled water (3 \u00d7 50 mL) and dried"
+    },
+    "DTDA": {
+        "chemicals used": [
+            "2,5-dibromophenediethyl ether",
+            "4-(methoxycarbonyl)phenylboronic acid",
+            "K2CO3",
+            "Pd (PPh3)4",
+            "1, 4-dioxane",
+            "H2O",
+            "ethyl acetate",
+            "anhydrous MgSO4"
+        ],
+        "synthesis method": "The obtained product (5 mmol, 1.90 g), 4-(methoxycarbonyl)phenylboronic acid (15 mmol, 2.50 g) and K2CO3 (15 mmol, 1.75 g) were placed in a 500 mL two-necked flask which was placed under vacuum and then refilled with nitrogen. Next, the catalyst Pd (PPh3)4 (0.025 mmol, 1.10 mg) was added and a mixture of 1, 4-dioxane/H2O 150 mL (V : V = 3 : 2) was injected through the rubber diaphragm. After that, the temperature was raised to 95 \u00b0C, and the solution was stirred under reflux and the reaction was tracked via thin-layer chromatography to its end. The temperature was lowered to room temperature and the 1,4- dioxane was spun off. The aqueous mixture was extracted three times with ethyl acetate. The combined organic layer was dried on anhydrous MgSO4, then filtered and vacuum concentrated. The crude product was purified using column chromatography (silica gel, petroleum ether/ethyl acetate = 5 : 1) to afford a white solid. After hydrolysis and acidification, off-white DTDA was obtained.",
+        "temperature": "95 \u00b0C",
+        "yield": "52%"
+    }
+}

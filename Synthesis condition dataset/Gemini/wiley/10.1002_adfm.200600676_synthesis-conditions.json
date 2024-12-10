@@ -1,0 +1,122 @@
+[
+    {
+        "material": "[Fe3(HCOO)6](CH3OH)1.5(H2O)0.5 (1-parent)",
+        "synthesis_method": "Solution-diffusion method",
+        "chemicals_used": [
+            {
+                "chemical": "Fe(ClO4)2\u00b76H2O",
+                "concentration": "0.40 M",
+                "solvent": "methanol",
+                "volume": "10 mL"
+            },
+            {
+                "chemical": "formic acid",
+                "concentration": "1.60 M",
+                "solvent": "methanol",
+                "volume": "10 mL"
+            },
+            {
+                "chemical": "trimethylamine",
+                "concentration": "0.80 M",
+                "solvent": "methanol",
+                "volume": "10 mL"
+            },
+            {
+                "chemical": "methanol",
+                "volume": "3 mL"
+            }
+        ],
+        "temperature": "room temperature",
+        "time": "1 week",
+        "yield": "42%",
+        "washing_method": "Washed with methanol",
+        "drying_method": "Dried in air"
+    },
+    {
+        "material": "[Fe3(HCOO)6] (2-empty)",
+        "synthesis_method": "Thermal treatment",
+        "precursor_material": "[Fe3(HCOO)6](CH3OH)1.5(H2O)0.5 (1-parent)",
+        "temperature": "90 \u00b0C",
+        "pressure": "10\u20132 Torr",
+        "time": "10 h",
+        "weight_loss": "12.1%"
+    },
+    {
+        "material": "[Fe3(HCOO)6](I2)0.84 (3-iodine)",
+        "synthesis_method": "Vapor diffusion",
+        "precursor_material": "[Fe3(HCOO)6] (2-empty)",
+        "chemicals_used": [
+            {
+                "chemical": "iodine",
+                "state": "vapor"
+            }
+        ],
+        "temperature": "room temperature",
+        "time": "10 days"
+    },
+    {
+        "material": "[Fe3(HCOO)6](C4H8O) (4-THF)",
+        "synthesis_method": "Vapor diffusion",
+        "precursor_material": "[Fe3(HCOO)6] (2-empty)",
+        "chemicals_used": [
+            {
+                "chemical": "tetrahydrofuran (THF)",
+                "state": "vapor"
+            }
+        ],
+        "temperature": "room temperature",
+        "time": "4 days"
+    },
+    {
+        "material": "[Fe3(HCOO)6](C4H4O) (5-furan)",
+        "synthesis_method": "Vapor diffusion",
+        "precursor_material": "[Fe3(HCOO)6] (2-empty)",
+        "chemicals_used": [
+            {
+                "chemical": "furan",
+                "state": "vapor"
+            }
+        ],
+        "temperature": "room temperature",
+        "time": "2 days"
+    },
+    {
+        "material": "[Fe3(HCOO)6](C6H6) (6-benzene)",
+        "synthesis_method": "Vapor diffusion",
+        "precursor_material": "[Fe3(HCOO)6] (2-empty)",
+        "chemicals_used": [
+            {
+                "chemical": "benzene",
+                "state": "vapor"
+            }
+        ],
+        "temperature": "room temperature",
+        "time": "10 days"
+    },
+    {
+        "material": "[Fe3(HCOO)6](CH3CN) (7-acetonitrile)",
+        "synthesis_method": "Vapor diffusion",
+        "precursor_material": "[Fe3(HCOO)6] (2-empty)",
+        "chemicals_used": [
+            {
+                "chemical": "acetonitrile",
+                "state": "vapor"
+            }
+        ],
+        "temperature": "room temperature",
+        "time": "2 days"
+    },
+    {
+        "material": "[Fe3(HCOO)6]((CH3)2CO) (8-acetone)",
+        "synthesis_method": "Vapor diffusion",
+        "precursor_material": "[Fe3(HCOO)6] (2-empty)",
+        "chemicals_used": [
+            {
+                "chemical": "acetone",
+                "state": "vapor"
+            }
+        ],
+        "temperature": "room temperature",
+        "time": "2 days"
+    }
+]

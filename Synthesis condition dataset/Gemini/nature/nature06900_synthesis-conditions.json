@@ -1,0 +1,65 @@
+{
+    "ZIF-95": [
+        {
+            "synthesis": "A solid mixture of zinc(II) nitrate tetrahydrate (Zn(NO3)2?4H2O, 1.044 g, 4.0 mmol) and cbIM (C7H5N2Cl, 6.106 g, 40.0 mmol) was dissolved in 295 ml DMF and 5 ml H2O in a 500 ml container.",
+            "chemicals": [
+                "Zn(NO3)2?4H2O",
+                "cbIM",
+                "DMF",
+                "H2O"
+            ],
+            "amount": [
+                "1.044 g",
+                "6.106 g",
+                "295 ml",
+                "5 ml"
+            ]
+        },
+        {
+            "synthesis": "The container was capped and heated at 120 uC for 72 h to give light yellow plate crystals.",
+            "temperature": "120 uC",
+            "time": "72 h"
+        },
+        {
+            "synthesis": "The reaction mixture was allowed to cool gradually to room temperature and crystals were washed with DMF and dried in air (yield: 1.103 g, 75% for Zn(cbIM)2 ; based on Zn(NO3)2?4H2O).",
+            "yield": "75%",
+            "washing": "DMF",
+            "drying": "air"
+        }
+    ],
+    "ZIF-100": [
+        {
+            "synthesis": "Under a dry nitrogen atmosphere a solid mixture of zinc(II) trifluoromethanesulphonate (Zn(O3SCF3)2, 1.453 g, 4.0 mmol) and cbIM (6.103 g, 40.0 mmol) was dissolved in anhydrous DMF (270 ml) in a 500 ml container.",
+            "chemicals": [
+                "Zn(O3SCF3)2",
+                "cbIM",
+                "DMF"
+            ],
+            "amount": [
+                "1.453 g",
+                "6.103 g",
+                "270 ml"
+            ]
+        },
+        {
+            "synthesis": "Subsequently, H2O (5.8 ml) was added, the container capped and heated in an isothermal oven at 120 uC for 48 h to give dark yellow cubic crystals.",
+            "chemicals": [
+                "H2O"
+            ],
+            "amount": [
+                "5.8 ml"
+            ],
+            "temperature": "120 uC",
+            "time": "48 h"
+        },
+        {
+            "synthesis": "The reaction mixture was allowed to cool naturally to room temperature and the crystals were washed with DMF and dried in air.",
+            "washing": "DMF",
+            "drying": "air"
+        },
+        {
+            "synthesis": "Yield: 1.012 g, 70.5% based on Zn(O3SCF3)2.",
+            "yield": "70.5%"
+        }
+    ]
+}

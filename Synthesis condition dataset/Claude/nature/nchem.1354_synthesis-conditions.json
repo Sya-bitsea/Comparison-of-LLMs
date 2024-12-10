@@ -1,0 +1,49 @@
+s a machine-readable .json file containing the synthesis conditions for the materials described in the text:
+
+{
+  "UWDM-1": {
+    "reagents": [
+      {
+        "name": "6 (MIM linker)",
+        "amount": "25 mg",
+        "moles": "0.035 mmol"
+      },
+      {
+        "name": "Cu(NO3)2·3H2O",
+        "amount": "16.5 mg", 
+        "moles": "0.07 mmol"
+      }
+    ],
+    "solvent": "DMF/EtOH/H2O (2.67 mL 3:3:2 v/v/v)",
+    "acid": "2 drops HNO3",
+    "temperature": "65°C",
+    "time": "48 hours",
+    "cooling": "cooled to room temperature at 0.1°C/min",
+    "yield": "25 mg (78%)"
+  },
+
+  "d2-UWDM-1": {
+    "reagents": [
+      {
+        "name": "d2-MIM(24C6) linker",
+        "details": "prepared using same method as 6 but with D2 gas for hydrogenation"
+      },
+      {
+        "name": "Cu(NO3)2·3H2O"
+      }
+    ],
+    "conditions": "same conditions as UWDM-1"
+  },
+
+  "UWDM-1(22C6)": {  
+    "reagents": [
+      {
+        "name": "d2-MIM(22C6) linker",
+        "details": "prepared using same method as 6 but with pentaethyleneglycol precursor with two less carbons"
+      },
+      {
+        "name": "Cu(NO3)2·3H2O"  
+      }
+    ],
+    "conditions": "same conditions as UWDM-1"
+  }

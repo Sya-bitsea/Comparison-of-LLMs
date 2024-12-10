@@ -1,0 +1,83 @@
+[
+    {
+        "material": "[Cu(bipy)2(SiF6)]n, SIFSIX-1-Cu",
+        "synthesis": {
+            "procedure": "Room temperature diffusion method",
+            "solvent 1": "methanol",
+            "solvent 2": "ethylene glycol",
+            "chemicals": [
+                "Cu(NO3)2 2.5H2O",
+                "(NH4)2SiF6",
+                "4,4\u2019-bipyridine (bipy)"
+            ],
+            "time": "2 weeks",
+            "product": "purple plates",
+            "yield": "not mentioned"
+        }
+    },
+    {
+        "material": "[Cu(bipy)2TiF6]n (TIFSIX-1-Cu)",
+        "synthesis": {
+            "procedure": "Room temperature diffusion method",
+            "solvent 1": "methanol",
+            "amount of solvent 1": "3 ml",
+            "solvent 2": "ethylene glycol",
+            "amount of solvent 2": "3 ml",
+            "chemicals": [
+                {
+                    "name": "Cu(NO3)2 2.5H2O",
+                    "amount": "0.076 mmol, 17.7 mg"
+                },
+                {
+                    "name": "(NH4)2TiF6",
+                    "amount": "0.076 mmol, 15.0 mg"
+                },
+                {
+                    "name": "4,4\u2019-bipyridine",
+                    "amount": "0.15 mmol, 23.4 mg"
+                }
+            ],
+            "time": "2 weeks",
+            "product": "purple plate-shaped crystals",
+            "yield": "90.2%"
+        }
+    },
+    {
+        "material": "[Cu(bipy)2SnF6]n (SNIFSIX-1-Cu)",
+        "synthesis": {
+            "procedure": "Room temperature diffusion method",
+            "solvent 1": "methanol",
+            "amount of solvent 1": "3 ml",
+            "solvent 2": "ethylene glycol",
+            "amount of solvent 2": "3 ml",
+            "chemicals": [
+                {
+                    "name": "Cu(NO3)2 2.5H2O",
+                    "amount": "0.056 mmol, 13.0 mg"
+                },
+                {
+                    "name": "(NH4)2SnF6",
+                    "amount": "0.056 mmol, 15.1 mg"
+                },
+                {
+                    "name": "4,4\u2019-bipyridine",
+                    "amount": "0.11 mmol, 17.2 mg"
+                }
+            ],
+            "time": "2 weeks",
+            "product": "purple plate-shaped crystals",
+            "yield": "93.8%"
+        }
+    },
+    {
+        "material": "[Cu(bipe)2SiF6]n",
+        "synthesis": {
+            "chemicals": [
+                "Cu(NO3)2 2.5H2O",
+                "(NH4)2SiF6",
+                "1,2-bis(4-pyridyl)ethylene (bipe)"
+            ],
+            "yield": "not mentioned"
+        }
+    }
+]

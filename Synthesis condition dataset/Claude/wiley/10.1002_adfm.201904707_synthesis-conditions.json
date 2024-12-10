@@ -1,0 +1,36 @@
+s the machine-readable .json file containing the synthesis conditions for the materials in the given text:
+
+{
+  "FMOF-3": {
+    "chemicals": {
+      "H2FBTB": "0.100 g, 0.35 mmol",
+      "Cu(OAc)2": "0.069 g, 0.35 mmol"
+    },
+    "solvent": "DMF (5 mL)",
+    "temperature": "135 °C", 
+    "time": "4 h",
+    "yield": "90%",
+    "washing": "methanol (10 mL)",
+    "drying": "under vacuum (100 °C, 10−4 bar, 4 h)"
+  },
+  "FN-PCP-1": {
+    "chemicals": {
+      "AgNO3": "0.100 g, 0.35 mmol",
+      "H2FBTB": "0.118 g, 0.69 mmol"
+    },
+    "solvent": "distilled water (6 mL)",
+    "temperature": "reflux at 60 °C",
+    "time": "4 h",
+    "yield": "92%", 
+    "washing": [
+      "distilled water (10 mL)",
+      "methanol (10 mL)"
+    ],
+    "drying": "under vacuum (100 °C, 10−4 bar, 4 h)"
+  },
+  "[Ag2(BTB)]": {
+    "synthesis": "by following a previously reported procedure"
+  },
+  "FMOF-1": {
+    "synthesis": "by following a previously reported procedure"
+  }

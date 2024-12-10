@@ -1,0 +1,84 @@
+s a machine-readable .json file containing the synthesis conditions for the Zn-CAT-(X)n MOFs described in the text:
+
+{
+  "Zn-CAT and Zn-CAT-(X)n MOFs": {
+    "synthesis_procedure": {
+      "reactants": [
+        {
+          "chemical": "1,4-benzenedicarboxylic acid",
+          "amount": "2 equiv., 20 mmol"
+        },
+        {
+          "chemical": "functionalized 1,4-benzenedicarboxylic acid (X = -NH2 or -NO2)", 
+          "amount": "2 equiv., 20 mmol"
+        },
+        {
+          "chemical": "Zn(NO3)2·6H2O",
+          "amount": "2 equiv., 5.94 g, 20 mmol"
+        },
+        {
+          "chemical": "4,4'-bipyridine",
+          "amount": "1 equiv., 1.56 g, 10 mmol"
+        }
+      ],
+      "solvents": [
+        {
+          "solvent": "DMF",
+          "concentration bdc linker": "0.15 M",
+          "concentration metal": "0.4 M"
+        },
+        {
+          "solvent": "EtOH",
+          "concentration pillar": "0.1 M"  
+        }
+      ],
+      "steps": [
+        {
+          "step": "Dissolve 1,4-benzenedicarboxylic acid and functionalized 1,4-benzenedicarboxylic acid in DMF",
+          "temperature": "373.15 K",
+          "time": "15 min"
+        },
+        {
+          "step": "Add Zn(NO3)2·6H2O solution in DMF to the mixture",
+          "temperature": "373.15 K", 
+          "time": "10 min"
+        },
+        {
+          "step": "Dissolve 4,4'-bipyridine in EtOH at room temperature and add to the reaction mixture",
+          "temperature": "room temperature"
+        },
+        {
+          "step": "Keep the mixture at 373.15 K for 24 h"
+        },
+        {
+          "step": "Cool down to room temperature"
+        },
+        {
+          "step": "Collect precipitate via centrifugation"
+        },
+        {
+          "step": "Wash with DMF",
+          "amount": "3 x 40 mL"  
+        },
+        {
+          "step": "Wash with EtOH",
+          "amount": "3 x 40 mL"
+        },
+        {
+          "step": "Dry under vacuum",
+          "temperature": "323.15 K",
+          "time": "12 h"
+        }
+      ],
+      "yield": "~90-98% (6 to 6.9 g)"
+    }
+  }
+}
+
+The key points are:
+- The reactants are 1,4-benzenedicarboxylic acid, functionalized 1,4-benzenedicarboxylic acid (X = -NH2 or -NO2), Zn(NO3)2·6H2O, and 4,4'-bipyridine in specific molar ratios
+- The solvents used are DMF and EtOH at defined concentrations for the different reactants
+- The synthesis involves dissolving and mixing the reactants at 373.15 K, keeping the mixture at this temperature for 24 h, cooling, collecting the precipitate, washing with DMF and EtOH, and drying under vacuum
+- The yield is 90-98% giving 6-6.9 g of product
+
+Let me know if you need any clarification or have additional questions

@@ -1,0 +1,78 @@
+{
+    "Cu-POMCOF": {
+        "chemicals_used": [
+            "Na9[A-\u03b1-PW9O34]\u00b77H2O",
+            "HAc",
+            "CuCl2\u00b72H2O",
+            "dap",
+            "1,4-H2NDC",
+            "NaOH"
+        ],
+        "amount_of_chemicals": [
+            "0.49 g",
+            "0.2mL",
+            "0.34g",
+            "0.1 mL",
+            "0.20 g",
+            "pH = 4.6"
+        ],
+        "solvent": [
+            "distilled water"
+        ],
+        "amount_of_solvent": [
+            "10 mL"
+        ],
+        "time": "5 days",
+        "temperature": "80\u00baC",
+        "yield": "36%",
+        "other_conditions": [
+            "The resulting solution was stirred for 120 min and sealed in a 35 mL stainless steel reactor with a Teflon liner",
+            "cooled  to  room temperature"
+        ],
+        "product": "green crystals"
+    },
+    "MP-11@Cu-POMCOF": {
+        "chemicals_used": [
+            "Cu-POMCOF",
+            "MP-11 solution"
+        ],
+        "amount_of_chemicals": [
+            "0.5 mg",
+            "1 mg/mL"
+        ],
+        "solvent": [
+            "deionized water"
+        ],
+        "time": "3 h",
+        "temperature": "room temperature (25\u00b12 \u2103)",
+        "other_conditions": [
+            "incubating with gently shaken",
+            "centrifuged at 12000 g for 10 min",
+            "washed 3 times with deionized water",
+            "stored at 0 \u2103 for further using"
+        ],
+        "product": "The precipitation contained immobilized enzyme"
+    },
+    "Cyt c@Cu-POMCOF": {
+        "chemicals_used": [
+            "Cu-POMCOF",
+            "Cyt C solution"
+        ],
+        "amount_of_chemicals": [
+            "0.5 mg",
+            "1 mg/mL"
+        ],
+        "solvent": [
+            "deionized water"
+        ],
+        "time": "3 h",
+        "temperature": "room temperature (25\u00b12 \u2103)",
+        "other_conditions": [
+            "incubating with gently shaken",
+            "centrifuged at 12000 g for 10 min",
+            "washed 3 times with deionized water",
+            "stored at 0 \u2103 for further using"
+        ],
+        "product": "The precipitation contained immobilized enzyme"
+    }
+}

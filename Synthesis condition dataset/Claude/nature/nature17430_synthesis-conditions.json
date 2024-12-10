@@ -1,0 +1,54 @@
+s a machine-readable .json file containing the synthesis conditions for DUT-49 based on the provided text:
+
+{
+  "DUT-49": {
+    "chemicals": {
+      "Cu(NO3)2·3H2O": {
+        "amount": "1.53 g",
+        "molar amount": "6.29 mmol"
+      },
+      "H4BBCDC": {
+        "name": "9,9'-([1,1'-biphenyl]-4,4'-diyl)bis(9H-carbazole-3,6-dicarboxylic acid)",
+        "amount": "2 g", 
+        "molar amount": "3.03 mmol"
+      }
+    },
+    "solvents": {
+      "NMP": {
+        "name": "N-methyl-2-pyrrolidone",
+        "amount": "360 ml"
+      },
+      "ethanol": {
+        "purity": "anhydrous"
+      }
+    },
+    "synthesis": {
+      "step 1": {
+        "description": "H4BBCDC was dissolved in 360 ml of NMP at 80 °C in a 500 ml Schott bottle."
+      },
+      "step 2": {
+        "description": "Cu(NO3)2·3H2O was added to the hot solution and dissolved by sonication at 60 °C."
+      },
+      "step 3": {
+        "description": "The resulting solution was heated at 80 °C for 24 h."
+      },
+      "step 4": {
+        "description": "The green precipitate was washed with fresh NMP several times until the solvent appeared colorless."
+      },
+      "step 5": {
+        "description": "The NMP was replaced by ethanol during multiple washing cycles."
+      }
+    },
+    "drying": {
+      "method": "supercritical CO2",
+      "description": "DUT-49 powder suspended in ethanol was placed in glass filter frits in a Jumbo Critical Point Dryer 13200J AB (SPI Supplies) which was subsequently filled with liquid CO2 (99.995% purity) at 15 °C and 50 bar. To ensure a complete substitution of ethanol by CO2, the liquid in the autoclave was exchanged with fresh CO2 18 times over a period of 5 days using a valve at the bottom. The temperature and pressure was then raised beyond the supercritical point of CO2 to 35 °C and 100 bar and kept until the temperature and pressure was constant. The supercritical CO2 was steadily released over 3 hours and the dry powder was transferred and stored in an argon filled glove box."
+    },
+    "activation": {
+      "description": "To ensure a complete removal of ethanol (especially from the open metal sites of the Cu-paddle-wheels) additional activation at 50 °C in a Schlenk-tube under dynamic vacuum of 10-3 mbar for 24 hours was performed."
+    },
+    "yield": {
+      "amount": "1.28 g",
+      "percentage": "53%"
+    },
+    "appearance": "A dark blue to violet powder was obtained and stored under inert gas. The compound turns to a light blue color upon contact to ethanol or water indicating solvation."
+  }

@@ -1,0 +1,89 @@
+{
+    "1": {
+        "Temperature": [
+            "90 \u00b0C",
+            "673 K for 2 h",
+            "77 K",
+            "195 K",
+            "127 K",
+            "445 K",
+            "303 K",
+            "400 oC"
+        ],
+        "Time": [
+            "24 h",
+            "2 h"
+        ],
+        "Chemicals": [
+            "MnCl2",
+            "Hpba",
+            "DMA",
+            "methanol"
+        ],
+        "Product": [
+            "colourless needle-shaped crystals"
+        ],
+        "Yield": [
+            "80%"
+        ],
+        "Washing method": [
+            "washed by methanol"
+        ],
+        "Drying method": [
+            "dried in air"
+        ],
+        "Other_conditions": [
+            "Solvothermal reaction",
+            "under N2",
+            "high vacuum at 473 K for 3 h",
+            "under vacuum",
+            "in air",
+            "open condition"
+        ],
+        "amount": [
+            "0.80 g",
+            "60 ml",
+            "0.1 mol l  1",
+            "20 ml",
+            "40 ml"
+        ]
+    },
+    "1-DMF": {
+        "Temperature": [
+            "294 K",
+            "127 K",
+            "208 K",
+            "215 K",
+            "233 K"
+        ],
+        "Chemicals": [
+            "deuterated DMF",
+            "TMS"
+        ],
+        "Other_conditions": [
+            "in a sealed vial"
+        ],
+        "amount": [
+            "0.05% in volume"
+        ]
+    },
+    "1-DMA": {
+        "Temperature": [
+            "90 \u00b0C",
+            "156 K",
+            "271 K"
+        ],
+        "Time": [
+            "24 h"
+        ],
+        "Chemicals": [
+            "DMA",
+            "MnCl2",
+            "methanol"
+        ],
+        "amount": [
+            "0.75",
+            "0.75"
+        ]
+    }
+}

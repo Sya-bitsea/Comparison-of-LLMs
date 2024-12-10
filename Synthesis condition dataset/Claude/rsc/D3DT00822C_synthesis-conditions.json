@@ -1,0 +1,30 @@
+s a machine-readable .json file containing the synthesis conditions for the given text:
+
+{
+  "Cu-POMCOF": {
+    "chemicals": [
+      "Na9[A-α-PW9O34]·7H2O (0.49 g)",
+      "HAc (0.2mL)", 
+      "CuCl2·2H2O (0.34g)",
+      "dap (0.1 mL)",
+      "1,4-H2NDC (0.20 g)"
+    ],
+    "solvent": "distilled water (10 mL)",
+    "pH": "4.6 (adjusted with 2 M NaOH)",
+    "stirring": "120 min",
+    "temperature": "80°C",
+    "time": "5 days",
+    "yield": "36% (220 mg) based on Na9[A-α-PW9O34]·7H2O"
+  },
+  "MP-11@Cu-POMCOF and Cyt c@Cu-POMCOF": {
+    "chemicals": [
+      "Cu-POMCOF (0.5 mg)",
+      "MP-11 solution (1 mg/mL)", 
+      "Cyt C solution (1 mg/mL)"
+    ],
+    "solvent": "deionized water",
+    "temperature": "room temperature (25±2°C)",
+    "shaking": "gently for 3 h",
+    "centrifugation": "12000 g for 10 min",
+    "washing": "washed 3 times with deionized water"
+  }

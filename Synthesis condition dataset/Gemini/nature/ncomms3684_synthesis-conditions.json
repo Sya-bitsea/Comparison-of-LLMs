@@ -1,0 +1,152 @@
+{
+    "NOF-1": {
+        "chemicals": [
+            "2-nIm",
+            "Zn(NO3)2  6H2O",
+            "DMF"
+        ],
+        "chemicals_amounts": [
+            "113 mg",
+            "149 mg",
+            "5 ml"
+        ],
+        "temperature": "100 \u00b0C",
+        "time": "1 h",
+        "equipment": "sealed microwave vial",
+        "alternative_conditions": "heating the mixture in a 100 \u00b0C oven for 24 h, yields increased amount of product",
+        "product": "yellow crystals"
+    },
+    "NOF-2": {
+        "chemicals": [
+            "MnIm",
+            "Zn(NO3)2  6H2O",
+            "DMF"
+        ],
+        "chemicals_amounts": [
+            "25 mg",
+            "21 mg",
+            "3 ml"
+        ],
+        "temperature": "100 \u00b0C",
+        "time": "48 h",
+        "equipment": "glass tube",
+        "product": "light-yellow single crystals"
+    },
+    "NOF-3": {
+        "chemicals": [
+            "2-Nitroimidazole",
+            "Zn(NO3)2  6H2O",
+            "DMF",
+            "H2O"
+        ],
+        "chemicals_amounts": [
+            "23 mg",
+            "30 mg",
+            "1 ml",
+            "1 ml"
+        ],
+        "temperature": "100 \u00b0C",
+        "time": "36 h",
+        "equipment": [
+            "glass tube",
+            "oil bath"
+        ],
+        "product": "pale yellow plate-like single crystals"
+    },
+    "microcrystalline NOF-1": {
+        "chemicals": [
+            "2-nIm",
+            "sodium formate",
+            "DMF",
+            "H2O",
+            "Zn(NO3)2  6H2O",
+            "water",
+            "methanol"
+        ],
+        "chemicals_amounts": [
+            "113 mg",
+            "136 mg",
+            "5 ml",
+            "0.5 ml",
+            "149 mg",
+            "30 ml",
+            "60 ml"
+        ],
+        "time": "18 h",
+        "temperature": "room temperature",
+        "washing": [
+            "The precipitate was centrifuged and washed with water (2  15 ml) and DMF(3  15 ml)",
+            "solvent-exchange procedure was performed by immersing the powders successively in fresh methanol (4   15 ml over 48 h)."
+        ],
+        "drying": "The compounds were then heated under reduced pressure (80 \u00b0C, 10 mbar) for 18 h.",
+        "yield": "27%",
+        "product": "pale yellow powder"
+    },
+    "microcrystalline NOF-2": {
+        "chemicals": [
+            "mnIm",
+            "sodium formate",
+            "DMF",
+            "H2O",
+            "Zn(NO3)2  6H2O",
+            "water",
+            "methanol"
+        ],
+        "chemicals_amounts": [
+            "127 mg",
+            "136 mg",
+            "5 ml",
+            "0.5 ml",
+            "149 mg",
+            "30 ml",
+            "60 ml"
+        ],
+        "time": "18 h",
+        "temperature": "room temperature",
+        "washing": [
+            "The precipitate was centrifuged and washed with water (2  15 ml) and DMF(3  15 ml)",
+            "solvent-exchange procedure was performed by immersing the powders successively in fresh methanol (4   15 ml over 48 h)."
+        ],
+        "drying": "The compounds were then heated under reduced pressure (80 \u00b0C, 10 mbar) for 18 h.",
+        "yield": "13%",
+        "product": "white powder"
+    },
+    "microcrystalline NOF-3": {
+        "chemicals": [
+            "2-Nitroimidazole",
+            "Zn(NO3)2  6H2O",
+            "DMF"
+        ],
+        "chemicals_amounts": [
+            "113 mg",
+            "297 mg",
+            "10 ml"
+        ],
+        "temperature": "100 \u00b0C",
+        "time": "6 h",
+        "equipment": "microwave irradiation",
+        "washing": "The resulting product was washed with DMF (3  )",
+        "yield": "90%",
+        "product": "pale yellow powder"
+    },
+    "[Co(2nIm)2]n (ZIF-65)": {
+        "chemicals": [
+            "2-Nitroimidazole",
+            "Co(NO3)2  6H2O",
+            "DMF"
+        ],
+        "chemicals_amounts": [
+            "90 mg",
+            "120 mg",
+            "4 ml"
+        ],
+        "temperature": "120 \u00b0C",
+        "time": "6 h",
+        "temperature_details": "The solution was heated in an electric oven for 6 h at 120 \u00b0C and then cooled down to room temperature within 12 h.",
+        "washing": "The purple powder was centrifuged and washed with DMF (3   ).",
+        "product": [
+            "Block crystal of [Co(2nIm)2]n formed on the glass vial.",
+            "microcrystalline powder of ZIF-65 precipitated at room temperature"
+        ]
+    }
+}

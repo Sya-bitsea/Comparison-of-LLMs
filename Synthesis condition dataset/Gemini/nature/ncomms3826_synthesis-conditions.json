@@ -1,0 +1,35 @@
+{
+    "material_1": {
+        "Formula": "[FeIII(Tp*)(CN)3]2FeII(bpmh)\u00b72H2O",
+        "Abbreviation": "1",
+        "Synthesis method": "Diffusion method",
+        "Chemicals": [
+            {
+                "Name": "[Bu4N][Fe(Tp*)(CN)3]",
+                "Amount": "0.1 mmol"
+            },
+            {
+                "Name": "bpmh",
+                "Amount": "0.1 mmol"
+            },
+            {
+                "Name": "Fe(ClO4)2  6H2O",
+                "Amount": "0.05 mmol"
+            },
+            {
+                "Name": "Methanol",
+                "Amount": "2.0 ml"
+            },
+            {
+                "Name": "Water",
+                "Amount": "1.0 ml"
+            }
+        ],
+        "Crystallization time": "Several weeks",
+        "Yield": "65%"
+    },
+    "material_2": {
+        "Formula": "[Bu4N][Fe(Tp*)(CN)3]",
+        "Synthesis method": "See Ref. 39"
+    }
+}

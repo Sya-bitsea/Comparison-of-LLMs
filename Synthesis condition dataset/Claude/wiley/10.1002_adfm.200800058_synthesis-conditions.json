@@ -1,0 +1,47 @@
+s the machine readable .json file containing the synthesis conditions for the materials described in the text:
+
+{
+  "[Co3(HCOO)6]·DMF (1·DMF)": {
+    "synthesis method": "solvothermal",
+    "reagents": {
+      "cobalt(II) nitrate hexahydrate": {
+        "amount": "422 mg",
+        "molar amount": "1.4 mmol"
+      },
+      "formic acid": {
+        "concentration": "97%", 
+        "amount": "0.1 mL",
+        "molar amount": "2.8 mmol"
+      },
+      "N,N-dimethylformamide (DMF)": "20 mL"
+    },
+    "conditions": {
+      "temperature": "100 °C",
+      "time": "48 hours"
+    },
+    "vessel": "Teflon-lined acid digestion bomb"
+  },
+
+  "[Mn3(HCOO)6]·DMF (2·DMF)": {
+    "synthesis method": "solvothermal",  
+    "reagents": {
+      "manganese nitrate hexahydrate": {
+        "amount": "20 mg",
+        "molar amount": "0.07 mmol"
+      },
+      "formic acid": {
+        "concentration": "97%",
+        "amount": "0.07 mL", 
+        "molar amount": "1.8 mmol"
+      },
+      "N,N-dimethylformamide (DMF)": "2 mL"
+    },
+    "conditions": {
+      "temperature": "100 °C",
+      "time": "24 hours"  
+    }
+  },
+
+  "[Ni3(HCOO)6]·DMF (3·DMF)": {
+    "synthesis notes": "Synthesized in a similar fashion as 1·DMF. Detailed procedure in Supporting Information."
+  }

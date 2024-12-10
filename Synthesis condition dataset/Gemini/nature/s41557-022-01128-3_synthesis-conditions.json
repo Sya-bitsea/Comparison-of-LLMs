@@ -1,0 +1,163 @@
+{
+    "1DMF": {
+        "chemicals": [
+            "dpt",
+            "1,3-bib",
+            "cobalt nitrate hexahydrate"
+        ],
+        "solvent": "DMF",
+        "volume solvent": "10 ml",
+        "temperature": "393 K",
+        "time": "2 days",
+        "product": "Purple block crystals",
+        "description": "[Co(dpt)(1,3-bib)\u06602DMF]"
+    },
+    "1Hydrate": {
+        "chemicals": [
+            "1DMF"
+        ],
+        "other details": "Bulk-phase activation of 1DMF in air",
+        "product": "blue powder",
+        "description": "The removal of DMF guest molecules from 1DMF resulted in a transformation to 1Hydrate"
+    },
+    "1Apohost": {
+        "chemicals": [
+            "1DMF"
+        ],
+        "temperature": "393 K",
+        "time": "Overnight",
+        "other details": "A crystal of 1DMF was mounted in an environment gas cell, sealed and evacuated at 393\u2009K overnight.",
+        "product": "blue crystals",
+        "description": "single-crystal to single-crystal transformation from 1DMF to 1Apohost"
+    },
+    "1\u2019CO2": {
+        "chemicals": [
+            "1Apohost",
+            "CO2"
+        ],
+        "pressure": "1 bar",
+        "time": "3 hours",
+        "temperature": "298 K",
+        "other details": "After backfilling the environment gas cell with CO2 to 1\u2009bar, at 298\u2009K, the system was left to equilibrate for 3\u2009h before being sealed",
+        "description": "Conversion of 1Apohost to 1\u02b9CO2 occurred with an increase in the b and c\u2009axes"
+    },
+    "1\u2019\u2019CO2": {
+        "chemicals": [
+            "1Apohost",
+            "CO2"
+        ],
+        "pressure": "56 bar",
+        "time": "3 hours",
+        "temperature": "298 K",
+        "other details": "we attempted to obtain the 1\u02b9\u02b9CO2 phase crystallographically by exposing a crystal of 1Apohost to CO2 at 298\u2009K (56\u2009bar). After allowing the crystal to equilibrate for 3\u2009h, the environment cell was sealed and SCXRD data were then recorded.",
+        "description": "the conversion of 1\u02b9CO2 to 1\u02b9\u02b9CO2 occurs with a minor increase in the cell dimensions."
+    },
+    "1\u2032CO2 (from 195K CO2 isotherm)": {
+        "chemicals": [
+            "1Apohost",
+            "CO2"
+        ],
+        "pressure": "0.8 mbar",
+        "temperature": "195 K",
+        "other details": "Upon exposure to 0.8\u2009mbar of CO2, 1Apohost underwent a transformation to 1\u02b9CO2 with a plateau at 3.7\u2009mbar.",
+        "description": "Compared with 1Apohost, the PXRD pattern showed that most peaks had shifted towards a lower 2\u03b8 (consistent with unit cell expansion), some had disappeared (for example, 2\u03b8\u2009=\u200924.7\u00b0) and new peaks had appeared (2\u03b8\u2009=\u200924.3 and 25.5\u00b0)"
+    },
+    "1\u2019\u2019CO2 (from 195K CO2 isotherm)": {
+        "chemicals": [
+            "1\u2032CO2",
+            "CO2"
+        ],
+        "pressure": "32 mbar",
+        "temperature": "195 K",
+        "other details": "Progressive CO2 gas loading resulted in PXRD peaks shifting to lower 2\u03b8 positions. At a loading of 32\u2009mbar, additional small peaks were observed at 13.4 and 29.8\u00b0. The lack of statistically significant additional peaks suggests that a minor structural change occurred during gas sorption to form 1\u02b9\u02b9CO2.",
+        "description": "Unit cell parameters from the Le Bail profile fitting demonstrated a progressive expansion of all three cell parameters and the unit cell volume (Supplementary Figs. 35\u201339 and Supplementary Table 4).  A comparison of the pattern obtained for 1\u02b9\u02b9CO2 with that of 1DMF  (Supplementary Fig. 32) indicated that the cavities of 1\u02b9\u02b9CO2 resemble those of 1DMF"
+    },
+    "1\u2032\u2032\u2032CO2 (from 195K CO2 isotherm)": {
+        "chemicals": [
+            "1\u2019\u2019CO2",
+            "CO2"
+        ],
+        "pressure": "530 mbar",
+        "temperature": "195 K",
+        "other details": "Further loading resulted in a large step in the 195\u2009K CO2 isotherm at 530\u2009mbar (1\u02b9\u02b9\u02b9CO2).",
+        "description": "The PXRD pattern recorded at 960\u2009mbar revealed the disappearance of two peaks (2\u03b8\u2009=\u200915.3 and 16.0\u00b0) and the appearance of new peaks at 15.6, 18.0 and 19.3\u00b0. Although this phase was unlike the previous phases (Supplementary Fig. 31 and 33), this transformation was reversible, as evidenced by conversion to 1\u02b9\u02b9CO2 and 1\u02b9CO2 upon desorption."
+    },
+    "1\u2032\u2032N2": {
+        "chemicals": [
+            "1Apohost",
+            "N2"
+        ],
+        "temperature": "77 K",
+        "description": "1Apohost undergoes a structural transformation to the gas loaded 1\u2032\u2032N2 phase. The PXRD pattern of 1\u2032\u2032N2 is in good agreement with that of 1\u2032\u2032CO2."
+    },
+    "1\u02b9\u02b9C2H2": {
+        "chemicals": [
+            "1Apohost",
+            "C2H2"
+        ],
+        "pressure": "0.1 mbar",
+        "temperature": "189 K",
+        "other details": "In the case of C2H2, transformation of 1Apohost to 1\u02b9\u02b9C2H2 (all PXRD peaks  shifted  to  lower  2\u03b8)  occurred  with  a  plateau  at  2.4\u2009mbar  (Fig. 5d, yellow).",
+        "description": "This phase matched the PXRD of 1\u02b9\u02b9CO2"
+    },
+    "1\u2032\u2032\u2032C2H2": {
+        "chemicals": [
+            "1\u02b9\u02b9C2H2",
+            "C2H2"
+        ],
+        "pressure": "2.4 mbar",
+        "temperature": "189 K",
+        "other details": "Additional C2H2 loading induced peak shifting to lower 2\u03b8 values, consistent with unit cell expansion and transformation of 1\u02b9\u02b9C2H2 to 1\u02b9\u02b9\u02b9C2H2 with saturation at 734\u2009mbar",
+        "description": "1\u02b9\u02b9\u02b9CO2 and 1\u02b9\u02b9\u02b9C2H2 are not isostructural."
+    },
+    "2\u2019,5\u2019-dimethyl-p-terphenyl": {
+        "chemicals": [
+            "2,5-dibromo-p-xylene",
+            "phenyl boronic acid",
+            "Pd(OAc)2",
+            "K2CO3",
+            "n-Bu4NBr"
+        ],
+        "solvent": "Deionized water",
+        "volume solvent": "20 ml",
+        "temperature": "343 K",
+        "time": "4 Hours",
+        "other details": "The resulting suspension was heated to 343 K for 4\u2009h and stirred vigorously under an inert atmosphere. After cooling to room temperature, the reaction mixture was diluted with water (150\u2009ml) and extracted with hexane. The organic phase was dried over MgSO4 and concentrated under reduced pressure",
+        "product": "white solid",
+        "yield": "96%"
+    },
+    "dpt": {
+        "chemicals": [
+            "2\u2019,5\u2019-dimethyl-p-terphenyl",
+            "KMnO4",
+            "Pyridine",
+            "HCl"
+        ],
+        "volume solvent": [
+            "20 ml",
+            "2.0 ml",
+            "2.0 ml",
+            "10 ml"
+        ],
+        "temperature": "Reflux",
+        "time": "Overnight",
+        "other details": "2\u2019,5\u2019-dimethyl-p-terphenyl (700\u2009mg; 2.71\u2009mmol; 1.0\u2009equiv.) was added to 20\u2009ml pyridine. Then, 2.2\u2009g KMnO4 in 2.0\u2009ml H2O was added and the reaction mixture was heated to reflux for 2\u2009h. After reaching reflux, every 30\u2009min, an additional 1.0\u2009g KMnO4 in 2.0\u2009ml H2O was added  (a total of four times). After 6\u2009h at reflux, a final 10\u2009ml water was added to the reaction mixture, which was allowed to reflux overnight. The MnO2 precipitate was hot filtered from the reaction mixture and washed with near-boiling water (100\u2009ml). The filtrate was carefully acidified using concentrated HCl, precipitating the dpt product as a white solid, which was collected by filtration, washed with 0.2\u2009M HCl and finally dried in a 378\u2009K oven overnight",
+        "product": "white solid",
+        "yield": "85%"
+    },
+    "1,3-bib": {
+        "chemicals": [
+            "1,3-dibromobenzene",
+            "imidazole",
+            "CuI",
+            "K2CO3"
+        ],
+        "solvent": "anhydrous DMF",
+        "volume solvent": "150 ml",
+        "temperature": "Reflux",
+        "time": "72 hours",
+        "other details": "The resulting reaction mixture was heated to reflux under an inert atmosphere for 72\u2009h. After cooling to room temperature, the mixture was filtered. The filtered residue was washed with dichloromethane (2\u2009\u00d7\u2009150\u2009ml) and the filtrate was transferred to a large separating funnel. The organic layer was washed with water (3\u2009\u00d7\u2009250\u2009ml), separated and dried over MgSO4. The organic layer was concentrated under reduced pressure and the resulting solid material was finally purified by trituration from a dichloromethane/hexane mixture.",
+        "product": "White solid",
+        "yield": "94%"
+    }
+}

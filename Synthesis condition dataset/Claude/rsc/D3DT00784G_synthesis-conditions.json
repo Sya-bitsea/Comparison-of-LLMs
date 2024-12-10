@@ -1,0 +1,49 @@
+
+{
+  "materials": [
+    {
+      "name": "1D-coordination polymers with dinuclear rhombic {Cu2X2} cores (X = Br, I)",
+      "synthesis_conditions": {
+        "method": "spontaneous evaporation",
+        "reagents": [
+          {
+            "name": "triphenylarsine (AsPh3)",
+            "amount": null
+          },
+          {
+            "name": "bidentate N-heteroaromatic co-ligands",
+            "amount": null,
+            "types": [
+              "pyrazine (prz)",
+              "4,4'-bipyridine (bpy)", 
+              "1,5-naphthyridine (nap)",
+              "2-methylpyrazine (meprz)",
+              "2,5-dimethylpyrazine (dimeprz)",
+              "pyrimidine (pym)"
+            ]
+          }
+        ],
+        "solvents": [
+          {
+            "name": "acetonitrile (CH3CN)",
+            "amount": null
+          }
+        ],
+        "procedure": [
+          {
+            "step": 1,
+            "description": "CH3CN solutions of the solid N-heteroaromatic co-ligands (prz, bpy, and nap) were prepared, while the liquid N-heteroaromatic co-ligands (meprz, dimeprz, and pym) were used as received."
+          },
+          {
+            "step": 2,
+            "description": "A CH3CN solution of AsPh3 was added to the CH3CN solutions or liquid samples of N-heteroaromatic co-ligands, which was followed by the gradual addition of a CH3CN solution of CuX (X = Br, I)."
+          },
+          {
+            "step": 3,
+            "description": "The products were readily obtained as crystals through spontaneous evaporation."
+          }
+        ]
+      }
+    }
+  ]
+}

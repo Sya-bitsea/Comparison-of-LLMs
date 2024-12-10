@@ -1,0 +1,79 @@
+{
+    "In-MOF": {
+        "chemical_formula": "(DMA)[In(TCPE)](solv)x",
+        "synthesis_method": [
+            "Solvothermal reaction between InCl3 and H4TCPE in DMF at 80 \u00b0C for 48 h.",
+            "Gradual in situ formation of DMA cations by partial decomposition of the solvent DMF."
+        ],
+        "chemicals_used": [
+            {
+                "chemical": "InCl3",
+                "amount": "4 mg"
+            },
+            {
+                "chemical": "H4TCPE",
+                "amount": "8 mg"
+            },
+            {
+                "chemical": "DMF",
+                "amount": "2 mL"
+            },
+            {
+                "chemical": "Ethanol",
+                "amount": "0.5 mL"
+            },
+            {
+                "chemical": "1 M HCl",
+                "amount": "10 \u00b5L"
+            }
+        ],
+        "temperature": "85 \u00b0C",
+        "time": "48 h",
+        "cooling_rate": "5 \u00b0C  h\u22121",
+        "washing_method": "Washing with excess DMF and ethanol",
+        "drying_method": "Dried at room temperature.",
+        "yield": "8 mg, 73%"
+    },
+    "Zn-MOF": {
+        "chemical_formula": "(DMA)[Zn(HTCPE)]",
+        "synthesis_method": [
+            "Solvothermal synthesis employing Zn(NO3)2\u00b74H2O, H4TCPE, and 4,4\u2032-bipyridylethylene in DMF/water/1 m HCl solution at 110 \u00b0C for 48 h.",
+            "Cooling to room temperature at a rate of 5 \u00b0C h\u22121"
+        ],
+        "chemicals_used": [
+            {
+                "chemical": "Zn(NO3)2\u00b74H2O",
+                "amount": "14 mg"
+            },
+            {
+                "chemical": "H4TCPE",
+                "amount": "8 mg"
+            },
+            {
+                "chemical": "4,4\u2032-bipyridylethylene",
+                "amount": "3 mg"
+            },
+            {
+                "chemical": "DMF",
+                "amount": "2 mL"
+            },
+            {
+                "chemical": "Methanol",
+                "amount": "0.5 mL"
+            },
+            {
+                "chemical": "1 M HCl",
+                "amount": "10 \u00b5L"
+            }
+        ],
+        "temperature": "110 \u00b0C",
+        "time": "48 h",
+        "cooling_rate": "5 \u00b0C  h\u22121",
+        "washing_method": "Washing with excess DMF and methanol",
+        "drying_method": "Dried at room temperature",
+        "yield": "7.5 mg, 81%"
+    },
+    "DSMP loaded In-MOF": {
+        "synthesis_method": "Cation exchange of DMA cations in In-MOF with DSMP by placing In-MOF single crystals in dilute DSMP solution in DMF. The solvent was exchanged every 8 h with a slight increment of the dye concentration from 0.25 \u00d7 10\u22123 to 12 \u00d7 10\u22123 m for 4 d."
+    }
+}

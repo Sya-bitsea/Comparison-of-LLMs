@@ -1,0 +1,111 @@
+{
+    "Co(bdp)": [
+        {
+            "step 1": {
+                "chemicals used": [
+                    "Co(CF3SO3)2",
+                    "H2bdp",
+                    "N,N-diethylformamide"
+                ],
+                "temperature": "160 \u00b0C",
+                "time": "4.5 days",
+                "equipment": [
+                    "500-ml solvent bomb",
+                    "magnetic stirring bar"
+                ],
+                "product": "purple microcrystalline solid",
+                "yield": "not specified"
+            }
+        },
+        {
+            "step 2": {
+                "solvent": "DMF",
+                "volume": "400 ml",
+                "temperature": "120 \u00b0C",
+                "time": "12 h",
+                "washing method": "The DMF was decanted and replaced with 400 ml of fresh DMF. The jar was reheated at 120 \u00b0C, followed by decanting and replacing with fresh DMF. This was repeated four additional times.",
+                "equipment": [
+                    "500-ml glass jar"
+                ]
+            }
+        },
+        {
+            "step 3": {
+                "solvent": "DCM",
+                "volume": "not specified, then concentrated to 50 ml",
+                "temperature": "room temperature",
+                "equipment": [
+                    "100-ml Schlenk flask"
+                ],
+                "drying method": "The DCM was evaporated by flowing N2 at room temperature. The resultant solid was dried by flowing N2 at 160 \u00b0C for 12 h, then placed under dynamic vacuum at 160 \u00b0C for 24 h.",
+                "other details": "The activated solid was immediately transferred to a glovebox and handled under a N2 atmosphere for all further experiments."
+            }
+        }
+    ],
+    "Fe(bdp)": [
+        {
+            "step 1": {
+                "chemicals used": [
+                    "H2bdp",
+                    "DMF"
+                ],
+                "temperature": "120 \u00b0C",
+                "time": "20 min",
+                "equipment": [
+                    "20 ml glass vial",
+                    "magnetic stirring bar"
+                ],
+                "product": "yellow suspension",
+                "yield": "not specified"
+            }
+        },
+        {
+            "step 2": {
+                "chemicals used": [
+                    "FeCl2",
+                    "methanol"
+                ],
+                "temperature": "120 \u00b0C",
+                "time": "several hours",
+                "equipment": [
+                    "20 ml glass vial sealed",
+                    "magnetic stirring bar"
+                ],
+                "product": "yellow microcrystalline powder",
+                "yield": "not specified"
+            }
+        },
+        {
+            "step 3": {
+                "solvent": "DMF",
+                "volume": "18 ml",
+                "temperature": "hot",
+                "washing method": "washing the resultant material nine times with hot DMF (9 \u00d7  18 ml)",
+                "drying method": "drying under high vacuum at 170 \u00b0C for 24 h",
+                "other details": "The activated sample was handled under a N2 atmosphere for all further experiments."
+            }
+        },
+        {
+            "single crystal synthesis": {
+                "chemicals used": [
+                    "FeCl2",
+                    "H2bdp",
+                    "DMF",
+                    "methanol"
+                ],
+                "solvent ratio": "DMF:methanol 9:1",
+                "FeCl2 amount": "9.0 mg",
+                "FeCl2 concentration": "0.07 mmol in 0.1 ml solvent",
+                "H2bdp amount": "4.0 mg",
+                "H2bdp concentration": "0.019 mmol in 0.9 ml solvent",
+                "temperature": "120 \u00b0C",
+                "time": "24 h",
+                "equipment": [
+                    "4-ml vial sealed"
+                ],
+                "product": "Block-shaped yellow crystals",
+                "yield": "not specified"
+            }
+        }
+    ]
+}

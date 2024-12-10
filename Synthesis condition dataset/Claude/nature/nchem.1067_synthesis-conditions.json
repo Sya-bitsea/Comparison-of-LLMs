@@ -1,0 +1,42 @@
+s the machine readable .json file containing the synthesis conditions for Fe2[Nb(CN)8]·(4-pyridinealdoxime)8·2H2O:
+
+{
+  "Fe2[Nb(CN)8]·(4-pyridinealdoxime)8·2H2O": {
+    "reactants": [
+      {
+        "chemical": "FeCl2·4H2O",
+        "concentration": "0.005 mol dm-3"
+      },
+      {  
+        "chemical": "4-pyridinealdoxime",
+        "concentration": "0.1 mol dm-3"
+      },
+      {
+        "chemical": "K4[Nb(CN)8]·2H2O",
+        "concentration": "0.05 mol dm-3"  
+      }
+    ],
+    "solvent": "aqueous solution",
+    "atmosphere": "argon",
+    "stirring": {
+      "time": "1 h",
+      "temperature": "room temperature"
+    },
+    "yield": "74%",
+    "elementalAnalysis": {
+      "calculated": {
+        "Fe": "7.8%",
+        "Nb": "6.5%", 
+        "C": "47.2%",
+        "H": "3.7%",
+        "N": "23.6%"
+      },
+      "found": {
+        "Fe": "7.8%",
+        "Nb": "6.8%",
+        "C": "46.7%", 
+        "H": "3.7%",
+        "N": "23.4%"
+      }
+    }
+  }

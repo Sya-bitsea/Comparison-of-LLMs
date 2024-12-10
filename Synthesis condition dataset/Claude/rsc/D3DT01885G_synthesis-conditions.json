@@ -1,0 +1,70 @@
+s the machine-readable .json file containing the synthesis conditions for the two magnesium phosphite-oxalate compounds described in the text:
+
+{
+  "compound1": {
+    "name": "C2H10N2·Mg(H2PO3)2(C2O4)",
+    "reagents": [
+      {
+        "chemical": "Mg(OAc)2·4H2O",
+        "amount": "0.428 g"
+      },
+      {  
+        "chemical": "H3PO3",
+        "amount": "0.410 g"
+      },
+      {
+        "chemical": "ethylenediamine",
+        "amount": "200 μL"  
+      },
+      {
+        "chemical": "H2C2O4·2H2O",
+        "amount": "0.252 g"
+      }
+    ],
+    "synthesis": {
+      "equipment": "25 mL Teflon-lined steel autoclave",
+      "temperature": "130 °C",
+      "time": "3 days",
+      "cooling": "cooled slowly to room temperature at a rate of 6 °C h−1",
+      "productProcessing": [
+        "separated colourless block crystals from resulting products by sonication",
+        "washed with distilled water", 
+        "dried in air"
+      ],
+      "yield": "60% based on magnesium"
+    }
+  },
+  
+  "compound2": {
+    "name": "C7H20N2·Mg2(H2PO3)2(C2O4)2·H2O",
+    "reagents": [
+      {
+        "chemical": "Mg(OAc)2·4H2O",
+        "amount": "0.428 g"
+      },
+      {
+        "chemical": "H3PO3",  
+        "amount": "0.328 g"
+      },
+      {
+        "chemical": "N,N,N',N'-tetramethyl-1,3-propanediamine",
+        "amount": "335 μL"
+      },
+      {  
+        "chemical": "H2C2O4·2H2O",
+        "amount": "0.504 g"
+      }
+    ],
+    "synthesis": {
+      "equipment": "25 mL Teflon-lined steel autoclave",
+      "temperature": "150 °C", 
+      "time": "7 days",
+      "cooling": "cooled slowly to room temperature at a rate of 6 °C h−1",
+      "productProcessing": [
+        "separated colourless block crystals from resulting products by sonication",
+        "washed with distilled water",
+        "dried in air"  
+      ],
+      "yield": "41% based on magnesium"
+    }
+  }

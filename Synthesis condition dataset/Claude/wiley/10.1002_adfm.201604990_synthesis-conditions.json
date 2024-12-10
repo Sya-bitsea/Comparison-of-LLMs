@@ -1,0 +1,36 @@
+s the machine readable .json file containing the synthesis conditions for the given text:
+
+{
+  "materials": [
+    {
+      "name": "[{Ru2(CF3CO2)4}2(BTDA-TCNQ)]·nCH2Cl2·(p-xylene) (1)",
+      "synthesis": {
+        "method": "slow diffusion reaction",
+        "reactants": [
+          {
+            "chemical": "BTDA-TCNQ",
+            "amount": "20.0 mg (0.065 mmol)",
+            "solvent": "CH2Cl2 (50 mL)"
+          },
+          {
+            "chemical": "[Ru2(CF3CO2)4(THF)2]",
+            "amount": "100 mg (0.125 mmol)",
+            "solvent": "p-xylene (50 mL)"  
+          }
+        ],
+        "procedure": "A solution of BTDA-TCNQ in CH2Cl2 was separated into 2 mL portions and placed in narrow-diameter glass tubes as the bottom layer. A solution of [Ru2(CF3CO2)4(THF)2] in p-xylene was placed in 2 mL portions over the bottom CH2Cl2 layer.",
+        "time": "one week or more",
+        "yield": "36%",
+        "product": "black crystals of [{Ru2(CF3CO2)4}2(BTDA-TCNQ)]·nCH2Cl2·(p-xylene) (1)"
+      }
+    },
+    {
+      "name": "[{Ru2(CF3CO2)4}2(BTDA-TCNQ)]·(p-xylene) (1′)",
+      "synthesis": {
+        "method": "evacuation of solvated compound 1",
+        "reactant": "[{Ru2(CF3CO2)4}2(BTDA-TCNQ)]·nCH2Cl2·(p-xylene) (1)",
+        "procedure": "Compound 1 was evacuated for about 12 h at room temperature to remove CH2Cl2 molecules.",
+        "product": "[{Ru2(CF3CO2)4}2(BTDA-TCNQ)]·(p-xylene) (1′)"
+      }
+    }
+  ]

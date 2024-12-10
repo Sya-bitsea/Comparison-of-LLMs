@@ -1,0 +1,77 @@
+s the machine-readable .json file containing the synthesis conditions for the materials in the given text:
+
+{
+  "Gd-1": {
+    "empiricalFormula": "C131H121Gd5N24O117Ru4Si2W24(C3H7NO)14(H2O)14",
+    "synthesis": {
+      "reagents": [
+        {
+          "chemical": "Gd(NO3)3·6H2O",
+          "amount": "10 mg, 0.02 mmol"
+        },
+        {
+          "chemical": "m-H2LRu",
+          "amount": "2.5 mg, 0.003 mmol"
+        },
+        {
+          "chemical": "H4SiW12O40·xH2O",
+          "amount": "28 mg, 0.01 mmol"  
+        }
+      ],
+      "solvent": "DMF-H2O (2 mL with volume rate: 3:1)",
+      "additive": "HAc (120 μL)",
+      "temperature": "358 K",
+      "time": "12 days",
+      "yield": "5.8 mg (81%, based on m-H2LRu ligand)"
+    }
+  },
+  
+  "Dy-2": {
+    "empiricalFormula": "Not provided",
+    "synthesis": {
+      "reagents": [
+        {
+          "chemical": "Dy(NO3)3·6H2O",
+          "amount": "10 mg, 0.02 mmol"
+        },
+        {
+          "chemical": "m-H2LRu",
+          "amount": "2.5 mg, 0.003 mmol"
+        },
+        {
+          "chemical": "H4SiW12O40·xH2O",
+          "amount": "28 mg, 0.01 mmol"
+        }
+      ],
+      "solvent": "DMF-H2O (2 mL with volume rate: 3:1)",
+      "additive": "HAc (140 μL)",
+      "temperature": "358 K",
+      "time": "12 days",
+      "yield": "5.2 mg (76%, based on m-H2LRu ligand)"
+    }
+  },
+
+  "Er-3": {
+    "empiricalFormula": "C130H114Er5N24O114Ru4Si2W24(C3H7NO)20(H2O)22",
+    "synthesis": {
+      "reagents": [
+        {
+          "chemical": "Er(NO3)3·6H2O",
+          "amount": "10 mg, 0.02 mmol"
+        },
+        {
+          "chemical": "m-H2LRu",
+          "amount": "2.5 mg, 0.003 mmol"
+        },
+        {
+          "chemical": "H4SiW12O40·xH2O",
+          "amount": "28 mg, 0.01 mmol"
+        }
+      ],
+      "solvent": "DMF-H2O (2 mL with volume rate: 3:1)",
+      "additive": "HAc (120 μL)",
+      "temperature": "358 K",
+      "time": "12 days",
+      "yield": "6.4 mg (85%, based on m-H2LRu ligand)"
+    }
+  }

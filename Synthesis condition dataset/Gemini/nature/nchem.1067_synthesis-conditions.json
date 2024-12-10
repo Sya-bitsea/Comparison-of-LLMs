@@ -1,0 +1,45 @@
+[
+    {
+        "material": "Fe2[Nb(CN)8]\u00b7(4-pyridinealdoxime)8\u00b72H2O",
+        "synthesis_method": [
+            "Reacting a mixed aqueous solution of FeCl2.4H2O (0.005 mol dm23) and 4-pyridinealdoxime (0.1 mol dm23) with an aqueous solution of K4[Nb(CN)8].2H2O (0.05 mol dm23) under an argon atmosphere.",
+            "The mixed solution was stirred for 1 h at room temperature, and the resulting precipitate was filtered to yield an air-stable powder"
+        ],
+        "chemicals_used": [
+            {
+                "chemical_name": "FeCl2.4H2O",
+                "concentration": "0.005 mol dm23"
+            },
+            {
+                "chemical_name": "4-pyridinealdoxime",
+                "concentration": "0.1 mol dm23"
+            },
+            {
+                "chemical_name": "K4[Nb(CN)8].2H2O",
+                "concentration": "0.05 mol dm23"
+            }
+        ],
+        "yield": "74%",
+        "time": "1 h",
+        "temperature": "room temperature",
+        "atmosphere": "argon"
+    },
+    {
+        "material": "Mn2[Nb(CN)8]\u00b7(4-pyridinealdoxime)8\u00b70.2H2O",
+        "synthesis_method": "Diffusing a mixed aqueous solution of MnCl2.4H2O (0.034 mol dm23) and 4-pyridinealdoxime (0.67 mol dm23) with an aqueous solution of K4[Nb(CN)8].2H2O (0.017 mol dm23)",
+        "chemicals_used": [
+            {
+                "chemical_name": "MnCl2.4H2O",
+                "concentration": "0.034 mol dm23"
+            },
+            {
+                "chemical_name": "4-pyridinealdoxime",
+                "concentration": "0.67 mol dm23"
+            },
+            {
+                "chemical_name": "K4[Nb(CN)8].2H2O",
+                "concentration": "0.017 mol dm23"
+            }
+        ]
+    }
+]

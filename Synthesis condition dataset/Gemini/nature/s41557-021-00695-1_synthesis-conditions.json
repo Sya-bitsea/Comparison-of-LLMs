@@ -1,0 +1,22 @@
+{
+    "material_1": {
+        "chemical_formula": "(Bu4N)3W(CN)8\u00b72H2O",
+        "synthetic_procedure": "K4W(CN)8\u00b72H2O (5.8 g, 10 mmol) was dissolved in 10 ml of water and 26 ml of concentrated nitric acid (68%) was added dropwise to the solution with constant magnetic stirring. After the NO2 gas escaped, the orange yellow solutions quickly changed to purple, and then 50 ml of water was added to the solution immediately to stop the reaction. Then, tetrabutylammonium bromide (9.7 g, 30 mmol) was slowly added to precipitate the (Bu4N)3W(CN)8\u00b72H2O. The product was filtered and washed three times with water. The final product (10.2 g) was obtained in 86% yield, based on [W(CN)8]4\u2212."
+    },
+    "material_2": {
+        "chemical_formula": "K4W(CN)8\u00b72H2O",
+        "synthetic_procedure": "Na2WO4\u00b72H2O (5 g, 15 mmol), KCN (20 g, 300 mmol) and KBH4 (1.8 g, 33 mmol) were dissolved in 30 ml of water, and then 14 ml of acetic acid was added dropwise to the solution with stirring during a period of 30 min. The colour of the solution changed from colourless to greenish yellow, and finally to orange yellow. The solution was then kept at 40 \u00b0C for 20 min. After the solution was cooled to the ambient temperature, 50 ml of ethanol was added to precipitate the K4W(CN)8\u00b72H2O. The crude product was separated by filtration and dissolved in 20 ml of water. Activated charcoal was added to the solution, and then the solution was heated to boiling for 10 min. When cooling down, the charcoal was removed and 50 ml of ethanol was added to the solution. The product was filtered and washed with ethanol and ether three times. The final product (6.6 g) was obtained in 74% yield based on [WO4]2\u2212."
+    },
+    "material_3": {
+        "chemical_formula": "{[W(CN)8][(FeII)(bib)2](bibH)}\u00b72CH3OH (1)",
+        "synthetic_procedure": "A 1.0 ml aqueous solution that contained 0.05 mmol of Fe(ClO4)2\u00b76H2O was placed at the bottom of a test tube, a buffer solution mixture of methanol and water (1:1, v/v, 3 ml) was gently layered on the top of the solution and then 1.0 ml of methanol solution that contained 0.05 mmol of (Bu4N)3W(CN)8\u00b72H2O and 0.1 mmol of the bib ligand was added as the third layer. Crystallization required several weeks, and the crystals were obtained in 63% yield, based on Fe(ClO4)2\u00b76H2O.",
+        "chemicals": [
+            "Fe(ClO4)2\u00b76H2O",
+            "methanol",
+            "water",
+            "(Bu4N)3W(CN)8\u00b72H2O",
+            "bib ligand"
+        ],
+        "yield": "63%"
+    }
+}

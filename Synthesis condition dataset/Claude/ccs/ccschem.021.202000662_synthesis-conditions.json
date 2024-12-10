@@ -1,0 +1,97 @@
+s the machine-readable .json file containing the synthesis conditions for the polynuclear gold(I)-sulfido complexes described in the text:
+
+{
+  "complexes": [
+    {
+      "name": "[LH-Au5]Cl",
+      "synthesis": {
+        "precursor": "[LH(AuCl)2]",
+        "amount": "91.1 mg, 0.10 mmol",
+        "solvent": "dichloromethane-pyridine (10:1, v/v)",
+        "volume": "11 mL",
+        "reagent": "H2S gas",
+        "temperature": "room temperature",
+        "time": null,
+        "yield": "53 mg (67% based on Au content)",
+        "crystals": {
+          "method": "slow vapor diffusion of diethyl ether into a CH2Cl2 and MeOH mixture (1:1, v/v) solution"
+        }
+      }
+    },
+    {
+      "name": "[LMe-Au5]Cl", 
+      "synthesis": {
+        "precursor": "[LMe(AuCl)2]",
+        "amount": "93 mg, 0.10 mmol",
+        "solvent": null,
+        "volume": null,
+        "reagent": null,
+        "temperature": null,
+        "time": null,
+        "yield": "58 mg (72% based on Au content)",
+        "crystals": null
+      }
+    },
+    {
+      "name": "[LF-Au5]Cl",
+      "synthesis": {
+        "precursor": "[LF(AuCl)2]",
+        "amount": "93 mg, 0.10 mmol", 
+        "solvent": null,
+        "volume": null,
+        "reagent": null,
+        "temperature": null,
+        "time": null,
+        "yield": "85 mg (84% based on Au content)",
+        "crystals": {
+          "method": "slow vapor diffusion of diethyl ether into a CH2Cl2 and MeOH mixture (1:1, v/v) solution"
+        }
+      }
+    },
+    {
+      "name": "[LCN-Au5]Cl",
+      "synthesis": {
+        "precursor": "[LCN(AuCl)2]",
+        "amount": "46.8 mg, 0.05 mmol",
+        "solvent": "dichloromethane-pyridine (10:1, v/v)",
+        "volume": "22 mL",
+        "reagent": "H2S gas",
+        "temperature": "room temperature",
+        "time": "5 min",
+        "yield": "23.1 mg (57% based on Au content)",
+        "crystals": null
+      }
+    },
+    {
+      "name": "[LF-Au18]Cl2",
+      "synthesis": {
+        "precursor": "[LF(AuCl)2]",
+        "amount": "186 mg, 0.20 mmol",
+        "solvent": "dichloromethane-pyridine (10:1, v/v)",
+        "volume": "11 mL",
+        "reagent": "H2S gas",
+        "temperature": "room temperature",
+        "time": "10 min, then 5 h",
+        "yield": "78 mg (53% based on Au content)",
+        "crystals": {
+          "method": "slow vapor diffusion of diethyl ether into a dichloromethane solution"
+        }
+      }
+    },
+    {
+      "name": "[LCN-Au18]Cl2",
+      "synthesis": {
+        "precursor": "[LCN(AuCl)2]",
+        "amount": "46.8 mg, 0.05 mmol",
+        "solvent": "dichloromethane-pyridine (10:1, v/v)",
+        "volume": "22 mL",
+        "reagent": "H2S gas",
+        "temperature": "room temperature",
+        "time": "10 min, then 1 h",
+        "yield": "15.1 mg (41% based on Au content)",
+        "crystals": {
+          "method": "slow vapor diffusion of diethyl ether into a dichloromethane solution"
+        }
+      }
+    }
+  ]

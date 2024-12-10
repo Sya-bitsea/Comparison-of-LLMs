@@ -1,0 +1,35 @@
+s the machine readable .json file containing the synthesis conditions for UiO(bpdc):
+
+{
+  "UiO(bpdc)": {
+    "reagents": {
+      "ligand": "2,2'-bipyridine-5,5'-dicarboxylate acid (bpdc)",
+      "metal salt": "ZrCl4",
+      "modulating agent": "benzoic acid"
+    },
+    "solvent": "DMA (dimethylacetamide)",
+    "synthesis procedure": {
+      "step 1": "Mix bpdc ligand (48 mg, 0.2 mmol), ZrCl4 (46.6 mg, 0.2 mmol), and benzoic acid (1.5 g) in 12 ml DMA",
+      "step 2": "Stir the mixture at ambient conditions for 30 minutes",
+      "step 3": "Transfer the mixture into a 20 ml Teflon-lined stainless steel container",
+      "step 4": "Heat the container to 413 K for 72 hours in a programmed oven",
+      "step 5": "Cool the container to room temperature at a rate of 0.3 K/min",
+      "step 6": "Obtain a pure phase of octahedral shaped colorless crystals by filtration",
+      "step 7": "Wash the crystals with DMA"
+    },
+    "activation procedure": {
+      "step 1": "Load the as-synthesized sample in a Soxhlet-extraction device",
+      "step 2": "Extract the sample for 72 hours using absolute ethanol as the extraction agent",
+      "step 3": "After extraction, load the treated sample into IGA apparatus",
+      "step 4": "Heat the sample to 393 K under ultrahigh vacuum (10-7 mbar)"
+    }
+  }
+}
+
+The key synthesis details are:
+- Reagents: bpdc ligand, ZrCl4 metal salt, benzoic acid modulating agent
+- Solvent: DMA 
+- Synthesis: Mix reagents in DMA, stir, transfer to sealed container, heat to 413 K for 72 hours, cool slowly, filter and wash crystals
+- Activation: Soxhlet extraction with ethanol for 72 hours, then heat under high vacuum
+
+Let me know if you need any clarification or have additional questions

@@ -1,0 +1,97 @@
+s the machine-readable .json file containing the synthesis conditions for the materials described in the text:
+
+{
+  "ZIF-20": {
+    "chemical_formula": "Zn(Pur)2·(DMF)0.75(H2O)1.5",
+    "reagents": [
+      {
+        "chemical": "Zn(NO3)2·4H2O",
+        "amount": "65 mg, 0.25 mmol"
+      },
+      {
+        "chemical": "purine",
+        "amount": "150 mg, 1.25 mmol"
+      }
+    ],
+    "solvent": "5 ml DMF",
+    "temperature": "65 °C",
+    "time": "3 days",
+    "product_treatment": [
+      "powder removed by decanting with mother liquor",
+      "washed 3 times with 5 ml DMF",
+      "crystals dried in air for 30 min"
+    ],
+    "yield": "48 mg, 50% based on Zn(NO3)2·4H2O"
+  },
+  
+  "ZIF-21": {
+    "chemical_formula": "Co(Pur)2·(DMF)(H2O)",
+    "reagents": [
+      {
+        "chemical": "Co(NO3)2·6H2O",
+        "amount": "146 mg, 0.502 mmol"
+      },
+      {
+        "chemical": "purine",
+        "amount": "300 mg, 2.50 mmol"
+      },
+      {
+        "chemical": "2.0 M dimethylamine solution in methanol",
+        "amount": "1.25 ml, 2.50 mmol"
+      }
+    ],
+    "solvent": "5 ml DMF",
+    "temperature": "85 °C",
+    "time": "24 h",
+    "product_treatment": [
+      "mother liquor decanted",
+      "crystals rinsed 3 times with 5 ml DMF",
+      "dried in air for 1 h"  
+    ],
+    "yield": "92 mg, 47% based on Co(NO3)2·6H2O"
+  },
+
+  "ZIF-22": {
+    "chemical_formula": "Zn(5-Azabenzimidazolato)2·(DMF)0.75(H2O)2",
+    "reagents": [
+      {
+        "chemical": "Zn(NO3)2·4H2O",
+        "amount": "52 mg, 0.20 mmol"
+      },
+      {
+        "chemical": "5-azabenzimidazole",
+        "amount": "238 mg, 2.00 mmol"
+      }
+    ],
+    "solvent": "2 ml DMF",
+    "temperature": "150 °C",
+    "time": "3 days",
+    "product_treatment": [
+      "powder removed by decanting with mother liquor",
+      "rinsed 3 times with 4 ml DMF",
+      "crystals dried in air for 30 min"
+    ],
+    "yield": "68 mg, 87% based on Zn(NO3)2·4H2O"
+  },
+
+  "ZIF-23": {
+    "chemical_formula": "Zn(4-Azabenzimidazolato)2·(H2O)0.25",
+    "reagents": [
+      {
+        "chemical": "Zn(NO3)2·4H2O",
+        "amount": "52 mg, 0.20 mmol"
+      },
+      {
+        "chemical": "4-azabenzimidazole",
+        "amount": "119 mg, 1.00 mmol"
+      }
+    ],
+    "solvent": "1 ml DMF",
+    "temperature": "100 °C",
+    "time": "1 day",
+    "product_treatment": [
+      "crystals rinsed 3 times with 5 ml DMF",
+      "dried in air for 30 min"
+    ],
+    "yield": "55 mg, 90% based on Zn(NO3)2·4H2O"
+  }

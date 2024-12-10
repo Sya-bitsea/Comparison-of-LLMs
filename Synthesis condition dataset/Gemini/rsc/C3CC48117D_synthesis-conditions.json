@@ -1,0 +1,35 @@
+{
+    "material": "[Mn(TPP)][Mn(TPP)(CN)2]",
+    "synthesis_conditions": [
+        {
+            "chemicals": [
+                {
+                    "name": "[MnTPP(H2O)2]Cl",
+                    "amount": "73.9 mg",
+                    "moles": "0.1 mmol"
+                },
+                {
+                    "name": "Sodium cyanide",
+                    "amount": "19.6 mg",
+                    "moles": "0.4 mmol"
+                },
+                {
+                    "name": "methyl cyanide",
+                    "amount": "10 mL"
+                },
+                {
+                    "name": "tris(2-pyridylmethyl)amine",
+                    "amount": "29 mg",
+                    "moles": "0.1 mmol"
+                },
+                {
+                    "name": "manganese(II) perchlorate hexahydrate",
+                    "amount": "equivalent to tris(2-pyridylmethyl)amine"
+                }
+            ],
+            "temperature": "room temperature",
+            "time": "several days",
+            "yield": "33%"
+        }
+    ]
+}

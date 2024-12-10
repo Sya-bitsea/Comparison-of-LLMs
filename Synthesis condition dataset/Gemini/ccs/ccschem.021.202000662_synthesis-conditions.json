@@ -1,0 +1,226 @@
+[
+    {
+        "material": "[LH(AuCl)2]",
+        "synthesis_condition": {
+            "chemicals used": [
+                "(tht)AuCl",
+                "LH"
+            ],
+            "solvents": [
+                "dichloromethane",
+                "methanol"
+            ],
+            "temperature": "room temperature",
+            "time": "35 min",
+            "yield": "89.4%"
+        }
+    },
+    {
+        "material": "[LMe(AuCl)2]",
+        "synthesis_condition": {
+            "chemicals used": [
+                "(tht)AuCl",
+                "LMe"
+            ],
+            "solvents": [
+                "dichloromethane",
+                "methanol"
+            ],
+            "temperature": "room temperature",
+            "time": "35 min",
+            "yield": "92.0%"
+        }
+    },
+    {
+        "material": "[LF(AuCl)2]",
+        "synthesis_condition": {
+            "chemicals used": [
+                "(tht)AuCl",
+                "LF"
+            ],
+            "solvents": [
+                "dichloromethane",
+                "methanol"
+            ],
+            "temperature": "room temperature",
+            "time": "35 min",
+            "yield": "86.9%"
+        }
+    },
+    {
+        "material": "[LCN(AuCl)2]",
+        "synthesis_condition": {
+            "chemicals used": [
+                "(tht)AuCl",
+                "LCN"
+            ],
+            "solvents": [
+                "dichloromethane",
+                "methanol"
+            ],
+            "temperature": "room temperature",
+            "time": "35 min",
+            "yield": "84.0%"
+        }
+    },
+    {
+        "material": "[LH-Au5]Cl",
+        "synthesis_condition": {
+            "chemicals used": [
+                "[LH(AuCl)2]",
+                "H2S"
+            ],
+            "solvents": [
+                "dichloromethane",
+                "pyridine",
+                "diethyl ether"
+            ],
+            "solvent_ratio": {
+                "dichloromethane:pyridine": "10:1"
+            },
+            "temperature": "room temperature",
+            "yield": "67%"
+        }
+    },
+    {
+        "material": "[LMe-Au5]Cl",
+        "synthesis_condition": {
+            "chemicals used": [
+                "[LMe(AuCl)2]",
+                "H2S"
+            ],
+            "solvents": [
+                "dichloromethane",
+                "pyridine",
+                "diethyl ether"
+            ],
+            "solvent_ratio": {
+                "dichloromethane:pyridine": "10:1"
+            },
+            "temperature": "room temperature",
+            "yield": "72%"
+        }
+    },
+    {
+        "material": "[LF-Au5]Cl",
+        "synthesis_condition": {
+            "chemicals used": [
+                "[LF(AuCl)2]",
+                "H2S"
+            ],
+            "solvents": [
+                "dichloromethane",
+                "pyridine",
+                "diethyl ether"
+            ],
+            "solvent_ratio": {
+                "dichloromethane:pyridine": "10:1"
+            },
+            "temperature": "room temperature",
+            "yield": "84%"
+        }
+    },
+    {
+        "material": "[LCN-Au5]Cl",
+        "synthesis_condition": {
+            "chemicals used": [
+                "[LCN(AuCl)2]",
+                "H2S"
+            ],
+            "solvents": [
+                "dichloromethane",
+                "pyridine",
+                "diethyl ether"
+            ],
+            "solvent_ratio": {
+                "dichloromethane:pyridine": "10:1"
+            },
+            "temperature": "room temperature",
+            "yield": "57%"
+        }
+    },
+    {
+        "material": "[LF-Au18]Cl2",
+        "synthesis_condition": {
+            "chemicals used": [
+                "[LF(AuCl)2]",
+                "H2S"
+            ],
+            "solvents": [
+                "dichloromethane",
+                "pyridine",
+                "diethyl ether"
+            ],
+            "solvent_ratio": {
+                "dichloromethane:pyridine": "10:1"
+            },
+            "temperature": "room temperature",
+            "time": "5h",
+            "yield": "53%"
+        }
+    },
+    {
+        "material": "[LCN-Au18]Cl2",
+        "synthesis_condition": {
+            "chemicals used": [
+                "[LCN(AuCl)2]",
+                "H2S"
+            ],
+            "solvents": [
+                "dichloromethane",
+                "pyridine",
+                "diethyl ether"
+            ],
+            "solvent_ratio": {
+                "dichloromethane:pyridine": "10:1"
+            },
+            "temperature": "room temperature",
+            "time": "1h",
+            "yield": "41%"
+        }
+    },
+    {
+        "material": "3,5-Bis(diphenylphosphine)toluene (LMe)",
+        "synthesis_condition": {
+            "chemicals used": [
+                "3,5-difluorotoluene",
+                "KPPh2"
+            ],
+            "solvents": [
+                "tetrahydrofuran"
+            ],
+            "temperature": "reflux",
+            "time": "48 h",
+            "yield": "38.1%"
+        }
+    },
+    {
+        "material": "3,5-Bis(diphenylphosphine)benzonitrile (LCN)",
+        "synthesis_condition": {
+            "chemicals used": [
+                "3,5-difluorobenzonitrile",
+                "KPPh2"
+            ],
+            "solvents": [
+                "tetrahydrofuran"
+            ],
+            "temperature": "reflux",
+            "time": "48 h",
+            "yield": "40.4%"
+        }
+    },
+    {
+        "material": "(tht)AuCl",
+        "synthesis_condition": {
+            "chemicals used": [
+                "HAuCl4.3H2O",
+                "tetrahydrothiophene"
+            ],
+            "solvents": [
+                "ethanol"
+            ],
+            "temperature": "room temperature",
+            "time": "15 min"
+        }
+    }
+]

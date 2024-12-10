@@ -1,0 +1,97 @@
+{
+    "FMOF-3": {
+        "Synthesis": {
+            "Solvents": [
+                "DMF"
+            ],
+            "Time": "4 h",
+            "Temperature": "135 \u00b0C",
+            "Starting chemicals": [
+                "H2FBTB",
+                "Cu(OAc)2"
+            ],
+            "Yield": "90%",
+            "Washing": "Methanol"
+        },
+        "Activation": {
+            "Temperature": "120 \u00b0C",
+            "Time": "12 h",
+            "Other conditions": "under vacuum"
+        }
+    },
+    "FN-PCP-1": {
+        "Synthesis": {
+            "Solvents": [
+                "Distilled water"
+            ],
+            "Time": "4 h",
+            "Temperature": "Reflux",
+            "Starting chemicals": [
+                "AgNO3",
+                "H2FBTB"
+            ],
+            "Yield": "92%",
+            "Washing": [
+                "Distilled Water",
+                "Methanol"
+            ],
+            "Drying": "under vacuum (100 \u00b0C, 10^-4 bar, 4 h)"
+        }
+    },
+    "[Ag2(BTB)]": {
+        "Synthesis": {
+            "Temperature": "Reflux",
+            "Time": "4 h",
+            "Yield": "90%"
+        }
+    },
+    "FMOF-1": {
+        "Synthesis": {
+            "Chemicals used": [
+                "Ag",
+                "NH4Tz"
+            ]
+        }
+    },
+    "lc-[Cu(BTB)(DMF)]": {
+        "Synthesis": {
+            "Solvents": [
+                "DMF",
+                "Methanol"
+            ],
+            "Time": "4 h",
+            "Temperature": "135 \u00b0C",
+            "Starting chemicals": [
+                "H2BTB",
+                "Cu(OAc)2"
+            ],
+            "Yield": "69%",
+            "Drying": "under vacuum (100 \u00b0C, 10^-4 bar, 4 h)"
+        },
+        "Activation": {
+            "Temperature": "120 \u00b0C",
+            "Time": "12 h",
+            "Other conditions": "10^-4 bar"
+        }
+    },
+    "ZIF-8": {
+        "Synthesis": {
+            "Chemicals used": [
+                "Zinc nitrate hexahydrate",
+                "2-methylimidazole"
+            ]
+        }
+    },
+    "H2FBTB": {},
+    "NH4Tz": {
+        "Synthesis": {
+            "Step 1 & 2": [
+                "Bell et al."
+            ],
+            "Step 3 & 4": [
+                "Abdul-Ghani et al."
+            ]
+        }
+    },
+    "H2BTB": {}
+}

@@ -1,0 +1,47 @@
+[
+    {
+        "material": "{[Dy(ox)(Bpybc)(H2O)] OH 13H2O}n",
+        "alias": "1",
+        "synthesis": [
+            {
+                "chemicals": [
+                    "Dy(NO3)3",
+                    "Bpybc",
+                    "sodium oxalate"
+                ],
+                "amounts": [
+                    "0.02 M, 2 mL",
+                    "0.04 mmol, 19.9 mg",
+                    "0.04 mmol, 5.4 mg"
+                ],
+                "solvents": [
+                    "H2O",
+                    "DMSO"
+                ],
+                "solvent_ratio": [
+                    "8:2 v/v; 2 mL",
+                    "8:1 v/v; 1 mL"
+                ],
+                "pH": "7",
+                "temperature": null,
+                "time": "one month",
+                "yield": "16%"
+            }
+        ]
+    },
+    {
+        "material": "H2BpybcCl2",
+        "synthesis": [
+            {
+                "chemicals": [],
+                "amounts": [],
+                "solvents": [],
+                "solvent_ratio": [],
+                "pH": null,
+                "temperature": null,
+                "time": null,
+                "yield": null
+            }
+        ]
+    }
+]

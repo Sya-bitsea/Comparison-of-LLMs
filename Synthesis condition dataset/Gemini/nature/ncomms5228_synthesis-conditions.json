@@ -1,0 +1,15 @@
+{
+    "SIFSIX-3-Cu": [
+        {
+            "Chemicals": "pyrazine",
+            "Solvent": "methanol",
+            "Time": "24 h"
+        },
+        {
+            "Washing": "methanol"
+        },
+        {
+            "Drying": "vacuum"
+        }
+    ]
+}

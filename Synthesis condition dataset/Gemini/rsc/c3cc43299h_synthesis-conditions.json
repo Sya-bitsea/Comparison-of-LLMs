@@ -1,0 +1,75 @@
+[
+    {
+        "material_name": "CdSDB nH2O",
+        "alias": [
+            "cadmium sulfonyldibenzoate",
+            "compound 1"
+        ],
+        "synthesis_conditions": [
+            {
+                "chemicals": [
+                    {
+                        "name": "Cd(NO3)2\u00b74H2O",
+                        "purity": "98%",
+                        "source": "Aldrich",
+                        "amount": "0.001 moles (0.310 g)"
+                    },
+                    {
+                        "name": "4,4'-sulfonyldibenzoic acid",
+                        "alias": [
+                            "4,4'-SDB"
+                        ],
+                        "purity": "98%",
+                        "source": "Sigma-Aldrich",
+                        "amount": "0.001 moles (0.296 g)"
+                    },
+                    {
+                        "name": "ethanol",
+                        "purity": "95%",
+                        "source": "Fisher-Scientific",
+                        "amount": "12 grams"
+                    }
+                ],
+                "steps": [
+                    {
+                        "step_number": 1,
+                        "description": "A mixture of Cd(NO3)2 . 4H2O and 4,4'-SDB were dissolved in ethanol and stirred.",
+                        "time": "2 hours"
+                    },
+                    {
+                        "step_number": 2,
+                        "description": "The resultant solution was heated in a Teflon lined stainless steel Parr autoclaves.",
+                        "temperature": "180 \u00b0C",
+                        "time": "4 days"
+                    },
+                    {
+                        "step_number": 3,
+                        "description": "Colorless needle shaped crystals were recovered as products and washed with ethanol.",
+                        "yield": "~60% (0.320 g)"
+                    }
+                ],
+                "notes": "The water occupying the pores comes from the 95% ethanol solvent and from Cd(NO3)2 reactant."
+            }
+        ]
+    },
+    {
+        "material_name": "CdSDB",
+        "alias": [
+            "compound 10",
+            "compound 1'"
+        ],
+        "synthesis_conditions": [
+            {
+                "starting_material": "CdSDB nH2O",
+                "steps": [
+                    {
+                        "step_number": 1,
+                        "description": "Heating CdSDB nH2O at 200 \u00b0C in vacuum.",
+                        "temperature": "200 \u00b0C",
+                        "other_conditions": "in vacuum"
+                    }
+                ]
+            }
+        ]
+    }
+]

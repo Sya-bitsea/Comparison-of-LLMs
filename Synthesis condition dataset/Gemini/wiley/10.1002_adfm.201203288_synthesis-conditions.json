@@ -1,0 +1,18 @@
+{
+    "material": "[La(BTB)H2O] \u00b7 solvent",
+    "synthesis_conditions": [
+        {
+            "Chemicals": "La(NO3)3\u00b76H2O, 1,3,5-tris(4-carboxyphenyl)benzene (H3BTB)",
+            "Solvent": "DMF/MeOH/H2O = 3:3:0.5",
+            "Temperature": "80 \u00b0C",
+            "Time": "two days",
+            "Yield": "63%"
+        },
+        {
+            "Washing": "Soaked in methanol for three days to remove nonvolatile substances, the extract was decanted every 8 hours and fresh methanol was replaced"
+        },
+        {
+            "Drying": "Heating the solvent-exchanged sample at 130 \u00b0C under a dynamic high vacuum for 30 h"
+        }
+    ]
+}

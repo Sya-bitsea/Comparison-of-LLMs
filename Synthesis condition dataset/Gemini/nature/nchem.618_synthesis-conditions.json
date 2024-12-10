@@ -1,0 +1,32 @@
+[
+    {
+        "material": "Na9[A-PW9O34]\u00b77H2O",
+        "synthesis method": [
+            "Dissolving 0.338 g (0.13 mmol) Na9[A-PW9O34]\u00b77H2O, 0.108 g (0.65 mmol) CH3COOAg, and 0.121 g (1.75 mmol) 1,2,4-triazole in 10 ml of distilled water at room temperature.",
+            "Adjusting the pH value of the mixture to about 7.3 with 2.0 M NaOH.",
+            "Placing the suspension into a Teflon-lined autoclave and keeping it under autogenous pressure at 160\u00b0C for 4 days.",
+            "Slowly cooling to room temperature for another 4 days."
+        ],
+        "chemicals used": [
+            "Na9[A-PW9O34]\u00b77H2O",
+            "CH3COOAg",
+            "1,2,4-triazole",
+            "NaOH"
+        ],
+        "amount of chemicals used": {
+            "Na9[A-PW9O34]\u00b77H2O": "0.338 g (0.13 mmol)",
+            "CH3COOAg": "0.108 g (0.65 mmol)",
+            "1,2,4-triazole": "0.121 g (1.75 mmol)",
+            "distilled water": "10 ml",
+            "NaOH": "2.0 M to adjust pH to 7.3"
+        },
+        "equipment": [
+            "Teflon-lined autoclave"
+        ],
+        "temperature": "160 \u00b0C",
+        "time": "4 days at 160 \u00b0C and 4 days of cooling",
+        "yield": "48% based on W",
+        "washing method": "Washing with distilled water.",
+        "product": "High purity and slight green octahedral crystals"
+    }
+]

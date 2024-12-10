@@ -1,0 +1,61 @@
+s the machine readable .json file containing the synthesis conditions for ZIF-95 and ZIF-100 based on the given text:
+
+{
+  "ZIF-95": {
+    "reactants": {
+      "zinc_source": "Zn(NO3)2.4H2O",
+      "zinc_amount": "1.044 g, 4.0 mmol", 
+      "ligand": "5-chlorobenzimidazole (cbIM)",
+      "ligand_amount": "6.106 g, 40.0 mmol"
+    },
+    "solvents": {
+      "solvent1": "N,N-dimethylformamide (DMF)",
+      "solvent1_amount": "295 ml",
+      "solvent2": "H2O", 
+      "solvent2_amount": "5 ml"
+    },
+    "conditions": {
+      "temperature": "120 °C",
+      "time": "72 h"
+    },
+    "product": {
+      "appearance": "light yellow plate crystals",
+      "formula": "Zn(cbIM)2",
+      "yield": "75.0% based on Zn(NO3)2.4H2O"
+    },
+    "activation": {
+      "solvent": "anhydrous acetone",
+      "exchange_time": "3 days",
+      "drying_conditions": "evacuated (10-3 torr) at 50 °C for 10 h then at 100 °C for 12 h"
+    }
+  },
+  
+  "ZIF-100": {
+    "reactants": {
+      "zinc_source": "Zn(O3SCF3)2",
+      "zinc_amount": "1.453 g, 4.0 mmol",
+      "ligand": "5-chlorobenzimidazole (cbIM)",
+      "ligand_amount": "6.103 g, 40.0 mmol"  
+    },
+    "solvents": {
+      "solvent1": "anhydrous N,N-dimethylformamide (DMF)",
+      "solvent1_amount": "270 ml",
+      "solvent2": "H2O",
+      "solvent2_amount": "5.8 ml"
+    },
+    "conditions": {
+      "atmosphere": "dry nitrogen",
+      "temperature": "120 °C", 
+      "time": "48 h"
+    },
+    "product": {
+      "appearance": "dark yellow cubic crystals",
+      "formula": "Zn20(cbIM)39(OH)",
+      "yield": "70.5% based on Zn(O3SCF3)2"
+    },
+    "activation": {
+      "solvent": "anhydrous methanol",
+      "exchange_time": "3 days", 
+      "drying_conditions": "evacuated (10-3 torr) at 50 °C for 10 h then at 100 °C for 12 h"
+    }
+  }

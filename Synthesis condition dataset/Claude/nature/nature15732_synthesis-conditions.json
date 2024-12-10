@@ -1,0 +1,67 @@
+s the .json file containing the synthesis conditions for Co(bdp) and Fe(bdp) based on the given text:
+
+{
+    "Co(bdp)": {
+        "chemicals": {
+            "Co(CF3SO3)2": "4.96 g, 0.0139 mol",
+            "H2bdp": "2.46 g, 0.0117 mol"
+        },
+        "solvent": "N,N-diethylformamide (90 ml)",
+        "temperature": "160 °C", 
+        "time": "4.5 days",
+        "washing": [
+            {
+                "solvent": "DMF",
+                "temperature": "120 °C",
+                "time": "12 h",
+                "repetitions": 6
+            },
+            {
+                "solvent": "dichloromethane"
+            }
+        ],
+        "drying": {
+            "temperature": "160 °C",
+            "time": "12 h",
+            "atmosphere": "flowing N2"
+        },
+        "activation": {
+            "temperature": "160 °C", 
+            "time": "24 h",
+            "conditions": "dynamic vacuum"
+        }
+    },
+    "Fe(bdp)": {
+        "chemicals": {
+            "H2bdp": "0.200 g, 0.95 mmol",
+            "FeCl2": "0.197 g, 1.55 mmol"  
+        },
+        "solvents": {
+            "DMF": "9 ml",
+            "methanol": "1 ml"
+        },
+        "temperature": "120 °C",
+        "washing": {
+            "solvent": "DMF",
+            "temperature": "hot",
+            "amount": "9 x 18 ml"
+        },
+        "drying": {
+            "temperature": "170 °C",
+            "time": "24 h",
+            "conditions": "high vacuum"
+        },
+        "yield": {
+            "product": "yellow microcrystalline powder"
+        },
+        "single_crystal_synthesis": {
+            "chemicals": {
+                "FeCl2": "9.0 mg, 0.07 mmol",
+                "H2bdp": "4.0 mg, 0.019 mmol"
+            },
+            "solvent": "9:1 mixture of DMF and methanol (1 ml total)",
+            "temperature": "120 °C",
+            "time": "24 h",
+            "product": "block-shaped yellow crystals"
+        }
+    }

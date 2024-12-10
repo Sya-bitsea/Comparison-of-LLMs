@@ -1,0 +1,19 @@
+"text": "{
+    "Zn-CAT-(X)n series": {
+        "chemicals": [
+            "1,4-benzenedicarboxylic acid",
+            "functionalized 1,4-benzenedicarboxylic acid (20 mmol total, 2 equiv.)",
+            "DMF",
+            "Zn(NO3)\u00b76H2O (5.94 g, 20 mmol, 2 equiv.)",
+            "DMF",
+            "4,4\u2032-bipyridine (1.56 g, 10 mmol, 1 equiv.)",
+            "EtOH",
+            "DMF",
+            "EtOH"
+        ],
+        "procedure": "1,4-benzenedicarboxylic acid is dissolved with the functionalized 1,4-benzenedicarboxylic acid  in DMF (concentration [bdc linker] = 0.15 M) at 373.15 K for 15 min. An ambient solution of Zn(NO3)\u00b76H2O in DMF (concentration [metal] = 0.4 M) was added to the stirring mixture at 373.15 K for 10 min. The 4,4\u2032-bipyridine was dissolved at room temperature in EtOH (concentration [pillar] = 0.1 M) and added to the reaction mixture. The mixture was kept at 373.15 K for 24 h. After cooling down to room temperature, the resulting precipitate was collected via centrifugation and washed three times with DMF (3 \u00d7 40 ml) and three times with EtOH (3 \u00d7 40 ml). The material was dried under vacuum at 323.15 K for 12 h to give a white/yellow powder in ~90 to 98% yields (6 to 6.9 g).",
+        "yield": "~90 to 98%",
+        "product": "white/yellow powder"
+    }
+}
+"

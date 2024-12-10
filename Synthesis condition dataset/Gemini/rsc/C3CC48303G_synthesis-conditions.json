@@ -1,0 +1,59 @@
+[
+    {
+        "Material": " [Et4N]2[SFe3(CO)9] ",
+        "Synthesis method": [],
+        "Chemicals used": [],
+        "Yield": []
+    },
+    {
+        "Material": "[{(l3-S)Fe3(CO)9}Cu2(dppe)] (2)",
+        "Synthesis method": [
+            "When [Et4N]2[SFe3(CO)9],6 [Cu(MeCN)4][BF4],7 and bis(diphenylphosphino)ethane (dppe) were mixed in a 1 : 2 : 1 ratio in CH2Cl2, the dicopper\u2013bisphosphine-bridged clusters [{(m5-S)Fe3(CO)9}Cu2(dppm)(MeCN)] (1) and [{(m3-S)Fe3(CO)9}Cu2(dppe)] (2) were obtained in good yields (Scheme 1)"
+        ],
+        "Chemicals used": [
+            "[Et4N]2[SFe3(CO)9]",
+            "[Cu(MeCN)4][BF4]",
+            "bis(diphenylphosphino)ethane (dppe)",
+            "CH2Cl2"
+        ],
+        "Ratio": "1 : 2 : 1",
+        "Temperature": [
+            "ice/water bath"
+        ],
+        "Time": "3 hours",
+        "Yield": [
+            "good yields"
+        ]
+    },
+    {
+        "Material": "[{(m5-S)Fe3(CO)9}Cu2(dppm)(MeCN)] (1)",
+        "Synthesis method": [
+            "When [Et4N]2[SFe3(CO)9],6 [Cu(MeCN)4][BF4],7 and bis(diphenyl- phosphino)methane (dppm) or bis(diphenylphosphino)ethane (dppe) were mixed in a 1 : 2 : 1 ratio in CH2Cl2, the dicopper\u2013 bisphosphine-bridged clusters [{(m5-S)Fe3(CO)9}Cu2(dppm)(MeCN)] (1) and [{(m3-S)Fe3(CO)9}Cu2(dppe)] (2) were obtained in good yields (Scheme 1)"
+        ],
+        "Chemicals used": [
+            "[Et4N]2[SFe3(CO)9]",
+            "[Cu(MeCN)4][BF4]",
+            "bis(diphenylphosphino)methane (dppm)",
+            "CH2Cl2"
+        ],
+        "Ratio": "1 : 2 : 1",
+        "Temperature": [
+            "ice/water bath"
+        ],
+        "Time": "1 h",
+        "Yield": [
+            "good yields"
+        ]
+    },
+    {
+        "Material": "[{(l4-S)Fe3(CO)9}- Cu2(dppe)(MeCN)2]n (3)",
+        "Synthesis method": [
+            "Based on the afore-mentioned geometric arrangement, when complex 2 was treated with MeCN, and a polymeric complex [{(m4-S)Fe3(CO)9}Cu2(dppe)(MeCN)2]n (3) was readily crystallized after the addition of hexanes/THF (Scheme 1)"
+        ],
+        "Chemicals used": [
+            "MeCN",
+            "hexanes/THF"
+        ],
+        "Yield": []
+    }
+]

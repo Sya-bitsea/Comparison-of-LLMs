@@ -1,0 +1,129 @@
+s the machine-readable .json file containing the synthesis conditions for the materials described in the text:
+
+{
+  "NOF-1": {
+    "reactants": [
+      {
+        "name": "2-nitroimidazole",
+        "amount": "113 mg",
+        "moles": "1.0 mmol"
+      },
+      {
+        "name": "Zn(NO3)2·6H2O", 
+        "amount": "149 mg",
+        "moles": "0.5 mmol"
+      }
+    ],
+    "solvent": "DMF (5 ml)",
+    "temperature": "100 °C",
+    "time": "1 h (microwave), 24 h (oven)",
+    "yield": "Increased by heating in 100 °C oven for 24 h"
+  },
+
+  "NOF-2": {
+    "reactants": [
+      {
+        "name": "5-methyl-4-nitroimidazole",
+        "amount": "25 mg", 
+        "moles": "0.20 mmol"
+      },
+      {
+        "name": "Zn(NO3)2·6H2O",
+        "amount": "21 mg",
+        "moles": "0.07 mmol"  
+      }
+    ],
+    "solvent": "DMF (3 ml)",
+    "temperature": "100 °C",
+    "time": "48 h"
+  },
+
+  "NOF-3": {
+    "reactants": [
+      {
+        "name": "2-nitroimidazole",
+        "amount": "23 mg",
+        "moles": "0.20 mmol"
+      },
+      {
+        "name": "Zn(NO3)2·6H2O",
+        "amount": "30 mg",
+        "moles": "0.10 mmol"
+      }
+    ],
+    "solvent": "DMF-H2O mixture (v/v 1/1, 1 ml)",
+    "temperature": "100 °C",
+    "time": "36 h"
+  },
+
+  "NOF-1 microcrystalline powder": {
+    "reactants": [
+      {
+        "name": "2-nitroimidazole",
+        "amount": "113 mg",
+        "moles": "1.0 mmol"
+      },
+      {
+        "name": "sodium formate",
+        "amount": "136 mg",
+        "moles": "2.0 mmol"
+      },
+      {
+        "name": "Zn(NO3)2·6H2O",
+        "amount": "149 mg",
+        "moles": "0.5 mmol"
+      }
+    ],
+    "solvent 1": "DMF/H2O (v/v, 10/1) mixture (5 ml)",
+    "solvent 2": "H2O (5 ml)",
+    "temperature": "room temperature",
+    "time": "18 h",
+    "washing": "water (2 × 15 ml) and DMF (3 × 15 ml)",
+    "yield": "68 mg, 27%",
+    "activation": "immersing in fresh methanol (4 × 15 ml over 48 h), then heated under reduced pressure (80 °C, 10 mbar) for 18 h"
+  },
+
+  "NOF-2 microcrystalline powder": {
+    "reactants": [
+      {
+        "name": "5-methyl-4-nitroimidazole",
+        "amount": "127 mg",
+        "moles": "1.0 mmol"  
+      },
+      {
+        "name": "sodium formate",
+        "amount": "136 mg",
+        "moles": "2.0 mmol"
+      },
+      {
+        "name": "Zn(NO3)2·6H2O",
+        "amount": "149 mg",
+        "moles": "0.5 mmol"
+      }
+    ],
+    "solvent 1": "DMF/H2O (v/v, 10/1) mixture (5 ml)",
+    "solvent 2": "H2O (5 ml)",
+    "temperature": "room temperature", 
+    "time": "18 h",
+    "washing": "water (2 × 15 ml) and DMF (3 × 15 ml)",
+    "yield": "35 mg, 13%",
+    "activation": "immersing in fresh methanol (4 × 15 ml over 48 h), then heated under reduced pressure (80 °C, 10 mbar) for 18 h"
+  },
+
+  "[Co(2nIm)2]n (ZIF-65)": {
+    "reactants": [
+      {
+        "name": "2-nitroimidazole",
+        "amount": "90 mg",
+        "moles": "0.80 mmol"
+      },
+      {
+        "name": "Co(NO3)2·6H2O",
+        "amount": "120 mg",
+        "moles": "0.40 mmol"
+      }
+    ],
+    "solvent": "DMF (4 ml)",
+    "temperature": "120 °C for 6 h, then cooled to room temperature over 12 h",
+    "washing": "DMF (3×)"
+  }

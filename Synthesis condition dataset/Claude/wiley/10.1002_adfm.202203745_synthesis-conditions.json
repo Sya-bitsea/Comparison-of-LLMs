@@ -1,0 +1,31 @@
+s the .json file containing the synthesis conditions for NTU-67 from the given text:
+
+{
+  "NTU-67": {
+    "synthesis_method": "postsynthetic crystal transformation",
+    "starting_material": "NTU-65 crystal",
+    "amount_starting_material": "100 mg", 
+    "solvent": "basic water",
+    "amount_solvent": "8 mL",
+    "pH": 12,
+    "pH_adjustment_chemical": "NaOH",
+    "container": "glass bottle",
+    "container_volume": "20 mL",
+    "temperature": "373 K",
+    "time": "1 week",
+    "washing_method": "washing by ethanol/water (1/1)",
+    "product_appearance": "purple block crystals",
+    "chemical_formula": "[C24H20CuF6N8Si]",
+    "elemental_analysis": {
+      "calculated": {
+        "C": 46.04,
+        "H": 3.22, 
+        "N": 17.90
+      },
+      "found": {
+        "C": 46.23,
+        "H": 3.07,
+        "N": 18.06
+      }
+    }
+  }

@@ -1,0 +1,187 @@
+s the .json file containing the synthesis conditions for the ZIFs described in the text:
+
+{
+  "ZIF-1": {
+    "composition": "Zn(IM)2·(Me2NH)",
+    "reagents": [
+      {
+        "chemical": "zinc nitrate tetrahydrate",
+        "formula": "Zn(NO3)2·4H2O",
+        "amount": "0.09 g, 3.44 × 10-4 mol"
+      },
+      {
+        "chemical": "imidazole",
+        "formula": "H-IM", 
+        "amount": "0.15 g, 2.20 × 10-3 mol"
+      }
+    ],
+    "solvent": "18 mL DMF",
+    "temperature": "85 °C",
+    "time": "24 h",
+    "product_washing": "washed with DMF (3 mL × 3)",
+    "drying": "dried in air (10 min)",
+    "yield": "0.014 g, 17% based on zinc nitrate tetrahydrate"
+  },
+
+  "ZIF-3": {
+    "composition": "Zn(IM)2",  
+    "reagents": [
+      {
+        "chemical": "zinc nitrate tetrahydrate",
+        "formula": "Zn(NO3)2·4H2O",
+        "amount": "0.010 g, 3.82 × 10-5 mol"
+      },
+      {
+        "chemical": "imidazole",
+        "formula": "H-IM",
+        "amount": "0.030 g, 4.41 × 10-4 mol"  
+      }
+    ],
+    "solvent": "mixed solvent of DMF (2 mL) and NMP (1 mL)",
+    "temperature": "85 °C", 
+    "time": "4 d"
+  },
+
+  "ZIF-4": {
+    "composition": "Zn(IM)2·(DMF)(H2O)",
+    "reagents": [
+      {
+        "chemical": "zinc nitrate tetrahydrate",
+        "formula": "Zn(NO3)2·4H2O",
+        "amount": "0.040 g, 1.53 × 10-4 mol"
+      },
+      {
+        "chemical": "imidazole",
+        "formula": "H-IM",
+        "amount": "0.030 g, 4.41 × 10-4 mol"
+      }  
+    ],
+    "solvent": "3 mL DMF",
+    "temperature": "heated at a rate 5 °C /min to 130 °C, held at this temperature for 48 h, then cooled at a rate of 0.4 °C/min to room temperature",
+    "product_washing": "washed with DMF (3 mL × 3)",
+    "drying": "dried in the air (10 min)",
+    "yield": "0.021 g, 47% based on zinc nitrate tetrahydrate"
+  },
+
+  "ZIF-7": {
+    "composition": "Zn(PhIM)2·(H2O)3",
+    "reagents": [
+      {
+        "chemical": "zinc nitrate tetrahydrate",
+        "formula": "Zn(NO3)2·4H2O",
+        "amount": "0.030 g, 1.15 × 10-4 mol"
+      },
+      {
+        "chemical": "benzimidazole",
+        "formula": "H-PhIM",
+        "amount": "0.010 g, 8.46 × 10-5 mol"
+      }
+    ],
+    "solvent": "3 mL DMF",
+    "temperature": "heated at a rate of 5 °C /min to 130 °C, held at this temperature for 48 h, then cooled at a rate of 0.4 °C/min to room temperature",
+    "product_washing": "chloroform (3 mL) was added to the vial. Colorless cubic crystals of ZIF-7 were collected from the upper layer, washed with DMF (3 mL × 3)",
+    "drying": "dried in air (10 min)",
+    "yield": "0.015 g, 37% based on H-PhIM"
+  },
+
+  "ZIF-8": {
+    "composition": "Zn(MeIM)2·(DMF)·(H2O)3",
+    "reagents": [
+      {
+        "chemical": "zinc nitrate tetrahydrate",
+        "formula": "Zn(NO3)2·4H2O",
+        "amount": "0.210 g, 8.03 × 10-4 mol"
+      },
+      {
+        "chemical": "2-methylimidazole",
+        "formula": "H-MeIM",
+        "amount": "0.060 g, 7.31 × 10-4 mol"
+      }
+    ],
+    "solvent": "18 mL DMF",
+    "temperature": "heated at a rate of 5 °C /min to 140 °C, held at this temperature for 24 h, then cooled at a rate of 0.4 °C/min to room temperature",
+    "product_washing": "After removal of mother liquor from the mixture, chloroform (20 mL) was added to the vial. Colorless polyhedral crystals of the product were collected from the upper layer, washed with DMF (10 mL × 3)",
+    "drying": "dried in air (10 min)",
+    "yield": "0.032 g, 25% based on H-MeIM"
+  },
+
+  "ZIF-9": {
+    "composition": "Co(PhIM)2·(DMF)(H2O)",
+    "reagents": [
+      {
+        "chemical": "cobalt nitrate hexahydrate",
+        "formula": "Co(NO3)2·6H2O",
+        "amount": "0.210 g, 7.21 × 10-4 mol"
+      },
+      {
+        "chemical": "benzimidazole",
+        "formula": "H-PhIM",
+        "amount": "0.060 g, 5.08 × 10-4 mol"
+      }
+    ],
+    "solvent": "18 mL DMF",
+    "temperature": "heated at a rate of 5 °C /min to 130 °C, held at this temperature for 48 h, then cooled at a rate of 0.4 °C/min to room temperature",
+    "product_washing": "washed with DMF (3 mL × 3)",
+    "drying": "dried in air (10 min)",
+    "yield": "0.030 g, 30% based on H-PhIM"
+  },
+
+  "ZIF-10": {
+    "composition": "Zn(IM)2",
+    "reagents": [
+      {
+        "chemical": "zinc nitrate tetrahydrate",
+        "formula": "Zn(NO3)2·4H2O",
+        "amount": "0.010 g, 3.82 × 10-5 mol"
+      },
+      {
+        "chemical": "imidazole",
+        "formula": "H-IM",
+        "amount": "0.030 g, 4.41 × 10-4 mol"
+      }
+    ],
+    "solvent": "3 mL DMF",
+    "temperature": "85 °C",
+    "time": "4 d"
+  },
+
+  "ZIF-11": {
+    "composition": "Zn(PhIM)2·(DEF)0.9",
+    "reagents": [
+      {
+        "chemical": "zinc nitrate tetrahydrate",
+        "formula": "Zn(NO3)2·4H2O",
+        "amount": "0.60 g, 2.3 × 10-3 mol"
+      },
+      {
+        "chemical": "benzimidazole",
+        "formula": "H-PhIM",
+        "amount": "4.2 g, 3.5 × 10-2 mol"
+      }
+    ],
+    "solvent": "360 mL DEF",
+    "temperature": "100 °C",
+    "time": "4 d",
+    "product_washing": "The powder and mother liquor was removed by repeating the cycle of decanting, washing with DMF and sonicating several times. Colorless crystals of ZIF-11 were collected by filtration, washed with DMF (200 mL × 2)",
+    "drying": "dried in the air (30 min)",
+    "yield": "0.21 g, 23% based on Zn(NO3)2·4H2O"
+  },
+
+  "ZIF-12": {
+    "composition": "Co(PhIM)2",
+    "reagents": [
+      {
+        "chemical": "cobalt nitrate hexahydrate",
+        "formula": "Co(NO3)2·6H2O",
+        "amount": "0.010 g, 3.44 × 10-5 mol"
+      },
+      {
+        "chemical": "benzimidazole",
+        "formula": "H-PhIM",
+        "amount": "0.030 g, 2.54 × 10-4 mol"
+      }
+    ],
+    "solvent": "3 mL DEF",
+    "temperature": "130 °C",
+    "time": "2 d"
+  }

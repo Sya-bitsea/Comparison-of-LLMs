@@ -1,0 +1,72 @@
+s the machine readable .json file containing the synthesis conditions for the given text:
+
+{
+  "materials": [
+    {
+      "name": "[Mn(Me-ip)(DMF)]n (1)",
+      "synthesis_conditions": {
+        "reactants": [
+          {
+            "chemical": "Mn(CH3COO)2·4H2O",
+            "amount": "0.25 mmol, 0.061 g"
+          },
+          {
+            "chemical": "5-methylisophthalic acid",
+            "amount": "0.50 mmol, 0.089 g"  
+          },
+          {
+            "chemical": "LiNO3",
+            "amount": "0.50 mmol, 0.035 g"
+          }
+        ],
+        "solvent": "5 ml DMF (N,N-dimethylformamide)",
+        "temperature": "160°C", 
+        "time": "2 days",
+        "pressure": "autogenous pressure",
+        "product": "colorless needle-like crystals",
+        "yield": "68 mg (89% based on Mn)"
+      }
+    },
+    {
+      "name": "de-DMF sample 2",
+      "synthesis_conditions": {
+        "precursor": "sample 1",
+        "temperature": "250°C",
+        "pressure": "vacuum",
+        "time": "8 h"
+      }
+    },
+    {
+      "name": "re-DMF sample 1'",
+      "synthesis_conditions": {
+        "precursor": "de-DMF sample 2",
+        "solvent": "DMF",
+        "temperature": "room temperature",
+        "time": "48 h"
+      }
+    }
+  ]
+}
+
+The key synthesis conditions extracted are:
+
+1. For [Mn(Me-ip)(DMF)]n (1):
+- Reactants: Mn(CH3COO)2·4H2O (0.25 mmol, 0.061 g), 5-methylisophthalic acid (0.50 mmol, 0.089 g), LiNO3 (0.50 mmol, 0.035 g)  
+- Solvent: 5 ml DMF
+- Temperature: 160°C
+- Time: 2 days
+- Pressure: autogenous pressure
+- Product: colorless needle-like crystals
+- Yield: 68 mg (89% based on Mn)
+
+2. For de-DMF sample 2:
+- Precursor: sample 1
+- Temperature: 250°C 
+- Pressure: vacuum
+- Time: 8 h
+
+3. For re-DMF sample 1':
+- Precursor: de-DMF sample 2
+- Solvent: DMF
+- Temperature: room temperature 
+- Time: 48 

@@ -1,0 +1,61 @@
+
+{
+  "AQNU-4": {
+    "reagents": [
+      {
+        "name": "2',5'-diethoxy-[1,1':4',1''-terphenyl]-4,4''-dicarboxylic acid",
+        "abbreviation": "DTDA",
+        "amount": "20.30 mg",
+        "molarAmount": "0.05 mmol"
+      },
+      {
+        "name": "terbium(III) chloride hexahydrate",
+        "formula": "TbCl3·6H2O",
+        "amount": "18.67 mg",
+        "molarAmount": "0.05 mmol"
+      }
+    ],
+    "solvent": {
+      "components": [
+        "DMF",
+        "CH3OH",
+        "H2O"  
+      ],
+      "ratio": "1:2:3",
+      "totalVolume": "6.0 mL"
+    },
+    "procedure": [
+      {
+        "step": "Mix reagents DTDA and TbCl3·6H2O in the mixed solvent of DMF/CH3OH/H2O"
+      },
+      {
+        "step": "Seal the mixture in a Teflon-lined stainless steel autoclave"  
+      },
+      {
+        "step": "Heat at 100 °C for 3 days under autogenous pressure"
+      },
+      {
+        "step": "Slowly cool to room temperature"
+      }
+    ],
+    "product": {
+      "appearance": "Large quantities of colorless columnar crystals",
+      "yield": "65% based on DTDA"  
+    },
+    "elementalAnalysis": {
+      "formula": "C39H57TbO20",
+      "elements": [
+        {
+          "symbol": "C",
+          "theoretical": "45.94%",
+          "actual": "45.47%"
+        },
+        {
+          "symbol": "H",  
+          "theoretical": "5.59%",
+          "actual": "5.38%"
+        }
+      ]
+    }
+  }
+}

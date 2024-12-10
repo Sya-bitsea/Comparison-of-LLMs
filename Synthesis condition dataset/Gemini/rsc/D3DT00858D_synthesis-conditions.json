@@ -1,0 +1,70 @@
+[
+    {
+        "material": "(Ph4P)[FeIIFeIII(dto)3] (2)",
+        "synthesis_method": "Not mentioned",
+        "temperature": "Not mentioned",
+        "time": "Not mentioned",
+        "yield": "79%",
+        "solvents": [
+            {
+                "solvent": "Not mentioned",
+                "amount": "Not mentioned"
+            }
+        ],
+        "chemicals_used": [
+            {
+                "chemical": "(anilinium)3[FeIII(dto)3](H2O)",
+                "amount": "Not mentioned"
+            },
+            {
+                "chemical": "FeCl2\u00b74H2O",
+                "amount": "Not mentioned"
+            },
+            {
+                "chemical": "Ph4P bromide",
+                "amount": "Not mentioned"
+            }
+        ],
+        "equipment": "Not mentioned",
+        "washing_method": "Not mentioned",
+        "drying_method": "Not mentioned"
+    },
+    {
+        "material": "(nPrPh3P)[FeIIFeIII(dto)3] (3)",
+        "synthesis_method": "Liquid\u2013liquid diffusion method",
+        "temperature": "Ice bath",
+        "time": "15 minutes",
+        "yield": "27%",
+        "solvents": [
+            {
+                "solvent": "Water",
+                "amount": "19 mL"
+            },
+            {
+                "solvent": "Methanol",
+                "amount": "19 mL"
+            }
+        ],
+        "chemicals_used": [
+            {
+                "chemical": "(anilinium)3[FeIII(dto)3]\u00b73H2O",
+                "amount": "10 mmol L\u22121"
+            },
+            {
+                "chemical": "FeCl2\u00b74H2O",
+                "amount": "10 mmol L\u22121"
+            },
+            {
+                "chemical": "nPrPh3P bromide",
+                "amount": "10 mmol L\u22121"
+            },
+            {
+                "chemical": "Ascorbic Acid",
+                "amount": "Minute amount"
+            }
+        ],
+        "equipment": "Pasteur pipet with cotton",
+        "washing_method": "Not mentioned",
+        "drying_method": "Not mentioned"
+    }
+]

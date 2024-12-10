@@ -1,0 +1,69 @@
+
+{
+  "materials": [
+    {
+      "name": "[{(μ5-S)Fe3(CO)9}Cu2(dppm)(MeCN)] (1)",
+      "synthesis": {
+        "reagents": [
+          "[Et4N]2[SFe3(CO)9] (0.30 g, 0.42 mmol)",
+          "[Cu(MeCN)4][BF4] (0.27 g, 0.86 mmol)", 
+          "dppm (0.16 g, 0.40 mmol)"
+        ],
+        "solvent": "CH2Cl2 (30 mL)",
+        "temperature": "ice/water bath",
+        "time": "1 h",
+        "yield": "53% based on [Et4N]2[SFe3(CO)9]",
+        "purification": "filtered, solvent removed under vacuum, washed with deionized water, extracted with CH2Cl2, recrystallized with Hexanes/Et2O/CH2Cl2"
+      }
+    },
+    {
+      "name": "[{(μ3-S)Fe3(CO)9}Cu2(dppe)] (2)",
+      "synthesis": {
+        "reagents": [
+          "[Et4N]2[SFe3(CO)9] (0.60 g, 0.84 mmol)",
+          "[Cu(MeCN)4][BF4] (0.54 g, 1.72 mmol)",
+          "dppe (0.33 g, 0.83 mmol)"
+        ],
+        "solvent": "CH2Cl2 (30 mL)", 
+        "temperature": "ice/water bath",
+        "time": "3 hours",
+        "yield": "55% based on dppe",
+        "purification": "filtered, solvent removed under vacuum, washed with deionized water, extracted with CH2Cl2, recrystallized with Hexanes/Et2O/CH2Cl2"
+      }
+    },
+    {
+      "name": "[{(μ4-S)Fe3(CO)9}Cu2(dppe)(MeCN)2]n (3)",
+      "synthesis": {
+        "method1": {
+          "reagents": [
+            "2 (0.23 g, 0.24 mmol)"
+          ],
+          "solvent": "MeCN (5.0 mL), Hexanes/THF",
+          "yield": "83% based on 2"
+        },
+        "method2": {
+          "reagents": [
+            "brownish-black crystals of 2 (0.01 g, 0.01 mmol)"  
+          ],
+          "conditions": "exposed to MeCN vapor for 1 day",
+          "product": "reddish-brown product obtained and ground into powder"
+        },
+        "method3": {
+          "reagents": [
+            "powder 2 (0.01 g, 0.01 mmol)"
+          ],
+          "conditions": "ground with one drop of MeCN in a mortar and pestle",
+          "product": "reddish-brown product of 3 obtained"
+        }
+      }
+    }
+  ],
+  "conversion": [
+    {
+      "from": "3",
+      "to": "2",
+      "method": "mechanochemical reaction - powder 3 (0.01 g, 0.009 mmol) ground with drops of CH2Cl2 or THF in a mortar and pestle",
+      "observation": "color changed from reddish-brown to brownish-black"
+    }
+  ]
+}

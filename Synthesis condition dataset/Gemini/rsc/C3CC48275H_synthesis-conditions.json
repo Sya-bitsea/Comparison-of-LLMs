@@ -1,0 +1,39 @@
+{
+    "material": "Zr6(m3-O)4(OH)4(bpdc)12 (UiO(bpdc))",
+    "synthesis": [
+        {
+            "chemicals": "2,2-bipyridine-5,50-dicarboxylate (bpdc)",
+            "amount": "48 mg, 0.2 mmol"
+        },
+        {
+            "chemicals": "ZrCl4",
+            "amount": "46.6 mg, 0.2 mmol"
+        },
+        {
+            "chemicals": "DMA",
+            "amount": "12 ml"
+        },
+        {
+            "chemicals": "benzoic  acid",
+            "amount": "1.5 g",
+            "purpose": "modulate  agent"
+        },
+        {
+            "temperature": "413 K",
+            "time": "72 hours"
+        },
+        {
+            "washing": "DMA"
+        },
+        {
+            "other_conditions": "cooled  to  room \ntemperature  at  a  rate  of  0.3  K/min"
+        },
+        {
+            "chemicals": "ethanol",
+            "purpose": "Soxhlet-extraction",
+            "other_conditions": "After Soxhlet-extraction, the treated sample was loaded into IGA apparatus and heated to 393 K under ultrahigh vacuum (10-7 mbar)"
+        }
+    ],
+    "characterization": [],
+    "properties": []
+}

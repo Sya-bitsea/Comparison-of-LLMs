@@ -1,0 +1,89 @@
+{
+    "BUT-8(Cr)": {
+        "chemicals used": [
+            "Cr(NO3)3\u00b79H2O",
+            "H2NDC(SO3H)2",
+            "hydrofluoric acid (~47 wt% aqueous solution)",
+            "DMF"
+        ],
+        "amounts": [
+            "400 mg",
+            "376 mg",
+            "110 \u03bc l",
+            "6 ml"
+        ],
+        "time": "24 h",
+        "temperature": "190 \u00b0C",
+        "washing method": "The green powder of the target MOF, BUT-8(Cr), was separated from the mixture by following a simple procedure: the resulting mixture was stirred in DMF and then left for about one minute to allow all of the single crystals to settle; then, the suspension with the green powder was carefully sucked out using a straw. The green solid was then collected from the suspension by centrifugation and washed with DMF (50 ml). The obtained solid was further soaked in hot DMF (100 ml, 80 \u00b0C) for 24 h and then collected and washed three times with DMF. The DMF-washed sample was further soaked in water (200 ml) for 24 h at room temperature and then washed three times with fresh water to obtain the freshly made BUT-8(Cr) sample. Finally, the freshly made product was washed with methanol and dried under a vacuum at 60 \u00b0C for 12 h to obtain dried BUT-8(Cr)."
+    },
+    "BUT-8(Cr)A": {
+        "chemicals used": [
+            "freshly made BUT-8(Cr)",
+            "0.5 M sulfuric acid aqueous solution",
+            "water",
+            "methanol"
+        ],
+        "amounts": [
+            "500 mg",
+            "200 ml",
+            "100 ml"
+        ],
+        "time": "24 h",
+        "washing method": "To obtain BUT-8(Cr)A, the freshly made BUT-8(Cr) sample (500 mg) was washed three times with 0.5 M sulfuric acid aqueous solution (200 ml), and then soaked in 0.5 M sulfuric acid aqueous solution (100 ml) for 24 h. This impregnation process was repeated at least three times. Then, the sample was collected through centrifugation, and washed with water three times. The obtained sample was alternately soaked three times in water (100 ml each time, for 24 h) and two times in methanol (100 ml each time, for 12 h). Finally, the sample was washed with fresh water to obtain the freshly made BUT-8(Cr)A sample, which was further washed with methanol and dried at 60 \u00b0C under a vacuum for 24 h to obtain dried BUT-8(Cr)A"
+    },
+    "BUT-8(Al)": {
+        "chemicals used": [
+            "Al(NO3)3\u00b79H2O",
+            "H2NDC(SO3H)2",
+            "trifluoroacetic acid (TFA)",
+            "DMF"
+        ],
+        "amounts": [
+            "19 mg",
+            "19 mg",
+            "0.2 ml",
+            "2 ml"
+        ],
+        "time": "72 h",
+        "temperature": "150 \u00b0C",
+        "washing method": "Block-shaped colourless single crystals (as the freshly made sample) were obtained through filtration. For general characterization, the obtained sample was washed with DMF and acetone in sequence, and dried at 60 \u00b0C under a vacuum for 24 h."
+    },
+    "MIL-101-SO3H": {
+        "chemicals used": [
+            "Cr(NO3)3\u00b79H2O",
+            "H2BDC-SO3Na",
+            "deionized water",
+            "hydrofluoric acid (~47wt%)"
+        ],
+        "amounts": [
+            "2.00 g",
+            "2.70 g",
+            "30 ml",
+            "0.3 g"
+        ],
+        "time": "24 h",
+        "temperature": "190 \u00b0C",
+        "washing method": "After the reaction system was cooled down to room temperature, the green powder was collected by centrifugation and washed with deionized water five times. Finally, the product was collected and dried in air at 100 \u00b0C for 12 h.",
+        "equipment": "100 ml Teflon-lined stainless-steel autoclave"
+    },
+    "H2NDC(SO3H)2": {
+        "chemicals used": [
+            "fuming sulfuric acid",
+            "H2NDC",
+            "deionized water",
+            "concentrated hydrochloric acid"
+        ],
+        "amounts": [
+            "100 ml",
+            "30.00 g",
+            "50 ml",
+            "200 ml",
+            "20 ml",
+            "100 ml"
+        ],
+        "time": "24 h",
+        "temperature": "140 \u00b0C",
+        "washing method": "After cooling down to room temperature, the mixture was dissolved in deionized water (50 ml), and then the target product, H2NDC(SO3H)2, was precipitated using concentrated hydrochloric acid (200 ml). After collection by centrifugation and drying at 80 \u00b0C for 12 h, the obtained white power was again dissolved in deionized water (20 ml) and then precipitated with concentrated hydrochloric acid (100 ml) following a centrifugation process. This dissolution\u2013precipitation process was repeated at least three times to ensure the residual H2SO4 was removed. Finally, the obtained H2NDC(SO3H)2 was dried at 80 \u00b0C for 12 h.",
+        "equipment": "250 ml three-neck flask"
+    }
+}

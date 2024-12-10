@@ -1,0 +1,360 @@
+[
+    {
+        "material": "[Cu2Br2(AsPh3)2(prz)]n",
+        "synthesis_method": "spontaneous evaporation",
+        "chemicals_used": [
+            {
+                "name": "AsPh3",
+                "amount": "6.5 mg",
+                "solvent": "Acetonitrile",
+                "solvent_amount": "10.0 ml"
+            },
+            {
+                "name": "prz",
+                "amount": "0.01 mmol",
+                "solvent": "Acetonitrile",
+                "solvent_amount": "1.0 ml"
+            },
+            {
+                "name": "CuBr",
+                "amount": "3.0 mg",
+                "solvent": "Acetonitrile",
+                "solvent_amount": null
+            }
+        ],
+        "time": "a few days",
+        "product_form": "orange crystals",
+        "yield": "62%",
+        "washing_method": null,
+        "drying_method": null
+    },
+    {
+        "material": "[Cu2Br2(AsPh3)2(bpy)]n",
+        "synthesis_method": "spontaneous evaporation",
+        "chemicals_used": [
+            {
+                "name": "AsPh3",
+                "amount": "6.5 mg",
+                "solvent": "Acetonitrile",
+                "solvent_amount": "10.0 ml"
+            },
+            {
+                "name": "bpy",
+                "amount": "0.01 mmol",
+                "solvent": "Acetonitrile",
+                "solvent_amount": "1.0 ml"
+            },
+            {
+                "name": "CuBr",
+                "amount": "3.0 mg",
+                "solvent": "Acetonitrile",
+                "solvent_amount": null
+            }
+        ],
+        "time": "a few days",
+        "product_form": "yellow crystals",
+        "yield": "32%",
+        "washing_method": null,
+        "drying_method": null
+    },
+    {
+        "material": "[Cu2Br2(AsPh3)2(nap)]n",
+        "synthesis_method": "spontaneous evaporation",
+        "chemicals_used": [
+            {
+                "name": "AsPh3",
+                "amount": "6.5 mg",
+                "solvent": "Acetonitrile",
+                "solvent_amount": "10.0 ml"
+            },
+            {
+                "name": "nap",
+                "amount": "0.01 mmol",
+                "solvent": "Acetonitrile",
+                "solvent_amount": "1.0 ml"
+            },
+            {
+                "name": "CuBr",
+                "amount": "3.0 mg",
+                "solvent": "Acetonitrile",
+                "solvent_amount": null
+            }
+        ],
+        "time": "a few days",
+        "product_form": "orange-yellow crystals",
+        "yield": "97%",
+        "washing_method": null,
+        "drying_method": null
+    },
+    {
+        "material": "[Cu2Br2(AsPh3)2(meprz)]n",
+        "synthesis_method": "spontaneous evaporation",
+        "chemicals_used": [
+            {
+                "name": "AsPh3",
+                "amount": "6.5 mg",
+                "solvent": "Acetonitrile",
+                "solvent_amount": "10.0 ml"
+            },
+            {
+                "name": "meprz",
+                "amount": "0.01 mmol",
+                "solvent": null,
+                "solvent_amount": null
+            },
+            {
+                "name": "CuBr",
+                "amount": "3.0 mg",
+                "solvent": "Acetonitrile",
+                "solvent_amount": null
+            }
+        ],
+        "time": "a few days",
+        "product_form": "yellow crystals",
+        "yield": "81%",
+        "washing_method": null,
+        "drying_method": null
+    },
+    {
+        "material": "[Cu2Br2(AsPh3)2(dimeprz)]n",
+        "synthesis_method": "spontaneous evaporation",
+        "chemicals_used": [
+            {
+                "name": "AsPh3",
+                "amount": "6.5 mg",
+                "solvent": "Acetonitrile",
+                "solvent_amount": "10.0 ml"
+            },
+            {
+                "name": "dimeprz",
+                "amount": "0.01 mmol",
+                "solvent": null,
+                "solvent_amount": null
+            },
+            {
+                "name": "CuBr",
+                "amount": "3.0 mg",
+                "solvent": "Acetonitrile",
+                "solvent_amount": null
+            }
+        ],
+        "time": "a few days",
+        "product_form": "yellow crystals",
+        "yield": "91%",
+        "washing_method": null,
+        "drying_method": null
+    },
+    {
+        "material": "[Cu2Br2(AsPh3)2(pym)]n",
+        "synthesis_method": "spontaneous evaporation",
+        "chemicals_used": [
+            {
+                "name": "AsPh3",
+                "amount": "6.5 mg",
+                "solvent": "Acetonitrile",
+                "solvent_amount": "10.0 ml"
+            },
+            {
+                "name": "pym",
+                "amount": "0.01 mmol",
+                "solvent": null,
+                "solvent_amount": null
+            },
+            {
+                "name": "CuBr",
+                "amount": "3.0 mg",
+                "solvent": "Acetonitrile",
+                "solvent_amount": null
+            }
+        ],
+        "time": "a few days",
+        "product_form": "yellow crystals",
+        "yield": "70%",
+        "washing_method": null,
+        "drying_method": null
+    },
+    {
+        "material": "[Cu2I2(AsPh3)2(prz)]n",
+        "synthesis_method": "spontaneous evaporation",
+        "chemicals_used": [
+            {
+                "name": "AsPh3",
+                "amount": "16.0 mg",
+                "solvent": "Acetonitrile",
+                "solvent_amount": "10.0 ml"
+            },
+            {
+                "name": "prz",
+                "amount": "0.025 mmol",
+                "solvent": "Acetonitrile",
+                "solvent_amount": "2.5 ml"
+            },
+            {
+                "name": "CuI",
+                "amount": "10.0 mg",
+                "solvent": "Acetonitrile",
+                "solvent_amount": null
+            }
+        ],
+        "time": "a few days",
+        "product_form": "orange crystals",
+        "yield": "98%",
+        "washing_method": null,
+        "drying_method": null
+    },
+    {
+        "material": "[Cu2I2(AsPh3)2(bpy)]n",
+        "synthesis_method": "spontaneous evaporation",
+        "chemicals_used": [
+            {
+                "name": "AsPh3",
+                "amount": "16.0 mg",
+                "solvent": "Acetonitrile",
+                "solvent_amount": "10.0 ml"
+            },
+            {
+                "name": "bpy",
+                "amount": "0.025 mmol",
+                "solvent": "Acetonitrile",
+                "solvent_amount": "2.5 ml"
+            },
+            {
+                "name": "CuI",
+                "amount": "10.0 mg",
+                "solvent": "Acetonitrile",
+                "solvent_amount": null
+            }
+        ],
+        "time": "a few days",
+        "product_form": "yellow crystals",
+        "yield": "99%",
+        "washing_method": null,
+        "drying_method": null
+    },
+    {
+        "material": "[Cu2I2(AsPh3)2(nap)]n",
+        "synthesis_method": "spontaneous evaporation",
+        "chemicals_used": [
+            {
+                "name": "AsPh3",
+                "amount": "16.0 mg",
+                "solvent": "Acetonitrile",
+                "solvent_amount": "10.0 ml"
+            },
+            {
+                "name": "nap",
+                "amount": "0.025 mmol",
+                "solvent": "Acetonitrile",
+                "solvent_amount": "2.5 ml"
+            },
+            {
+                "name": "CuI",
+                "amount": "10.0 mg",
+                "solvent": "Acetonitrile",
+                "solvent_amount": null
+            }
+        ],
+        "time": "a few days",
+        "product_form": "yellow small crystals and powder",
+        "yield": "89%",
+        "washing_method": null,
+        "drying_method": null
+    },
+    {
+        "material": "[Cu2I2(AsPh3)2(meprz)]n",
+        "synthesis_method": "spontaneous evaporation",
+        "chemicals_used": [
+            {
+                "name": "AsPh3",
+                "amount": "16.0 mg",
+                "solvent": "Acetonitrile",
+                "solvent_amount": "10.0 ml"
+            },
+            {
+                "name": "meprz",
+                "amount": "0.025 mmol",
+                "solvent": null,
+                "solvent_amount": null
+            },
+            {
+                "name": "CuI",
+                "amount": "10.0 mg",
+                "solvent": "Acetonitrile",
+                "solvent_amount": null
+            }
+        ],
+        "time": "a few days",
+        "product_form": "yellow crystals",
+        "yield": "94%",
+        "washing_method": null,
+        "drying_method": null
+    },
+    {
+        "material": "[Cu2I2(AsPh3)2(dimeprz)]n",
+        "synthesis_method": "spontaneous evaporation",
+        "chemicals_used": [
+            {
+                "name": "AsPh3",
+                "amount": "16.0 mg",
+                "solvent": "Acetonitrile",
+                "solvent_amount": "10.0 ml"
+            },
+            {
+                "name": "dimeprz",
+                "amount": "0.025 mmol",
+                "solvent": null,
+                "solvent_amount": null
+            },
+            {
+                "name": "CuI",
+                "amount": "10.0 mg",
+                "solvent": "Acetonitrile",
+                "solvent_amount": null
+            }
+        ],
+        "time": "a few days",
+        "product_form": "yellow crystals",
+        "yield": "99%",
+        "washing_method": null,
+        "drying_method": null
+    },
+    {
+        "material": "[Cu2I2(AsPh3)2(pym)]n",
+        "synthesis_method": "spontaneous evaporation",
+        "chemicals_used": [
+            {
+                "name": "AsPh3",
+                "amount": "16.0 mg",
+                "solvent": "Acetonitrile",
+                "solvent_amount": "10.0 ml"
+            },
+            {
+                "name": "pym",
+                "amount": "0.025 mmol",
+                "solvent": null,
+                "solvent_amount": null
+            },
+            {
+                "name": "CuI",
+                "amount": "10.0 mg",
+                "solvent": "Acetonitrile",
+                "solvent_amount": null
+            }
+        ],
+        "time": "a few days",
+        "product_form": "yellow-green crystals",
+        "yield": "94%",
+        "washing_method": null,
+        "drying_method": null
+    },
+    {
+        "material": "[Cu2X2(PPh3)2(bpy)]n (X = Br, I)",
+        "synthesis_method": "The synthesis of this compound was performed according to the synthetic method reported in the previous study",
+        "chemicals_used": [],
+        "time": null,
+        "product_form": null,
+        "yield": null,
+        "washing_method": null,
+        "drying_method": null
+    }
+]

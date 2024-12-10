@@ -1,0 +1,54 @@
+s the machine readable .json file containing the synthesis conditions for [Fe3(HCOO)6]:
+
+{
+  "1-parent": {
+    "formula": "[Fe3(HCOO)6](CH3OH)1.5(H2O)0.5",
+    "synthesis": {
+      "method": "solution-diffusion",
+      "reagents": [
+        {
+          "chemical": "Fe(ClO4)2·6H2O",
+          "concentration": "0.40 M",
+          "solvent": "methanol",
+          "volume": "10 mL"
+        },
+        {
+          "chemical": "formic acid",
+          "concentration": "1.60 M",
+          "solvent": "methanol",
+          "volume": "10 mL"  
+        },
+        {
+          "chemical": "trimethylamine",
+          "concentration": "0.80 M",
+          "solvent": "methanol",
+          "volume": "10 mL"
+        }
+      ],
+      "procedure": [
+        "Place Fe(ClO4)2·6H2O methanol solution at bottom of glass tube",
+        "Carefully layer 3 mL methanol on top",
+        "Carefully layer formic acid and trimethylamine methanol solution on top",
+        "Seal tube and keep undisturbed"
+      ],
+      "yield": {
+        "percentage": 42,
+        "time": "1 week"
+      },
+      "productProcessing": [
+        "Wash with methanol",
+        "Dry in air"
+      ]
+    }
+  },
+  
+  "2-empty": {
+    "formula": "[Fe3(HCOO)6]",
+    "synthesis": {
+      "startingMaterial": "1-parent",
+      "procedure": [
+        "Heat 1-parent crystals at 90 °C under dynamic vacuum (10–2 Torr) for 10 h"
+      ],
+      "weightLoss": "12.1%"
+    }
+  }

@@ -1,0 +1,71 @@
+
+{
+  "TIFSIX-1-Cu": {
+    "formula": "[Cu(bipy)2(TiF6)]n",
+    "synthesis": {
+      "reagents": [
+        {
+          "chemical": "4,4'-bipyridine",
+          "amount": "0.15 mmol (23.4 mg)"
+        },
+        {
+          "chemical": "Cu(NO3)2·2.5H2O",
+          "amount": "0.076 mmol (17.7 mg)"
+        },
+        {
+          "chemical": "(NH4)2TiF6",
+          "amount": "0.076 mmol (15.0 mg)"
+        }
+      ],
+      "solvents": [
+        {
+          "solvent": "methanol",
+          "amount": "3 mL"
+        },
+        {
+          "solvent": "ethylene glycol",
+          "amount": "3 mL"  
+        }
+      ],
+      "method": "layering",
+      "temperature": "room temperature",
+      "time": "2 weeks",
+      "yield": "90.2%",
+      "product": "purple plate-shaped crystals"
+    }
+  },
+  "SNIFSIX-1-Cu": {
+    "formula": "[Cu(bipy)2(SnF6)]n",
+    "synthesis": {
+      "reagents": [
+        {
+          "chemical": "4,4'-bipyridine",
+          "amount": "0.11 mmol (17.2 mg)"
+        },
+        {
+          "chemical": "Cu(NO3)2·2.5H2O",
+          "amount": "0.056 mmol (13.0 mg)"
+        },
+        {
+          "chemical": "(NH4)2SnF6",
+          "amount": "0.056 mmol (15.1 mg)"
+        }
+      ],
+      "solvents": [
+        {
+          "solvent": "methanol",
+          "amount": "3 mL"
+        },
+        {
+          "solvent": "ethylene glycol",
+          "amount": "3 mL"
+        }
+      ],
+      "method": "layering",
+      "temperature": "room temperature", 
+      "time": "2 weeks",
+      "yield": "93.8%",
+      "product": "purple plate-shaped crystals"
+    }
+  }
+}

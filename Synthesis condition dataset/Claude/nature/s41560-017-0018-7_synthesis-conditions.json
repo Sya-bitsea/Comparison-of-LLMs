@@ -1,0 +1,45 @@
+s the machine readable .json file containing the synthesis conditions for BUT-8(Cr)A and BUT-8(Cr) from the given text:
+
+{
+  "BUT-8(Cr)": {
+    "reactants": {
+      "Cr(NO3)3·9H2O": {
+        "amount": "400 mg",
+        "molar amount": "1 mmol"
+      },
+      "H2NDC(SO3H)2": {
+        "amount": "376 mg", 
+        "molar amount": "1 mmol"
+      },
+      "hydrofluoric acid (~47 wt% aqueous solution)": {
+        "amount": "110 μl",
+        "molar amount": "2.6 × 10−3 mmol"
+      },
+      "DMF": "6 ml"
+    },
+    "synthesis procedure": {
+      "step 1": "Reactants were charged in a 20 ml Teflon-lined stainless-steel autoclave.",
+      "step 2": "The autoclave was heated at 190 °C for 24 h and then cooled down to room temperature spontaneously.",
+      "step 3": "A mixture of green powder and large bright-green single crystals was collected through filtration.",
+      "step 4": "The green powder of BUT-8(Cr) was separated from the mixture by stirring in DMF, allowing single crystals to settle, and collecting the suspension with green powder.",
+      "step 5": "The green solid was collected from the suspension by centrifugation and washed with DMF (50 ml).",
+      "step 6": "The obtained solid was further soaked in hot DMF (100 ml, 80 °C) for 24 h and then collected and washed three times with DMF.",
+      "step 7": "The DMF-washed sample was further soaked in water (200 ml) for 24 h at room temperature and then washed three times with fresh water to obtain the freshly made BUT-8(Cr) sample.",
+      "step 8": "The freshly made product was washed with methanol and dried under a vacuum at 60 °C for 12 h to obtain dried BUT-8(Cr)."
+    }
+  },
+  
+  "BUT-8(Cr)A": {
+    "reactants": {
+      "freshly made BUT-8(Cr) sample": "500 mg",
+      "0.5 M sulfuric acid aqueous solution": "200 ml"
+    },
+    "synthesis procedure": {
+      "step 1": "The freshly made BUT-8(Cr) sample was washed three times with 0.5 M sulfuric acid aqueous solution.",
+      "step 2": "The sample was soaked in 0.5 M sulfuric acid aqueous solution (100 ml) for 24 h. This impregnation process was repeated at least three times.",
+      "step 3": "The sample was collected through centrifugation, and washed with water three times.",
+      "step 4": "The obtained sample was alternately soaked three times in water (100 ml each time, for 24 h) and two times in methanol (100 ml each time, for 12 h).",
+      "step 5": "The sample was washed with fresh water to obtain the freshly made BUT-8(Cr)A sample.",
+      "step 6": "The freshly made BUT-8(Cr)A was further washed with methanol and dried at 60 °C under a vacuum for 24 h to obtain dried BUT-8(Cr)A."
+    }
+  }

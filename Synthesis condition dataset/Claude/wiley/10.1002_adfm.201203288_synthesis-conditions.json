@@ -1,0 +1,41 @@
+s the machine-readable .json file containing the synthesis conditions for the material in the given text:
+
+{
+    "materials": [
+        {
+            "name": "[La(BTB)H2O]·solvent (1⊃guest)",
+            "synthesis": {
+                "reactants": [
+                    {
+                        "chemical": "La(NO3)3·6H2O",
+                        "amount": "17.6 mg",
+                        "moles": "0.040 mmol"
+                    },
+                    {
+                        "chemical": "1,3,5-tris(4-carboxyphenyl)benzene (H3BTB)",
+                        "amount": "6 mg", 
+                        "moles": "0.0136 mmol"
+                    }
+                ],
+                "solvents": [
+                    "DMF/MeOH/H2O (3:3:0.5)",
+                    {
+                        "solvent": "DMF/MeOH/H2O",
+                        "ratio": "3:3:0.5",
+                        "amount": "2 mL"
+                    }
+                ],
+                "conditions": {
+                    "temperature": "80 °C",
+                    "time": "two days"
+                },
+                "yield": "63% (based on the ligand)",
+                "product": {
+                    "appearance": "colourless needle crystals"
+                }
+            },
+            "activation": {
+                "method": "The solvent-exchanged sample (about 100 mg) was prepared by immersing the as-synthesized samples in methanol for three days to remove the nonvolatile solvents, and the extract was decanted every 8 h and fresh methanol was replaced. The completely activated sample was obtained by heating the solvent-exchanged sample at 130 °C under a dynamic high vacuum for 30 h."
+            }
+        }
+    ]

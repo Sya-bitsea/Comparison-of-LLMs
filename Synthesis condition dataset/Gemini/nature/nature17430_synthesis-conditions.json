@@ -1,0 +1,92 @@
+{
+    "DUT-49": {
+        "chemicals used": [
+            "Cu(NO3)2\u00b73H2O",
+            "N-methyl-2-pyrrolidone (NMP)",
+            "ethanol (anhyd.)",
+            "H4BBCDC (9,9'-([1,1'-biphenyl]-4,4'-diyl)bis(9H-carbazole-3,6-dicarboxylic acid))"
+        ],
+        "chemicals amount": [
+            "2 g H4BBCDC",
+            "360 ml of NMP",
+            "1.53 g Cu(NO3)2\u03873H2O"
+        ],
+        "solvent": [
+            "NMP",
+            "Ethanol"
+        ],
+        "temperature": [
+            "80 \u00b0C",
+            "60 \u00b0C",
+            "50 \u00b0C"
+        ],
+        "time": [
+            "24 h",
+            "5 days",
+            "3 hours",
+            "24 hours"
+        ],
+        "equipment": [
+            "500 ml Schott bottle",
+            "Sonicator",
+            "Jumbo Critical Point Dryer 13200J AB",
+            "glass filter frits",
+            "autoclave",
+            "Schlenk-tube"
+        ],
+        "washing method": [
+            "The green precipitate was washed with fresh NMP several times until the solvent appeared colorless.",
+            "The NMP was replaced by ethanol during multiple washing cycles"
+        ],
+        "drying method": [
+            "supercritical CO2",
+            "The supercritical CO2 was steadily released over 3 hours and the dry powder was transferred and stored in an argon filled glove box.",
+            "additional activation at 50 \u00b0C in a Schlenk-tube under dynamic vacuum of 10-3 mbar for 24 hours was performed"
+        ],
+        "other": [
+            "The ligand 9,9'-([1,1'-biphenyl]-4,4'-diyl)bis(9H-carbazole-3,6-dicarboxylic acid) H4BBCDC was synthesized following a procedure previously reported by our group.",
+            "To obtain crystallites small enough for the in situ PXRD investigations a slightly different synthetic protocol was used to synthesize DUT-49:",
+            "DUT-49 powder suspended in ethanol was placed in glass filter frits in a Jumbo Critical Point Dryer 13200J AB (SPI Supplies) which was subsequently filled with liquid CO2 (99.995% purity) at 15 \u00b0C and 50 bar.",
+            "To ensure a complete substitution of ethanol by CO2, the liquid in the autoclave was exchanged with fresh CO2 18 times over a period of 5 days using a valve at the bottom.",
+            "The temperature and pressure was then raised beyond the supercritical point of CO2 to 35 \u00b0C and 100 bar and kept until the temperature and pressure was constant.",
+            "To ensure a complete removal of ethanol (especially from the open metal sites of the Cu-paddle-wheels) additional activation at 50 \u00b0C in a Schlenk-tube under dynamic vacuum of 10-3 mbar for 24 hours was performed."
+        ],
+        "yield": "53 % (1.28 g)"
+    },
+    "DUT-49op": {
+        "temperature": [
+            "150 \u00b0C"
+        ],
+        "time": [
+            "3 h"
+        ],
+        "other": [
+            "DUT-49 samples were transferred into the measuring cells in a glove-box under Ar-atmosphere (H2O, O2 < 0.1 ppm).",
+            "Before each adsorption experiment the sample was treated at 150 \u00b0C in vacuum for 3 h.",
+            "After the measurement the samples were transferred back into the glove-box."
+        ]
+    },
+    "CH4@DUT-49op": {
+        "temperature": [
+            "298 K",
+            "111 K"
+        ],
+        "time": [
+            "12 h"
+        ],
+        "pressure": [
+            "100 kPa"
+        ],
+        "other": [
+            "removal of methane from CH4@DUT-49op can be achieved by increasing the temperature from 111 K to 298 K at constant methane pressure of 100 kPa (this should prevent a transformation back to DUT-49cp) and subsequent removal of the methane in dynamic vacuum for 12 h."
+        ]
+    },
+    "Corundum": {
+        "Crystallite Size": [
+            "5 \u00b5m"
+        ],
+        "other": [
+            "Corundum powder with a crystallite size of 5 \u00b5m was used as an external standard."
+        ]
+    }
+}

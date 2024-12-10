@@ -1,0 +1,49 @@
+s the machine readable .json file containing the synthesis conditions for the given text:
+
+{
+    "complex_1": {
+        "reagents": [
+            {
+                "chemical": "Fe(ClO4)2·6H2O",
+                "amount": "0.05 mmol"
+            },
+            {
+                "chemical": "(Bu4N)3W(CN)8·2H2O", 
+                "amount": "0.05 mmol"
+            },
+            {
+                "chemical": "bib ligand",
+                "amount": "0.1 mmol"
+            }
+        ],
+        "solvents": [
+            {
+                "solvent": "water",
+                "amount": "1.0 ml"
+            },
+            {
+                "solvent": "methanol/water (1:1, v/v)",
+                "amount": "3 ml"
+            },
+            {
+                "solvent": "methanol",
+                "amount": "1.0 ml"  
+            }
+        ],
+        "method": "layering",
+        "steps": [
+            "A 1.0 ml aqueous solution that contained 0.05 mmol of Fe(ClO4)2·6H2O was placed at the bottom of a test tube",
+            "A buffer solution mixture of methanol and water (1:1, v/v, 3 ml) was gently layered on the top of the solution",
+            "1.0 ml of methanol solution that contained 0.05 mmol of (Bu4N)3W(CN)8·2H2O and 0.1 mmol of the bib ligand was added as the third layer"
+        ],
+        "crystallization_time": "several weeks",
+        "yield": "63% based on Fe(ClO4)2·6H2O"
+    },
+    "57Fe_enriched_complex_1": {
+        "reagents": [
+            {
+                "chemical": "57Feii-enriched ions"
+            }
+        ],
+        "method": "same as complex 1"
+    }

@@ -1,0 +1,88 @@
+s the machine readable .json file containing the synthesis conditions for the materials in the given text:
+
+{
+    "NU-1500-Al": {
+        "chemicals": [
+            "AlCl3∙6H2O (90 mg, 0.373 mmol)",
+            "H6PET (30 mg, 0.031 mmol)"
+        ],
+        "solvents": [
+            "N,N-dimethylformamide (DMF) (5 mL)", 
+            "acetonitrile (5 mL)",
+            "acetic acid (3 mL)"
+        ],
+        "procedure": [
+            "Mix AlCl3∙6H2O and H6PET in 5 mL DMF, 5 mL acetonitrile and 3 mL acetic acid in a 34 mL Pyrex vial",
+            "Sonicate the mixture for 30 min",
+            "Seal the vial and heat to 150°C for 18 h",
+            "Centrifuge the white crystalline powder at 7000 rpm for 20 min",
+            "Wash the powder with DMF 3x",
+            "Soak the powder in DMF overnight", 
+            "Wash the crystals in acetone 6x",
+            "Soak the crystals in acetone for two days",
+            "Activate the acetone-exchanged samples under vacuum at 120 °C for 12 hours"
+        ],
+        "yield": "~38 mg"
+    },
+    "NU-1501-Fe (single crystals)": {
+        "chemicals": [
+            "FeCl3∙6H2O (60 mg, 0.222 mmol)",
+            "H6(PET-2) (30 mg, 0.021 mmol)"
+        ],
+        "solvents": [
+            "DMF (6 mL)",
+            "trifluoroacetic acid (TFA) (0.6 mL)"
+        ],
+        "procedure": [
+            "Dissolve FeCl3∙6H2O and H6(PET-2) in 6 mL DMF and 0.6 mL TFA in a 34 mL Pyrex vial",
+            "Sonicate the mixture for 10 min",
+            "Seal the vial and heat to 150 °C for 12 h",
+            "Harvest the yellow-orange hexagonal block crystals",
+            "Wash the crystals with DMF 6x over three days",
+            "Wash the crystals with ethanol (EtOH) 6x over three days",
+            "Activate the crystals by supercritical CO2",
+            "Evacuate under vacuum at 40 °C for 12 hours"
+        ],
+        "yield": "~41 mg"
+    },
+    "NU-1501-Al": {
+        "chemicals": [
+            "AlCl3∙6H2O (60 mg, 0.249 mmol)",
+            "H6(PET-2) (30 mg, 0.021 mmol)"
+        ],
+        "solvents": [
+            "DMF (4 mL)",
+            "acetonitrile (4 mL)",
+            "acetic acid (2 mL)"
+        ],
+        "procedure": [
+            "Mix AlCl3∙6H2O and H6(PET-2) in 4 mL DMF, 4 mL acetonitrile and 2 mL acetic acid in a 34 mL Pyrex vial",
+            "Sonicate the mixture for 60 min",
+            "Seal the vial and heat to 150 °C for 18 h",
+            "Centrifuge the white crystalline powder at 7800 rpm for 20 min",
+            "Wash the powder with DMF 3x",
+            "Soak the powder in DMF overnight",
+            "Wash the crystals with EtOH 6x over three days",
+            "Activate the crystals by supercritical CO2",
+            "Evacuate under vacuum at 40 °C for 12 hours"
+        ],
+        "yield": "~35 mg"
+    },
+    "NU-1501-Al (single crystals)": {
+        "chemicals": [
+            "AlCl3∙6H2O (1 mg in 0.1 mL DMF from stock solutions, 0.004 mmol)",
+            "H6(PET-2) (1 mg in 0.5 mL DMF from stock solutions, 0.010 mmol)"
+        ],
+        "solvents": [
+            "DMF (from stock solutions)",
+            "CH3CN (0.2 mL)",
+            "acetic acid (0.5 mL)"
+        ],
+        "procedure": [
+            "Mix AlCl3∙6H2O and H6(PET-2) stock solutions in a 9 mL Pyrex vial",
+            "Add 0.2 ml CH3CN and 0.5 mL acetic acid to the mixture",
+            "Sonicate for 5 min",
+            "Seal the vial and heat to 150 °C for 2 days"
+        ],
+        "product": "Colorless hexagonal block crystals were obtained and used for single crystal X-ray diffraction measurements"
+    }

@@ -1,0 +1,39 @@
+s the synthesis information for the cadmium metal-organic framework (CdSDB) extracted from the main text and supplementary information, formatted as a JSON file:
+
+{
+  "CdSDB": {
+    "reactants": [
+      {
+        "chemical": "cadmium nitrate tetrahydrate",
+        "formula": "Cd(NO3)2·4H2O", 
+        "purity": "98%",
+        "supplier": "Aldrich",
+        "amount": "0.001 moles (0.310 g)"
+      },
+      {
+        "chemical": "4,4'-sulfonyldibenzoic acid",
+        "formula": "4,4'-SDB",
+        "purity": "98%", 
+        "supplier": "Sigma-Aldrich",
+        "amount": "0.001 moles (0.296 g)"
+      },
+      {
+        "chemical": "ethanol",
+        "purity": "95%",
+        "supplier": "Fisher-Scientific",  
+        "amount": "12 grams"
+      }
+    ],
+    "synthesis": {
+      "description": "A mixture of 0.001 moles of Cd(NO3)2 . 4H2O (0.310 g) and 0.001 moles of 4,4'-SDB (0.296 g) were dissolved in 12 grams of ethanol and stirred for 2 hours to achieve homogeneity. The resultant solution was heated at 180°C for 4 days in a Teflon lined stainless steel Parr autoclave.",
+      "temperature": "180°C",
+      "time": "4 days",
+      "equipment": "Teflon lined stainless steel Parr autoclave"
+    },
+    "product": {
+      "appearance": "Colorless needle shaped crystals",
+      "yield": "~60% (0.320g)",
+      "washing": "washed with ethanol"
+    },
+    "notes": "The water occupying the pores comes from the 95% ethanol solvent and from Cd(NO3)2 reactant."
+  }

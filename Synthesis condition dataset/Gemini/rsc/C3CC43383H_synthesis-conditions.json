@@ -1,0 +1,30 @@
+{
+    "material_1": {
+        "name": "(Et2NH2)-[In(BCBAIP)] 4DEF 4EtOH",
+        "alias": "1",
+        "synthesis_method": "solvothermal",
+        "chemicals": [
+            {
+                "name": "InCl3 6H2O",
+                "amount": "45 mg"
+            },
+            {
+                "name": "H4BCBAIP",
+                "amount": "40 mg"
+            },
+            {
+                "name": "N,N-diethylformamide",
+                "alias": "DEF",
+                "amount": "2 mL"
+            },
+            {
+                "name": "C2H5OH",
+                "alias": "EtOH",
+                "amount": "0.5 mL"
+            }
+        ],
+        "temperature": "95 \u00b0C",
+        "time": "72 h",
+        "product": "Light brown block shaped crystals"
+    }
+}

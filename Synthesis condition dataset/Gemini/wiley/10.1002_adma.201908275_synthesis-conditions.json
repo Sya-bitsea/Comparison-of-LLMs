@@ -1,0 +1,22 @@
+{
+    "ZJU-74": {
+        "Synthesis_method": "Direct mixing",
+        "Chemicals_used": [
+            "Co(NO3)2\u00b76H2O",
+            "pyrazine",
+            "K2[Ni(CN)4]\u00b7nH2O"
+        ],
+        "Solvent": [
+            "methanol",
+            "water"
+        ],
+        "Time": "3 h",
+        "Temperature": "30 \u00b0C",
+        "Yield": "78%",
+        "Product_color": "light pink",
+        "Product_morphology": "precipitate"
+    },
+    "ZJU-74a": {
+        "Activation_details": "The fresh powder samples were first solvent-exchanged with dry acetone at least 10 times within two days, and evacuated at room temperature (296 K) for 24 h and further at 363 K for 12 h until the outgas rate was 5 mmHg min\u22121 prior to measurements."
+    }
+}

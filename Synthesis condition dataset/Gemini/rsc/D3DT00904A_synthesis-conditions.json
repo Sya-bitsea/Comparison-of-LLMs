@@ -1,0 +1,65 @@
+[
+    {
+        "material": "LO",
+        "synthesis": {
+            "chemicals used": [
+                "CdCl2\u00b72H2O"
+            ],
+            "solvents": [
+                "EtOH"
+            ],
+            "temperature": "60 \u00b0C",
+            "time": "two hours",
+            "washing method": "The precipitate was filtered off, washed with water",
+            "drying method": "dried in a vacuum desiccator",
+            "yield": "54%"
+        }
+    },
+    {
+        "material": "[CdLOCl2]n\u00b7nH2O",
+        "synthesis": {
+            "crystallization": "Single crystals of [CdLOCl2]n\u00b7nH2O were obtained by slow crystallization at room temperature from the supernatant."
+        }
+    },
+    {
+        "material": "ZnLOCl2\u00b72.5H2O",
+        "synthesis": {
+            "chemicals used": [
+                "LO",
+                "ZnCl2"
+            ],
+            "solvents": [
+                "MeCN/CH2Cl2 mixture (4 mL/1 mL)",
+                "EtOH (2 mL)"
+            ],
+            "product": "a light yellow precipitate of the complex",
+            "washing method": "The powder was filtered off, washed with a MeCN/CH2Cl2/EtOH mixture",
+            "drying method": "dried in a vacuum desiccator",
+            "yield": "42%"
+        }
+    },
+    {
+        "material": "[ZnLOCl2]\u00b7MeCN",
+        "synthesis": {
+            "crystallization": "Single crystals of the acetonitrile solvate of the complex, [ZnLOCl2]\u00b7MeCN, were obtained by slow crystallization at room temperature from the supernatant."
+        }
+    },
+    {
+        "material": "CdLOCl2\u00b70.5H2O",
+        "synthesis": {
+            "chemicals used": [
+                "LO",
+                "CdCl2\u00b72.5H2O"
+            ],
+            "solvents": [
+                "EtOH (4 mL)",
+                "EtOH (2 mL)"
+            ],
+            "temperature": "60 \u00b0C",
+            "time": "two hours",
+            "washing method": "The precipitate was filtered o\ufb00, washed with water",
+            "drying method": "dried in a vacuum desiccator",
+            "yield": "55%"
+        }
+    }
+]

@@ -1,0 +1,41 @@
+
+{
+  "La(hfac)3(boaDTDA)": {
+    "reagents": [
+      {
+        "chemical": "La(hfac)3(DME)",
+        "amount": "0.2300 g",
+        "mmol": 0.2705
+      },
+      {
+        "chemical": "boaDTDA",
+        "amount": "0.0591 g", 
+        "mmol": 0.266
+      }
+    ],
+    "solvent": "anhydrous CH2Cl2",
+    "solvent_amount": "20 mL",
+    "atmosphere": "argon",
+    "stirring": {
+      "time": "40 min"
+    },
+    "workup": [
+      {
+        "step": "solvent removal",
+        "conditions": "reduced pressure"
+      },
+      {
+        "step": "sublimation",
+        "conditions": {
+          "temperature": "120 °C",
+          "pressure": "10-2 Torr"
+        },
+        "yield": {
+          "amount": "0.0550 g",
+          "percent": 21
+        }
+      }
+    ],
+    "product_form": "green needles"
+  }
+}

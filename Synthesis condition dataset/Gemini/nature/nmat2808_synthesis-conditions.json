@@ -1,0 +1,45 @@
+{
+    "CID-N3": {
+        "chemicals used": [
+            "H2N3-ipa",
+            "4,4\u2019-bipyridine (bpy)",
+            "Zn(NO3)2 (cid:1) 6H2O",
+            "MeOH",
+            "DMF"
+        ],
+        "procedure": "Slow diffusion of a methanol solution of H2N3-ipa and 4,40-bipyridine (bpy) into a N ,N -dimethylformamide (DMF) solution of Zn(NO3)2 (cid:1) 6H2O afforded block-shaped pale-yellow crystals of TZn2(N3-ipa)2(bpy)2(DMF)1:5Un (CID-N3) in a few days.",
+        "drying method": "heating the single crystals of CID-N3 at 120 (cid:14)C in vacuum for 6 h."
+    },
+    "dried CID-N3": {
+        "temperature": "120 K",
+        "chemicals used": [
+            "O2"
+        ],
+        "pressure": "80 kPa",
+        "time": "10 h",
+        "equipment": "quartz window on the cryostat system",
+        "light source": "ultrahigh-pressure Hg lamp"
+    },
+    "H2N3-ipa": {
+        "chemicals used": [
+            "5-aminoisophthalic acid",
+            "sodium nitrite",
+            "HCl",
+            "sodium azide"
+        ],
+        "procedure": "A water solution (50 ml) of sodium nitrite (2.0 g, 2.9 mmol) at 0 (cid:14)C was dropwise added to a 2 M HCl solution (500 ml) of 5-aminoisophthalic acid (5.0 g, 2.8 mmol), and the mixture was stirred for 15 min at 0 (cid:14)C. To the resulting yellow solution was slowly added a water solution (50 ml) of sodium azide (1.9 g, 2.9 mmol) over 20 min, and the mixture was stirred for 30 min at 0 (cid:14)C and for 12 h at room temperature. The resulting precipitates were collected by filtration and washed with water to give the product (5.4 g, 94%).",
+        "yield": "94%"
+    },
+    "H2NO-ipa": {
+        "chemicals used": [
+            "5-aminoisophthalic acid",
+            "dichloromethane",
+            "oxone",
+            "Na2SO4",
+            "1 N HCl",
+            "brine"
+        ],
+        "procedure": "5-aminoisophthalic acid (181 mg, 1 mmol) was suspended in dichloromethane (5 ml). To this suspension, oxone (1.23 g, 2 mmol) dissolved in water (10 ml) was added and the resulting suspension was stirred for 20 min at room temperature. After separation of the layers, the aqueous layer was extracted with dichloromethane three times. The combined organic solution was washed with 1 N HCl and brine, dried over Na2SO4 and evaporated to dryness to give a crude product, which was subjected to recycling preparative size-exclusion chromatography with tetrahydrofuran as an eluent. The second fraction was collected and evaporated to leave H2NO-ipa as solid (23 mg, 12%).",
+        "yield": "12%"
+    }
+}

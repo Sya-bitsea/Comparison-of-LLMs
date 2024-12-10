@@ -1,0 +1,41 @@
+s the machine-readable JSON file containing the synthesis conditions for SIFSIX-3-Cu based on the provided text:
+
+{
+  "SIFSIX-3-Cu": {
+    "reactants": [
+      {
+        "chemical": "pyrazine",
+        "amount": "0.30 g",
+        "moles": "3.0 mmol"
+      },
+      {
+        "chemical": "CuSiF6·H2O",
+        "amount": "0.325 g",
+        "moles": "0.6 mmol"
+      }
+    ],
+    "solvent": "methanol",
+    "solvent_volume": "5.0 ml",
+    "method": "layering",
+    "steps": [
+      {
+        "description": "A methanol solution (5.0 ml) of pyrazine was layered in a glass tube onto a methanol solution (5.0 ml) of CuSiF6·H2O."
+      },
+      {
+        "description": "On layering, a fast formation of light violet powder was observed, and the powder was left for 24 h in the mother solution."
+      },
+      {
+        "description": "The powder was then collected and washed extensively with methanol."
+      },
+      {
+        "description": "The powder was dried under vacuum."
+      }
+    ],
+    "product_color": "light violet",
+    "product_form": "powder",
+    "washing_solvent": "methanol",
+    "drying_method": "vacuum"
+  }
+}
+
+Note: The text does not contain any experimental characterization data such as PXRD, IR, adsorption isotherms, TGA, etc. as requested. The JSON only contains the synthesis conditions for SIFSIX-3-Cu

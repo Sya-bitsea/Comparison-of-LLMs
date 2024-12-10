@@ -1,0 +1,50 @@
+on the information provided in the text, the synthesis conditions for the [CoFe] chain complex [Co(II)((R)-pabn)][Fe(III)(tp)(CN)3](BF4).MeOH.2H2O (1.MeOH.2H2O) are as follows:
+
+{
+  "materials": [
+    {
+      "name": "[Co(II)((R)-pabn)][Fe(III)(tp)(CN)3](BF4).MeOH.2H2O",
+      "abbreviation": "1.MeOH.2H2O",
+      "synthesis": {
+        "chemicals": [
+          {
+            "name": "Co(BF4)2.6H2O",
+            "amount": "17 mg",
+            "moles": "0.05 mmol"
+          },
+          {
+            "name": "(R)-pabn",
+            "amount": "23 mg", 
+            "moles": "0.05 mmol"
+          },
+          {
+            "name": "(n-Bu4N)[Fe(III)(CN)3(tp)]",
+            "amount": "29.5 mg",
+            "moles": "0.05 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "0.5 cm3 for Co(BF4)2.6H2O",
+            "amount2": "0.5 cm3 for (R)-pabn",
+            "amount3": "0.5 cm3 for (n-Bu4N)[Fe(III)(CN)3(tp)]"
+          }
+        ],
+        "procedure": [
+          "Co(BF4)2.6H2O in methanol was added to (R)-pabn in methanol",
+          "After stirring for an hour, (n-Bu4N)[Fe(III)(CN)3(tp)] in methanol was added",
+          "After standing for a few days at 40°C, dark-green needles of 1.MeOH.2H2O were obtained",
+          "The product was collected by filtration, washed with methanol and then dried in air"
+        ],
+        "yield": {
+          "amount": "19.8 mg",
+          "moles": "0.019 mmol",
+          "percentage": "38%"
+        }
+      }
+    }
+  ]
+}
+
+No other materials are mentioned as being synthesized in the given text. The synthesis conditions are only provided for the [CoFe] chain complex 1.MeOH.2H2O

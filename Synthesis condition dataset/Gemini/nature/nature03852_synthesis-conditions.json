@@ -1,0 +1,34 @@
+{
+    "material_1": {
+        "Material Name": "Cu2(pzdc)2(pyz)\u00b72H2O",
+        "Synonyms": [
+            "hydrated complex 1"
+        ],
+        "Synthesis Procedure": "A mixture of Na2pzdc (0.21 g, 1.00 mmol) and pyz (1.0 g, 12.5 mmol) dissolved in H2O/EtOH (1:1, 100 ml) was slowly added to the H2O solution (100 ml) containing Cu(ClO4)2\u00b76H2O (0.37 g, 1.00 mmol) at room temperature. After stirring for one day, the resultant precipitate was filtered, washed with H2O and methanol, and dried under reduced pressure.",
+        "Chemicals": [
+            "Na2pzdc",
+            "pyz",
+            "H2O",
+            "EtOH",
+            "Cu(ClO4)2\u00b76H2O",
+            "methanol"
+        ],
+        "Molar Ratio": "Na2pzdc:pyz:Cu(ClO4)2\u00b76H2O = 1:12.5:1",
+        "Temperature": "room temperature",
+        "Time": "one day",
+        "Washing": "H2O and methanol",
+        "Drying": "under reduced pressure"
+    },
+    "material_2": {
+        "Material Name": "Cu2(pzdc)2(pyz)",
+        "Synonyms": [
+            "complex 1",
+            "anhydrous complex 1"
+        ],
+        "Synthesis Procedure": "The host sample was obtained by treating [Cu2(pzdc)2(pyz)\u00b72H2O] under reduced pressure (~10^-22 Pa) at 398 K for more than 10 h.",
+        "Chemicals": [],
+        "Temperature": "398 K",
+        "Time": "more than 10 h",
+        "Pressure": "~10^-22 Pa"
+    }
+}

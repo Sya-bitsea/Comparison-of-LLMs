@@ -1,0 +1,37 @@
+s the .json file containing the synthesis conditions for {[Ag2(trz)2][Ag24(trz)18]}[PW12O40]2 (1):
+
+{
+  "materials": [
+    {
+      "name": "{[Ag2(trz)2][Ag24(trz)18]}[PW12O40]2 (1)",
+      "synthesis_conditions": {
+        "reactants": [
+          {
+            "chemical": "Na9[A-PW9O34]·7H2O",
+            "amount": "0.338 g",
+            "molar_amount": "0.13 mmol"
+          },
+          {
+            "chemical": "CH3COOAg",
+            "amount": "0.108 g",
+            "molar_amount": "0.65 mmol"
+          },
+          {
+            "chemical": "1,2,4-triazole",
+            "amount": "0.121 g",
+            "molar_amount": "1.75 mmol"
+          }
+        ],
+        "solvent": {
+          "chemical": "distilled water",
+          "amount": "10 ml"
+        },
+        "pH": "adjusted to about 7.3 with 2.0 M NaOH",
+        "temperature": "160°C",
+        "time": "4 days",
+        "cooling": "slowly cooling to room temperature for another 4 days",
+        "yield": "48% based on W",
+        "product_treatment": "filtered and washed with distilled water"
+      }
+    }
+  ]

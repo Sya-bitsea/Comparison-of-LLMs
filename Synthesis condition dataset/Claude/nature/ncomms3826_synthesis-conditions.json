@@ -1,0 +1,35 @@
+on the information provided in the text, there are no specific details about the synthesis conditions for compound 1 {[FeIII(Tp*)(CN)3]2FeII(bpmh)}·2H2O. The synthesis is only briefly described as:
+
+"A 1.0-ml aqueous solution containing 0.05 mmol of Fe(ClO4)2·6H2O was placed at the bottom of a test tube, and a 2.0-ml methanol solution containing 0.1 mmol of [Bu4N][Fe(Tp*)(CN)3] and 0.1 mmol of bpmh was layered on the solution. Crystallization required several weeks, and crystals were obtained in 65% yield, based on Fe(ClO4)2·6H2O."
+
+No further details are provided about the specific synthesis conditions like temperature, stirring, equipment used, workup procedures etc. Therefore, the .json file would be:
+
+{
+    "compound 1": {
+        "reagents": [
+            {
+                "chemical": "Fe(ClO4)2·6H2O",
+                "amount": "0.05 mmol"
+            },
+            {
+                "chemical": "[Bu4N][Fe(Tp*)(CN)3]", 
+                "amount": "0.1 mmol"
+            },
+            {
+                "chemical": "bpmh",
+                "amount": "0.1 mmol"
+            }
+        ],
+        "solvents": [
+            {
+                "solvent": "water",
+                "amount": "1.0 mL"
+            },
+            {
+                "solvent": "methanol",
+                "amount": "2.0 mL"  
+            }
+        ],
+        "yield": "65%",
+        "crystallization time": "several weeks"
+    }

@@ -1,0 +1,64 @@
+s the machine-readable .json file containing the synthesis conditions for the materials described in the text:
+
+{
+  "CID-N3": {
+    "reactants": {
+      "H2N3-ipa": {
+        "amount": "8.3 mg",
+        "molar amount": "0.04 mmol"
+      },
+      "4,4'-bipyridine": {
+        "amount": "6.2 mg", 
+        "molar amount": "0.04 mmol"
+      },
+      "Zn(NO3)2·6H2O": {
+        "amount": "11.9 mg",
+        "molar amount": "0.04 mmol"
+      }
+    },
+    "solvents": {
+      "N,N-dimethylformamide": "2 mL",
+      "methanol": "2 mL"
+    },
+    "procedure": "On a DMF solution (2 ml) of Zn(NO3)2·6H2O (11.9 mg, 0.04 mmol) was carefully layered a MeOH solution (2 ml) of H2N3-ipa (8.3 mg, 0.04 mmol) and bpy (6.2 mg, 0.04 mmol). Pale-yellow block-shaped crystals were obtained in a few days."
+  },
+
+  "H2N3-ipa": {
+    "reactants": {
+      "5-aminoisophthalic acid": {
+        "amount": "5.0 g",
+        "molar amount": "2.8 mmol"
+      },
+      "sodium nitrite": {
+        "amount": "2.0 g",
+        "molar amount": "2.9 mmol"
+      },
+      "sodium azide": {
+        "amount": "1.9 g",
+        "molar amount": "2.9 mmol"  
+      }
+    },
+    "solvents": {
+      "water": "50 mL",
+      "2 M HCl": "500 mL"
+    },
+    "procedure": "A water solution (50 ml) of sodium nitrite (2.0 g, 2.9 mmol) at 0°C was dropwise added to a 2 M HCl solution (500 ml) of 5-aminoisophthalic acid (5.0 g, 2.8 mmol), and the mixture was stirred for 15 min at 0°C. To the resulting yellow solution was slowly added a water solution (50 ml) of sodium azide (1.9 g, 2.9 mmol) over 20 min, and the mixture was stirred for 30 min at 0°C and for 12 h at room temperature. The resulting precipitates were collected by filtration and washed with water to give the product (5.4 g, 94%)."
+  },
+
+  "H2NO-ipa": {
+    "reactants": {
+      "5-aminoisophthalic acid": {
+        "amount": "181 mg",
+        "molar amount": "1 mmol"
+      },
+      "Oxone": {
+        "amount": "1.23 g",
+        "molar amount": "2 mmol"
+      }
+    },
+    "solvents": {
+      "dichloromethane": "5 mL",
+      "water": "10 mL"
+    },
+    "procedure": "5-aminoisophthalic acid (181 mg, 1 mmol) was suspended in dichloromethane (5 ml). To this suspension, oxone (1.23 g, 2 mmol) dissolved in water (10 ml) was added and the resulting suspension was stirred for 20 min at room temperature. After separation of the layers, the aqueous layer was extracted with dichloromethane three times. The combined organic solution was washed with 1 N HCl and brine, dried over Na2SO4 and evaporated to dryness to give a crude product, which was subjected to recycling preparative size-exclusion chromatography with tetrahydrofuran as an eluent. The second fraction was collected and evaporated to leave H2NO-ipa as solid (23 mg, 12%)."
+  }

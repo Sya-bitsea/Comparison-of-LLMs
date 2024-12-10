@@ -1,0 +1,76 @@
+s the .json file containing the synthesis conditions for the given text:
+
+{
+    "material1": {
+        "name": "[(CH3)2NH2]2[Co4F4(SO4)3(C3N2H4)4]",
+        "synthesis_method": "solvothermal",
+        "reactants": [
+            {
+                "chemical": "tris(2,4-pentanedionato)cobalt(III)",
+                "amount": "0.5 mmol"
+            },
+            {
+                "chemical": "CoSO4·7H2O",
+                "amount": "0.5 mmol"
+            },
+            {
+                "chemical": "imidazole",
+                "amount": "1 mmol"
+            },
+            {
+                "chemical": "hydrofluoric acid",
+                "amount": "1 mmol (35 µL)"
+            }
+        ],
+        "solvent": "DMF (10 mL)",
+        "stirring": [
+            "6 hours after dispersing cobalt precursors",
+            "2 hours after adding imidazole",
+            "1 hour after adding hydrofluoric acid"
+        ],
+        "temperature": "110 °C",
+        "time": "48 hours",
+        "washing": "DMF (2 times), IPA (several times)",
+        "drying": "70 °C in vacuum oven for 4 days"
+    },
+    "material2": {
+        "name": "CoSe2@ST",
+        "precursor": "[(CH3)2NH2]2[Co4F4(SO4)3(C3N2H4)4]",
+        "precursor_amount": "120.5 mg (≈0.125 mmol)",
+        "reactants": [
+            {
+                "chemical": "selenium powder",
+                "amount": "99 mg (≈1.25 mmol)"
+            }
+        ],
+        "synthesis_method": "sealed tube",
+        "temperature": "200 °C",
+        "time": "24 hours",
+        "washing": "0.1 M HCl (several times), water",
+        "drying": "dried (conditions not specified)"
+    },
+    "material3": {
+        "name": "CoSe2@HT",
+        "precursor": "[(CH3)2NH2]2[Co4F4(SO4)3(C3N2H4)4]",
+        "precursor_amount": "120.5 mg (≈0.125 mm)",
+        "reactants": [
+            {
+                "chemical": "selenium powder",
+                "amount": "99 mg (≈1.25 mm)"
+            },
+            {
+                "chemical": "NaBH4",
+                "amount": "not specified"
+            }
+        ],
+        "solvent": "Millipore water (12 mL)",
+        "synthesis_method": "hydrothermal",
+        "stirring": [
+            "1 hour after adding selenium powder",
+            "2 hours after adding NaBH4"
+        ],
+        "temperature": "180 °C",
+        "time": "24 hours",
+        "washing": "0.1 M HCl (several times), ethanol",
+        "drying": "60 °C in vacuum oven"
+    }

@@ -1,0 +1,79 @@
+[
+    {
+        "material": " [CoII((S)-pabn)][FeIII(tp)(CN)3](BF4)!2H2O (1S!2H2O)",
+        "synthesis_method": [],
+        "synthesis_conditions": []
+    },
+    {
+        "material": " [FeIII4CoIII4CoII(CN)12(tp)4((R)-pabn)2((S)-pabn)2](BF4)10!12H2O!40CH3OH",
+        "synthesis_method": [],
+        "synthesis_conditions": [
+            {
+                "chemicals_used": [
+                    "(R)-pabn",
+                    "(S)-pabn"
+                ],
+                "remarks": "The complex was obtained when a racemic mixture of (R)- and (S)-pabn was used in place of the single enantiomers employed in the syntheses of 1 and 1S."
+            }
+        ]
+    },
+    {
+        "material": "[Co(II)((R)-pabn)][Fe(III)(tp)(CN)3](BF4).MeOH.2H2O (1.MeOH.2H2O)",
+        "synthesis_method": [],
+        "synthesis_conditions": [
+            {
+                "step": 1,
+                "chemicals_used": [
+                    "Co(BF4)2.6H2O (17 mg, 0.05 mmol)",
+                    "(R)-pabn (23 mg, 0.05 mmol)"
+                ],
+                "solvent": "methanol (0.5 cm3)",
+                "time": "1 hour",
+                "temperature": "40 8C"
+            },
+            {
+                "step": 2,
+                "chemicals_used": [
+                    "(n-Bu4N)[Fe(III)(CN)3(tp)] (29.5 mg, 0.05 mmol)"
+                ],
+                "solvent": "methanol (0.5 cm3)",
+                "time": "few days"
+            },
+            {
+                "step": 3,
+                "washing_method": "washed with methanol",
+                "drying_method": "dried in air"
+            }
+        ]
+    },
+    {
+        "material": "1.H2O",
+        "synthesis_method": [],
+        "synthesis_conditions": [
+            {
+                "chemicals_used": [
+                    "1.MeOH.2H2O"
+                ],
+                "drying_method": "drying under N2"
+            },
+            {
+                "chemicals_used": [
+                    "1.3H2O"
+                ],
+                "drying_method": "drying in an inert atmosphere"
+            }
+        ]
+    },
+    {
+        "material": "1.3H2O",
+        "synthesis_method": [],
+        "synthesis_conditions": [
+            {
+                "chemicals_used": [
+                    "1.MeOH.2H2O"
+                ],
+                "drying_method": "drying in air"
+            }
+        ]
+    }
+]
