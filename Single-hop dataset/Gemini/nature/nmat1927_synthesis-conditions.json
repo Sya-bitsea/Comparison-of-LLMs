@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the kinetic diameter of Argon?",
+        "answer": "3.40 \u00c5",
+        "difficulty_level": "factual",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the chemical formula for ZIF-20?",
+        "answer": "Zn(Pur)2\u00b7(DMF)0.75(H2O)1.5",
+        "difficulty_level": "factual",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the chemical formula for ZIF-21?",
+        "answer": "Co(Pur)2\u00b7(DMF)(H2O)",
+        "difficulty_level": "factual",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the chemical formula for ZIF-22?",
+        "answer": "Zn(5-Azabenzimidazolato)2\u00b7(DMF)0.75(H2O)2",
+        "difficulty_level": "factual",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the chemical formula for ZIF-23?",
+        "answer": "Zn(4-Azabenzimidazolato)2\u00b7(H2O)0.25",
+        "difficulty_level": "factual",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the maximum pore size for the \u03b1-cage in zeolite A?",
+        "answer": "11.4 \u00c5",
+        "difficulty_level": "factual",
+        "question_type": "factual"
+    },
+    {
+        "question": "ZIF-20 has a larger maximum pore size for the \u03b1-cage compared with that in zeolite A. What is a possible explanation for this observation?",
+        "answer": "The T\u00b7\u00b7\u00b7T distance (about 5.9 \u00c5) in ZIF-20 is extended by replacing oxide ions with imidazolate linkers (the corresponding Si\u00b7\u00b7\u00b7Si distance in aluminosilicates is about 3.0 \u00c5).",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why can Argon penetrate the ZIF-20 structure even though its kinetic diameter is larger than the maximum pore aperture of ZIF-20?",
+        "answer": "The space inside the structure becomes accessible through a dynamic aperture-widening process wherein the Pur swing out of the way to allow gas molecules to pass.",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why was the synthesis of an LTA imidazolate framework previously elusive?",
+        "answer": "No metal\u2013organic analogues based on FAU or LTA topologies exist owing to the difficulty imposed by the presence of two types of large cage (super- and \u03b2-cages for FAU, \u03b1- and \u03b2-cages for LTA).",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why does 4-azabenzimidazolate not lead to the formation of an LTA structure?",
+        "answer": "The distance between the two linkers at positions 4 and 7 is too great to form favourable interactions.",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What is the key structural feature that distinguishes ZIF-20 and ZIF-22 from ZIF-23?",
+        "answer": "The presence of a nitrogen atom at position 5 of the linker.",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What are the two possible topologies that can be formed by linking cubes through one type of edge?",
+        "answer": "LTA and ACO.",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why is the LTA topology favored over the ACO topology in the formation of ZIF-20?",
+        "answer": "The LTA structure is already tailored to 145\u00b0 T\u2013X\u2013T links, while the ACO structure would require significant distortion of the T\u2013Im bonds away from the plane of the linking molecule.",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "The maximum pore aperture of ZIF-20 is larger than that of zeolite A.",
+        "answer": "True",
+        "difficulty_level": "factual",
+        "question_type": "true_false"
+    },
+    {
+        "question": "The maximum pore aperture of ZIF-20 is smaller than the kinetic diameter of Argon.",
+        "answer": "True",
+        "difficulty_level": "factual",
+        "question_type": "true_false"
+    },
+    {
+        "question": "The uptake of H2 by ZIF-20 at 77 K is higher than that of ZIF-8 and ZIF-11.",
+        "answer": "False",
+        "difficulty_level": "factual",
+        "question_type": "true_false"
+    },
+    {
+        "question": "ZIF-20 can separate CO2 from CH4.",
+        "answer": "True",
+        "difficulty_level": "factual",
+        "question_type": "true_false"
+    },
+    {
+        "question": "The initial isosteric heat of adsorption value for H2 in ZIF-20 is estimated to be 8.5 kJ mol\u22121.",
+        "answer": "True",
+        "difficulty_level": "factual",
+        "question_type": "true_false"
+    },
+    {
+        "question": "The CO2 uptake at 760 torr is five times lower than that of CH4 for ZIF-20 at 273 K.",
+        "answer": "False",
+        "difficulty_level": "factual",
+        "question_type": "true_false"
+    },
+    {
+        "question": "The structure of ZIF-20 is simply made up of a tiling of cubes, truncated octahedra (\u03b2-cages) and truncated cuboctahedra (\u03b1-cages) in the ratio 1:1:1.",
+        "answer": "False",
+        "difficulty_level": "factual",
+        "question_type": "true_false"
+    }
+]

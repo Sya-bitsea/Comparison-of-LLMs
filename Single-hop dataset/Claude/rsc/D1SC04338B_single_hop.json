@@ -1,0 +1,125 @@
+s a single hop .json file with 20 questions of different types (6 factual, 7 reasoning, 7 true/false) based on the given text:
+
+{
+  "questions": [
+    {
+      "question": "What are the four alkali metals used to construct the MOFs in this study?",
+      "answer": "The four alkali metals used to construct the MOFs are Na, K, Rb, and Cs.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What ligand was used to construct all four MOFs?",
+      "answer": "The electron-rich tetrathiafulvalene tetracarboxylate (TTFTC) ligand was used to construct all four MOFs.",
+      "type": "factual", 
+      "difficulty": "easy"
+    },
+    {
+      "question": "What two key parameters determine the electrical conductivity of MOFs?",
+      "answer": "The charge carrier concentration and charge mobility (i.e. charge transport capability) are the two key parameters that determine the electrical conductivity of MOFs.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What technique was used to quantify the amount of aerobically oxidized TTFTCc+ radical cations in the MOFs?",
+      "answer": "Electron spin resonance (ESR) spectroscopy was used to quantify the amount of aerobically oxidized TTFTCc+ radical cations in the MOFs.",
+      "type": "factual",
+      "difficulty": "medium" 
+    },
+    {
+      "question": "Which MOF had the shortest π–π-stacking distance between TTFTC ligands?",
+      "answer": "The Na-MOF 1-ox had the shortest π–π-stacking distance of 3.39 Å between TTFTC ligands.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which MOF contained the largest initial population of TTFTCc+ radical cations?",
+      "answer": "The Na-MOF 1-ox contained the largest initial population of 23% TTFTCc+ radical cations.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "How did the π–π-stacking distance between TTFTC ligands affect the electronic band gap of the MOFs?",
+      "answer": "MOFs with shorter π–π-stacking distances between TTFTC ligands had narrower electronic band gaps, as the closer stacking facilitated better charge transport.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Why did the Na-MOF 1-ox display the highest electrical conductivity among the freshly prepared MOFs?",
+      "answer": "The Na-MOF 1-ox displayed the highest electrical conductivity because it had the shortest π–π-stacking distance, maximum π-surface overlap, and a large initial population of TTFTCc+ radical cations, which collectively facilitated charge delocalization via TTFTC/TTFTCc+ IVCT interaction.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "How did prolonged aerobic oxidation affect the electrical conductivity of the K-MOF 2 and Rb-MOF 3?",
+      "answer": "Prolonged aerobic oxidation increased the TTFTCc+ population in K-MOF 2 and Rb-MOF 3 to optimum levels, which in turn significantly increased their electrical conductivity compared to the freshly prepared MOFs.",
+      "type": "reasoning", 
+      "difficulty": "medium"
+    },
+    {
+      "question": "Why was the Cs-MOF 4 resistant to aerobic oxidation of its TTFTC ligands?",
+      "answer": "The Cs-MOF 4 was resistant to aerobic oxidation because it had the longest π–π-stacking distance and almost orthogonal orientation of successive TTF layers, providing the poorest conditions for stabilizing TTFTCc+ radical cations through IVCT interactions.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What was the predominant charge transport pathway in these MOFs according to DFT calculations?",
+      "answer": "DFT calculations indicated that the predominant charge transport pathway in these MOFs was through the π-stacked TTFTC ligands, not the coordination bonds, as the TTFTC ligand orbitals contributed the most to the valence and conduction bands.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "How did the experimental optical band gaps differ from the calculated electronic band gaps for the aerobically oxidized MOFs?",
+      "answer": "The experimental optical band gaps were narrower than the calculated electronic band gaps for the aerobically oxidized MOFs, as the calculations only considered structural effects while the optical gaps also accounted for the influence of IVCT interactions between mixed-valent TTFTC ligands.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What promising design strategy for electrically conducting MOFs emerges from this study?",
+      "answer": "Exploiting IVCT interactions between mixed-valent ligands emerges as a promising design strategy for developing electrically conducting MOFs from this study.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "The TTFTC ligands formed continuous π-stacks in all four MOFs.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The Cs-MOF 4 had the narrowest band gap and highest electrical conductivity.",
+      "answer": "False. The Cs-MOF 4 had the widest band gap and lowest electrical conductivity among the four MOFs.",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Density functional theory calculations showed that the metal ions contributed significantly to the valence and conduction bands of the MOFs.",
+      "answer": "False. The calculations showed that the TTFTC ligand orbitals, not the metal ions, contributed the most to the valence and conduction bands.",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "The MOFs with larger TTFTCc+ populations generally displayed higher electrical conductivity.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The activation energy of electrical conduction was lowest for the Cs-MOF 4.",
+      "answer": "False. The Na-MOF 1-ox had the lowest activation energy, while the Cs-MOF 4 had a high activation energy.",
+      "type": "true_false",
+      "difficulty": "medium" 
+    },
+    {
+      "question": "Intervalence charge transfer interactions between mixed-valent TTFTC ligands influenced the optical band gaps of the aerobically oxidized MOFs.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "The study found no correlation between the π–π-stacking distance of TTFTC ligands and the electrical conductivity of the MOFs.",
+      "answer": "False. The study found that MOFs with shorter π–π-stacking distances generally had higher electrical conductivity due to improved charge transport.",
+      "type": "true_false",
+      "difficulty": "medium"
+    }
+  ]

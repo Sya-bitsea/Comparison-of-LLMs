@@ -1,0 +1,105 @@
+s a single hop .json file with 20 questions (6 factual, 7 reasoning, 7 true/false) based on the given text:
+
+{
+  "questions": [
+    {
+      "question": "What is the chemical formula of the synthesized framework (1)?",
+      "answer": "{[Ni(bpe)2(N(CN)2)](N(CN)2)(5H2O)}n",
+      "type": "factual" 
+    },
+    {
+      "question": "What are the two types of channels present in the interpenetrating network of (1)?",
+      "answer": "One rectangular channel accommodating free N(CN)2- anions and one hexagonal channel occupied by water molecules.",
+      "type": "factual"
+    },
+    {
+      "question": "What is the void space composed of the total crystal volume in (1)?",
+      "answer": "19.2%",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature range can the dehydration of (1) be accomplished?",
+      "answer": "Between 75°C and 150°C",
+      "type": "factual"
+    },
+    {
+      "question": "What is the micropore volume of (1a) from carbon dioxide adsorption based on the Dubinin–Radushkevich data?",
+      "answer": "185.7 m2 g−1",
+      "type": "factual"
+    },
+    {
+      "question": "Which anion can quantitatively exchange with the free N(CN)2- anions in (1)?",
+      "answer": "N3- anions",
+      "type": "factual"
+    },
+    {
+      "question": "Why does the dehydrated framework (1a) show selective sorption behavior towards different adsorbates despite having an adequate pore size?",
+      "answer": "The selective sorption is not dependent on pore size but rather on the interaction between the adsorbates and the pore surface of the adsorbent.",
+      "type": "reasoning"
+    },
+    {
+      "question": "What causes the distinct color change from violet to deep blue when (1) is dehydrated to form (1a)?",
+      "answer": "The color change is attributed to a slight change in the Ni-N bond length and the N-Ni-N bond angle upon dehydration.",
+      "type": "reasoning" 
+    },
+    {
+      "question": "Why does the N3-exchanged framework adsorb more carbon dioxide compared to the as-synthesized (1a)?",
+      "answer": "The smaller size of N3- anion compared to N(CN)2- causes a sliding of the two 3D nets, resulting in an increased channel size and ability to accommodate more CO2.",
+      "type": "reasoning"
+    },
+    {
+      "question": "What interactions are responsible for stabilizing the overall three-dimensional architecture and topology of the framework in (1)?",
+      "answer": "The C–H···π and π–π interactions, the templating N(CN)2- anions, and the twofold interpenetration stabilize the overall 3D structure.",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is no nitrogen or oxygen diffusion into the micropores observed in (1a) at 77 K despite the adequate pore size?",
+      "answer": "At 77 K, the nitrogen and oxygen adsorbates likely interact very strongly with the pore windows, blocking other molecules from entering the pores.",
+      "type": "reasoning"
+    },
+    {
+      "question": "What makes carbon dioxide adsorption effective in (1a) compared to oxygen adsorption?",
+      "answer": "The electric field from the Ni(II), polar groups and π-electron clouds inside the pores interacts favorably with the quadrupole moment of CO2, enabling its adsorption.",
+      "type": "reasoning"
+    },
+    {
+      "question": "What property of the framework enables the anion exchange selectivity for N3- over other anions like NO3-, NCO- and BF4-?",
+      "answer": "The anion exchange selectivity depends on the size, shape and symmetry of the anions. N3- is more compatible in these aspects with N(CN)2- compared to the other anions.",
+      "type": "reasoning"
+    },
+    {
+      "question": "The as-synthesized framework (1) contains two types of interpenetrating 3D networks.",
+      "answer": "True",
+      "type": "true/false"
+    },
+    {
+      "question": "The dehydrated framework (1a) is stable up to a temperature of 350°C.",
+      "answer": "False",
+      "type": "true/false" 
+    },
+    {
+      "question": "The framework (1) undergoes a reversible single-crystal to single-crystal transformation upon dehydration and rehydration.",
+      "answer": "True",
+      "type": "true/false"
+    },
+    {
+      "question": "The sorption of carbon dioxide in (1a) at 195 K is higher than that of xenon at the same temperature.",
+      "answer": "True",
+      "type": "true/false"
+    },
+    {
+      "question": "The anion exchange of N(CN)2- with N3- in (1) is an irreversible process.",
+      "answer": "True", 
+      "type": "true/false"
+    },
+    {
+      "question": "The anions NO3-, NCO- and BF4- can exchange with the free N(CN)2- anions in (1) similar to N3-.",
+      "answer": "False",
+      "type": "true/false"
+    },
+    {
+      "question": "The N3-exchanged framework shows a lower permanent porosity compared to the as-synthesized (1a).",
+      "answer": "False",
+      "type": "true/false"
+    }
+  ]

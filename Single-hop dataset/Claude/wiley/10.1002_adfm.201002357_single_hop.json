@@ -1,0 +1,125 @@
+s a single hop .json file with 20 Q&As based on the given text:
+
+{
+  "questions": [
+    {
+      "question": "What type of proton-conducting molecules are presented as alternative materials to state-of-the-art polymers used as electrolytes in PEM fuel cells?",
+      "answer": "Organic proton-conducting molecules possessing a carbon-rich hydrophobic core and a hydrophilic periphery are presented as alternative materials.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What functional group was chosen for the hydrophilic periphery of the organic proton-conducting molecules?",
+      "answer": "Phosphonic acid was chosen as the protogenic group for the hydrophilic periphery because of its amphoteric properties.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What two types of proton-transport mechanisms are detailed in the literature?",
+      "answer": "The vehicle mechanism and the Grotthuss-type mechanism, also called structure diffusion, are the two types of proton-transport mechanisms detailed in the literature.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the target operating condition guideline established by the U.S. Department of Energy for automotive PEM fuel cell applications?",
+      "answer": "The U.S. Department of Energy established a guideline of 120°C and 50% relative humidity as target operating conditions for automotive PEM fuel cell applications.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What proton conductivity goal was set by the U.S. Department of Energy for PEMs under the target operating conditions?",
+      "answer": "The U.S. Department of Energy set a goal of 0.1 S/cm for the proton conductivity of PEMs under the target operating conditions of 120°C and 50% relative humidity.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What state-of-the-art polymer is often used as the separator material in PEM fuel cells?",
+      "answer": "Nafion, which consists of sulfonic acid functionalized perfluorinated polymers, is often used as the state-of-the-art separator material in PEM fuel cells.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "If the proton conductivity of a material decreases with increasing temperature, what proton-transport mechanism is likely responsible?",
+      "answer": "If the proton conductivity of a material decreases with increasing temperature, the vehicle mechanism is likely responsible for proton transport through the material.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "If the proton conductivity of a material increases with increasing temperature, what proton-transport mechanism is likely responsible?",
+      "answer": "If the proton conductivity of a material increases with increasing temperature, the Grotthuss-type mechanism is likely responsible for proton transport through the material.",
+      "difficulty": "medium", 
+      "type": "reasoning"
+    },
+    {
+      "question": "Which two phosphonic acid-containing molecules showed the highest proton conductivity values that remained constant with temperature?",
+      "answer": "Compounds 2 and 6, which self-assemble into columns and possess regions with a high concentration of phosphonic acid moieties, showed the highest proton conductivity values that remained constant with temperature.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why did compound 5, with a tetragonal geometry, show a proton conductivity two orders of magnitude lower than compounds 2 and 6?",
+      "answer": "Compound 5 showed a proton conductivity two orders of magnitude lower than compounds 2 and 6 because its diamond-like structure prevents the phosphonic acid groups from building up a continuous acidic phase necessary for high proton conduction.",
+      "difficulty": "hard",
+      "type": "reasoning"  
+    },
+    {
+      "question": "What trend in proton conductivity did compound 3 with a propeller-like geometry display when the temperature was increased above 120°C?",
+      "answer": "Compound 3 displayed a proton conductivity that increased when the temperature was increased above 120°C, which can be attributed to a Grotthuss-type mechanism for proton conduction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why did the linear compound 1 show very low proton conductivity values?",
+      "answer": "The linear compound 1 showed very low proton conductivity values because according to its crystal structure, the phosphonic acid groups do not form a continuous acidic phase, and the degree of crystallinity is only 7%.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What two factors seem to control the proton conductivity in phosphonic acid-containing organic molecules?",
+      "answer": "The supramolecular long-range ordering and the geometry of the phosphonic acid-containing organic molecules seem to control their proton conductivity, not the mobility of small molecules or the dynamics of a polymer backbone.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The vehicle mechanism implies the diffusion of hydrated protons or proton-containing groups as a whole in a medium of low viscosity and high diffusion coefficient, such as water.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The Grotthuss-type mechanism consists of the diffusion of protonic defects, also called inherent protonic charge carriers.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"  
+    },
+    {
+      "question": "True or False: Nafion membranes can be applied at high temperatures above 100°C without any issues.",
+      "answer": "False. Nafion membranes cannot be applied at high temperatures above 100°C because the vehicle mechanism dominates proton transport making performance strongly dependent on hydration, and they have a low glass transition temperature around 100°C.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: Phosphonic acid was chosen as the protogenic group for the organic molecules because of its basic properties.",
+      "answer": "False. Phosphonic acid was chosen as the protogenic group because of its amphoteric properties, not basic properties.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: Compounds 1-6 showed very high water uptake values, with maximums in the range of 25-100 wt%, similar to polymeric electrolyte membranes.",
+      "answer": "False. In contrast to polymeric electrolyte membranes, compounds 1-6 showed very low water uptake values, with maximums only in the range of 5-6 wt%.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The number of phosphonic acid groups in the molecule is the main factor determining its maximum water uptake.",
+      "answer": "False. The self-organization and geometry of the molecule is more important than the number of phosphonic acid groups in determining its maximum water uptake.",
+      "difficulty": "hard",
+      "type": "True or False"  
+    },
+    {
+      "question": "True or False: Crystalline phosphonic acid-containing molecules that self-assemble into columns are considered the best candidates for proton-conducting materials.",
+      "answer": "True. Crystalline molecules that self-assemble into columns are considered the best candidates for proton-conducting materials, as this provides a nanophase separation with a continuous acidic phase outside the columns for proton conduction.",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]

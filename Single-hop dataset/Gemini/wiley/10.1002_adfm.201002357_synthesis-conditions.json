@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the target operating temperature for fuel cells in automotive applications, as set by the U.S. Department of Energy?",
+        "answer": "120 degrees Celcius",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What type of adsorption isotherm does compound 2 exhibit in its water uptake?",
+        "answer": "Type II van der Waals adsorption isotherm",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What type of geometry does compound 5 possess?",
+        "answer": "Tetragonal",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the proton conductivity of compound 6 at 180 degrees Celcius under humidified conditions?",
+        "answer": "6 x 10^-3 S cm-1",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What type of adsorption isotherm is characteristic of compounds 1 and 4?",
+        "answer": "Type V van der Waals adsorption isotherm",
+        "difficulty_level": "medium",
+        "question_type": "factual"
+    },
+    {
+        "question": "From what solvent was compound 1 crystallized?",
+        "answer": "NMP",
+        "difficulty_level": "hard",
+        "question_type": "factual"
+    },
+    {
+        "question": "Why is compound 2 unsuitable for direct use as a separator material in PEMs?",
+        "answer": "It is water soluble.",
+        "difficulty_level": "easy",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why was phosphonic acid chosen as the protogenic group in the synthesis of these molecules?",
+        "answer": "Because of its amphoteric properties",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why do the researchers believe that regions with a high concentration of phosphonic acid groups are not present in the supramolecular structure of compound 4?",
+        "answer": "Because its proton conductivity at 180 degrees Celcius is lower than molecules associating into columns or diamond-like networks.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why does the proton conductivity of compound 3 increase with increasing temperature?",
+        "answer": "This trend can be attributed to a Grotthuss-type mechanism for proton conduction.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "How can the flat temperature response of proton conductivity at decreasing temperature under 1 bar H2O atmosphere for compounds 2 and 6 be explained?",
+        "answer": "It is most likely related to the hysteresis of the water uptake.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why is the proton conductivity of compound 5 lower than that of compounds 2 and 6?",
+        "answer": "Because of its diamond-like structure which prevents the phosphonic acid groups from building up a continuous acidic phase necessary for proton conduction.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why are molecules with structures that enhance water uptake expected to have higher conductivity?",
+        "answer": "Because compounds with higher water uptake present higher conductivity.",
+        "difficulty_level": "easy",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "True or False: The proton conductivity of all six compounds increased with increasing temperature.",
+        "answer": "False",
+        "difficulty_level": "easy",
+        "question_type": "true_false"
+    },
+    {
+        "question": "True or False: Compound 6 exhibited a stepwise hydration isotherm.",
+        "answer": "True",
+        "difficulty_level": "easy",
+        "question_type": "true_false"
+    },
+    {
+        "question": "True or False: The researchers were able to grow single crystals of all six compounds.",
+        "answer": "False",
+        "difficulty_level": "easy",
+        "question_type": "true_false"
+    },
+    {
+        "question": "True or False: The proton conductivity of compound 1 is higher than that of Na\ufb01on 117 at all temperatures.",
+        "answer": "False",
+        "difficulty_level": "medium",
+        "question_type": "true_false"
+    },
+    {
+        "question": "True or False: The water uptake of the phosphonic acid-containing materials increased linearly with increasing relative humidity.",
+        "answer": "False",
+        "difficulty_level": "medium",
+        "question_type": "true_false"
+    },
+    {
+        "question": "True or False: The degree of crystallinity had no effect on the proton conductivity of the materials.",
+        "answer": "False",
+        "difficulty_level": "hard",
+        "question_type": "true_false"
+    },
+    {
+        "question": "True or False: All of the synthesized molecules are water soluble.",
+        "answer": "False",
+        "difficulty_level": "easy",
+        "question_type": "true_false"
+    }
+]

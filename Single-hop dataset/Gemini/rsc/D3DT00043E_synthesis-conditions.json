@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the space group of Mn-MOF-1?",
+        "answer": "The space group of Mn-MOF-1 is C2/m.",
+        "difficulty": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What are the Lewis acid sites in Mn-MOF-1a?",
+        "question_type": "factual",
+        "answer": "The Lewis acid sites in Mn-MOF-1a are the tetra- and pentacoordinated Mn2+ ions.",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What is the coordination geometry of Mn2+ ions in Mn-MOF-1?",
+        "answer": "Both Mn1 and Mn2 ions in Mn-MOF-1 adopt a distorted octahedral coordination geometry.",
+        "difficulty": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the BET surface area of Mn-MOF-1a?",
+        "answer": "The BET surface area of Mn-MOF-1a is 13.5 m2 g\u22121.",
+        "difficulty": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the coordination mode of the DPP4\u2212 ligand in Mn-MOF-1?",
+        "answer": "The DPP4\u2212 ligand in Mn-MOF-1 exhibits a \u00b59-coordination mode.",
+        "difficulty": "medium",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the isosteric heat of adsorption (Qst) for CO2 at zero surface coverage for Mn-MOF-1a?",
+        "answer": "The isosteric heat of adsorption (Qst) for CO2 at zero surface coverage for Mn-MOF-1a is 35.2 kJ mol\u22121.",
+        "difficulty": "medium",
+        "question_type": "factual"
+    },
+    {
+        "question": "Why does Mn-MOF-1a exhibit a high affinity to CO2?",
+        "answer": "Mn-MOF-1a exhibits a high affinity to CO2 due to the presence of abundant open Mn2+ sites and exposed nitrogen atoms.",
+        "difficulty": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "How does the synergistic effect of Mn-MOF-1a and n-Bu4NBr enhance the catalytic activity in the cycloaddition reaction?",
+        "answer": "The Lewis acid sites in Mn-MOF-1a activate the epoxide, while the Br\u2212 ions from n-Bu4NBr act as nucleophiles, leading to synergistic ring-opening and CO2 insertion.",
+        "difficulty": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why did the researchers choose to use ethanol as the solvent for the Knoevenagel condensation reaction?",
+        "answer": "Ethanol was chosen as the solvent due to its low toxicity.",
+        "difficulty": "easy",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What is the role of the uncoordinated N atoms in the DPP4\u2212 ligands during the catalytic cycloaddition of CO2 with epoxides?",
+        "answer": "The uncoordinated N atoms act as Lewis base sites, activating the CO2 molecules for the reaction.",
+        "difficulty": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "How does the presence of electron-withdrawing groups on the aldehydic substrate affect the Knoevenagel condensation reaction?",
+        "answer": "Electron-withdrawing groups increase the electrophilicity of the carbonyl carbon in the aldehyde, making it more susceptible to nucleophilic attack and thus enhancing the reaction rate.",
+        "difficulty": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why do epoxide substrates with larger substituents show lower yields in the cycloaddition reaction?",
+        "answer": "Larger substituents cause steric hindrance, making it difficult for the epoxide to access the active sites within the Mn-MOF-1a channels.",
+        "difficulty": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Explain the role of the Lewis acid and base sites in Mn-MOF-1a during the Knoevenagel condensation reaction?",
+        "answer": "The Lewis acid sites (Mn2+) activate the carbonyl group of benzaldehyde, while the Lewis base sites (N atoms) activate malononitrile by abstracting a proton.",
+        "difficulty": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Mn-MOF-1 exhibits good stability in both acidic and basic conditions.",
+        "answer": "true",
+        "difficulty": "easy",
+        "question_type": "true/false"
+    },
+    {
+        "question": "Mn-MOF-1a is a homogeneous catalyst.",
+        "answer": "false",
+        "difficulty": "easy",
+        "question_type": "true/false"
+    },
+    {
+        "question": "The addition of n-Bu4NBr has no impact on the catalytic activity of Mn-MOF-1a in the cycloaddition reaction.",
+        "answer": "false",
+        "difficulty": "easy",
+        "question_type": "true/false"
+    },
+    {
+        "question": "Mn-MOF-1a can be recycled and reused for the Knoevenagel condensation reaction without significant loss of activity.",
+        "answer": "true",
+        "difficulty": "easy",
+        "question_type": "true/false"
+    },
+    {
+        "question": "The catalytic activity of Mn-MOF-1a is independent of the type of epoxide used in the cycloaddition reaction.",
+        "answer": "false",
+        "difficulty": "medium",
+        "question_type": "true/false"
+    },
+    {
+        "question": "The presence of electron-donating groups on the aldehydic substrate enhances the yield of the Knoevenagel condensation reaction catalyzed by Mn-MOF-1a.",
+        "answer": "false",
+        "difficulty": "medium",
+        "question_type": "true/false"
+    },
+    {
+        "question": "The Knoevenagel condensation reaction catalyzed by Mn-MOF-1a proceeds solely via a Lewis acid mechanism.",
+        "answer": "false",
+        "difficulty": "hard",
+        "question_type": "true/false"
+    }
+]

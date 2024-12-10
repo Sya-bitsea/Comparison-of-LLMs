@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What are MOFs composed of?",
+        "answer": "MOFs are crystalline porous hybrid solids composed of organic struts and inorganic nodes.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What are the advantages of MOFs in heterogeneous catalysis?",
+        "answer": "MOFs offer crystalline structures with high catalyst loadings, more uniform, isolated and accessible active sites, and enhanced catalytic activity in some cases by providing confined spaces for reactants.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What type of ligand is H5L?",
+        "answer": "H5L is an unsymmetrical difunctionalized chiral salan ligand.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the space group of (R)-1?",
+        "answer": "(R)-1 crystallizes in a chiral orthorhombic P21212 space group.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the role of aqueous H2O2 in the synthesis?",
+        "answer": "Aqueous H2O2 is used as the oxidant in the asymmetric oxidation of thioethers to sulfoxides.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What happens to the included guest molecules during TGA?",
+        "answer": "TGA revealed that the included guest molecules could be readily released in the temperature range from 80 to 200 \u00b0C.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "Why are MOFs considered for heterogeneous catalysis?",
+        "answer": "MOFs are considered for heterogeneous catalysis due to their structural diversity and the ability to design desired functionalities at the molecular level.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "How does the presence of chiral TiL units in 1 contribute to its catalytic activity?",
+        "answer": "The presence of chiral TiL units makes 1 a suitable heterogeneous catalyst for the asymmetric oxidation of thioethers to sulfoxides.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What is the effect of introducing a strong electron-withdrawing group into the phenyl ring of the substrate?",
+        "answer": "Introduction of a strong electron-withdrawing group, such as -NO2, into the phenyl ring of the substrate leads to slightly lower conversion.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why does the oxidation reaction of benzyl phenyl sulfide result in lower conversion compared to methyl phenyl sulfide?",
+        "answer": "The oxidation reaction of benzyl phenyl sulfide, with a bulkier benzyl group, shows lower conversion probably due to the slow mass-diffusion of the bulky substrate in the porous media.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "How does the framework in 1 contribute to the enhanced enantioselectivities and chemoselectivities compared to its homogeneous catalyst?",
+        "answer": "The TiL-containing framework displays obviously enhanced enantioselectivities and chemoselectivities because the chiral micro-environments around the site-isolated Ti centers effectively restrict molecular motion, leading to efficient enantiodiscrimination.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why was benzyl 2-naphthyl sulfide chosen as a substrate for the catalytic study?",
+        "answer": "Benzyl 2-naphthyl sulfide, a sterically bulky substrate, was used to probe whether the oxidation of the sulfides occurs inside the chiral pores or on the surface of the solid framework catalyst.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What does the low conversion rate of benzyl 2-naphthyl sulfide suggest about the reaction mechanism?",
+        "answer": "The low conversion rate of the bulky substrate benzyl 2-naphthyl sulfide suggests that it cannot access the catalytic Ti sites in the porous structure, implying that the oxidation reaction occurs within the chiral MOF.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "True or False: MOFs are less advantageous than traditional inorganic materials in heterogeneous catalysis.",
+        "answer": "False",
+        "difficulty_level": "easy",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "True or False: Salans have reduced ligand flexibility compared to salen ligands.",
+        "answer": "False",
+        "difficulty_level": "easy",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "True or False: 1 and 2 are soluble in water and common organic solvents.",
+        "answer": "False",
+        "difficulty_level": "easy",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "True or False: The frameworks of 1 and 2 are stable up to approximately 315 \u00b0C.",
+        "answer": "True",
+        "difficulty_level": "easy",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "True or False: MOF 2 exhibits higher enantioselectivities and chemoselectivities for sulfide oxidation compared to (R)-1.",
+        "answer": "False",
+        "difficulty_level": "medium",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "True or False: The oxidation of thioanisole using (R)-1 as a catalyst showed a higher TOF than that of phenyl benzyl sulfide.",
+        "answer": "True",
+        "difficulty_level": "medium",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "True or False: Ground and unground particles of (R)-1 exhibited significantly different catalytic performances in the oxidation of methyl p-tolyl sulfide.",
+        "answer": "False",
+        "difficulty_level": "medium",
+        "question_type": "truefalse"
+    }
+]

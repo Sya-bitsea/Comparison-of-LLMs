@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What decomposition pathway is being studied?",
+        "answer": "Reductive elimination.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What method of characterization was used to determine the chemical composition of IPrAu(III)Cl-IRMOF-10?",
+        "answer": "1H nuclear magnetic resonance (NMR) analysis and inductively coupled plasma-atomic emission spectroscopy (ICP-AES)",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the percentage of gold(III) precatalyst occupancy in IPrAu(III)Cl-bio-MOF-100?",
+        "answer": "Up to 40%",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the maximum percentage of gold(III) precatalyst occupancy achieved in IPrAu(III)Cl-IRMOF-10?",
+        "answer": "16%",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the role of TMB in the study?",
+        "answer": "TMB is a trap for cationic gold(I) species.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What counter anion was present in IPrAu(III)-IRMOF-10 ?",
+        "answer": "SbF6",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "Why was bio-MOF-100 chosen as a support for SXRD characterization?",
+        "answer": "Bio-MOF-100 has larger pores which help mitigate steric clash, and features two symmetrically distinct BPDC moieties which allow for selective displacement of one type of BPDC",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why does IPrAu(III)PF6-bio-MOF-100 have low reactivity towards the cycloisomerization reaction of substrate 1?",
+        "answer": "The low reactivity was attributed to a potential decrease in the rate of diffusion of nonpolar substrates through the intrinsically anionic bio-MOF-100 framework.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why was TlPF6 chosen as the halide abstracting agent instead of AgSbF6 for IPrAu(III)Cl-bio-MOF-100?",
+        "answer": "Treatment with AgSbF6 resulted in a decrease in crystallinity, potentially due to protonation of the BPDC linkers by HSbF6 generated from hydrolysis of AgSbF6. TlPF6 was chosen because it is less sensitive towards hydrolysis.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why are defects more likely to form in IPrAu(III)Cl-IRMOF-10 when the target H2IPrAu(III)(BPDC)Cl/H2BPDC ratio is greater than 5:95?",
+        "answer": "An increase in defects was attributed to steric clash in the framework between gold(III) complexes bearing bulky IPr ligands.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why did efforts to access cationic gold(III) species in bio-MOF-100 through AgSbF6 treatment result in a decrease in crystallinity?",
+        "answer": "This MOF degradation might be attributed to protonation of the BPDC linkers by HSbF6 generated from the hydrolysis of AgSbF6 in the presence of adventitious water.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why did researchers decide to use substrate 3 over substrate 1 for IPrAu(III)PF6-bio-MOF-100 catalyzed cycloisomerization reactions?",
+        "answer": "Substrate 3 has higher thermal stability than substrate 1 and can undergo cycloisomerization reactions at elevated temperatures.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why was NaBarF4 ruled out as a halide-abstracting agent?",
+        "answer": "NaBarF4 yielded poorly crystalline frameworks, presumably due to hard acid-hard base interactions between sodium cations and the carboxylate-based linkers.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "IPrAu(III)Cl-IRMOF-10 was prepared via a solvent-assisted linker exchange strategy.",
+        "answer": "False",
+        "difficulty_level": "easy",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "The architectural stabilization strategy is anticipated to be a general method for the preservation of ligand geometry.",
+        "answer": "True",
+        "difficulty_level": "easy",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "IPrAu(III)Cl-bio-MOF-100 is a microporous material.",
+        "answer": "False",
+        "difficulty_level": "easy",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "Reductive elimination in a rigid MOF can result in strain throughout the material.",
+        "answer": "True",
+        "difficulty_level": "easy",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "IPrAu(III)Cl-IRMOF-10 showed a decrease in reactivity over multiple catalytic cycles.",
+        "answer": "True",
+        "difficulty_level": "easy",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "A decrease in reactivity was observed when substrate 6 was used instead of substrate 1 in the IPrAu(III)SbF6-IRMOF-10 catalyzed cycloisomerization reaction.",
+        "answer": "False",
+        "difficulty_level": "medium",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "The counter anion present in IPrAu(III)-bio-MOF-100 was SbF6.",
+        "answer": "False",
+        "difficulty_level": "easy",
+        "question_type": "truefalse"
+    }
+]

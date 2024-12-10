@@ -1,0 +1,125 @@
+s a single hop .json file with 20 questions of different types (6 factual, 7 reasoning, 7 true/false) based on the given text about MOF-177:
+
+{
+  "questions": [
+    {
+      "question": "What is the chemical formula of MOF-177?",
+      "answer": "Zn4O(BTB)2·(DEF)15(H2O)3, where BTB = 1,3,5-benzenetribenzoate and DEF = N,N-diethylformamide",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the underlying topology of the MOF-177 structure?",
+      "answer": "MOF-177 has a (6,3)-coordinated net topology termed 'qom', where the octahedral OZn4(CO2)6 clusters are the 6-coordinated sites and the BTB linkers are the 3-coordinated sites.",
+      "type": "factual", 
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the estimated Langmuir surface area of MOF-177?",
+      "answer": "The apparent Langmuir surface area of MOF-177 is estimated to be 4,500 m2/g.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the pore volume of MOF-177?",
+      "answer": "Using the Dubinin–Raduskhvich equation, the pore volume of MOF-177 was determined to be 1.59 cm3/g (0.69 cm3/cm3).",
+      "type": "factual",
+      "difficulty": "easy" 
+    },
+    {
+      "question": "How was MOF-177 synthesized?",
+      "answer": "MOF-177 was synthesized solvothermally by heating a mixture of H3BTB and Zn(NO3)2·6H2O in N,N-diethylformamide (DEF) to 100°C.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What techniques were used to characterize MOF-177?",
+      "answer": "MOF-177 was characterized by elemental analysis, single-crystal X-ray diffraction, thermal gravimetric analysis, powder X-ray diffraction, and gas sorption measurements.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Why does the qom net topology of MOF-177 prevent interpenetration of the framework?",
+      "answer": "The qom net of MOF-177 prevents interpenetration because its dual net has a very different structure that is not a viable candidate for a MOF. Two qom nets cannot interpenetrate efficiently.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "How does exposing the latent edges of six-membered rings in graphene fragments lead to higher surface areas?",
+      "answer": "Exposing the latent edges of six-membered rings increases the surface area compared to a continuous graphene sheet by creating more accessible surface. Fully decomposing graphene into isolated rings maximizes the surface area.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Why was it important to use single crystals rather than polycrystalline samples to study the inclusion of large organic molecules in MOF-177?",
+      "answer": "Using single crystals eliminates the concern that inclusion is taking place in intercrystalline voids rather than directly within the pores of the MOF-177 framework.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What evidence indicates that C60 was incorporated into the pores of MOF-177 crystals?",
+      "answer": "The MOF-177 crystals turned a deep red color after soaking in a C60 toluene solution. Raman spectroscopy of a sliced crystal showed bands for both the MOF-177 framework and C60, confirming its presence throughout the crystal.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "How do the thermal gravimetric analysis results demonstrate the stability of the MOF-177 framework?",
+      "answer": "The TGA shows a large initial weight loss from guest removal, but no further weight loss until framework decomposition above 350°C, indicating the MOF-177 framework is stable up to that temperature even in the absence of guest molecules.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Why was MOF-177 able to achieve such a high surface area compared to previous materials?",
+      "answer": "The high surface area results from the use of the BTB linker, which exposes many edges of its component rings, combined with the qom topology that prevents interpenetration and allows for large open pores.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "How does the nitrogen adsorption isotherm demonstrate the microporosity of MOF-177?",
+      "answer": "The type I isotherm shows a steep initial uptake of nitrogen at low pressures, indicating the presence of micropores that are quickly saturated, followed by a plateau confirming no further adsorption in larger pores.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "MOF-177 has a Langmuir surface area higher than any previously reported crystalline material.",
+      "answer": "True",
+      "type": "true/false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The MOF-177 structure contains only six-membered rings and no fused rings.",
+      "answer": "True", 
+      "type": "true/false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "The dye inclusion experiments showed that all tested dyes were evenly distributed throughout the MOF-177 crystals.",
+      "answer": "False - Reichardt's dye only penetrated the outer part of the crystals, while Astrazon Orange R and Nile Red were evenly distributed.",
+      "type": "true/false", 
+      "difficulty": "medium"
+    },
+    {
+      "question": "The qom topology of MOF-177 is the same as the pyr topology of MOF-150.",
+      "answer": "False - qom and pyr are distinct topologies. MOF-150 forms an interpenetrated pyr net while the qom net of MOF-177 prevents interpenetration.",
+      "type": "true/false",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Powder X-ray diffraction showed that the MOF-177 framework maintains its structure after removal of guest molecules.",
+      "answer": "True",
+      "type": "true/false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "MOF-177 selectively adsorbed smaller bromoarene molecules over larger ones.",
+      "answer": "True - Smaller bromoarenes were able to diffuse into the MOF-177 crystals more quickly than larger ones, demonstrating the potential for size-selective separations.",
+      "type": "true/false",
+      "difficulty": "medium" 
+    },
+    {
+      "question": "The surface area of MOF-177 exceeds that of the most porous zeolites and carbon materials.",
+      "answer": "True",
+      "type": "true/false",
+      "difficulty": "easy"
+    }
+  ]

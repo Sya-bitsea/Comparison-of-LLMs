@@ -1,0 +1,142 @@
+[
+    {
+        "id": "5b48372b-9a4d-4980-9b34-d119f3d7287f",
+        "question": "What is the primary application of microporous inorganic materials like zeolites?",
+        "answer": "Microporous inorganic materials like zeolites are widely used in heterogeneous catalysis, adsorption, and ion-exchange processes.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "id": "a4835e62-6321-4453-9023-c818641e6776",
+        "question": "What characteristic of zeolites allows for the size-selective inclusion of molecules?",
+        "answer": "The rigidity and stability of zeolites' frameworks allows for shape- and size-selective inclusion of organic molecules and ions.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "id": "b6820985-482a-4a0f-a02d-5091999c8422",
+        "question": "What type of organic molecule was used as the building block in the synthesis of the metal-organic framework?",
+        "answer": "1,3,5-benzenetricarboxylate (BTC) was used as the building block in the synthesis.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "id": "61176576-5638-4542-b951-60124d781785",
+        "question": "What is the spatial arrangement of the metal-carboxylate layers in the synthesized material?",
+        "answer": "The metal-carboxylate layers stack along the z-axis, creating alternating cobalt-carboxylate and pyridine layers.",
+        "difficulty": "medium",
+        "type": "factual"
+    },
+    {
+        "id": "7424a79e-4c94-4099-8870-118192d44a26",
+        "question": "At what temperature does the synthesized material lose its included pyridine guests?",
+        "answer": "Thermal gravimetric analysis shows a weight loss corresponding to the loss of pyridine guests at 190 \u00b0C.",
+        "difficulty": "medium",
+        "type": "factual"
+    },
+    {
+        "id": "3d591004-708f-4557-b780-21d403953c40",
+        "question": "What is the distance between the cobalt-carboxylate layers in the synthesized material?",
+        "answer": "The cobalt-carboxylate layers are separated by 7 \u00c5.",
+        "difficulty": "medium",
+        "type": "factual"
+    },
+    {
+        "id": "69205528-734d-4d18-8047-50837096439b",
+        "question": "Why was 1,3,5-benzenetricarboxylate (BTC) chosen as the building block for the metal-organic framework?",
+        "answer": "BTC was chosen because its three carboxylate groups, linked to a rigid aromatic ring, allow for predictable coordination to metal ions and the formation of layered structures.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "id": "f67929a6-9095-406f-924c-9070e18c49e2",
+        "question": "How does the use of multidentate ligands contribute to the thermal stability of the synthesized material?",
+        "answer": "Multidentate ligands like BTC create a more robust and interconnected framework, increasing its resistance to thermal degradation.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "id": "466d43e0-5a74-4185-985d-5d1002381c00",
+        "question": "What is the role of pyridine in the formation of the porous framework?",
+        "answer": "Pyridine acts as both a ligand, coordinating to the cobalt ions, and a guest molecule, occupying the channels between the layers.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "id": "56832152-2646-4c6d-8583-10c82601d93a",
+        "question": "How does the \u03c0-stacking of pyridine with BTC units contribute to the framework's selectivity for aromatic molecules?",
+        "answer": "The \u03c0-stacking creates a favorable environment for the inclusion of other aromatic molecules through similar interactions, leading to selective adsorption.",
+        "difficulty": "hard",
+        "type": "reasoning"
+    },
+    {
+        "id": "74d91d3b-594c-4c4d-985f-360609479e22",
+        "question": "Why does the material not absorb non-aromatic molecules like acetonitrile or dichloroethane?",
+        "answer": "The lack of a \u03c0-system in these molecules prevents them from interacting favorably with the aromatic rings of the framework, resulting in no significant adsorption.",
+        "difficulty": "hard",
+        "type": "reasoning"
+    },
+    {
+        "id": "443c138d-0c19-4481-8941-87318c315333",
+        "question": "Explain how the synthesized material exhibits properties analogous to zeolites.",
+        "answer": "The material's rigid framework with defined channels, capable of selective guest inclusion and removal, makes it functionally similar to zeolites, despite the difference in their chemical composition.",
+        "difficulty": "hard",
+        "type": "reasoning"
+    },
+    {
+        "id": "97305e0d-6613-4a4d-9178-2a82909d9147",
+        "question": "How does the inclusion of guest molecules affect the overall stability of the metal-organic framework?",
+        "answer": "The removal of guest molecules does not disrupt the overall stability of the framework. The material remains crystalline and can re-absorb the guests, indicating its structural integrity.",
+        "difficulty": "hard",
+        "type": "reasoning"
+    },
+    {
+        "id": "37126907-3957-4793-8962-78c0c839870d",
+        "question": "True or False: The synthesized material is soluble in water and common organic solvents.",
+        "answer": "False. The synthesized material is insoluble in water and common organic solvents.",
+        "difficulty": "easy",
+        "type": "True/False"
+    },
+    {
+        "id": "f8f50746-6844-4407-860c-11702299d083",
+        "question": "True or False: The synthesized material exhibits selectivity towards aromatic molecules over aliphatic molecules.",
+        "answer": "True. The synthesized material shows a preference for adsorbing aromatic molecules due to favorable \u03c0-stacking interactions.",
+        "difficulty": "medium",
+        "type": "True/False"
+    },
+    {
+        "id": "488c8c83-3f65-4662-9a3d-9c2660295a9f",
+        "question": "True or False: The thermal stability of the framework is independent of the incorporated ligands.",
+        "answer": "False. The use of multidentate ligands like BTC significantly enhances the thermal stability of the framework compared to simpler ligands.",
+        "difficulty": "medium",
+        "type": "True/False"
+    },
+    {
+        "id": "80639190-601a-416f-a628-7a620061762a",
+        "question": "True or False: The X-ray diffraction pattern of the material remains completely unchanged after guest removal and re-inclusion.",
+        "answer": "False. While the line positions in the diffraction pattern remain unchanged, indicating preservation of the lattice structure, the intensities change slightly after guest removal and re-inclusion.",
+        "difficulty": "hard",
+        "type": "True/False"
+    },
+    {
+        "id": "3e7d8644-7345-4300-b294-719f40278986",
+        "question": "True or False: The research primarily focuses on the practical applications of the synthesized material.",
+        "answer": "False. The study primarily emphasizes the fundamental principles of designing thermally stable, selective metal-organic frameworks with potential for future applications.",
+        "difficulty": "medium",
+        "type": "True/False"
+    },
+    {
+        "id": "191712b3-9491-4093-8f03-08c6472c6511",
+        "question": "True or False: The cobalt-carboxylate layers in the material decompose upon heating to 350 \u00b0C.",
+        "answer": "False. Although the X-ray diffraction pattern changes after heating to 350 \u00b0C, the original pattern is restored upon pyridine addition, suggesting the cobalt-carboxylate layers are preserved.",
+        "difficulty": "hard",
+        "type": "True/False"
+    },
+    {
+        "id": "88264041-159a-40c0-a362-a9857169d826",
+        "question": "True or False: The material exhibits size-selective inclusion, meaning it can differentiate between molecules based solely on their size.",
+        "answer": "False. While the material exhibits selectivity, it is primarily based on the presence of aromatic rings that can interact with the framework through \u03c0-stacking, not just size.",
+        "difficulty": "hard",
+        "type": "True/False"
+    }
+]

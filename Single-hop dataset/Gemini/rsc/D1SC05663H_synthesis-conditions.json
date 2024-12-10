@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the defining goal in the field of metal-organic frameworks (MOFs)?",
+        "answer": "The ability to rationally integrate multiple chemical entities within a crystalline porous solid is one of the defining goals in the field of metal\u2013organic frameworks.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "Why is integrating multiple different metal ions and ligands within a MOF structure difficult to achieve with the typical \u2018one-pot\u2019 synthesis?",
+        "answer": "This relates to the challenge in predicting the assembly outcome of multi-component mixtures and their tendency to crystallise as simple binary phases.",
+        "difficulty_level": "medium",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the formula of the paddlewheel sites present in the MOCs utilised in this study?",
+        "answer": "[M2(COO)4(solvent)2] (M = Cu(II), Rh(II) and Cr(II))",
+        "difficulty_level": "hard",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the Cu:Rh ratio observed for the microcrystalline precipitate obtained by combining 1-Cu and 2-Rh in DMF?",
+        "answer": "1:2",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What technique was used to confirm the bulk purity of 3?",
+        "answer": "Powder X-ray Diffraction (PXRD)",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the BET surface area of 3?",
+        "answer": "422 m2 g\u22121",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What could be a reason for the non-porosity of the discrete MOC solids to N2 at 77 K?",
+        "answer": "Presumably because of the random structural aggregation that accompanies their activation.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why are MOCs with [M2(COO)4(solvent)2] (M = Cu(II), Rh(II) and Cr(II)) paddlewheel sites considered versatile supermolecular building-blocks?",
+        "answer": "Owing to their exterior coordination sites and compatible ligand-based functionalities.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "How does the change in stoichiometry of 1-Cu and 2-Rh affect their connectivity?",
+        "answer": "A change in MOC stoichiometry results in a change in network structure due to their directional linking.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What is the benefit of linking 1-Cu and 2-Rh into a mixed-cage network in the case of the 2-D MOF (3)?",
+        "answer": "Improved porosity compared to the discrete cage counterparts.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What is the driving force for the pairwise linking of the two different MOCs?",
+        "answer": "Preferential Rh-aniline coordination.",
+        "difficulty_level": "easy",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "How does the choice of solvent (DMF vs. DMA) affect the formation of 3?",
+        "answer": "DMA is a stronger ligand compared to DMF and competes more effectively for the Rh(II) axial paddlewheel site, slowing down the formation of 3 in DMA.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why was the aldehyde-functionalised ligand L2 selected for this study?",
+        "answer": "Based on the established chemistry of the [Cu4L4 2] MOC analogue, as well as the ability to explore covalent linking options.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "True or False: The pairwise linking of MOCs allows for precise control over the coordination environment and distribution of multiple metal sites and ligands within crystalline porous materials.",
+        "answer": "True",
+        "difficulty_level": "easy",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "True or False: Nature integrates chemical complexity into multi-functional architectures by simultaneous assembly of multiple components.",
+        "answer": "False",
+        "difficulty_level": "medium",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "True or False: The synthesis of MOFs from MOCs was first demonstrated by Maspoch.",
+        "answer": "False",
+        "difficulty_level": "easy",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "True or False: In the mixed-cage MOF 3, both 1-Cu and 2-Rh act as four-connecting nodes.",
+        "answer": "False",
+        "difficulty_level": "medium",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "True or False: The crystal packing and pore-structure of 3 are primarily dictated by weak non-covalent interactions.",
+        "answer": "False",
+        "difficulty_level": "medium",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "True or False: DFT calculations revealed that aniline binds more strongly to Cu than to Rh.",
+        "answer": "False",
+        "difficulty_level": "hard",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "True or False: The selective coordination of 1-Cu to 2-Rh is a significant finding because it overcomes the challenge of synthesizing coordination polymers from kinetically inert Rh(II) metal ions.",
+        "answer": "True",
+        "difficulty_level": "hard",
+        "question_type": "truefalse"
+    }
+]

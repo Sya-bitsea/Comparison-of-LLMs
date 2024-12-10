@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the space group of \u03c0-1?",
+        "answer": "R-3",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the formula for calculating the distribution coefficient?",
+        "answer": "Kd = (Ci - Cf) / Cf \u00d7 V / m",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the maximum CO2 uptake of \u03c0-1 at normal pressure?",
+        "answer": "36.3 cm3/g",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the maximum adsorption capacity of \u03c0-1 to Hg2+?",
+        "answer": "786.67 mg g\u22121",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What two functional groups of the ligand L2\u2212 are deprotonated in \u03c0-1?",
+        "answer": "Carboxylic and thiol groups",
+        "difficulty_level": "medium",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the diameter of the 1D channels in \u03c0-1?",
+        "answer": "7.5 \u00c5 by 7.5 \u00c5",
+        "difficulty_level": "medium",
+        "question_type": "factual"
+    },
+    {
+        "question": "Given that the pore size of \u03c0-1 is significantly larger than the kinetic diameters of N2, H2, and Ar, why does it exhibit selective adsorption towards CO2?",
+        "answer": "The selective adsorption of \u03c0-1 towards CO2 can be attributed to the special quadrupole moment of CO2, which induces interactions with the framework and enhances binding.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "How does the color of \u03c0-1 change upon activation (guest solvent removal)?",
+        "answer": "The color changes from light brown to dark green upon activation.",
+        "difficulty_level": "easy",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why does the IR spectra of \u03c0-1 lack the stretching vibration peak at 2542 cm\u22121, which is present in the spectra of H2L?",
+        "answer": "The absence of the peak at 2542 cm\u22121 in \u03c0-1 indicates the deprotonation of the \u2500SH group upon complexation with Zn(II).",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What is the role of the hydrophobic organic moieties in \u03c0-1?",
+        "answer": "They enwrap the coordination portion, protecting it from attack by solvents, acids, or bases, and contributing to the stability of \u03c0-1.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why does \u03c0-1 exhibit high Hg2+ uptake capacity?",
+        "answer": "The high Hg2+ uptake is attributed to the high porosity, large surface area, and numerous accessible thiolate groups dispersed on the pore surface.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What type of adsorption model describes the adsorption of Hg2+ by \u03c0-1?",
+        "answer": "Pseudo-second-order model",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why does \u03c0-1 maintain its framework stability and recyclability during Hg2+ adsorption-desorption?",
+        "answer": "The Hg2+ capture occurs on the pore surface without direct interaction with the coordination portions responsible for framework stability, allowing for reusability.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "\u03c0-1 is stabilized by hydrogen bonding interactions.",
+        "answer": "False",
+        "difficulty_level": "easy",
+        "question_type": "true_false"
+    },
+    {
+        "question": "The framework of \u03c0-1 remains stable after Hg2+ adsorption.",
+        "answer": "True",
+        "difficulty_level": "easy",
+        "question_type": "true_false"
+    },
+    {
+        "question": "\u03c0-1 exhibits high selectivity for Hg2+ even in the presence of other metal ions.",
+        "answer": "True",
+        "difficulty_level": "easy",
+        "question_type": "true_false"
+    },
+    {
+        "question": "The solubility of different metal salts significantly affects the adsorption properties of \u03c0-1.",
+        "answer": "False",
+        "difficulty_level": "medium",
+        "question_type": "true_false"
+    },
+    {
+        "question": "\u03c0-1 can be easily regenerated and reused for multiple cycles of Hg2+ adsorption without significant loss of performance.",
+        "answer": "True",
+        "difficulty_level": "easy",
+        "question_type": "true_false"
+    },
+    {
+        "question": "The presence of acetate ions was detected in the water solution where \u03c0-1 was immersed, indicating incomplete deprotonation of the ligand.",
+        "answer": "False",
+        "difficulty_level": "medium",
+        "question_type": "true_false"
+    },
+    {
+        "question": "The coordination portions of \u03c0-1 are exposed to the solvent environment, making them susceptible to degradation.",
+        "answer": "False",
+        "difficulty_level": "medium",
+        "question_type": "true_false"
+    }
+]

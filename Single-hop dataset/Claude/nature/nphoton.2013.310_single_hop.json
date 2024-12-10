@@ -1,0 +1,125 @@
+s a single hop .json file with 20 Q&As of different types based on the given text:
+
+{
+  "questions": [
+    {
+      "question": "What is the chemical formula of the chiral photomagnet synthesized in this work?",
+      "answer": "(+)-Fe2[Nb(CN)8](4-bromopyridine)8·2H2O",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the space group of the crystal structure of the chiral photomagnet?",
+      "answer": "I4122",
+      "type": "factual", 
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the phenomenon that enables photoswitching between the low-spin and high-spin states of the FeII ion?",
+      "answer": "Light-induced excited spin-state trapping (LIESST)",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What are the transition temperatures from high temperature to low temperature (T1/2↓) and from low temperature to high temperature (T1/2↑)?",
+      "answer": "T1/2↓ is 112 K and T1/2↑ is 124 K",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the Curie temperature (TC) of the photo-induced phase 1 (PI-1)?",
+      "answer": "15 K",
+      "type": "factual",
+      "difficulty": "easy" 
+    },
+    {
+      "question": "What is the coercive field (Hc) of the PI-1 phase at 2 K?",
+      "answer": "3 kOe",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Why does the second harmonic generation (SHG) intensity of the low temperature phase become much higher than that of the high temperature phase?",
+      "answer": "In the low temperature phase, an intense absorption band around 532 nm due to the 1A1 → 1T1 transition of FeII allows strong SHG, while in the high temperature phase the SHG susceptibility tensor elements are very small due to Kleinman's rule in a transparent tetragonal crystal.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What causes the magnetization of the PI-1 phase after irradiation with 473 nm light?",
+      "answer": "473 nm light irradiation causes LIESST effect, converting FeII from low-spin to high-spin state. The photo-produced FeII high-spin sites interact antiferromagnetically with neighboring NbIV sites via superexchange, resulting in bulk ferrimagnetic ordering.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Why does the polarization plane of the output second harmonic light switch by nearly 90° between the PI-1 and PI-2 phases?",
+      "answer": "In PI-1, the crystal term of the SHG susceptibility is forbidden but the magnetic term is allowed, resulting in p-out polarized SH light. In PI-2, the crystal term becomes dominant over the magnetic term, switching the SH light back to s-out polarization.",
+      "type": "reasoning",
+      "difficulty": "hard" 
+    },
+    {
+      "question": "How does the chiral structure of the magnet enable the observed 90° optical switching of the second harmonic light?",
+      "answer": "The chiral structure produces the crystal term of the SHG susceptibility, while the photo-induced magnetization generates the magnetic term. Photoswitching alternates between the conditions where the crystal term is much smaller or larger than the magnetic term, enabling the 90° switching.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the estimated superexchange interaction constant (Jex) between the photo-produced FeII high-spin sites and the neighboring NbIV sites in the PI-1 phase?",
+      "answer": "-5.2 cm-1",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the thermal relaxation temperature (TLIESST) from the PI-1 phase back to the low temperature phase?",
+      "answer": "70 K",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What percentage of FeII returns from high-spin to low-spin state after irradiation with 785 nm light to produce the PI-2 phase?",
+      "answer": "38%",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "The high temperature phase has a chiral structure with I4122 space group.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The low temperature phase has a tetragonal crystal structure.",
+      "answer": "False",
+      "type": "true_false", 
+      "difficulty": "medium"
+    },
+    {
+      "question": "Irradiation with 785 nm light causes the LIESST effect, converting FeII from low-spin to high-spin state.",
+      "answer": "False",
+      "type": "true_false",
+      "difficulty": "medium" 
+    },
+    {
+      "question": "The PI-1 phase exhibits ferrimagnetic ordering between the photo-produced FeII high-spin sites and NbIV sites.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "In the PI-2 phase, the magnetic term of the SHG susceptibility becomes dominant over the crystal term.",
+      "answer": "False",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "The 90° optical switching of the second harmonic light is enabled by coupling between the nonlinear magneto-optical effect and the photomagnetic effect in the chiral magnet.",
+      "answer": "True", 
+      "type": "true_false",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Photoswitching between the PI-1 and PI-2 phases allows reversible control between s-polarized and p-polarized output second harmonic light.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "hard"
+    }
+  ]

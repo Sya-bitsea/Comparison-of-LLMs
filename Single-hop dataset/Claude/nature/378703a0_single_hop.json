@@ -1,0 +1,125 @@
+s a single hop .json file with 20 questions and answers based on the given text:
+
+{
+  "questions": [
+    {
+      "question": "What is the magnetization of compound 1 at T = 10 K and H = 1 kG?",
+      "answer": "The magnetization of compound 1 at T = 10 K and H = 1 kG is approximately 0.15 Bohr magneton.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Up to what applied field does the magnetization of compound 1 increase rapidly at T = 10 K?",
+      "answer": "The magnetization of compound 1 increases rapidly up to an applied field of 200 G at T = 10 K.",
+      "type": "factual", 
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the experimental saturation magnetization of compound 1 at T = 10 K?",
+      "answer": "The experimental saturation magnetization of compound 1 at T = 10 K is approximately 0.15 Bohr magneton.",
+      "type": "factual",
+      "difficulty": "easy" 
+    },
+    {
+      "question": "How does the experimental saturation magnetization compare to the computed value for compound 1?",
+      "answer": "The experimental saturation magnetization compares well with the computed value for compound 1.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the remanent magnetization of compound 1 at T = 10 K?",
+      "answer": "The remanent magnetization of compound 1 at T = 10 K is 457 emu G mol-1.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the coercive field of compound 1 at T = 10 K?",
+      "answer": "The coercive field of compound 1 at T = 10 K is 25 G.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Why does the magnetization of compound 1 tend slowly to its saturation value after the initial rapid increase?",
+      "answer": "The magnetization tends slowly to its saturation value after the initial rapid increase because of the antiferromagnetic coupling between chromium and vanadium in compound 1.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What explains the high Curie temperature of compound 1?",
+      "answer": "The number of magnetic neighbours and the strong antiferromagnetic interaction between non-compensated spins explain the high Curie temperature of compound 1.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Why is there no ferromagnetic interaction between electrons in orthogonal orbitals in compound 1?",
+      "answer": "There is no ferromagnetic interaction between electrons in orthogonal orbitals in compound 1 because the spins are paired, as in the dioxygen molecule or Cs2Ni[Cr(CN)6].",
+      "type": "reasoning",
+      "difficulty": "hard"  
+    },
+    {
+      "question": "What approach illustrated by compound 1 seems to be a promising route for designing high-Tc magnets?",
+      "answer": "The three-dimensional ferrimagnetic approach illustrated by compound 1 seems to be one of the most promising routes for designing further high-Tc magnets.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What are some of the specific properties of molecule-based magnets that could lead to applications?",
+      "answer": "Some specific properties of molecule-based magnets that could lead to applications are low density, transparency, insulating character, magneto-optical properties and tunable Curie temperatures.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What properties of compound 1 have been used to design a temperature-sensitive magnetic switch?",
+      "answer": "The room-temperature Curie point, the sharp increase of the magnetization at Tc and absence of observable fatigue or deterioration during thermal cycles around the transition have been used to design a temperature-sensitive magnetic switch using compound 1.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Is the interest in compound 1 currently more scientific or practical?",
+      "answer": "The interest in compound 1 is currently more scientific rather than practical.",
+      "type": "reasoning",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The magnetization of compound 1 increases rapidly up to 200 G at T = 10 K.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The experimental saturation magnetization of compound 1 does not match well with the computed value.",
+      "answer": "False",
+      "type": "true_false", 
+      "difficulty": "easy"
+    },
+    {
+      "question": "The high Curie temperature of compound 1 is explained by the ferromagnetic interaction between electrons in orthogonal orbitals.",
+      "answer": "False",
+      "type": "true_false",
+      "difficulty": "medium" 
+    },
+    {
+      "question": "Compound 1 illustrates a three-dimensional ferrimagnetic approach for designing high-Tc magnets.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Properties like low density and transparency make molecule-based magnets unsuitable for any practical applications.",
+      "answer": "False",
+      "type": "true_false",
+      "difficulty": "medium" 
+    },
+    {
+      "question": "A temperature-sensitive magnetic switch has been designed using specific properties of compound 1.",
+      "answer": "True", 
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The current interest in compound 1 is more practical than scientific.",
+      "answer": "False",
+      "type": "true_false",
+      "difficulty": "easy"
+    }
+  ]

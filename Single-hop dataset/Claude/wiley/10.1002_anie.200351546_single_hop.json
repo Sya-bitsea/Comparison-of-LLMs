@@ -1,0 +1,125 @@
+s the single hop .json file with 20 questions of different types based on the given text:
+
+{
+  "questions": [
+    {
+      "question": "What is the chemical formula of MOF-150?",
+      "answer": "[Zn4O(TCA)2]·(DMF)3(H2O)3",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does TCA stand for in MOF-150?", 
+      "answer": "4,4',4''-Tricarboxytriphenylamine",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the topology of each framework in MOF-150 related to?",
+      "answer": "The structure of the pyrite form of FeS2, if the S-S bonding in pyrite is ignored",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What percentage of the crystal volume in MOF-150 is calculated to be space remaining after interpenetration?",
+      "answer": "52%",
+      "type": "factual", 
+      "difficulty": "easy"
+    },
+    {
+      "question": "At what temperature do the solvent guest molecules get removed from the pores of MOF-150 when heated in air?",
+      "answer": "240°C",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the transitivity of the pyrite net?",
+      "answer": "2112",
+      "type": "factual",
+      "difficulty": "hard"  
+    },
+    {
+      "question": "The pyrite net in MOF-150 is composed of triangular TCA units linked to octahedral zinc acetate SBUs. What is the coordination of the resulting net?",
+      "answer": "The resulting net is 6,3-coordinated, with the octahedral SBUs providing 6-coordination and the triangular TCA units providing 3-coordination.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Why is MOF-150 considered the first example of a fully catenated structure with mixed coordination?",
+      "answer": "Because in MOF-150, all rings of one net are mechanically linked to rings of the other net and vice versa. Previous examples of interpenetrated mixed coordination frameworks were never fully catenated in this way.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "The pyrite net has some special properties it shares only with what other net?",
+      "answer": "The diamond net. Both nets have all 6-rings that are related by symmetry, two 6-rings per vertex, and an average coordination number of four.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Why is the appearance of the less symmetrical rutile net not surprising in some cyanide frameworks with a {M[N(CN)2]2} composition?",
+      "answer": "Because in those frameworks, the three-coordinated vertex has more than one kind of link. The lower symmetry of the building units leads to the formation of a less symmetrical net.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Why might we expect to find nets other than the pyrite net with less flexible linkers than TCA?",
+      "answer": "Because the TCA linker is flexible enough to provide the 45° twist angle needed between the carboxylate groups and triangular units to form the pyrite net. Less flexible linkers may not be able to provide this geometry, leading to other less symmetrical nets.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "The two interpenetrating pyrite nets in MOF-150 are related by symmetry. What is the space group symmetry of the interpenetrated structure?",
+      "answer": "The two interpenetrating pyrite nets in MOF-150 have the space group symmetry Ia3¯.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Based on the thesis presented, what type of net would be expected to form for a 6,3-connected framework if no specific directional information is provided by the building units?",
+      "answer": "The pyrite net would be expected as the default net for 6,3-connectivity if the building units do not provide specific low-symmetry directional information.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "MOF-150 contains two identical interpenetrating pyrite nets.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The pyrite net is the most regular net possible for linking triangles and octahedra.",
+      "answer": "True",
+      "type": "true_false", 
+      "difficulty": "medium"
+    },
+    {
+      "question": "The pyrite net is self-dual, meaning the net and its dual are fully catenated.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "The solvent guest molecules in MOF-150 cannot be removed from the pores.",
+      "answer": "False",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The rutile net is more symmetrical than the pyrite net.",
+      "answer": "False",
+      "type": "true_false",
+      "difficulty": "medium" 
+    },
+    {
+      "question": "Most 6,3-connected frameworks reported to date have the pyrite topology.",
+      "answer": "False",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "The pyrite net and diamond net are the only nets where all rings are 6-rings related by symmetry.",
+      "answer": "True", 
+      "type": "true_false",
+      "difficulty": "hard"
+    }
+  ]

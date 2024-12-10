@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the coordination geometry of the Cu(II) ion in FJI-H14?",
+        "answer": "The Cu(II) ion in FJI-H14 has a square-pyramidal coordination geometry.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the theoretical porosity of FJI-H14 as calculated by PLATON?",
+        "answer": "The theoretical porosity of the fully evacuated FJI-H14, as calculated by PLATON with a probe radius of 1.65 \u00c5, is 44.4%.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the BET-specific surface area of FJI-H14?",
+        "answer": "The BET-specific surface area of FJI-H14 is 904 m2 g\u22121.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the Langmuir-specific surface area of FJI-H14?",
+        "answer": "The Langmuir-specific surface area of FJI-H14 is 1004 m2 g\u22121.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the total pore volume of activated FJI-H14 as estimated from the CO2 isotherm?",
+        "answer": "The total pore volume of activated FJI-H14, as estimated from the CO2 isotherm at P/P0 = 0.92, is 0.45 cm3 g\u22121.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the volumetric CO2 adsorption capacity of activated FJI-H14 at 298 K and 1 atm?",
+        "answer": "Activated FJI-H14 exhibits a remarkable CO2 volumetric adsorption capacity of 171 cm3 cm\u22123 at 298 K and 1 atm.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "Why is FJI-H14 particularly well-suited for CO2 capture from flue gas?",
+        "answer": "FJI-H14 is particularly well-suited for CO2 capture from flue gas because it exhibits high CO2 uptake and selectivity at ambient pressure, excellent chemical and thermal stability, good reusability, and the potential for large-scale production at low cost.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What is the role of open metal sites (OMS) and Lewis basic sites (LBS) in CO2 capture by FJI-H14?",
+        "answer": "The OMS and LBS in FJI-H14 work synergistically to capture CO2 molecules in the pores, enhancing its adsorption capacity.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "How does the chemical stability of FJI-H14 compare to other MOFs based on Cu ions and organic carboxylates?",
+        "answer": "FJI-H14 exhibits unusual chemical stability, being resistant to boiling water, acidic (pH = 2-12), and basic environments (up to 373 K), which is uncommon for MOFs based on Cu ions and organic carboxylates.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What structural features of FJI-H14 contribute to its unusual chemical stability?",
+        "answer": "The unusual chemical stability of FJI-H14 is attributed to its unique structure. The penta-coordinated Cu(II) ion subunit, stabilized by Cu-N coordination interaction, is more stable than the traditional paddle-wheel structure. The abundant free N atoms also provide stability against acids.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why does FJI-H14 exhibit restricted N2 uptake at 77 K while showing typical type-I isotherm for CO2 at 195 K?",
+        "answer": "The relatively narrow pores in FJI-H14 are easily blocked by the larger N2 molecule at 77 K, hindering further diffusion. However, the smaller CO2 molecule can still access the micropores, leading to typical type-I isotherm behavior.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What is the significance of the increasing isosteric heat of adsorption (Qst) with CO2 loading in FJI-H14?",
+        "answer": "The increasing Qst with CO2 loading suggests the formation of CO2 clusters within the pores of FJI-H14, where CO2-CO2 interactions contribute to the overall heat of adsorption.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "How does the size of the epoxide substrate affect the catalytic activity of FJI-H14 in the cycloaddition reaction with CO2?",
+        "answer": "Smaller epoxide substrates, such as (chloromethyl)ethylene oxide, diffuse more easily into the pores of FJI-H14, allowing for better contact with active sites and resulting in higher yields.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "FJI-H14 is synthesized using a hydrothermal method.",
+        "answer": "true",
+        "difficulty_level": "easy",
+        "question_type": "true_false"
+    },
+    {
+        "question": "FJI-H14 is unstable in boiling water.",
+        "answer": "false",
+        "difficulty_level": "easy",
+        "question_type": "true_false"
+    },
+    {
+        "question": "The CO2 adsorption capacity of FJI-H14 is higher than that of Mg-MOF-74.",
+        "answer": "false",
+        "difficulty_level": "medium",
+        "question_type": "true_false"
+    },
+    {
+        "question": "The isosteric heat of adsorption (Qst) of FJI-H14 decreases with increasing CO2 loading.",
+        "answer": "false",
+        "difficulty_level": "medium",
+        "question_type": "true_false"
+    },
+    {
+        "question": "FJI-H14 can be synthesized on a large scale.",
+        "answer": "true",
+        "difficulty_level": "medium",
+        "question_type": "true_false"
+    },
+    {
+        "question": "FJI-H14 shows no catalytic activity for the conversion of CO2 into cyclic carbonates.",
+        "answer": "false",
+        "difficulty_level": "medium",
+        "question_type": "true_false"
+    },
+    {
+        "question": "The catalytic activity of FJI-H14 is attributed solely to its open Cu(II) sites.",
+        "answer": "false",
+        "difficulty_level": "hard",
+        "question_type": "true_false"
+    }
+]

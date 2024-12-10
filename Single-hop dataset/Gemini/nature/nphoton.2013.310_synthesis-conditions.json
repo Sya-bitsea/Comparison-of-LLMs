@@ -1,0 +1,116 @@
+[
+    {
+        "question": "What is the chemical formula of the chiral cyano-bridged Fe\u2212Nb bimetallic assembly synthesized?",
+        "answer": "(\u00b1)-Fe2[Nb(CN)8](4-bromopyridine)8\u00b72H2O",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What are the space groups of the HT and LT phases?",
+        "answer": "The HT phase has a chiral structure in the I4122 space group and the LT phase has an orthorhombic crystal structure in the chiral F222 space group.",
+        "difficulty_level": "medium",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the TLIESST of the PI-1 phase?",
+        "answer": "70K",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the wavelength of the SH light?",
+        "answer": "532 nm",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What technique was used to confirm the enantiopure nature of the (+) and (-) compounds?",
+        "answer": "Natural Circular Dichroism (NCD) spectra",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What type of laser was used to investigate the photomagnetic effect?",
+        "answer": "473 nm diode laser",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "The HT phase has higher SHG intensity than the LT phase. True or False?",
+        "answer": "False",
+        "difficulty_level": "medium",
+        "question_type": "True or False"
+    },
+    {
+        "question": "The PI-1 phase is paramagnetic. True or False?",
+        "answer": "False",
+        "difficulty_level": "hard",
+        "question_type": "True or False"
+    },
+    {
+        "question": "The PI-2 phase is diamagnetic. True or False?",
+        "answer": "False",
+        "difficulty_level": "hard",
+        "question_type": "True or False"
+    },
+    {
+        "question": "The LT phase shows an intense absorption band around 532 nm. What is the reason for this absorption?",
+        "answer": "1A1 \u2192 1T1 transition of FeII LS at 560 nm",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "The SHG for a single crystal was measured. What was used as the incident light?",
+        "answer": "femtosecond laser tuned by an optical parametric amplifier as the incident light (lambda = 1,064 nm)",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why does the HT phase show weak SHG intensity?",
+        "answer": "Because xxyz,HT and xyzx,HT approach zero in a transparent tetragonal crystal under Kleinman's rule.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why was a 473 nm diode laser used to study the photomagnetic effect?",
+        "answer": "Because the LT phase has an absorption band due to the 1A1  \u2192 1T2 transition of FeII LS around 430 nm.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What causes the bulk magnetization in the PI-1 phase?",
+        "answer": "In the PI\u20131 phase, the magnetic spins on the photo-produced FeII HS (S = 2) and the neighbouring NbIV (S = 1/2) interact antiferromagnetically via superexchange interaction through the CN ligand, resulting in bulk magnetization due to ferrimagnetism.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "The PI-1 phase was irradiated by a 785 nm diode laser. What electronic transition does this correspond to?",
+        "answer": "excitation of the d\u2013d transition (5T2 \u2192 5E) of FeII HS",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What effect does 785 nm light irradiation have on the PI-1 phase?",
+        "answer": "It reduces the magnetization of the PI-1 phase, and the TC value decreases from 15 K to 12 K.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Irradiating the LT phase with 473 nm light at 2K produces small spontaneous magnetization. True or False?",
+        "answer": "False",
+        "difficulty_level": "medium",
+        "question_type": "True or False"
+    },
+    {
+        "question": "The PI-1 phase exhibits s-out SH polarization. True or False?",
+        "answer": "False",
+        "difficulty_level": "hard",
+        "question_type": "True or False"
+    },
+    {
+        "question": "The PI-2 phase exhibits p-out SH polarization. True or False?",
+        "answer": "False",
+        "difficulty_level": "hard",
+        "question_type": "True or False"
+    }
+]

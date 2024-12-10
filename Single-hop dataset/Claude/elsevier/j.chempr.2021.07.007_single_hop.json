@@ -1,0 +1,125 @@
+s a single hop .json file with 20 Q&As (6 factual, 7 reasoning, 7 True/False) for the given text:
+
+{
+  "questions": [
+    {
+      "question": "What is the trade-off that the hybrid ultramicroporous materials (HUMs) reported in this study aim to address for gas separation?",
+      "answer": "The HUMs aim to address the trade-off between selectivity and adsorption capacity for gas separation, which is a major roadblock to reducing the energy footprint of gas separation technologies.",
+      "difficulty": "easy",
+      "type": "factual" 
+    },
+    {
+      "question": "How many isostructural HUMs were studied in this work?",
+      "answer": "Six isostructural HUMs were studied, composed of the same organic linker ligand, three inorganic pillar ligands, and two metal cations.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What experimental technique revealed that one sorbent, SIFSIX-21-Ni, was the first C2H2 selective sorbent that combines exceptional separation selectivity with high adsorption capacity?",
+      "answer": "Fixed-bed dynamic column breakthrough experiments for an equimolar C2H2/CO2 binary gas mixture revealed that SIFSIX-21-Ni was the first C2H2 selective sorbent that combines exceptional separation selectivity (27.7) with high adsorption capacity (4 mmol·g−1).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the three technologies currently used to remove C2H2 from C2H2/CO2 mixtures?",
+      "answer": "The three technologies currently used are: 1) bulk solvent extraction, 2) partial hydrogenation of C2H2 to ethylene with costly noble-metal catalysts, and 3) cryogenic distillation.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the CSD MOF subset that the authors refer to and how many MOMs are in it?",
+      "answer": "The CSD MOF subset (2020.3 CSD release) contains over 100,000 metal-organic materials (MOMs).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How many sorbents have had their C2H2/CO2 separation selectivity values experimentally measured under dynamic conditions according to the authors' review of the literature?",
+      "answer": "According to the authors' review, C2H2/CO2 separation selectivity values for equimolar mixtures have been experimentally measured for only 16 sorbents under dynamic conditions, most of which are classified as MOFs.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Why is it important to study sorbent performances for C2H2/CO2 separation under dynamic conditions rather than just calculating separation performance from single-component isotherms?",
+      "answer": "It is important to study sorbent performances under dynamic conditions because calculation of separation performance from single-component C2H2 and CO2 isotherms tends to overestimate the actual separation performance. IAST and fixed-bed simulated breakthrough calculations are indicative rather than confirmative.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What key features of the pypz HUMs reported enable strong C2H2 affinity versus CO2?",
+      "answer": "The pypz HUMs have binding sites that combine CH-π interaction-driven binding sites for C2H2 and weak CO2-sorbent interactions, enabling strong C2H2 affinity versus CO2.",
+      "difficulty": "medium", 
+      "type": "reasoning"
+    },
+    {
+      "question": "Why does the narrow pore size in prototypal pyrazine-linked HUMs tend to limit surface area and uptake capacity despite enhancing selective binding?",
+      "answer": "The narrow pore size enhances selective binding by providing a confined space. However, it also limits the accessible surface area and volume available for gas uptake, thereby limiting the overall adsorption capacity of the material.",
+      "difficulty": "hard",
+      "type": "reasoning" 
+    },
+    {
+      "question": "What can be inferred about the relative thermodynamic preferences of the studied HUMs toward C2H2 versus CO2 based on the reported Qst and ΔQst values?",
+      "answer": "The reported Qst(C2H2) values being significantly higher than Qst(CO2) values, as well as the positive ΔQst values, indicate the HUMs have a stronger thermodynamic preference to adsorb C2H2 over CO2.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the separation selectivity of SIFSIX-21-Ni attributed as much to weak CO2 binding as it is to strong C2H2 affinity?",
+      "answer": "SIFSIX-21-Ni exhibits a relatively low Qst(CO2) of 19.8 kJ mol−1 at low loading compared to other C2H2 selective physisorbents, resulting in a high ΔQst(C2H2/CO2) of 18.1 kJ mol−1. This large difference indicates the high selectivity is significantly driven by the weak interaction with CO2 in addition to the strong affinity for C2H2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How do the authors explain the two distinct νas(C2H2) IR bands observed for C2H2 adsorbed in NbOFFIVE-3-Cu and SIFSIX-21-Ni?",
+      "answer": "The two distinct νas(C2H2) bands at 3209 and 3309 cm−1 suggest there are two types of C2H2 binding sites with different binding strengths in the HUMs. The relative intensities imply the stronger binding sites are more populated.",
+      "difficulty": "hard",
+      "type": "reasoning"  
+    },
+    {
+      "question": "Based on the 13C NMR spectra, what can be concluded about the interaction between adsorbed CO2 and the paramagnetic Cu(II) centers in NbOFFIVE-3-Cu?",
+      "answer": "The 13C NMR chemical shift of adsorbed CO2 is the same as in diamagnetic MOMs, suggesting a lack of significant paramagnetic interaction between CO2 and Cu(II). This is likely due to the long distances between CO2 and the metal centers and the high mobility of CO2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The HUMs reported in this study are composed of different organic linker ligands, inorganic pillar ligands, and metal cations.",
+      "answer": "False. The six isostructural HUMs are composed of the same organic linker ligand (pypz), three different inorganic pillar ligands, and two different metal cations.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: SIFSIX-21-Ni was found to be the best performing sorbent among the HUMs studied for C2H2/CO2 separation.",
+      "answer": "True. SIFSIX-21-Ni outperformed all other sorbents thanks to its benchmark separation selectivity (27.7), high C2H2 uptake (4.0 mmol·g−1), and low regeneration temperature.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The three technologies currently used for C2H2/CO2 separation are all cost-effective and energy-efficient.",
+      "answer": "False. The three current technologies (bulk solvent extraction, partial hydrogenation, and cryogenic distillation) all suffer from high cost and low efficiency.",
+      "difficulty": "medium",
+      "type": "True or False" 
+    },
+    {
+      "question": "True or False: Calculation of C2H2/CO2 separation performance from single-component isotherms provides accurate predictions and does not require confirmation from dynamic breakthrough experiments.",
+      "answer": "False. Calculation from single-component isotherms tends to overestimate separation performance. IAST and simulated breakthrough calculations are only indicative, not confirmative. Dynamic breakthrough experiments are needed to reliably evaluate actual separation performance.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The in situ IR studies showed that C2H2 and CO2 interact very similarly with the HUM frameworks.",
+      "answer": "False. The IR studies revealed that C2H2 loading perturbs the HUM vibrational bands more than CO2, indicating stronger sorbent-sorbate interactions for C2H2. Two distinct C2H2 binding sites were observed compared to only one type for CO2.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },  
+    {
+      "question": "True or False: The 13C NMR spectra suggest that NbOFFIVE-3-Cu has a higher affinity for CO2 than C2H2.",
+      "answer": "False. The much stronger signals in the 2H NMR spectra of C2D2 loaded NbOFFIVE-3-Cu compared to the 13C spectra of 13CO2 loaded sample suggest the HUM has a higher affinity for C2H2 than CO2 under the same loading conditions.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: All six HUMs maintained their crystallinity after exposure to accelerated stability testing conditions of high temperature and humidity.",
+      "answer": "False. While NbOFFIVE-3-Ni, SIFSIX-21-Cu, TIFSIX-4-Cu, and NbOFFIVE-3-Cu exhibited excellent stability, SIFSIX-21-Ni and TIFSIX-4-Ni underwent a phase change after humidity exposure. However, they could be regenerated back to the original phase by heating.",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]

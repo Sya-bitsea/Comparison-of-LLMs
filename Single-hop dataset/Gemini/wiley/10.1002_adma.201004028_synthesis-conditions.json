@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the chemical formula for MAF-4?",
+        "answer": "[Zn(mim)2]",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the cavity diameter of MAF-7?",
+        "answer": "11.2 \u00c5",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the void percentage of MAF-7?",
+        "answer": "51.7%",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the decomposition temperature of MAF-4?",
+        "answer": "400 \u00b0C",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the decomposition temperature of MAF-7?",
+        "answer": "270 \u00b0C",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the surface area of MAF-4 and MAF-7?",
+        "answer": "\u2248 1870 m2  g\u22121",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "MAF-4 only adsorbs many important gases weakly due to the lack of a strong adsorption site on its pore surface. What is the effect of replacing a C\u2013H moiety in MAF-4 with an isoelectronic N atom?",
+        "answer": "Replacing a C\u2013H moiety in MAF-4 with an isoelectronic N atom can provide a Lewis base active site for guest binding.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "MAF-4 and MAF-7 have almost identical pore parameters, yet the isotherm slope of MAF-7 at very low pressure is larger. What does this imply about the binding affinity of MAF-7?",
+        "answer": "The larger isotherm slope of MAF-7 at very low pressure implies that it has a stronger binding affinity.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "The isosteric heat of adsorption for CO2 in MAF-7 is remarkably higher than in MAF-4. What is the likely reason for this enhanced sorption?",
+        "answer": "Dipole\u2013quadrupole interactions between the uncoordinated nitrogen donors of MAF-7 and the electropositive carbon of CO2 are likely responsible for the enhanced sorption.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why is the relatively weak C2H2 binding strength of MAF-7 considered a useful feature for adsorptive storage of pure C2H2?",
+        "answer": "The weak binding strength is useful because it allows for easier release of the adsorbed C2H2 during desorption.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "MAF-7 exhibits a type-V adsorption isotherm shape for water adsorption. What does this indicate about its hydrophobicity?",
+        "answer": "A type-V adsorption isotherm shape for water adsorption is characteristic of hydrophobic adsorbents.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "What is the effect of lowering the density of pore surface active sites in MAF-47-x on the water binding affinity?",
+        "answer": "Lowering the density of pore surface active sites decreases the water binding affinity.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "How does the tuning of gated pressures in MAF-47-x differ from that in previously reported SSF adsorbents?",
+        "answer": "In MAF-47-x, the gated pressures of adsorption and desorption are tuned in the same direction, while in previously reported SSF adsorbents, they are tuned in opposite directions.",
+        "difficulty": "hard",
+        "type": "reasoning"
+    },
+    {
+        "question": "MAF-4 and MAF-7 have significantly different water adsorption capacities. True or False?",
+        "answer": "True",
+        "difficulty": "easy",
+        "type": "true_false"
+    },
+    {
+        "question": "The triazolate ligand in MAF-7 uses all three nitrogen atoms for coordination. True or False?",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "true_false"
+    },
+    {
+        "question": "MAF-4 is synthesized using a methanol solution of Hmim and an aqueous ammonia solution of zinc salt. True or False?",
+        "answer": "True",
+        "difficulty": "easy",
+        "type": "true_false"
+    },
+    {
+        "question": "MAF-7 is synthesized using a methanol solution of Hmtz and an aqueous ammonia solution of zinc salt. True or False?",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "true_false"
+    },
+    {
+        "question": "The pore surface of a metal-organic zeolite cannot be tuned like aluminosilicate zeolites. True or False?",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "true_false"
+    },
+    {
+        "question": "The unbound N atoms in MAF-7 enhance sorption performances for many adsorbates, especially those with lower polarities. True or False?",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "true_false"
+    },
+    {
+        "question": "The gated pressure of sorption in MAF-47-x can be tuned continuously. True or False?",
+        "answer": "True",
+        "difficulty": "medium",
+        "type": "true_false"
+    }
+]

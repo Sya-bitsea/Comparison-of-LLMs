@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the Co-Co distance in the {[Co(ox)(Htr)2]  2H2O}n polymer?",
+        "answer": "The Co-Co distance in the {[Co(ox)(Htr)2]  2H2O}n polymer is 5.492(1) \u00c5.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the coordination geometry of the Co atom in {[Co(ox)(Htr)2]  2H2O}n?",
+        "answer": "The Co atom in {[Co(ox)(Htr)2]  2H2O}n has a distorted-octahedral O4N2 donor set.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "At what temperature does the anhydrous {[Co(ox)(Htr)2]}n compound start to decompose?",
+        "answer": "The anhydrous {[Co(ox)(Htr)2]}n compound remains stable up to 543 K.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the typical height of the {[Co(ox)(Htr)2]  2H2O}n fibers observed on HOPG?",
+        "answer": "The {[Co(ox)(Htr)2]  2H2O}n fibers observed on HOPG have typical heights of around 10 nm.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the diameter of an individual chain in a [Pt2(n-butylCS2)4I]n monocrystal?",
+        "answer": "An individual chain in a [Pt2(n-butylCS2)4I]n monocrystal shows a diameter of 1.2 nm.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the base pressure used for the sublimation of both {[Co(ox)(Htr)2]  2H2O}n and [Pt2(n-butylCS2)4I]n?",
+        "answer": "The base pressure used for the sublimation of both coordination polymers is 1  10\u22126 mbar.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "The {[Co(ox)(Htr)2]  2H2O}n polymer was synthesized and then sublimated. What is the likely reason for the successful deposition of the polymer on the substrate after sublimation?",
+        "answer": "The coordination bonds in the polymer are weaker than covalent bonds and break upon heating, allowing for sublimation and subsequent reassembly on the substrate.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why do the sublimated fragments of {[Co(ox)(Htr)2]  2H2O}n on HOPG not show preferential alignment along in-plane directions?",
+        "answer": "The deposited fragments diffuse long distances, jumping over surface steps until aggregating, suggesting no preferential alignment.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What causes the difference in morphology between {[Co(ox)(Htr)2]  2H2O}n deposited on HOPG at room temperature and at 393 K?",
+        "answer": "The difference in morphology is likely due to the higher substrate temperature at 393 K, which provides increased energy for diffusion and organization.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why are the {[Co(ox)(Htr)2]  2H2O}n fibers grown on mica shorter and less homogeneous in width compared to those formed on HOPG?",
+        "answer": "The difference in fiber characteristics suggests a higher diffusion rate on graphite (HOPG) than on mica, leading to more elongated and homogeneous structures on HOPG.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why does increasing the sublimation time of {[Co(ox)(Htr)2]  2H2O}n lead to an increase in the width, height, and length of the fibers?",
+        "answer": "Greater sublimation time results in a larger amount of deposited material, providing more building blocks for the growth of the fibers and thus increasing their dimensions.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Based on DFT calculations, what is the likely fragmentation point of the [Pt2(n-butylCS2)4I]n polymer during sublimation?",
+        "answer": "The DFT calculations indicate that the Pt\u2013I bond, with a binding energy of 0.41 eV/bond, is weaker than the Pt\u2013S bond (1.47 eV/bond). Therefore, the polymer likely fragments at the Pt\u2013I bond during sublimation.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why is the [Pt2(n-butylCS2)4I]n polymer considered a quasi-1D derivative?",
+        "answer": "The [Pt2(n-butylCS2)4I]n polymer is considered a quasi-1D derivative because it is formed by dimetallic subunits bridged by halogen ligands (MMX), resulting in a chain-like structure with limited interchain interactions.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "True or False: The coordination polymer {[Co(ox)(Htr)2]  2H2O}n is synthesized through a co-evaporation method.",
+        "answer": "False. The {[Co(ox)(Htr)2]  2H2O}n polymer is synthesized in solution.",
+        "difficulty_level": "easy",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "True or False: The sublimation method for depositing MOFs on surfaces consistently produces perfectly aligned fibers.",
+        "answer": "False. While the sublimation method produces well-organized structures, the fibers are not always perfectly aligned and can exhibit variations in their orientation.",
+        "difficulty_level": "medium",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "True or False: The deposition of {[Co(ox)(Htr)2]  2H2O}n on mica at room temperature results in the formation of 1D fibers.",
+        "answer": "False. Deposition of {[Co(ox)(Htr)2]  2H2O}n on mica at room temperature leads to 3D islands, not 1D fibers.",
+        "difficulty_level": "medium",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "True or False: The [Pt2(n-butylCS2)4I]n polymer exhibits metallic electrical conductivity at room temperature.",
+        "answer": "True.",
+        "difficulty_level": "easy",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "True or False:  The sublimation conditions for the two coordination polymers, {[Co(ox)(Htr)2]  2H2O}n and [Pt2(n-butylCS2)4I]n, are significantly different.",
+        "answer": "False. Despite their different chemical compositions and geometries, the sublimation conditions for both polymers are very similar.",
+        "difficulty_level": "medium",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "True or False: The interaction with the HOPG surface does not affect the diameter of the [Pt2(n-butylCS2)4I]n fibers.",
+        "answer": "False. The interaction with the HOPG surface squeezes the [Pt2(n-butylCS2)4I]n molecule to almost half of its diameter in the monocrystal.",
+        "difficulty_level": "hard",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "True or False: The authors were able to fully characterize the exact composition of the sublimated entities from the {[Co(ox)(Htr)2]  2H2O}n polymer.",
+        "answer": "False. While the authors suggest the sublimated entities are likely individual building blocks or small oligomers, the exact composition remains unknown.",
+        "difficulty_level": "hard",
+        "question_type": "truefalse"
+    }
+]

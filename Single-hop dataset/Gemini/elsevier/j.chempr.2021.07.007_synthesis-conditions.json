@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the organic linker ligand that makes up the HUMs?",
+        "answer": "4-(3,5-dimethyl-1H-pyrazol-4-yl)pyridine, pypz",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What are the three inorganic pillar ligands used in the HUMs?",
+        "answer": "SiF6^2-, TiF6^2-, and NbOF5^2-",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the highest C2H2 uptake observed at 298 K and 1 bar?",
+        "answer": "Approximately 4.05 mmol/g observed for SIFSIX-21-Ni.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the kinetic diameter of C2H2 and CO2?",
+        "answer": "3.3 \u00c5",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the IAST selectivity (SAC) for SIFSIX-21-Ni at 1 bar and 298 K with a 1:1 C2H2/CO2 gas mixture?",
+        "answer": "7.8",
+        "difficulty": "medium",
+        "type": "factual"
+    },
+    {
+        "question": "What is the (\u0394Qst)AC value for SIFSIX-21-Ni at half loading?",
+        "answer": "14.9 kJmol\u22121",
+        "difficulty": "medium",
+        "type": "factual"
+    },
+    {
+        "question": "If all six HUMs exhibited strong binding sites for C2H2 and weaker affinity for CO2, would you expect the C2H2 uptake to be higher than the CO2 uptake?",
+        "answer": "Yes",
+        "difficulty": "easy",
+        "type": "reasoning"
+    },
+    {
+        "question": "Given that SIFSIX-21-Ni showed the highest C2H2 uptake, would you expect it to have the strongest binding sites for C2H2 compared to the other HUMs?",
+        "answer": "Yes",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "The text mentions that traditional physisorbents like zeolites and activated carbons exhibit poor selectivity for C2H2 over CO2 due to similar physicochemical properties. If a new physisorbent material is developed with significantly different physicochemical properties compared to C2H2 and CO2, would you expect it to potentially have better selectivity for C2H2 over CO2?",
+        "answer": "Yes",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "The HUMs are composed of organic and inorganic linker ligands. Would you say that HUMs are a subclass of MOMs?",
+        "answer": "Yes",
+        "difficulty": "easy",
+        "type": "reasoning"
+    },
+    {
+        "question": "The paper states that narrow pore sizes in HUMs can limit surface area and uptake capacity. If a new HUM is synthesized with larger pore sizes, would you expect its surface area and uptake capacity to potentially be higher?",
+        "answer": "Yes",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "The article mentions that the C2H2/CO2 separation selectivity (\u03b1AC) values for equimolar mixtures have been experimentally measured for only 16 sorbents. If a new sorbent material is tested for C2H2/CO2 separation selectivity under equimolar conditions, would the total number of sorbents with experimentally measured \u03b1AC values increase?",
+        "answer": "Yes",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "The text states that the HUM sorbents require heating to only 333 K for regeneration. Based on this information, would a higher temperature be required for regeneration of HUM sorbents?",
+        "answer": "No",
+        "difficulty": "easy",
+        "type": "reasoning"
+    },
+    {
+        "question": "All HUMs are composed of inorganic pillar ligands, organic linker ligands, and two metal cations.",
+        "answer": "True",
+        "difficulty": "easy",
+        "type": "true/false"
+    },
+    {
+        "question": "The six HUMs were synthesized using the same organic linker ligand.",
+        "answer": "True",
+        "difficulty": "easy",
+        "type": "true/false"
+    },
+    {
+        "question": "SIFSIX-21-Ni had the lowest C2H2 uptake among the six HUMs studied.",
+        "answer": "False",
+        "difficulty": "easy",
+        "type": "true/false"
+    },
+    {
+        "question": "The study found that IAST selectivities for C2H2/CO2 separation were higher at 2 bar compared to 1 bar.",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "true/false"
+    },
+    {
+        "question": "The adsorption capacity of SIFSIX-21-Ni was less than 3.5 mmol/g.",
+        "answer": "False",
+        "difficulty": "easy",
+        "type": "true/false"
+    },
+    {
+        "question": "The binding sites for CO2 in SIFSIX-21-Ni involve interactions with the nitrogen atoms of the organic linker ligand.",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "true/false"
+    },
+    {
+        "question": "The synthesis of NbOFFIVE-3-Ni and NbOFFIVE-3-Cu involved the use of nickel and copper salts, respectively.",
+        "answer": "True",
+        "difficulty": "easy",
+        "type": "true/false"
+    }
+]

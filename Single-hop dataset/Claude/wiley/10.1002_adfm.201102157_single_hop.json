@@ -1,0 +1,125 @@
+s a single hop .json file with 20 Q&As based on the given text:
+
+{
+  "questions": [
+    {
+      "question": "What metal ions are used to assemble the Cu-TCA metal-organic framework?",
+      "answer": "Cu2+ ions are used to assemble the Cu-TCA metal-organic framework.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the volume of the cavities in the Cu-TCA framework?",
+      "answer": "The volume of the cavities in the Cu-TCA framework is approximately 4000 nm3.",
+      "type": "factual",
+      "difficulty": "medium"  
+    },
+    {
+      "question": "What happens to the luminescence of Cu-TCA upon addition of NO?",
+      "answer": "Upon addition of NO up to 0.1 mM, the luminescence of Cu-TCA is recovered directly and provides about 700-fold fluorescent enhancement.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What other reactive species present in biological systems do not interfere with the NO detection by Cu-TCA?",
+      "answer": "Other reactive species like H2O2, NO3-, NO2-, ONOO-, ClO- and 1O2 do not interfere with the NO detection by Cu-TCA.",
+      "type": "factual", 
+      "difficulty": "medium"
+    },
+    {
+      "question": "What characteristic emissions does the Eu-TCA metal-organic framework exhibit?",
+      "answer": "Eu-TCA exhibits characteristic europium emissions assignable to the 5D0→7F1, 5D0→7F2 and 5D0→7F4 transitions.",
+      "type": "factual",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the yield obtained for the synthesis of Cu-TCA?",
+      "answer": "Cu-TCA is obtained in a high yield of 70% from the solvothermal reaction.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "How does the coordination of NO to the Cu2+ ions in Cu-TCA lead to fluorescence recovery?",
+      "answer": "The coordination of NO reduces the paramagnetic Cu2+ ions to diamagnetic Cu+ ions, which alleviates the quenching and recovers the luminescence.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Why is the europium emission in Eu-TCA useful as an internal standard for ratiometric NO sensing?",
+      "answer": "The europium emission remains virtually unchanged upon NO addition, so it can act as an internal standard to determine the fraction of host-guest species formed.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What makes Cu-TCA a superior probe for NO detection via biological imaging compared to other probes?",
+      "answer": "The high selectivity and solubility in aqueous media of Cu-TCA makes it a superior probe for NO detection in biological imaging applications.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "How do the paramagnetic Cu2+ ions in Cu-TCA initially quench the luminescence of the triphenylamine ligands?",
+      "answer": "The paramagnetic Cu2+ ions quench the ligand-based fluorescence of the triphenylamine groups in Cu-TCA before NO coordination occurs.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Why is it important for Cu-TCA to be scaled down to nanoparticles for biological imaging applications?",
+      "answer": "Cu-TCA needs to be scaled down to nanoparticles in order to be used as a delivery vehicle that can enter cells for biological imaging of intracellular NO.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What experimental evidence confirms the reduction of Cu2+ to Cu+ by NO in Cu-TCA?",
+      "answer": "EPR spectra show the suppression of the Cu2+ signal upon NO addition, confirming the reduction to EPR-silent Cu+ species. IR spectra also show new bands corresponding to Cu+-NO adducts.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What makes the emergence of a ratiometric chemosensor like Eu-TCA quite significant for sensing applications?",
+      "answer": "A ratiometric chemosensor like Eu-TCA is significant because it can eliminate ambiguities through self-calibration between two emission bands - the analyte-sensitive one and the internal standard.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Cu-TCA exhibits very weak emission at 430 nm due to the quenching effect of paramagnetic Cu2+ ions.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The lanthanide-based emission of Eu-TCA at 610 nm shows a large enhancement upon NO addition.",
+      "answer": "False. The lanthanide emission at 610 nm remains virtually unchanged and acts as an internal standard.",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "The Cu-TCA framework consists of large truncated cubic cages with radii of about 1.0 nm.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "The dye uptake studies with Brilliant Blue R-250 demonstrate the inaccessibility of small molecules to the Cu-TCA framework pores.",
+      "answer": "False. The dye uptake studies conclusively demonstrate the accessibility of small molecules to the Cu-TCA pores.",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "In the Eu-TCA framework, each europium ion adopts the same coordination geometry with carboxylate oxygens and water molecules.",
+      "answer": "False. The europium ions in Eu-TCA adopt two different coordination geometries - 8-coordinate and 9-coordinate with different carboxylate and water ligands.",
+      "type": "true_false",
+      "difficulty": "hard"
+    },
+    {
+      "question": "The bright fluorescence turn-on of Cu-TCA nanoparticles enables the imaging of intracellular NO in living cells.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Eu-TCA is an ideal probe for fluorescence imaging of NO in biological systems due to its sensitivity to water.",
+      "answer": "False. Eu-TCA undergoes fluorescence quenching in the presence of water, which limits its application in biological imaging.",
+      "type": "true_false",
+      "difficulty": "medium"
+    }
+  ]

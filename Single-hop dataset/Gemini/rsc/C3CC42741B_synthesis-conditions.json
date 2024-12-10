@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the crystal system of [Cu4I4(dmimpr)2]n?",
+        "answer": "The crystal system of [Cu4I4(dmimpr)2]n is orthorhombic.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the space group of [Cu6I6(dimb)3]n?",
+        "answer": "The space group of [Cu6I6(dimb)3]n is C2/c.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the shortest Cu-Cu contact distance observed in complex 2?",
+        "answer": "The shortest Cu-Cu contact distance in complex 2 is 2.480(3) \u00c5.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the excitation wavelength used in the solid-state luminescence studies?",
+        "answer": "The excitation wavelength used in the solid-state luminescence studies is 365 nm.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the emission color of complexes 1 and 2 at room temperature under UV irradiation?",
+        "answer": "Both complexes 1 and 2 emit an intense yellow light at room temperature under UV irradiation.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What happens to the luminescence of the complexes when they are cooled in liquid nitrogen?",
+        "answer": "When cooled in liquid nitrogen, the complexes undergo a chromic process, changing from bright yellow luminescence at room temperature to orange-red or red luminescence.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the relationship between the Cu-Cu distances and the emission red shift observed in the complexes?",
+        "answer": "As the temperature decreases, the Cu-Cu distances shorten, leading to increased bonding character and lowered energy levels, resulting in a red shift in the emission.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why does the energy difference between excited and ground states decrease with decreasing temperature in these complexes?",
+        "answer": "As temperature decreases, the Cu-Cu distances shrink, increasing the bonding character and lowering the energy levels of the excited state, thus reducing the energy difference with the ground state.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "How does the change in Cu-Cu distances with temperature affect the luminescence thermochromism of the complexes?",
+        "answer": "The decrease in Cu-Cu distances with decreasing temperature leads to a red shift in the emission, resulting in the observed luminescence thermochromism.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why does complex 2 not show a linear relationship between maximum emission wavelength and temperature like complex 1?",
+        "answer": "Complex 2 contains two different copper(I)-iodide clusters, each with its own temperature-dependent behavior, leading to a non-linear relationship between emission wavelength and temperature.",
+        "difficulty": "hard",
+        "type": "reasoning"
+    },
+    {
+        "question": "How does the electronic configuration of copper(I) contribute to the diverse luminescent behavior observed in copper(I)-iodide complexes?",
+        "answer": "The d10 electronic configuration of copper(I) allows for a variety of electronic transitions, leading to diverse luminescent behavior in copper(I)-iodide complexes.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why are the luminescence thermochromism properties of copper(I)-iodide complexes still considered unpredictable?",
+        "answer": "Despite ongoing research, the factors influencing the direction and magnitude of emission band shifts in response to temperature changes are not fully understood, making predictions difficult.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "How does the concept of cluster-centered (3CC) excited states explain the luminescence thermochromism observed in these copper-iodide complexes?",
+        "answer": "In the 3CC excited state, electron density shifts from copper d orbitals to s orbitals, which have Cu-Cu bonding character. As temperature decreases and Cu-Cu distances shorten, the 3CC excited state is lowered, resulting in a red-shifted emission.",
+        "difficulty": "hard",
+        "type": "reasoning"
+    },
+    {
+        "question": "The luminescence of complex 1 is quenched upon heating.",
+        "answer": "false",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "The emission red shift observed in the complexes is due to a phase transition.",
+        "answer": "false",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "The luminescence thermochromism of the complexes is irreversible.",
+        "answer": "false",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "The Cu-Cu distances in complex 1 decrease with decreasing temperature.",
+        "answer": "true",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "The emission bands of both complexes 1 and 2 split at low temperatures.",
+        "answer": "false",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "The solid-state lifetime measurements suggest that the emission from the complexes is fluorescence.",
+        "answer": "false",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "The luminescence thermochromism of copper(I)-iodide coordination polymers is primarily caused by temperature-dependent changes in Cu-Cu distances.",
+        "answer": "true",
+        "difficulty": "medium",
+        "type": "truefalse"
+    }
+]

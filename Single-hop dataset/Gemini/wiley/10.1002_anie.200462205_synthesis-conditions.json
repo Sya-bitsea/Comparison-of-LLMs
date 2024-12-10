@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the binding mode of AgI ions to the complexes [Co(l-cys-N,S)(en)2]+ and [ReVO(d-pen-N,S)(d-pen-N,O,S)]?",
+        "answer": "AgI ions bind to the complexes through both thiolato groups and pendant carboxylate groups.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What spectroscopic techniques were used to characterize compound 3?",
+        "answer": "X-ray fluorescence, IR, UV/Vis, and CD spectroscopy were used.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the crystal structure of compound 3?",
+        "answer": "Compound 3 crystallizes in the cubic space group P213.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the coordination geometry of the CuII atoms in the cage structure of 3a?",
+        "answer": "Each CuII atom is chelated in a planar fashion by two N,O arms from two different [Au2Ag2(d-pen-S)4]4 units in a trans geometry, with an apical water molecule.",
+        "difficulty": "medium",
+        "type": "factual"
+    },
+    {
+        "question": "What is the role of the Cl- ion in the formation of compound 3?",
+        "answer": "The Cl- ion is encapsulated in the center of each cage and is essential for the formation of 3.",
+        "difficulty": "medium",
+        "type": "factual"
+    },
+    {
+        "question": "What happens to the lattice structure of 3 upon drying?",
+        "answer": "The lattice structure collapses upon drying due to the loss of solvating water molecules.",
+        "difficulty": "hard",
+        "type": "factual"
+    },
+    {
+        "question": "Why are l-cys and d-pen metal complexes suitable building blocks for mixed-metal supramolecular architectures?",
+        "answer": "Because they can adopt various binding modes toward transition metal ions.",
+        "difficulty": "easy",
+        "type": "reasoning"
+    },
+    {
+        "question": "What is the significance of the downfield shift in the 13C NMR signal of 2 compared to 1?",
+        "answer": "It suggests that AgI ions are connected to [Au(d-Hpen-S)2]- through S atoms.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "How does the stepwise reaction of [Au(d-pen-S)2]3- with AgI and CuII lead to the formation of a rock-salt-like lattice structure?",
+        "answer": "The stepwise reaction leads to the formation of monocationic and monoanionic cages that are regularly coupled to each other, resembling the arrangement of ions in a rock-salt lattice.",
+        "difficulty": "hard",
+        "type": "reasoning"
+    },
+    {
+        "question": "What is the evidence for the weak antiferromagnetic interaction between CuII centers in compound 3?",
+        "answer": "The plot of cmT versus T decreases sharply at low temperatures, indicating weak antiferromagnetic coupling.",
+        "difficulty": "hard",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why is the use of CuNO3\u00b73H2O instead of CuCl2 not suitable for the synthesis of compound 3?",
+        "answer": "Because the Cl- ion, provided by CuCl2, is essential for the formation of 3 and is not present when using CuNO3\u00b73H2O.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "How is the overall charge of each cage in compound 3 regulated?",
+        "answer": "The charge is regulated by the attachment of either neutral [AgCl]0 or cationic [Ag(H2O)]+ fragments.",
+        "difficulty": "hard",
+        "type": "reasoning"
+    },
+    {
+        "question": "Based on the TGA results, what can be concluded about the thermal stability of compound 3?",
+        "answer": "Compound 3 exhibits a gradual loss of solvating water molecules followed by a rapid decomposition of organic ligands at higher temperatures.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "The reaction of [Au(d-pen-S)2]3- with AgI alone produces a neutral complex.",
+        "answer": "true",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "Compound 3 contains only AuI, AgI, and CuII ions.",
+        "answer": "false",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "The CuII atoms in the cage structure of 3a have a tetrahedral coordination geometry.",
+        "answer": "false",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "The encapsulated Cl- ion in compound 3 forms strong covalent bonds with the metal ions.",
+        "answer": "false",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "The rock-salt-like lattice structure of 3 is stable even after the removal of solvating water molecules.",
+        "answer": "false",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "Compound 2 exhibits photoluminescence in the solid state.",
+        "answer": "true",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "The magnetic exchange interaction between CuII centers in compound 3 is ferromagnetic.",
+        "answer": "false",
+        "difficulty": "hard",
+        "type": "truefalse"
+    }
+]

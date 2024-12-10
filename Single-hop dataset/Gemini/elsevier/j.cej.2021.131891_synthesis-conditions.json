@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What are the key properties of 3D discrete nanocages?",
+        "answer": "3D discrete nanocages possess definite structure, ultra-high specific surface area and porosity, adjustable cavities and windows, and easy chemical functionalization.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What types of forces drive the self-assembly process of 3D nanocage systems?",
+        "answer": "Hydrogen bond, coordinate bond, covalent bond, and ion-association forces drive the self-assembly process of 3D nanocage systems.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What are some applications of nanocages beyond biomedicine?",
+        "answer": "Catalysis, semiconductors, gas storage and separation, sensing, and light-emitting diodes are some applications of nanocages beyond biomedicine.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What are some examples of naturally occurring protein nanocages?",
+        "answer": "Ferritin, E2 protein, and Vaults are examples of naturally occurring protein nanocages.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What are the advantages of nanocages compared to other nanoplatforms for drug delivery?",
+        "answer": "Advantages include high surface area, adjustable properties, flexible structures, confined cavities with open windows, and biodegradability.",
+        "difficulty": "medium",
+        "type": "factual"
+    },
+    {
+        "question": "What are the two main types of artificial nanocages?",
+        "answer": "The two main types of artificial nanocages are organic nanocages and metal-organic nanocages.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "If two structural units are flexible and have more than three connection sites, what pattern can they form in a 1:1 ratio?",
+        "answer": "[1 + 1] pattern",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "What type of nanocage is particularly suitable for loading small biosensors or molecules?",
+        "answer": "[2 + 3] pattern nanocages",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why are [2 + 4] pattern cages often arranged in a face-to-face manner?",
+        "answer": "Because of their symmetrical topological structure",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "What type of nanocage is formed by combining six units of A and eight units of B?",
+        "answer": "[6 + 8] pattern nanocage",
+        "difficulty": "easy",
+        "type": "reasoning"
+    },
+    {
+        "question": "What type of bond is primarily responsible for the formation of metal-organic nanocages?",
+        "answer": "Metal coordination bonds",
+        "difficulty": "easy",
+        "type": "reasoning"
+    },
+    {
+        "question": "What are the three main shapes of tetrahedral metal-organic nanocages?",
+        "answer": "M4L4, M4L6, and M6L4",
+        "difficulty": "easy",
+        "type": "reasoning"
+    },
+    {
+        "question": "What is the key factor that allows for selective coating of guest molecules in heteronuclear dodecahedron cages like Ni8Cu6L124?",
+        "answer": "Precise adjustment of the pore size",
+        "difficulty": "hard",
+        "type": "reasoning"
+    },
+    {
+        "question": "True or False: Nanocages are known for their low specific surface area.",
+        "answer": "False",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "True or False: Cisplatin has been successfully loaded into nanocages for drug delivery.",
+        "answer": "True",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "True or False: Nanocages can only be used for drug delivery and cannot be used as contrast agents for imaging.",
+        "answer": "False",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "True or False: Protein nanocages are always naturally occurring.",
+        "answer": "False",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "True or False: [2 + 3] pattern nanocages have symmetrical structures.",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "True or False: The solubility of metal-organic cages cannot be adjusted by ligand modification.",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "True or False: Nanocages have shown potential for use in synergistic cancer treatment approaches.",
+        "answer": "True",
+        "difficulty": "easy",
+        "type": "truefalse"
+    }
+]

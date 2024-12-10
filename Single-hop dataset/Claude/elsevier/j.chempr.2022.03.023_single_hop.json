@@ -1,0 +1,125 @@
+s the single hop .json file for the given text, including 6 factual questions, 7 reasoning questions, and 7 True/False questions:
+
+{
+  "questions": [
+    {
+      "question": "What metal ion was used to synthesize the MOF DGIST-4?",
+      "answer": "Nd3+ was used to synthesize the MOF DGIST-4.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What organic ligand was used to construct DGIST-4?",
+      "answer": "The π-acidic 1,4,5,8-naphthalenediimide (NDI)-based ligand H4L was used to construct DGIST-4.",
+      "type": "factual", 
+      "difficulty": "easy"
+    },
+    {
+      "question": "At what temperature range could single-crystalline DGIST-4 be synthesized?",
+      "answer": "Single-crystalline DGIST-4 could be synthesized at temperatures up to 150°C.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What stimuli could trigger the reduction of NDI moieties to the radical-anionic state in 75-DGIST-4?",
+      "answer": "Heat, X-rays, and ultraviolet, visible, and infrared light could trigger the reduction of NDI moieties to the radical-anionic state in 75-DGIST-4.",
+      "type": "factual",
+      "difficulty": "medium" 
+    },
+    {
+      "question": "What technique was used to visualize the radical-anionic state in 150-DGIST-4?",
+      "answer": "Single-crystal X-ray diffractometry was used to visualize the radical-anionic state in 150-DGIST-4.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What auxiliary ligand was used to stabilize the radical-anionic NDI in 150-DGIST-4?",
+      "answer": "Benzoate was used as an auxiliary ligand to stabilize the radical-anionic NDI in 150-DGIST-4.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Why was Nd3+ chosen as the metal ion for synthesizing DGIST-4?",
+      "answer": "Nd3+ was chosen because of its redox inactivity, with a very negative reduction potential of -2.7 V vs SHE for the Nd3+/Nd2+ couple.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "How did the presence of imidazole affect the synthesis of DGIST-4?",
+      "answer": "The presence of imidazole as a reaction modulator enabled the synthesis of single-crystalline DGIST-4 even at high temperatures up to 150°C. Without imidazole, only polycrystals and powders were obtained.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the proposed mechanism for the formation of NDI radical anions during the solvothermal synthesis of 150-DGIST-4?",
+      "answer": "At high temperatures, DMF decomposes into dimethylammonium and formate ions. Electron transfer from the anionic formate to the electron-deficient NDI ligands generates the NDI radical anions, which are charge balanced by the dimethylammonium cations.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Why is the radical-anionic state more stable in 150-DGIST-4 compared to 75-DGIST-4 synthesized at lower temperature?",
+      "answer": "The radical-anionic state is more stable in 150-DGIST-4 because of the higher abundance of benzoate auxiliary ligands that shield the NDI radical anions from quenchers. The labile nitrate anions are also released into the pores, allowing for greater structural changes to accommodate the radical state.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Why does the thermal post-reduction of oxi-150-DGIST-4 occur more rapidly than that of 75-DGIST-4?",
+      "answer": "The thermal post-reduction is faster for oxi-150-DGIST-4 due to a memory effect. The remaining formate anions and higher abundance of benzoate ligands from the solvothermal synthesis accelerate the re-formation and stabilization of NDI radical anions upon heating.",
+      "type": "reasoning", 
+      "difficulty": "hard"
+    },
+    {
+      "question": "How does the mechanism of radical generation differ between thermal reduction and visible light irradiation of 75-DGIST-4?",
+      "answer": "Thermal reduction generates NDI radical anions uniformly throughout the MOF crystals. In contrast, visible light irradiation only reduces NDI ligands near the surface due to the absorption and diffraction of light, leading to a non-uniform distribution of radicals.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What structural changes enable the stabilization of NDI radical anions in 150-DGIST-4 according to the DFT calculations?",
+      "answer": "DFT calculations show that upon radical formation, the phenyl rings of the benzoate ligands twist to optimize electrostatic interactions with the NDI radical anions. This structural change helps stabilize the radical-anionic state in 150-DGIST-4.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "DGIST-5 was synthesized using formic acid as a modulator instead of benzoic acid.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The NDI moieties in DGIST-5 were exposed to the MOF pores, unlike in DGIST-4.",
+      "answer": "True",
+      "type": "true_false", 
+      "difficulty": "medium"
+    },
+    {
+      "question": "X-ray irradiation of 75-DGIST-4 led to a single-crystal to single-crystal transformation.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The radical-anionic state of 150-DGIST-4 could be preserved for at least 1 month under inert atmosphere.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Visible light irradiation generated a more uniform distribution of NDI radical anions in 75-DGIST-4 compared to thermal reduction.",
+      "answer": "False. Thermal reduction generated a more uniform distribution of radicals, while visible light only reduced NDI near the crystal surface.",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "IR irradiation of 75-DGIST-4 led to both radical generation and an efficient photothermal effect.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "easy"  
+    },
+    {
+      "question": "DFT calculations indicated that nitrate anions play a key role in stabilizing the NDI radical anions in 150-DGIST-4.",
+      "answer": "False. The DFT calculations showed that the twisting of benzoate ligands helps stabilize the radical-anionic state, while nitrate anions are released into the pores.",
+      "type": "true_false",
+      "difficulty": "hard"
+    }
+  ]

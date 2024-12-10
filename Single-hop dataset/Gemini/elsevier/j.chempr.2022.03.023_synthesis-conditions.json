@@ -1,0 +1,128 @@
+[
+    {
+        "question": "What does DGIST stand for?",
+        "answer": "Daegu Gyeongbuk Institute of Science and Technology",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What type of material is DGIST-4?",
+        "answer": "Metal-organic framework (MOF)",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the ligand in DGIST-4?",
+        "answer": "1,4,5,8-naphthalenediimide (NDI)-based ligand",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What metal ion is used in DGIST-4?",
+        "answer": "Nd3+",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the auxiliary ligand used in DGIST-4?",
+        "answer": "Benzoate (BA)",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the role of benzoate in DGIST-4?",
+        "answer": "It stabilizes the radical-anionic state and enables structural changes during radical formation.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "DGIST-4 can be reduced to a radical-anionic state by heat, but not by X-ray irradiation.",
+        "answer": "false",
+        "difficulty_level": "easy",
+        "question_type": "true/false"
+    },
+    {
+        "question": "The radical-anionic state of DGIST-4 is unstable in air.",
+        "answer": "true",
+        "difficulty_level": "easy",
+        "question_type": "true/false"
+    },
+    {
+        "question": "The NDI moieties in DGIST-5 are exposed to the MOF pores.",
+        "answer": "true",
+        "difficulty_level": "easy",
+        "question_type": "true/false"
+    },
+    {
+        "question": "The presence of BA in DGIST-4 enhances the stability of the radical-anionic state.",
+        "answer": "true",
+        "difficulty_level": "easy",
+        "question_type": "true/false"
+    },
+    {
+        "question": "The thermally reduced radical-anionic state of DGIST-4 is more stable than the state obtained by visible light irradiation.",
+        "answer": "true",
+        "difficulty_level": "medium",
+        "question_type": "true/false"
+    },
+    {
+        "question": "The photothermal conversion efficiency of DGIST-4 is enhanced by the formation of NDI radical anions.",
+        "answer": "true",
+        "difficulty_level": "medium",
+        "question_type": "true/false"
+    },
+    {
+        "question": "The structural transformation of DGIST-4 upon X-ray irradiation is irreversible.",
+        "answer": "false",
+        "difficulty_level": "medium",
+        "question_type": "true/false"
+    },
+    {
+        "question": "Why is Nd3+ chosen as the metal ion in DGIST-4?",
+        "answer": "Because it is redox inactive.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why does the color of DGIST-4 crystals darken with increasing reaction temperature?",
+        "answer": "Because more NDI radical anions are formed at higher temperatures.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why is the radical-anionic state in oxi-150-DGIST-4 formed more rapidly than in 75-DGIST-4 or 85-DGIST-5 upon thermal post-treatment?",
+        "answer": "Because of the memory effect of solvothermally reduced 150-DGIST-4.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why is thermal reduction of DGIST-4 more effective than photoreduction?",
+        "answer": "Because thermal reduction generates uniformly reduced crystals, while irradiation-induced reduction occurs only in areas near the light source.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why does the photothermal conversion of 75-DGIST-4 become as effective as that of 150-DGIST-4 upon repeated IR irradiation?",
+        "answer": "Because IR irradiation induces the formation of NDI radical anions, which enhances NIR absorption and improves photothermal conversion.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why does the phenyl group of BA in 150-DGIST-4 twist away from the NDI moiety?",
+        "answer": "To minimize electrostatic repulsion between BA and the electron-rich naphthyl core of the radical-anionic NDI.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why is the electronic transition level of 150-DGIST-4-formate higher than that of 150-DGIST-4?",
+        "answer": "Because formate lacks the induced dipole effect of BA, which destabilizes the radical-anionic state.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "True or False: X-ray-induced reduction of 75-DGIST-4 is likely to result in a metastable state due to low temperature and short irradiation time.",
+        "answer": "true",
+        "difficulty_level": "hard",
+        "question_type": "true/false"
+    }
+]

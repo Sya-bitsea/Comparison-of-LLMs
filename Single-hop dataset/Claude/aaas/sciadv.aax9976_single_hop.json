@@ -1,0 +1,123 @@
+
+[
+  {
+    "question": "What is the chemical formula of the ligand H2L used to synthesize π-1?",
+    "answer": "The chemical formula of the ligand H2L used to synthesize π-1 is 1-(4-carboxyphenyl)-5-mercapto-1H-tetrazole.",
+    "type": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the coordination environment of the Zn(II) ion in π-1?",
+    "answer": "The Zn(II) ion in π-1 coordinates with two carboxylic O atoms from one L2− ligand and four N atoms from two phen ligands, generating a six-coordinated mononuclear Zn(II) structural unit.",
+    "type": "factual",
+    "difficulty": "medium"  
+  },
+  {
+    "question": "What is the window size of the 1D channels in the porous framework of π-1?",
+    "answer": "The window size of the 1D channels in the porous framework of π-1 is about 7.5 Å by 7.5 Å.",
+    "type": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many types of π-π stacking interactions are observed in the structure of π-1?",
+    "answer": "As many as 33 types of π-π stacking interactions are observed in the structure of π-1.",
+    "type": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the maximum CO2 uptake capacity of π-1 at normal pressure and 195 K?",
+    "answer": "The maximum CO2 uptake capacity of π-1 reaches 36.3 cm3/g (standard temperature and pressure) at normal pressure and 195 K.",
+    "type": "factual",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the maximum Hg2+ uptake capacity of π-1 from aqueous solution?",
+    "answer": "The maximum Hg2+ uptake capacity of π-1 from aqueous solution reaches 786.67 mg g−1 when the initial concentration of Hg2+ is 1200 mg/liter.",
+    "type": "factual",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Why does π-1 show selective adsorption of CO2 over N2, H2 and Ar despite having larger pores than the dynamic diameters of these gases?",
+    "answer": "The selective adsorption of π-1 to CO2 over N2, H2 and Ar may be attributed to the special quadrupole moment of CO2, which can induce the framework to interact with CO2 molecules and thus increase the binding to CO2, even though the pore size of π-1 is much larger than the dynamic diameters of these gases.",
+    "type": "reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What structural feature of π-1 contributes to its good chemical stability in water, organic solvents and acidic/basic solutions?",
+    "answer": "The good chemical stability of π-1 may be attributed to its unique structural feature where the coordination portion, which directly determines the compound stability, is enwrapped by hydrophobic organic moieties, avoiding the attack of solvents or acid/base.",
+    "type": "reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Why does π-1 exhibit high Hg2+ uptake from aqueous solution?",
+    "answer": "The high Hg2+ uptake of π-1 should be attributed to the high porosity and pore surface area of π-1, together with a large number of highly accessible thiolate groups that are well dispersed and exposed on the pore surface.",
+    "type": "reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What enables π-1 to maintain its framework stability and recyclability during the Hg2+ adsorption-desorption process?",
+    "answer": "The capture of Hg2+ occurs on the pore surface of π-1 and there are no direct contacts and interactions with the coordination portions that directly determine the stability of the whole framework. This unique structural feature enables π-1 to retain its framework stability and recyclability during the Hg2+ adsorption-desorption process.",
+    "type": "reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Why is π-1 considered the first porous supramolecular framework stabilized merely by π-π stacking interactions?",
+    "answer": "With the exception of π-π stacking interactions, there are no other covalent/noncovalent interactions between the Zn(II) structural units in π-1. Therefore, π-1 represents a typical porous supramolecular π framework, which has not been reported before.",
+    "type": "reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How do the strong and multiple π-π stacking interactions contribute to the stability of π-1?",
+    "answer": "The strong and multiple π-π stacking interactions between the conjugated organic groups of the mononuclear Zn(II) structural units significantly contribute to the stability of the 3D porous supramolecular framework of π-1.",
+    "type": "reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What makes π-1 a potential sorbent for water purification applications?",
+    "answer": "The high Hg2+ uptake, selective adsorption ability against interference ions, and good recycle performance would enable π-1 to become a potential sorbent for water purification applications.",
+    "type": "reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "question": "π-1 can adsorb N2 and H2 at 77 K despite having larger pore sizes than the dynamic diameters of these gases.",
+    "answer": "False. π-1 cannot adsorb N2/H2 at 77 K and Ar at 87 K, while it can selectively adsorb CO2 at 195 K.",
+    "type": "True or False",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The framework of π-1 remains stable after immersion in water and common organic solvents for 3 days.",
+    "answer": "True. The powder XRD patterns of π-1 after being immersed in H2O, methanol, ethanol, acetonitrile, benzene, etc. for 3 days are similar to the simulated one, demonstrating the framework stability.",
+    "type": "True or False", 
+    "difficulty": "easy"
+  },
+  {
+    "question": "π-1 shows low adsorption selectivity for Hg2+ in the presence of other interfering metal ions.",
+    "answer": "False. π-1 shows high adsorption selectivity to Hg2+ in the presence of interfering ions like Pb2+, Cd2+, Cu2+, Zn2+, Ca2+, and Mg2+, with an adsorption ratio as high as 96.78% for Hg2+.",
+    "type": "True or False",
+    "difficulty": "medium" 
+  },
+  {
+    "question": "The adsorption of π-1 to Hg2+ follows pseudo-first-order kinetics.",
+    "answer": "False. The adsorption of π-1 to Hg2+ belongs to the pseudo-second-order model with a high correlation coefficient of 0.9999.",
+    "type": "True or False",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The framework of π-1 collapses after the Hg2+ adsorption-desorption process.",
+    "answer": "False. The framework of π-1 remains stable after adsorbing Hg2+ and after four runs of the adsorption-desorption cycle, as evidenced by the powder XRD and SEM results.",
+    "type": "True or False", 
+    "difficulty": "medium"
+  },
+  {
+    "question": "π-1 is the first example of a supramolecular compound assembled via π-π stacking interactions.",
+    "answer": "False. Although several supramolecular compounds that seem to be π frameworks have been reported before, π-1 represents the first example of a porous supramolecular framework stabilized merely by intermolecular π-π stacking interactions.",
+    "type": "True or False",
+    "difficulty": "hard"
+  },
+  {
+    "question": "The desolvated framework of π-1 remains stable up to 80°C as indicated by variable-temperature powder XRD measurements.",
+    "answer": "True. Variable-temperature powder XRD measurements demonstrated that the desolvated framework of π-1 can remain stable from room temperature to at least 80°C.",
+    "type": "True or False",
+    "difficulty": "easy"
+  }
+]

@@ -1,0 +1,125 @@
+s a single hop .json file with 20 Q&A pairs of different types based on the given text:
+
+{
+  "questions": [
+    {
+      "question": "What is the chemical formula of the metal-organic quantum antiferromagnet studied in this work?",
+      "answer": "[CuF2(H2O)2]2pyz",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What are the two key phenomena observed in [CuF2(H2O)2]2pyz under applied hydrostatic pressure?",
+      "answer": "1) Giant but continuous decrease of the magnetic coupling within the square lattice in the α phase. 2) Discontinuous switching of the dimensionality of magnetic exchange at 18 kbar.",
+      "type": "factual", 
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the key structural feature explaining the giant decrease of magnetic coupling in the α phase?",
+      "answer": "The compression of bonds along the pseudo-Jahn-Teller axis, which causes a progressive redistribution of spin density in the magnetic orbital.",
+      "type": "factual",
+      "difficulty": "medium" 
+    },
+    {
+      "question": "What drives the discontinuous switching of magnetic dimensionality at 18 kbar?",
+      "answer": "An abrupt switch in orientation of the magnetic orbital, favoring the intrabilayer exchange path J3, which establishes a quasi-1D magnetic network.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What experimental techniques were used to investigate the structural properties of [CuF2(H2O)2]2pyz under pressure?",
+      "answer": "X-ray diffraction was used to investigate the structural properties under pressure.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What theoretical method was used to reproduce the observed structural features and their evolution with pressure?",
+      "answer": "First-principles calculations using spin-polarized density functional theory (DFT) were used.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "How does the compression of bonds along the pseudo-Jahn-Teller axis lead to a decrease in the magnetic coupling in the α phase?",
+      "answer": "The compression causes a redistribution of spin density in the magnetic orbital, systematically reducing the in-plane exchange coupling.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Why does the switching of the magnetic orbital orientation at 18 kbar lead to a quasi-1D magnetic network?",
+      "answer": "The switching favors the intrabilayer exchange path J3, making it dominant, while the other exchange paths become much weaker in comparison, leading to a quasi-1D network.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "How do the DFT calculations provide insight into the hierarchy of exchange parameters?",
+      "answer": "The DFT calculations show that only one exchange parameter is dominant in each phase, allowing the subdominant ones to be disentangled experimentally.",
+      "type": "reasoning",
+      "difficulty": "hard"  
+    },
+    {
+      "question": "What is the value of being able to disentangle the subdominant exchange parameters experimentally?",
+      "answer": "It allows a formalism based on only the dominant parameter (J0 or J3) and an effective interlayer coupling J⊥ to be used to model the system.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "How do the DFT results provide insight into designing quantum magnets using metal-organic coordination polymers?",
+      "answer": "The DFT results show the relative contributions of the different ligands involved in the exchange processes, which is important for designing quantum magnets with desired properties.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What potential applications are mentioned for low-dimensional antiferromagnetic materials like [CuF2(H2O)2]2pyz?",
+      "answer": "Potential applications in antiferromagnetic spintronics are mentioned, where energy efficiencies are outstanding and spin dynamics is faster compared to ferromagnets.",
+      "type": "reasoning",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Why is [CuF2(H2O)2]2pyz a good candidate for investigating the evolution of entanglement close to quantum phase transitions?",
+      "answer": "The key physics occurs at accessible pressure, field, and temperature conditions, and the material spans an enormous range of parameter ratios continuously.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "At ambient pressure, [CuF2(H2O)2]2pyz realizes a quasi-two-dimensional spin-1/2 square-lattice Heisenberg antiferromagnet.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The dominant exchange parameter J0 increases continuously with applied pressure in the α phase.",
+      "answer": "False. The dominant exchange parameter J0 is reduced continuously by a factor of 2 on compression in the α phase.",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "A phase transition occurs at 18 kbar, inducing an orbital re-ordering that switches the dimensionality from quasi-2D to quasi-1D.",
+      "answer": "True",
+      "type": "true_false", 
+      "difficulty": "medium"
+    },
+    {
+      "question": "In the β phase, the J1 exchange path becomes dominant, establishing a quasi-1D magnetic network.",
+      "answer": "False. In the β phase, the J3 exchange path becomes dominant, establishing a quasi-1D magnetic network.",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "The DFT calculations predict an increase of the J3 exchange with pressure in the β phase, in agreement with the experimental results.",
+      "answer": "False. The DFT calculations predict an increase of J3 with pressure in the β phase, in contrast to the decrease observed experimentally.",
+      "type": "true_false",
+      "difficulty": "hard"
+    },
+    {
+      "question": "For potential applications in antiferromagnetic spintronics, it is critical that the dimensionality switching leaves the effective low-dimensional magnetic system in the plane of the layer.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "The dimensionality switching in [CuF2(H2O)2]2pyz is analogous to the transitions reported for the \"monolayer\" material CuF2(H2O)2pyz.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "hard"
+    }
+  ]

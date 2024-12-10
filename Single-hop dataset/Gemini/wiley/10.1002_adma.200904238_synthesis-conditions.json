@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the Curie temperature of Mn[TCNE][C4(CN)8]1/2?",
+        "answer": "68 K",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the coordination geometry of Mn in MnII[TCNE]3/2I3/2?",
+        "answer": "Octahedral",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the saturation magnetization of Mn[TCNE]3/2(I3)1/2 at 90 kOe?",
+        "answer": "21800 emuOe mol-1",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the value of the Mn:THF ratio if the solvent sites in MnII[TCNE]3/2I3/2 are fully occupied?",
+        "answer": "1:1",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the coercive field (Hc) for Mn[TCNE]3/2(I3)1/2?",
+        "answer": "600 Oe",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the remnant magnetization (Mr) for Mn[TCNE]3/2(I3)1/2 at 10 K?",
+        "answer": "8000 emuOe mol-1",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "Why is the Curie temperature of Mn[TCNE]3/2(I3)1/2 higher than that of Mn[TCNE][C4(CN)8]1/2?",
+        "answer": "Mn[TCNE]3/2(I3)1/2 exhibits 3D magnetic ordering due to direct antiferromagnetic exchange between MnII and m4-[TCNE] ions within and between the layers, whereas Mn[TCNE][C4(CN)8]1/2 has a 2D magnetic ordering.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why does Mn[TCNE]3/2(I3)1/2 exhibit a significant remnant magnetization?",
+        "answer": "The 3D magnetic ordering resulting from the bridging m4-[TCNE] units leads to a significant remnant magnetization in Mn[TCNE]3/2(I3)1/2.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What is the role of I3- in Mn[TCNE]3/2(I3)1/2?",
+        "answer": "I3- acts as a counterion and compensates for the positive charge of [Mn(TCNE)3/2]1/2+.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What causes the corrugated layer structure in Mn[TCNE][C4(CN)8]1/2?",
+        "answer": "The rotation of adjacent MnN6 octahedra by 13\u00b0 out of the extended MnII[TCNE] plane leads to the corrugated layer structure in Mn[TCNE][C4(CN)8]1/2.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Explain the magnetic behavior of [Fe(TCNE)(NCMe)2][FeCl4] in comparison to Mn[TCNE][C4(CN)8]1/2.",
+        "answer": "Although structurally similar, [Fe(TCNE)(NCMe)2][FeCl4] exhibits a significant FC magnetization and x''(T) unlike Mn[TCNE][C4(CN)8]1/2. This difference arises because the interlayer exchange in [Fe(TCNE)(NCMe)2][FeCl4] is negligible, but a strong Ising-like anisotropy allows for 2D long-range order within each plane.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What insights do the findings of this study provide about the structure of the amorphous room temperature magnet V[TCNE]x?",
+        "answer": "The study suggests that V[TCNE]x may have a disordered, percolating network of [TCNE] units leading to 3D magnetic couplings, similar to those observed in MnII[TCNE]3/2I3/2.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "How does the presence of m4-[C4(CN)8]2- in Mn[TCNE][C4(CN)8]1/2 affect its magnetic properties compared to Mn[TCNE]3/2(I3)1/2?",
+        "answer": "The diamagnetic m4-[C4(CN)8]2- units in Mn[TCNE][C4(CN)8]1/2 bridge the ferrimagnetic layers and promote antiferromagnetic coupling between them, leading to a lower Tc compared to the 3D ferrimagnetic ordering in Mn[TCNE]3/2(I3)1/2.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Mn[TCNE]3/2(I3)1/2 exhibits a higher Curie temperature than Mn[TCNE][C4(CN)8]1/2.",
+        "answer": "true",
+        "difficulty_level": "easy",
+        "question_type": "true/false"
+    },
+    {
+        "question": "Mn[TCNE][C4(CN)8]1/2 and Fe[TCNE][C4(CN)8]1/2 are isostructural.",
+        "answer": "true",
+        "difficulty_level": "easy",
+        "question_type": "true/false"
+    },
+    {
+        "question": "The MnII ions in Mn[TCNE]3/2(I3)1/2 are tetrahedrally coordinated.",
+        "answer": "false",
+        "difficulty_level": "easy",
+        "question_type": "true/false"
+    },
+    {
+        "question": "Increasing the pressure applied to Mn[TCNE]3/2(I3)1/2 decreases its Curie temperature.",
+        "answer": "false",
+        "difficulty_level": "medium",
+        "question_type": "true/false"
+    },
+    {
+        "question": "The magnetic properties of Mn[TCNE]3/2(I3)1/2 are primarily determined by ferromagnetic interactions.",
+        "answer": "false",
+        "difficulty_level": "medium",
+        "question_type": "true/false"
+    },
+    {
+        "question": "The solvent molecules in Mn[TCNE]3/2(I3)1/2 play a crucial role in its magnetic ordering.",
+        "answer": "false",
+        "difficulty_level": "medium",
+        "question_type": "true/false"
+    },
+    {
+        "question": "The magnetic behavior of [Fe(TCNE)(NCMe)2][FeCl4] is similar to that of Mn[TCNE][C4(CN)8]1/2 because both materials exhibit significant remnant magnetization.",
+        "answer": "false",
+        "difficulty_level": "hard",
+        "question_type": "true/false"
+    }
+]

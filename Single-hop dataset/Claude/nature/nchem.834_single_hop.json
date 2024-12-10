@@ -1,0 +1,125 @@
+s a single hop .json file with 20 Q&As (6 factual, 7 reasoning, 7 True/False) based on the synthesis conditions of NU-100 described in the text:
+
+{
+    "questions": [
+        {
+            "question": "What is the chemical formula of the hexacarboxylate ligand used to synthesize NU-100?",
+            "answer": "The hexacarboxylate ligand used to synthesize NU-100 has the chemical formula LH6 (10).",
+            "type": "factual",
+            "difficulty": "easy"
+        },
+        {
+            "question": "What metal salt was used as the source of metal ions to synthesize NU-100?",
+            "answer": "Cu(NO3)2.2.5H2O was used as the metal salt to provide copper ions for the synthesis of NU-100.",
+            "type": "factual", 
+            "difficulty": "easy"
+        },
+        {
+            "question": "In what solvent system was the solvothermal reaction to synthesize NU-100 carried out?",
+            "answer": "The solvothermal reaction to synthesize NU-100 was carried out in a mixture of DMF and HBF4.",
+            "type": "factual",
+            "difficulty": "easy" 
+        },
+        {
+            "question": "At what temperature was the solvothermal reaction to synthesize NU-100 performed?",
+            "answer": "The solvothermal reaction to synthesize NU-100 was performed at 75°C.",
+            "type": "factual",
+            "difficulty": "easy"
+        },
+        {
+            "question": "For how long was the solvothermal reaction to synthesize NU-100 carried out?",
+            "answer": "The solvothermal reaction to synthesize NU-100 was carried out for 24 hours.",
+            "type": "factual",
+            "difficulty": "easy"
+        },
+        {
+            "question": "What is the framework formula of the as-synthesized NU-100?",
+            "answer": "The framework formula of the as-synthesized NU-100 is [Cu3(L)(H2O)3]n.",
+            "type": "factual",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Why was a mixture of DMF and HBF4 likely chosen as the solvent system for the solvothermal synthesis of NU-100?",
+            "answer": "DMF was likely used as the main solvent because it can dissolve both the organic ligand and metal salt. HBF4 was probably added to provide an acidic environment to facilitate the formation of the Cu paddlewheel clusters.",
+            "type": "reasoning",
+            "difficulty": "medium"
+        },
+        {
+            "question": "What role does the high synthesis temperature of 75°C likely play in the formation of NU-100?",
+            "answer": "The high temperature of 75°C provides the thermal energy needed to overcome the activation barrier and drive the coordination bond formation between the carboxylate groups of the ligand and the Cu2+ ions to self-assemble the NU-100 framework.",
+            "type": "reasoning",
+            "difficulty": "medium"  
+        },
+        {
+            "question": "Why is a reaction time of 24 hours likely needed for the solvothermal synthesis of NU-100?",
+            "answer": "The relatively long reaction time of 24 hours is likely required to allow the hexacarboxylate ligands and Cu paddlewheel clusters sufficient time to organize and link together into the extended highly porous 3D framework structure of NU-100.",
+            "type": "reasoning",
+            "difficulty": "medium"
+        },
+        {
+            "question": "Based on the framework formula, how many water molecules are coordinated to each Cu2+ ion in the as-synthesized NU-100?",
+            "answer": "The framework formula of [Cu3(L)(H2O)3]n indicates there are 3 water molecules for every 3 Cu atoms, so each Cu2+ ion is on average coordinated to 1 water molecule in the as-synthesized NU-100.",
+            "type": "reasoning",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Why are water molecules likely coordinated to the Cu2+ ions in the as-synthesized NU-100?",
+            "answer": "Water molecules are likely coordinated to the axial positions of the Cu2+ ions in the paddlewheel clusters to complete their octahedral coordination sphere, since the equatorial positions are occupied by carboxylate oxygens from the ligands.",
+            "type": "reasoning",
+            "difficulty": "hard"
+        },  
+        {
+            "question": "How does the incorporation of HBF4 acid likely influence the crystallization of NU-100?",
+            "answer": "The HBF4 acid likely facilitates the deprotonation of the carboxylic acid groups of the ligand, making them better donors to coordinate to the Cu2+ ions. The acid may also slow down the crystallization, allowing a more ordered framework to form.",
+            "type": "reasoning",
+            "difficulty": "hard"
+        },
+        {
+            "question": "Would you expect NU-100 to form the same structure if the reaction was carried out at room temperature instead of 75°C?",
+            "answer": "Probably not, the higher temperature is likely needed to provide sufficient energy for the Cu-carboxylate bonds to form and the framework to assemble. At room temperature the reaction may be too slow or lead to a different product.",
+            "type": "reasoning",
+            "difficulty": "hard"
+        },
+        {
+            "question": "NU-100 was synthesized using a solvothermal reaction.",
+            "answer": "True",
+            "type": "true_false",
+            "difficulty": "easy"
+        },
+        {
+            "question": "The solvothermal synthesis of NU-100 used a mixture of DMF and ethanol as the solvent.",
+            "answer": "False - The solvothermal synthesis used a mixture of DMF and HBF4, not ethanol.",
+            "type": "true_false",
+            "difficulty": "easy"
+        },
+        {  
+            "question": "The metal source used to synthesize NU-100 was copper(II) nitrate hemipentahydrate.",
+            "answer": "True",
+            "type": "true_false",
+            "difficulty": "easy"
+        },
+        {
+            "question": "The solvothermal reaction to make NU-100 was carried out at 100°C.",
+            "answer": "False - The solvothermal reaction was carried out at 75°C, not 100°C.",
+            "type": "true_false",
+            "difficulty": "easy"
+        },
+        {
+            "question": "The hexacarboxylate ligand used is fully deprotonated in the as-synthesized NU-100 framework.",
+            "answer": "True - The framework formula of [Cu3(L)(H2O)3]n suggests the ligand is fully deprotonated to L6- in order to balance the charge of the Cu2+ ions.",
+            "type": "true_false",
+            "difficulty": "medium"
+        },
+        {
+            "question": "The Cu2+ ions in NU-100 are coordinated by four carboxylate oxygens and two water molecules in an octahedral geometry.",
+            "answer": "True - The paddlewheel clusters have the Cu2+ ions coordinated by four equatorial carboxylate oxygens from the ligands and two axial water molecules to complete the octahedral coordination.",
+            "type": "true_false", 
+            "difficulty": "medium"
+        },
+        {
+            "question": "Changing the solvent system would have no effect on the structure of the MOF obtained.",
+            "answer": "False - The solvent system can have a major effect on MOF synthesis by influencing ligand deprotonation, metal cluster formation, solubility of components, and crystallization kinetics. A different solvent could result in a different MOF phase.",
+            "type": "true_false",
+            "difficulty": "hard"
+        }
+    ]

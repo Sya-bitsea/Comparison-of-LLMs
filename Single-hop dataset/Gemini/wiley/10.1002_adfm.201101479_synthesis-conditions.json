@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the space group of compound 1?",
+        "answer": "The space group of compound 1 is P43212 (No. 96).",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the SBU in both compound 1 and compound 2?",
+        "answer": "The secondary building unit (SBU) in both compound 1 and 2 is a commonly found paddle-wheel Zn2(COO)4 cluster.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the effect of methyl functionalization on the water stability of compounds 1 and 2?",
+        "answer": "The methyl functionalization significantly enhances the water stability of compounds 1 and 2 compared to their parent structures.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What method was used to calculate the pore volumes of compounds 1' to 4'?",
+        "answer": "The pore volumes were calculated by the Horvath\u2013Kawazoe (HK) method.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the CO2 uptake capacity of compound 1' at 298 K and 1 atm?",
+        "answer": "The CO2 uptake capacity of compound 1' at 298 K and 1 atm is 2.6 wt%.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the CO2/N2 separation ratio for compound 4' at 298 K and 1 atm?",
+        "answer": "The CO2/N2 separation ratio for compound 4' at 298 K and 1 atm is 89.7.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "How does the addition of methyl groups to the BPY ligand affect the isosteric heats of CO2 adsorption?",
+        "answer": "The addition of methyl groups to the BPY ligand substantially enhances the isosteric heats of CO2 adsorption.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why does compound 1' have a significantly higher uptake of CO2 than its parent structure 3'?",
+        "answer": "The enhancement due to increased MMOF\u2013CO2 interactions (higher Qst values) dominates the detraction due to surface area and pore-volume reduction in compound 1'.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why do compounds 2' and 4' have very small surface areas and pore volumes despite being made of a longer linker (NDC) ligand and having high solvent-accessible volumes?",
+        "answer": "The very small surface areas and pore volumes of empty 2' and 4' are a result of structural transformation that gives rise to frameworks of significantly reduced porosity.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why is the IR shift of the H2 stretch in 1' smaller than in Zn(BDC)(TED)0.5 but similar to Ni(BODC)(TED)0.5?",
+        "answer": "This result suggests that the interaction of H2 in 1' is closer to the methyl groups than to the BDC ligand.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What causes the hysteresis in the isotherms of 1' at lower temperatures?",
+        "answer": "This hysteresis is most likely a result of nonequilibration due to the slow diffusion process at low temperatures.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "How does the PXRD pattern of 1' differ from that of 3' after guest removal?",
+        "answer": "Unlike the significant alternation found in 3', the PXRD pattern of 1' is largely retained with only several minor new peaks after removal of the guest.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What does the blue shift to 1423 cm\u22121 in the Raman spectra suggest about the interaction of CO2 with compound 1'?",
+        "answer": "The blue shift suggests that, by interacting with the CH3, the CO2 molecules induce a constraint on the pyridyl ring.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "True or False: The addition of methyl groups always increases CO2 uptake capacity in MOFs.",
+        "answer": "False",
+        "difficulty_level": "medium",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "True or False: Compound 1' exhibits a higher hydrogen uptake capacity compared to compound 3'.",
+        "answer": "False",
+        "difficulty_level": "easy",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "True or False: The isosteric heat of CO2 adsorption is a measure of the strength of interaction between CO2 and the MOF framework.",
+        "answer": "True",
+        "difficulty_level": "easy",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "True or False: All four compounds (1', 2', 3', 4') adsorb significant amounts of N2 and O2 at room temperature.",
+        "answer": "False",
+        "difficulty_level": "easy",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "True or False: The intensity of IR absorption bands directly correlates with the binding energy of guest molecules in MOFs.",
+        "answer": "False",
+        "difficulty_level": "medium",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "True or False: The methyl groups in compound 1 prevent significant structural distortion upon guest removal.",
+        "answer": "True",
+        "difficulty_level": "medium",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "True or False: The Raman spectroscopy data directly proves the interaction between CO2 and the methyl groups in compound 1'.",
+        "answer": "False",
+        "difficulty_level": "hard",
+        "question_type": "truefalse"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the shortest interchain metal\u2013metal distance?",
+        "answer": "The shortest interchain metal\u2013metal distance was 10.69 \u00c5.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the role of the bulky Tp* ligand?",
+        "answer": "The bulky Tp* ligand is introduced to avoid interchain magnetic interactions.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the function of the long ditopic, magnetically inert organic linker N,N0-bis-pyridin-4-ylmethylene hydrazine (bpmh)?",
+        "answer": "A long ditopic, magnetically inert organic linker N,N0-bis-pyridin-4-ylmethylene hydrazine (bpmh) is adopted to tune the ligand field of FeII sites, to provide the possible light-induced spin transition and to link the Ising chains into two-dimensional networks, maintaining a sufficiently large ratio of intra- to interchain magnetic interactions without changing the SCM behaviour significantly.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What are the bond lengths for FeII-Ncyanide and FeII-Nbpmh at 296 K?",
+        "answer": "At 296 K, the FeII\u2013Ncyanide and FeII\u2013Nbpmh distances were 2.158\u20132.162 and 2.179 \u00c5, respectively.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What happens to the FeII-N bond distances when crystals of compound 1 are cooled to 13 K?",
+        "answer": "When crystals of compound 1 were cooled gradually to 13 K, the FeII\u2013N bond distances were shortened by B0.20 \u00c5.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the wT product of compound 1 at 300 K?",
+        "answer": "At 300 K, the wT product was 4.75 cm3 mol  1 K",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "The FeII centers in compound 1 exhibit a spin transition. What is the spin state of the FeII centers at high temperature?",
+        "answer": "At high temperatures, the FeII centers in compound 1 are in the HS state.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What is the oxidation state of the Fe centers that exhibit spin-crossover behavior in compound 1?",
+        "answer": "The FeII centers exhibit spin-crossover behavior.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What technique was used to determine the bond lengths in compound 1 at different temperatures?",
+        "answer": "Single-crystal X-ray diffraction analysis was used to determine the bond lengths in compound 1 at different temperatures.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What type of magnetic behavior is exhibited by compound 1 after irradiation with light?",
+        "answer": "Compound 1 exhibits ferromagnetic behavior after light irradiation.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Based on the DFT calculations, what type of magnetic coupling exists between the two FeIII LS ions in compound 1?",
+        "answer": "The DFT calculations indicate a weak ferromagnetic coupling between the two FeIII LS ions.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What is the dominant magnetic interaction in the double-zigzag chain in compound 1?",
+        "answer": "A ferromagnetic exchange coupling between FeIII LS and FeII HS units causes the predominant magnetic interaction in the double-zigzag chain in compound 1.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What type of electronic transition is responsible for the absorption band near 550 nm observed in the low-temperature phase of compound 1?",
+        "answer": "The broad absorption band near 550 nm for the low-temperature phase with FeII LS can be mainly attributed to the metal-to-ligand charge transfer (MLCT) transition.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "The FeIII centers in compound 1 undergo spin crossover.",
+        "answer": "False. The FeII centers in compound 1 undergo spin crossover.",
+        "difficulty_level": "easy",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "Compound 1 exhibits thermal hysteresis during the spin-crossover transition.",
+        "answer": "False. The wT product increased and returned to the initial value on heating, without thermal hysteresis.",
+        "difficulty_level": "easy",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "The photoinduced spin transition in compound 1 is from a metastable LS state to a stable HS state.",
+        "answer": "False. The photoinduced spin transition in compound 1 is from a diamagnetic FeII LS to metastable paramagnetic FeII HS units.",
+        "difficulty_level": "medium",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "The photoinduced magnetization in compound 1 relaxes thermally to its initial value upon heating to 100 K.",
+        "answer": "False. The photoinduced magnetization relaxed to the initial value on a thermal treatment up to 62 K.",
+        "difficulty_level": "medium",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "The photoinduced spin transition in compound 1 is fully complete.",
+        "answer": "False. The magnetization did not reach saturation even at 50 kOe, indicating the incomplete photoinduced spin transition and strong anisotropy of photoproduced FeII HS.",
+        "difficulty_level": "medium",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "The ac magnetic susceptibility measurements of compound 1 after irradiation with light show no frequency dependence.",
+        "answer": "False. Variable-temperature ac susceptibility measurements revealed a strong frequency dependence of both w0 and w00.",
+        "difficulty_level": "medium",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "The Cole-Cole diagram obtained from the variable-frequency ac susceptibility data of compound 1 after irradiation exhibits a perfect semicircle, indicating a single relaxation time.",
+        "answer": "False. The a-value was large, indicating a broad distribution of the relaxation time, which may be due to the presence of defects in the chain, because unconverted LS FeII atoms are present in the chain.",
+        "difficulty_level": "hard",
+        "question_type": "truefalse"
+    }
+]

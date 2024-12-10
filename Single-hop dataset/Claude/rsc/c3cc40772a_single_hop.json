@@ -1,0 +1,125 @@
+s the single hop .json file for the given text:
+
+{
+  "questions": [
+    {
+      "question": "What type of receptors are formed from Ag(I) salts and bis-pyrimidyl ligands L1 and L2?",
+      "answer": "Self-assembled hosts H1 and H2 are formed from Ag(I) salts and bis-pyrimidyl ligands L1 and L2 respectively. These hosts are able to incorporate two anions into their structure.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What interactions are involved in the binding between the self-assembled hosts and the anions?",
+      "answer": "The binding between the self-assembled hosts and the anions involves a combination of hydrogen bonding and electrostatic interactions.",
+      "type": "factual", 
+      "difficulty": "easy"
+    },
+    {
+      "question": "What metal was selected to form the self-assembled hosts and why?",
+      "answer": "Silver was selected as the coordination metal because it has a pronounced ability to form two-coordination linear complexes.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What anions were used in the theoretical study to optimize the receptors and complexes?",
+      "answer": "NO3−, BF4− and TsO− anions were used in the theoretical study to optimize the receptors and complexes.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "At what level of theory were the DFT calculations performed to optimize the complexes?",
+      "answer": "The DFT calculations to optimize the complexes were performed at the BP86-D3/def2-TZVPD level of theory.",
+      "type": "factual",
+      "difficulty": "medium" 
+    },
+    {
+      "question": "What experimental techniques were used to characterize the synthesized compounds?",
+      "answer": "Elemental microanalysis, IR spectroscopy, NMR spectroscopy and single crystal X-ray crystallography were used to characterize the synthesized compounds.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Why does the tetrahedral BF4− anion not induce the formation of the H1 macrocycle?",
+      "answer": "The BF4− anion does not induce the formation of the H1 macrocycle because it has a poor metal-coordination ability and prefers to establish anion–π interactions with the heteroaromatic rings coordinated to the metal centers.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "How does the binding mode of the tosylate anion in the 2TsO−@H1 complex differ from that of nitrate in 2NO3−@H1?",
+      "answer": "In 2TsO−@H1, each sulfate group of tosylate interacts with one Ag+ ion of the host and the N–H groups furthest from that Ag+. This results in a different conformation of the aliphatic chain connecting the N-H groups compared to the nitrate complex.",
+      "type": "reasoning",
+      "difficulty": "hard" 
+    },
+    {
+      "question": "Why are additional Ag+ ions required to obtain suitable crystals of the 2NO3−@H1 and 2NO3−@H2 complexes?",
+      "answer": "A large excess of AgNO3 is required to obtain suitable crystals of 2NO3−@H1 and 2NO3−@H2 because the additional Ag+ ions coordinate to the external nitrogen atoms of the pyrimidine rings and interact with further nitrate anions, helping to form the 3D crystal structure.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "How do the recognition modes of the encapsulated nitrate anions differ between the 2NO3−@H1 and 2NO3−@H2 complexes?",
+      "answer": "In 2NO3−@H1, the nitrate anions only interact with the macrocycle via hydrogen bonds. In contrast, the nitrates in 2NO3−@H2 are bonded to Ag+ ions belonging to two neighboring macrocycles in addition to the hydrogen bonding interactions.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What interactions are responsible for the formation of the 3D structure in the 2NO3−@H1 complex?",
+      "answer": "Stacking interactions between macrocyclic complexes, CH(pyrimidine)···O(nitrate) hydrogen bonds, and the external silver nitrate bi-dimensional net are responsible for the formation of the 3D structure in 2NO3−@H1.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the role of the water molecules in the crystal structure of the 2BF4−@H2 complex?",
+      "answer": "In 2BF4−@H2, two water molecules are located above and below the macrocycle, connecting the N-H groups of the host with the tetrafluoroborate anions via hydrogen bonds.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Based on the theoretical calculations, which anion has the most favorable binding energy with both H1 and H2 hosts?",
+      "answer": "The tosylate anion has the most favorable binding energy with both H1 and H2 hosts based on the theoretical calculations. This is attributed to additional π-stacking interactions.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "The self-assembled hosts H1 and H2 are formed by the coordination of Ag(I) ions with bis-pyrimidyl ligands L1 and L2 respectively.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The tetrahedral BF4− anion readily induces the formation of the H1 macrocycle.",
+      "answer": "False. The BF4− anion does not induce the formation of the H1 macrocycle due to its poor metal-coordination ability and preference for anion-π interactions.",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "In the 2NO3−@H2 complex, the nitrate anions encapsulated by the host only interact via hydrogen bonds and are not coordinated to any Ag+ ions.",
+      "answer": "False. In 2NO3−@H2, the encapsulated nitrate anions are bonded to Ag+ ions belonging to two neighboring macrocycles in addition to the hydrogen bonding interactions with the host.",
+      "type": "true_false",
+      "difficulty": "hard"
+    },
+    {
+      "question": "The theoretical calculations predict that the NO3− anion has the most favorable binding energy with both H1 and H2 hosts.",
+      "answer": "False. The tosylate anion has the most favorable binding energy with both hosts according to the theoretical calculations, due to additional π-stacking interactions.",
+      "type": "true_false", 
+      "difficulty": "medium"
+    },
+    {
+      "question": "Single crystal X-ray crystallography was used to elucidate the solid state structures of the synthesized complexes.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The DFT calculations to optimize the complexes were performed at the MP2/6-31G* level of theory.",
+      "answer": "False. The DFT calculations were actually performed at the BP86-D3/def2-TZVPD level of theory.",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Copper was selected as the coordination metal to form the self-assembled hosts due to its ability to form linear two-coordinate complexes.",
+      "answer": "False. Silver, not copper, was selected due to its pronounced ability to form linear two-coordinate complexes.",
+      "type": "true_false",
+      "difficulty": "easy"
+    }
+  ]

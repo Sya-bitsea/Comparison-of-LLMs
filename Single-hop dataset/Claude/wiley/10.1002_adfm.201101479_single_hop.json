@@ -1,0 +1,123 @@
+
+[
+  {
+    "question": "What are the two new microporous metal-organic framework structures reported in this study?",
+    "answer": "The two new MMOF structures reported are Zn(BDC)(DMBPY)0.5·(DMF)0.5(H2O)0.5 (1) and Zn(NDC)(DMBPY)0.5·(DMF)2 (2).",
+    "type": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the key difference between compounds 1 and 2 compared to their parent structures 3 and 4?",
+    "answer": "Compounds 1 and 2 are obtained by functionalizing a pillar ligand with methyl groups, while 3 and 4 are the parent non-functionalized structures.",
+    "type": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What type of secondary building unit (SBU) is found in all four compounds?",
+    "answer": "All four compounds are made of a paddle-wheel Zn2(COO)4 secondary building unit.",
+    "type": "factual",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What two factors affect the CO2 uptake capacity in the methyl-functionalized MMOFs?",
+    "answer": "The CO2 uptake capacity is affected by the enhancement due to increased MMOF–CO2 interactions (higher Qst values) and the detraction due to the surface area and pore-volume reduction.",
+    "type": "reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "For compound 1', which effect dominates - the positive effect of increased CO2 affinity or the negative effect of reduced surface area?",
+    "answer": "For compound 1', the positive effect of increased CO2 affinity dominates, leading to a significantly higher CO2 uptake compared to its parent structure 3'.",
+    "type": "reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the trend observed for CO2 uptake in compound 2' compared to its parent structure 4'?",
+    "answer": "In compound 2', the negative effect of reduced surface area and pore volume rules, resulting in a slightly lower CO2 uptake compared to its parent structure 4'.",
+    "type": "reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Do all four compounds exhibit relatively high separation capability for CO2 over other small gases like CH4, N2 and O2?",
+    "answer": "Yes, all four compounds exhibit a relatively high separation capability for carbon dioxide over other small gases, including CH4, N2, and O2.",
+    "type": "true_false",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What spectroscopic techniques were used to characterize the CO2 interactions with compounds 1' and 2'?",
+    "answer": "IR and Raman spectroscopic characterization was used to study the CO2 interactions with compounds 1' and 2'.",
+    "type": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the main goal of ligand functionalization in metal-organic frameworks?",
+    "answer": "The main goal of ligand functionalization in MMOFs is to significantly enhance the adsorption property of the modified structures over that of their parent frameworks.",
+    "type": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Is the methyl group considered an effective functional group for ligand functionalization in MMOFs?",
+    "answer": "No, the methyl group has seldom been considered a real functional group for MMOF functionalization due to its relatively 'inactive' chemical nature.",
+    "type": "true_false",
+    "difficulty": "medium"
+  },
+  {
+    "question": "According to a recent theoretical study, how can the methyl group have a positive effect on CO2 adsorption in MMOFs?",
+    "answer": "The theoretical study suggests the CO2–aromatic interaction is strengthened by the electron-donating methyl group, and the CO2-loaded complex can be stabilized by hydrogen-bond-like interactions with methyl H atoms.",
+    "type": "reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What are the two general strategies to improve the performance of MMOFs as effective carbon capture and sequestration materials?",
+    "answer": "The two strategies are 1) tuning the pore size, framework topology, and surface area for selective CO2 sorption, and 2) modifying the internal surface chemistry by introducing functional groups for enhanced CO2 interaction.",
+    "type": "factual",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Besides enhanced CO2 interaction, what are two other potential advantages of introducing a -CH3 functional group in MMOFs?",
+    "answer": "Introducing a -CH3 group may prevent high-degree framework interpenetration and/or severe structure distortion upon guest removal, and may enhance the water/moisture stability of the frameworks.",
+    "type": "factual",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the chemical formula of the ligand DMBPY used in compounds 1 and 2?",
+    "answer": "DMBPY stands for 2,2'-dimethyl-4,4'-bipyridine.",
+    "type": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Does the introduction of methyl groups in compound 1 reduce the channel opening compared to the parent structure 3?",
+    "answer": "Yes, the inclusion of methyl groups results in a reduction of the channel opening, from 4.0 × 4.0 Å in the parent structure 3 to 3.8 Å × 3.8 Å in compound 1.",
+    "type": "true_false",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What surprising structural transformation is observed for compound 4 upon removal of guest molecules?",
+    "answer": "The PXRD pattern of the guest-free sample 4' matches almost perfectly with a different threefold interpenetrated structure, which has not been reported previously for transformations between different levels of interpenetration.",
+    "type": "reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Do the methyl-functionalized compounds 1 and 2 show enhanced water stability compared to their parent structures?",
+    "answer": "Yes, compounds 1 and 2 remain intact after exposure to water at 40°C for 7 days, while noticeable changes are observed in the PXRD patterns of 3 and 4 after exposure to water for only 1 day.",
+    "type": "true_false",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which compound shows the highest CO2 uptake at 273 K and 1 atm?",
+    "answer": "Compound 1' shows the highest CO2 uptake of 11.4 wt% at 273 K and 1 atm.",
+    "type": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the range of isosteric heat of CO2 adsorption (Qst) values for compound 1' at low loading?",
+    "answer": "The Qst values for compound 1' range from 33.2 to 45.2 kJ/mol at a CO2 loading up to ~2 wt%.",
+    "type": "factual",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Does the IR spectroscopy data suggest the CO2 interaction is closer to the methyl groups or the BDC ligand in compound 1'?",
+    "answer": "The IR data suggests the CO2 interaction in compound 1' is closer to the methyl groups than to the BDC ligand.",
+    "type": "reasoning",
+    "difficulty": "hard"
+  }
+]

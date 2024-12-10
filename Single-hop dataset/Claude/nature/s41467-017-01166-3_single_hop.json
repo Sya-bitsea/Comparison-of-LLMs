@@ -1,0 +1,125 @@
+s the single hop .json file for the given text:
+
+{
+  "questions": [
+    {
+      "question": "What is the coordination environment of the Cu(II) center in FJI-H14?",
+      "answer": "The Cu(II) center in FJI-H14 has a square-pyramidal coordination geometry, surrounded by two imine N atoms from two different 1,2,4-triazole groups and two O atoms from two different carboxylate groups in the equatorial plane, together with one O atom of the water molecule in the vertex.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What are the Cu1-O1, Cu1-O5, Cu1-O4, Cu1-N3 and Cu1-N5 bond lengths in FJI-H14?", 
+      "answer": "The Cu1-O1 bond length is 1.963(5) Å, Cu1-O5 is 2.259(5) Å, Cu1-O4 is 1.968(7) Å, Cu1-N3 is 2.004(7) Å, and Cu1-N5 is 2.005(6) Å.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Is FJI-H14 stable after treatment with water, acid and base environments at pH 1 and 13 for 24 hours?",
+      "answer": "Yes, the PXRD patterns show that FJI-H14 is stable after treatment with water, acid/base environment at pH = 1 and 13 for 24 h.",
+      "type": "true_or_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "At what temperature does the framework of FJI-H14 start to collapse based on the temperature-dependent PXRD patterns?",
+      "answer": "The framework of FJI-H14 starts to collapse at temperatures higher than 230°C based on the temperature-dependent PXRD patterns.",
+      "type": "factual",
+      "difficulty": "easy" 
+    },
+    {
+      "question": "Does the PXRD pattern of the activated FJI-H14 match well with the simulated one from the cif file?",
+      "answer": "Yes, the PXRD patterns show that the activated FJI-H14 matches well with the simulated one from the cif file, indicating the framework remains intact after activation.",
+      "type": "true_or_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the shape of the N2 adsorption isotherm of FJI-H14 at 77 K?",
+      "answer": "The N2 adsorption isotherm of FJI-H14 at 77 K is much lower than expected, indicating restricted N2 uptake at 77 K.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Why does FJI-H14 show restricted N2 uptake at 77 K but type-I CO2 uptake at 195 K?",
+      "answer": "The restricted N2 uptake at 77 K may be due to the relatively narrow pores in FJI-H14 being easily blocked by the larger N2 molecules at low temperature, while the smaller CO2 molecules can still diffuse into the pores at 195 K.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the trend of the isosteric heat of CO2 adsorption (Qst) in FJI-H14 with increasing CO2 loading?",
+      "answer": "The isosteric heat of CO2 adsorption (Qst) in FJI-H14 slightly increases from 26.6 to 30.5 kJ/mol with CO2 loading increasing to 260 mg/g, which is an unusual trend.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Is the increasing trend of Qst with CO2 loading in FJI-H14 confirmed by both the Clausius-Clapeyron equation and Virial fitting methods?",
+      "answer": "Yes, the increasing trend of Qst with CO2 loading in FJI-H14 is confirmed by both the Clausius-Clapeyron equation and Virial fitting methods.",
+      "type": "true_or_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the volumetric CO2 uptake of FJI-H14 at 298 K and 1 atm?",
+      "answer": "The volumetric CO2 uptake of FJI-H14 is 171 cm3/cm3 at 298 K and 1 atm.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "How does the volumetric CO2 uptake of FJI-H14 at 298 K and 1 atm compare to other well-known MOFs?",
+      "answer": "The volumetric CO2 uptake of FJI-H14 at 298 K and 1 atm (171 cm3/cm3) is only lower than MAF-X25ox, MAF-X27ox and Co2(dobdc), but exceeds that of almost all other well-known MOFs such as Mg-MOF-74, UTSA-16, SIFSIX-2-Cu-i, etc.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the CO2/N2 selectivity of FJI-H14 for a 15/85 CO2/N2 mixture at 298 K and 1 atm based on IAST calculations?",
+      "answer": "The CO2/N2 selectivity of FJI-H14 for a 15/85 CO2/N2 mixture at 298 K and 1 atm is calculated to be 51 based on IAST.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Can FJI-H14 maintain its CO2 adsorption capacity after multiple cycles of adsorption?",
+      "answer": "Yes, FJI-H14 can maintain 100% of its CO2 adsorption capacity even after 5 cycles, indicating it is highly suitable for CO2 capture.",
+      "type": "true_or_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What are the three preferential CO2 adsorption sites in FJI-H14 revealed by GCMC simulations and DFT calculations?",
+      "answer": "The three preferential CO2 adsorption sites in FJI-H14 are: 1) CO2 coordinating to open Cu(II) sites, 2) CO2 interacting with carboxyl O atoms, and 3) CO2 interacting with positively charged H atoms.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which CO2 adsorption site has the highest static binding energy based on DFT calculations?",
+      "answer": "The open Cu(II) sites have the highest static CO2 binding energy of ~43.71 kJ/mol based on DFT calculations, indicating they play a leading role in CO2 adsorption in FJI-H14.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the reason for the increasing Qst trend with CO2 loading in FJI-H14 based on GCMC simulations?",
+      "answer": "GCMC simulations show that while the CO2-framework interaction contribution to Qst decreases slightly, the CO2-CO2 interaction contribution increases significantly with loading, leading to the overall increasing Qst trend, likely due to CO2 cluster formation in the pores.",
+      "type": "reasoning",
+      "difficulty": "hard" 
+    },
+    {
+      "question": "Can small CO2 clusters form in the pores of FJI-H14 based on GCMC simulations?",
+      "answer": "Yes, GCMC simulations show that small CO2 clusters with short C-O distances between adjacent CO2 molecules can form in the pores of FJI-H14, especially at low temperature and high pressure.",
+      "type": "true_or_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What experimental technique was used to probe the CO2 adsorption sites in FJI-H14?",
+      "answer": "In situ FTIR spectroscopy was used to experimentally probe the CO2 adsorption sites in FJI-H14 by collecting spectra at different CO2 pressures.",
+      "type": "factual", 
+      "difficulty": "easy"
+    },
+    {
+      "question": "Can FJI-H14 be synthesized on a large scale with high yield and purity?",
+      "answer": "Yes, FJI-H14 can be synthesized on a 10 g scale with 90% yield by a simple reflux method, and the purity is confirmed by PXRD analysis.",
+      "type": "true_or_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "How does FJI-H14 perform as a catalyst for the cycloaddition of CO2 with epoxides using simulated flue gas compared to other catalysts?",
+      "answer": "FJI-H14 shows much higher catalytic activity for the cycloaddition of CO2 with styrene oxide using simulated flue gas, giving 86% yield, compared to homogeneous Cu(OAc)2, HKUST-1 and a mixture of Cu(NO3)2 and H2BTTA ligand under the same conditions.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    }
+  ]

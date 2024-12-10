@@ -1,0 +1,125 @@
+s a single hop .json file with 20 questions and answers about the synthesis conditions of STAM-1 based on the given text:
+
+{
+  "questions": [
+    {
+      "question": "What metal salt is used in the synthesis of STAM-1?",
+      "answer": "Cu(NO3)2.3(H2O) (copper nitrate trihydrate) is used in the synthesis of STAM-1.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What organic linker is used to synthesize STAM-1?",
+      "answer": "1,3,5-benzenetricarboxylic acid (H3BTC) is used as the organic linker to synthesize STAM-1.",
+      "difficulty": "easy", 
+      "type": "factual"
+    },
+    {
+      "question": "What is the molar ratio of copper nitrate to H3BTC used in the STAM-1 synthesis?",
+      "answer": "The molar ratio of Cu(NO3)2.3(H2O) to H3BTC used is 1:1 (4.1 mmol of each).",
+      "difficulty": "medium",
+      "type": "factual"  
+    },
+    {
+      "question": "What solvent mixture is used to synthesize STAM-1?",
+      "answer": "A 50:50 mixture of methanol and water is used as the solvent to synthesize STAM-1.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of reaction vessel is used for the STAM-1 synthesis?",
+      "answer": "The STAM-1 synthesis is carried out in a Teflon-lined steel autoclave.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How long is the reaction mixture stirred at room temperature before heating?",
+      "answer": "The reaction mixture is stirred for 15 minutes at ambient temperature before heating.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What temperature is used to synthesize STAM-1?",
+      "answer": "The reaction mixture is heated at 383 K (110°C) to synthesize STAM-1.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How long is the reaction mixture heated for to synthesize STAM-1?",
+      "answer": "The reaction mixture is heated for 7 days to synthesize STAM-1.",
+      "difficulty": "easy",
+      "type": "factual" 
+    },
+    {
+      "question": "What is the appearance of the STAM-1 crystals obtained after synthesis?",
+      "answer": "Large blue crystals of STAM-1 are obtained after the synthesis.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the typical yield obtained for the STAM-1 synthesis?",
+      "answer": "The best yield for the STAM-1 synthesis approached 100%, and yields in excess of 95% could be obtained easily and repeatably.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does increasing the heating time beyond 7 days affect the purity of STAM-1?",
+      "answer": "Yes, longer heating times beyond 7 days can lead to a very small amount of HKUST-1 (<1% from XRD) forming as an impurity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the STAM-1 synthesis be scaled up to produce larger quantities?",
+      "answer": "Yes, the STAM-1 synthesis can successfully be scaled up to produce at least 2.5 g of product from a single reaction.",
+      "difficulty": "medium", 
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the copper salt essential for the selective monoesterification of BTC observed in STAM-1?",
+      "answer": "Yes, the copper metal ions seem to be vital to the selective monoesterification process, as replacing copper with other metals does not result in the same esterification.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does STAM-1 act as a protecting group to enable selective monoesterification of BTC?",
+      "answer": "Yes, STAM-1 acts as a protecting group for two of the three carboxylic acid groups of BTC, enabling selective monoesterification which is difficult to achieve using standard organic chemistry.",
+      "difficulty": "hard",
+      "type": "reasoning" 
+    },
+    {
+      "question": "Can the monomethyl ester BTC linker be recovered from STAM-1?",
+      "answer": "Yes, the monomethyl ester BTC linker can be recovered in high yield (typically 95%) by carefully dissolving STAM-1 in aqueous NaOH.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: HKUST-1 is the major product expected from the reaction of copper nitrate and BTC under typical MOF synthesis conditions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "true_false"
+    },
+    {
+      "question": "True or False: NMR studies show only the monomethyl ester of BTC is present in the STAM-1 synthesis solution before any solid forms.",
+      "answer": "False - NMR studies show a mixture of the monomethyl, dimethyl and trimethyl esters of BTC are present in the synthesis solution before any solid forms.",
+      "difficulty": "medium",
+      "type": "true_false"
+    },
+    {
+      "question": "True or False: The trimethyl ester of BTC can coordinate to copper and form a MOF.",
+      "answer": "False - The trimethyl ester of BTC has no free carboxylate groups available to coordinate to copper and form a MOF.",
+      "difficulty": "medium",
+      "type": "true_false"
+    },
+    {
+      "question": "True or False: The dimethyl ester of BTC precipitates out of solution to form STAM-1.",
+      "answer": "False - The dimethyl ester of BTC has only one free carboxylate group and likely remains in solution complexed with copper, rather than precipitating to form STAM-1.",
+      "difficulty": "hard",
+      "type": "true_false" 
+    },
+    {
+      "question": "True or False: Direct monoesterification of BTC is a well-known organic synthesis procedure.",
+      "answer": "False - Direct monoesterification of BTC is not known in the organic chemistry literature and there are no reported protecting group strategies to accomplish this transformation selectively.",
+      "difficulty": "hard",
+      "type": "true_false"
+    }
+  ]

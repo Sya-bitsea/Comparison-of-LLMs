@@ -1,0 +1,125 @@
+s a single hop .json file with 20 questions of different types based on the given text:
+
+{
+  "questions": [
+    {
+      "question": "What is the chemical formula of MOF-520?",
+      "answer": "Al8(OH)8(HCOO)4(BTB)4, where BTB = 1,3,5-benzenetribenzoate",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What are the two types of ellipsoidal pores formed in MOF-520?",
+      "answer": "Octahedral pores with dimensions 10.01 Å × 10.01 Å × 23.23 Å and tetrahedral pores with dimensions 5.89 Å × 5.89 Å × 6.21 Å",
+      "type": "factual", 
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the space group that MOF-520 crystallizes in?",
+      "answer": "P42212, which is a noncentrosymmetric space group",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "How many formate ligands are present on each aluminum SBU in MOF-520?",
+      "answer": "Four formate ligands are present on each aluminum SBU in MOF-520",
+      "type": "factual",
+      "difficulty": "easy" 
+    },
+    {
+      "question": "What is the overall bulk sample of MOF-520 described as?",
+      "answer": "The overall bulk sample of MOF-520 is a racemic conglomerate containing both Λ and Δ enantiomorphs",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What techniques were used to fully characterize the structure of evacuated MOF-520?",
+      "answer": "Single-crystal X-ray diffraction, 1H NMR, elemental analysis, N2 isotherm measurement, infrared spectroscopy, thermogravimetric analysis, and powder X-ray diffraction were used to fully characterize evacuated MOF-520",
+      "type": "factual",
+      "difficulty": "hard"
+    },
+    {
+      "question": "The formate ligands on the aluminum SBUs can be substituted with incoming organic molecules through what type of chemistry?",
+      "answer": "The formate ligands can be substituted with incoming organic molecules through acid-base chemistry",
+      "type": "reasoning",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Why does covalently binding molecules to the metal sites of MOF-520 promote their alignment into an ordered pattern?",
+      "answer": "Covalently binding molecules to the metal sites anchors them and lowers their motional degrees of freedom, thereby promoting their alignment into an ordered pattern",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "How does the absolute structure of the chiral MOF-520 help in determining the absolute configuration of bound chiral molecules?",
+      "answer": "The absolute structure of the chiral MOF serves as a reference for the direct determination of the absolute configuration of bound chiral molecules",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Why was MOF-520 used for crystallizing molecules 1-10, 12, 15 and 16, while MOF-520-2 and MOF-520-3 were used for 11 and 13-14 respectively?",
+      "answer": "MOF-520-2 and MOF-520-3 have larger pore widths compared to MOF-520, so they were used to accommodate the larger molecules 11 and 13-14 respectively",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Besides the covalent binding, what other interactions help order the bound molecules within MOF-520?",
+      "answer": "Noncovalent interactions such as π-π interactions and weak hydrogen bonds with the aromatic rings and carboxylates of the framework also help order some of the bound molecules",
+      "type": "reasoning",
+      "difficulty": "medium" 
+    },
+    {
+      "question": "How does the CAL method enable determining structures of larger, more complex molecules with high accuracy despite low occupancy?",
+      "answer": "The CAL method yields highly ordered arrangements for molecules within the MOF, so their structure can be determined even with low occupancy at the binding sites",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What subtle structural difference between gibberellins 13 and 14 was the CAL method able to distinguish?",
+      "answer": "The CAL method was able to distinguish that C1-C2 is a single bond in gibberellin 13 and a double bond in gibberellin 14, which is the only difference between the two complex molecules",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "True or False: MOF-520 has a chiral atomic arrangement.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "True or False: The absolute structure descriptors Λ-MOF-520 and Δ-MOF-520 are assigned based on the chirality of the aluminum SBUs.",
+      "answer": "False. The absolute structure descriptors are assigned based on the absolute configuration of the BTB linker.",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "True or False: The formate ligands on the aluminum SBUs occupy two sites on each face of the SBU in an achiral tetrahedral arrangement.",
+      "answer": "False. The formate ligands occupy two sites on each face of the SBU in a chiral tetrahedral arrangement with D2 symmetry.",
+      "type": "true_false", 
+      "difficulty": "hard"
+    },
+    {
+      "question": "True or False: The binding mode of ethylene glycol to the SBU is similar to that of methanol.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "True or False: The CAL method was able to determine the absolute configuration of jasmonic acid, for which a crystal structure had not been previously reported.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "True or False: The chiral MOFs show anomalous scattering only from included chiral molecules and not from the framework itself.",
+      "answer": "False. The chiral MOFs show anomalous scattering from the framework itself, regardless of any included chiral molecules.",
+      "type": "true_false",
+      "difficulty": "hard"
+    },
+    {
+      "question": "True or False: A racemic mixture of jasmonic acid selectively attached to only one enantiomorph of MOF-520 when crystallized.",
+      "answer": "False. The (−)-jasmonic acid selectively attached to Δ-MOF-520 while the (+)-jasmonic acid selectively attached to Λ-MOF-520 when a racemic mixture was crystallized.",
+      "type": "true_false",
+      "difficulty": "hard"
+    }
+  ]

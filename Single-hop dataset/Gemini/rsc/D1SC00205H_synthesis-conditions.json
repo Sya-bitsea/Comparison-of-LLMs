@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What type of material is CUK-1?",
+        "answer": "CUK-1 is a metal-organic framework (MOF).",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the maximum pressure used in the mercury intrusion experiments?",
+        "answer": "The maximum pressure used in the mercury intrusion experiments is 413 MPa.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the approximate pore size of the CUK-1 framework?",
+        "answer": "The approximate pore size of the CUK-1 framework is 6.6 \u00c5.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What pressure transmitting medium was used in the high-pressure SC-XRD experiments?",
+        "answer": "Silicone oil AP-100 was used as the pressure transmitting medium in the high-pressure SC-XRD experiments.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the space group of the CUK-1 framework?",
+        "answer": "The space group of the CUK-1 framework is C2/c.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the energy storage capacity of CUK-1(Co)?",
+        "answer": "The energy storage capacity of CUK-1(Co) is about 40 J/g.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "Why is CUK-1 considered an ideal molecular spring?",
+        "answer": "CUK-1 is considered an ideal molecular spring due to its near-absence of hysteresis upon cycling, indicating a fully reversible mechanical pressure-triggered structural contraction.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why was CUK-1(Mg) chosen for the DFT computational investigation instead of CUK-1(Co)?",
+        "answer": "CUK-1(Mg) was chosen for the DFT investigation because Co is a transition metal with a high spin state in CUK-1, making its electronic structure more difficult to resolve using standard DFT.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What causes the unique spring-like behavior of the CUK-1 framework under pressure?",
+        "answer": "The unique spring-like behavior is attributed to the position and concerted motion of its linkers upon compaction, specifically the dual-hinged pivot configuration and alternating connectivity.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "How does the volumetric energy density of CUK-1(Co) compare to water intrusion systems?",
+        "answer": "CUK-1(Co) exhibits an attractive volumetric energy density compared to water intrusion systems due to its relatively dense framework.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What is the significance of the inflection point in the DFT energy profile of CUK-1(Mg)?",
+        "answer": "The inflection point in the DFT energy profile, observed in the volume range of the contracted phase, suggests a softening of the material and potential hysteresis in the transition pressures.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "How does the dispersion interaction in CUK-1 compare to that in MIL-53(Al), and what is its implication?",
+        "answer": "The dispersion contribution to the energy difference between the open and contracted phases is lower in CUK-1 than in MIL-53(Al), indicating a lower degree of stabilization of the contracted phase in CUK-1. This contributes to its ideal spring-like behavior.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why were molecular dynamics simulations performed at 300 K?",
+        "answer": "Molecular dynamics simulations were performed at 300 K to account for the temperature difference between the 0 K DFT calculations and the room temperature experimental conditions.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "CUK-1(Co) exhibits significant hysteresis in its pressure-induced structural changes.",
+        "answer": "False. CUK-1(Co) exhibits near-absence of hysteresis, making it behave like an ideal spring.",
+        "difficulty_level": "easy",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "The pressure-induced structural contraction in CUK-1(Co) is irreversible.",
+        "answer": "False. The pressure-induced structural contraction in CUK-1(Co) is fully reversible.",
+        "difficulty_level": "easy",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "Guest adsorption can induce a breathing effect in CUK-1(Co).",
+        "answer": "False. Guest adsorption does not induce a breathing effect in CUK-1(Co) because the adsorption stresses are insufficient to overcome the energetic penalty of transition.",
+        "difficulty_level": "medium",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "The DFT energy profile of CUK-1(Mg) exhibits two local minima.",
+        "answer": "False. The DFT energy profile of CUK-1(Mg) exhibits only one local minimum, corresponding to the open form.",
+        "difficulty_level": "medium",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "The aromatic stacking interactions between linkers in CUK-1 are stronger than those in MIL-53(M)/MIL-47(V).",
+        "answer": "False. The aromatic stacking interactions in CUK-1 are weaker than those in MIL-53(M)/MIL-47(V), contributing to its reversible structural changes.",
+        "difficulty_level": "hard",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "The entropic contributions in CUK-1 stabilize the contracted phase.",
+        "answer": "False. The entropic contributions in CUK-1 stabilize the open phase and destabilize the contracted phase, further enhancing its spring-like behavior.",
+        "difficulty_level": "hard",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "CUK-1 is the first known example of a crystalline material exhibiting a spring-like mechanical behavior.",
+        "answer": "True. CUK-1 is the first known compliant hybrid porous material to exhibit a fully reversible pressure-induced contraction, analogous to a nano-spring.",
+        "difficulty_level": "medium",
+        "question_type": "truefalse"
+    }
+]

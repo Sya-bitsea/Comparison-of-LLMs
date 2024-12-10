@@ -1,0 +1,125 @@
+s a single hop .json file with 20 questions and answers based on the given text:
+
+{
+  "questions": [
+    {
+      "question": "What is the main material discussed in this paper?",
+      "answer": "The main material discussed is SOD-type metal-organic zeolites, specifically MAF-4 and MAF-7.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the key difference between MAF-4 and MAF-7 in terms of their pore surface properties?",
+      "answer": "MAF-7 contains uncoordinated nitrogen atoms on its pore surface that act as Lewis base sites, while MAF-4 lacks these active sites.",
+      "difficulty": "medium", 
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the pore surface modification in MAF-7 affect its CO2 adsorption performance compared to MAF-4?",
+      "answer": "MAF-7 adsorbs much more CO2 than MAF-4 (62.5 vs 29.3 cm3/g at 273 K and 1 atm) due to dipole-quadrupole interactions between the nitrogen donors and CO2.",
+      "difficulty": "medium",
+      "type": "reasoning"  
+    },
+    {
+      "question": "What is the usable storage capacity of MAF-7 for acetylene (C2H2) between 1.0 and 1.5 atm?",
+      "answer": "MAF-7 can deliver 28.7 mg/g or 26.8 g/L of C2H2 between 1.0 and 1.5 atm, which is 50 times higher than a gas cylinder.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the water adsorption behavior differ between MAF-4 and MAF-7?",
+      "answer": "MAF-4 is exceptionally hydrophobic and adsorbs very little water even near saturation, while MAF-7 shows a type-V water isotherm with a steep uptake at moderate humidity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are the solid solution frameworks (SSFs) MAF-47-x and how do they allow tuning of water adsorption?",
+      "answer": "MAF-47-x are SSFs of MAF-4 and MAF-7 with mixed imidazolate and triazolate linkers. Varying the linker ratio allows continuous tuning of the water adsorption threshold pressure.",
+      "difficulty": "hard",
+      "type": "reasoning" 
+    },
+    {
+      "question": "True or False: MAF-4 and MAF-7 have almost identical pore volumes and surface areas.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "true_false"
+    },
+    {
+      "question": "What are the decomposition temperatures of MAF-4 and MAF-7?",
+      "answer": "The decomposition temperatures are around 400°C for MAF-4 and 270°C for MAF-7.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The tetrahedral metal centers in MAF-4 are effective sites for gas adsorption.",
+      "answer": "False. The tetrahedral metal centers are shielded by the surrounding imidazolates and not effective for sorption.",
+      "difficulty": "medium",
+      "type": "true_false"
+    },
+    {
+      "question": "What is the H2 uptake of MAF-7 at 77 K and 1 atm?",
+      "answer": "The H2 uptake of MAF-7 is 1.38 wt% at 77 K and 1 atm.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: MAF-7 shows negligible hysteresis in its water adsorption/desorption isotherm.",
+      "answer": "False. MAF-7 shows notable hysteresis in its water isotherm, retaining a significant amount of water even at very low relative pressure.",
+      "difficulty": "medium",
+      "type": "true_false"
+    },
+    {
+      "question": "What is the mechanism by which the gated pressure for water adsorption can be tuned in MAF-47-x?",
+      "answer": "The gated pressure is tuned by varying the density of pore surface active sites (uncoordinated N atoms) in the solid solution frameworks.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are the cavity diameter, window diameter and void percentage of MAF-7?",
+      "answer": "MAF-7 has a cavity diameter of 11.2 Å, window diameter of 3.4 Å, and void percentage of 51.7%.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: MAF-47-x samples are simply mechanical mixtures of MAF-4 and MAF-7.",
+      "answer": "False. MAF-47-x are true solid solution frameworks rather than mechanical mixtures, as evidenced by their unique adsorption properties.",
+      "difficulty": "medium",
+      "type": "true_false" 
+    },
+    {
+      "question": "What is the advantage of MAF-7 for adsorption refrigeration and heat pump applications?",
+      "answer": "MAF-7 can adsorb and deliver a large amount of water (>300 mg/g) within a narrow relative humidity range of 0.20-0.37, which is useful for adsorption heat pumps.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are the isosteric heats of CO2 adsorption for MAF-4 and MAF-7?",
+      "answer": "The isosteric heats of CO2 adsorption are 14.9-17.2 kJ/mol for MAF-4 and 23.8-25.1 kJ/mol for MAF-7.",
+      "difficulty": "easy", 
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The C2H2 binding strength in MAF-7 is the highest reported for any adsorbent material.",
+      "answer": "False. The C2H2 binding strength in MAF-7 is not very high compared to other known adsorbents, but this moderate binding is advantageous for C2H2 storage.",
+      "difficulty": "medium",
+      "type": "true_false"
+    },
+    {
+      "question": "How does the C-H to N substitution on the linker affect the water uptake of MAF-7 compared to MAF-4?",
+      "answer": "The C-H to N substitution increases the water uptake of MAF-7 by over 100 times compared to the hydrophobic MAF-4.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group and unit cell parameter of MAF-7?",
+      "answer": "MAF-7 crystallizes in the cubic space group I-43m with a unit cell parameter a = 16.9858(11) Å.",
+      "difficulty": "easy",
+      "type": "factual"  
+    },
+    {
+      "question": "True or False: MAF-4 and MAF-7 are unstable in water and common organic solvents.",
+      "answer": "False. Both MAF-4 and MAF-7 are stable in water and common organic solvents like methanol and benzene.",
+      "difficulty": "easy",
+      "type": "true_false"
+    }
+  ]

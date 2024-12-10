@@ -1,0 +1,125 @@
+s a single hop .json file with 20 questions and answers based on the given text:
+
+{
+  "questions": [
+    {
+      "question": "What is the chemical formula of the fluorinated MOF material NbOFFIVE-1-Ni or KAUST-7?",
+      "answer": "NiNbOF5(pyr)2·2H2O",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the pore aperture size of NbOFFIVE-1-Ni at 100 K?",
+      "answer": "3.0471(1) Å",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the theoretical maximum pore aperture size of NbOFFIVE-1-Ni when omitting the steric hindrance?",
+      "answer": "4.752(1) Å",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the apparent surface area of NbOFFIVE-1-Ni based on CO2 adsorption studies at room temperature?",
+      "answer": "280 m2/g",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the estimated pore volume of NbOFFIVE-1-Ni based on CO2 adsorption studies?",
+      "answer": "0.095 cm3/g",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the heat of adsorption for propylene on NbOFFIVE-1-Ni based on calorimetric measurements?",
+      "answer": "57.4 kJ/mol",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "The restricted pore aperture size of NbOFFIVE-1-Ni allows it to selectively adsorb propylene over propane at room temperature and atmospheric pressure.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "NbOFFIVE-1-Ni maintains its propylene adsorption capacity and full propane exclusion over multiple adsorption/desorption cycles using a concentration swing recycling mode.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "NbOFFIVE-1-Ni loses crystallinity and undergoes a phase change when exposed to humidity levels from 5 to 95%.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The CO2 adsorption uptake and structural integrity of NbOFFIVE-1-Ni is retained even after immersion in aqueous solution for over 6 months.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Zeolite 4A shows very poor propylene/propane separation at 1 bar total pressure due to very slow propylene adsorption kinetics compared to NbOFFIVE-1-Ni.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Zeolite 5A exhibits an extremely high propylene/propane selectivity of nearly 20 under similar conditions as NbOFFIVE-1-Ni.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "NbOFFIVE-1-Ni adsorbs nitrogen gas at 77 K, indicating it has accessible microporosity at cryogenic temperatures.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Why does the use of (NbOF5)2- pillars instead of (SiF6)2- in NbOFFIVE-1-Ni result in a smaller pore aperture size compared to SIFSIX-3-Ni?",
+      "answer": "The shorter distance between (NbOF5)2- pillars from neighboring layers compared to (SiF6)2- induces a tilting of the pyrazine molecules, decreasing the pore aperture size.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What structural feature of NbOFFIVE-1-Ni is responsible for delimiting the pore system and dictating the maximum pore opening?",
+      "answer": "The hindered rotation of the pyrazine moieties caused by the bulkier (NbOF5)2- pillars delimits the pore system and dictates the maximum pore opening.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why does NbOFFIVE-1-Ni selectively adsorb propylene over propane despite the similar dimensions and physical properties of the two gases?",
+      "answer": "The concomitant pore aperture size and shape of NbOFFIVE-1-Ni provides the requisite size and shape cut-off for adsorption, resulting in the selective molecular exclusion of propane.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What advantages does using NbOFFIVE-1-Ni as an adsorbent offer for the propylene/propane separation process compared to zeolite 4A?",
+      "answer": "NbOFFIVE-1-Ni enables a simplified separation process without the need for energy-demanding high-pressure steps like pressurization, purge, and cocurrent blow down that are required for zeolite 4A.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the propylene adsorption uptake and recovery of NbOFFIVE-1-Ni compare to that of zeolite 4A when used in a vacuum swing adsorption system?",
+      "answer": "NbOFFIVE-1-Ni has a much higher propylene uptake and recovery of ~2 mol/kg/hour compared to only 1.03 mol/kg/hour with 26% recovery for zeolite 4A in a VSA system.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What key structural feature of NbOFFIVE-1-Ni makes it suitable for the selective molecular exclusion of propane from propylene?",
+      "answer": "The controlled pore aperture size and shape of NbOFFIVE-1-Ni, achieved through the deliberate use of reticular chemistry and selection of building blocks, enables the selective molecular sieving.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is high porosity not a necessary sorbent property for effective propylene/propane separation, as demonstrated by NbOFFIVE-1-Ni?",
+      "answer": "NbOFFIVE-1-Ni is nonporous to nitrogen at 77 K but still exhibits distinctive propylene/propane separation ability at room temperature due to its tailored pore aperture size and shape, showing porosity is not a prerequisite.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]

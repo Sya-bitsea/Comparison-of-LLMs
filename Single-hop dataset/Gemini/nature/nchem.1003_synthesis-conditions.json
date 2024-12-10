@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the name of the new material formed when the solvent system is changed to a 50:50 methanol: water mix?",
+        "answer": "STAM-1 (St Andrews MOF-1)",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the chemical formula of STAM-1?",
+        "answer": "Cu(C10H6O6)(H2O).1.66H2O",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the diameter of the largest channels in STAM-1, as calculated from molecular modeling studies?",
+        "answer": "Approximately 5.65 \u00c5",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the approximate diameter of the windows into the pores in STAM-1?",
+        "answer": "Approximately 4 \u00c5",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the maximum temperature at which guest molecules are lost from STAM-1, as indicated by thermogravimetric analysis?",
+        "answer": "423 K",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What two solvents are mentioned as being able to reverse the structural changes in STAM-1 that occur upon dehydration?",
+        "answer": "Methanol and water",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "Why does the trimethyl BTC ester not form a MOF with copper ions?",
+        "answer": "The trimethyl BTC ester lacks free carboxylate groups necessary for interaction with metals in solution and therefore cannot form a metal-carboxylate MOF.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why is the dimethyl BTC ester unlikely to form a polymeric material with copper ions?",
+        "answer": "The dimethyl BTC ester possesses only one free carboxylate group that can coordinate to a metal, limiting its ability to form a polymeric structure. Any resulting complex is likely to remain in solution.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "How does the formation of STAM-1 influence the equilibrium of esters in the synthesis solution?",
+        "answer": "As STAM-1 precipitates out of solution, it depletes the concentration of monomethyl BTC ester, perturbing the equilibrium and promoting further formation of monomethyl BTC from the di- and trimethyl esters. This drives the reaction towards complete conversion to STAM-1.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What structural features of STAM-1 contribute to its hydrophilic and hydrophobic channels?",
+        "answer": "The arrangement of 'cups' in STAM-1, with hydrophilic metal ions lining the inside and hydrophobic organic groups between them, creates distinct channels with opposing polarities.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why does the adsorption of CO2, N2, and N2O in STAM-1 result in lower total pore volumes than predicted from the crystallographic structure?",
+        "answer": "The structural changes upon dehydration, likely closing one set of pores, restrict the access of CO2, N2, and N2O, leading to lower observed pore volumes.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "How does the adsorption of methanol or water in STAM-1 differ from that of CO2, N2, and N2O, and what does this difference suggest?",
+        "answer": "Unlike CO2, N2, and N2O, both methanol and water adsorption exhibit gated behavior and access higher pore volumes, suggesting an induced structural change that allows access to both types of channels.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Explain the significance of the different adsorption kinetics observed for methanol in different pressure regions of the STAM-1 isotherm.",
+        "answer": "The slow adsorption kinetics observed in the pressure region associated with hydrophilic pore opening suggests a structural rearrangement process. In contrast, the faster kinetics at lower and higher pressures indicates facile diffusion into the accessible channels.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "The trimethyl BTC ester can form a MOF with copper ions.",
+        "answer": "false",
+        "difficulty_level": "easy",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "STAM-1 is unstable in water at neutral pH.",
+        "answer": "false",
+        "difficulty_level": "easy",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "The monomethyl ester BTC linker can be recovered from STAM-1.",
+        "answer": "true",
+        "difficulty_level": "easy",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "Direct monoesterification of BTC is a well-documented process in organic chemistry.",
+        "answer": "false",
+        "difficulty_level": "easy",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "The hydrophilic channels in STAM-1 are lined by metal ions.",
+        "answer": "true",
+        "difficulty_level": "medium",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "The adsorption of CO2 in STAM-1 is significantly affected by the presence of small amounts of water.",
+        "answer": "false",
+        "difficulty_level": "medium",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "The kinetic separation of N2 and O2 by STAM-1 relies on their different isosteric enthalpies of adsorption.",
+        "answer": "false",
+        "difficulty_level": "hard",
+        "question_type": "truefalse"
+    }
+]

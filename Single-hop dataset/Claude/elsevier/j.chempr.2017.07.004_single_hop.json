@@ -1,0 +1,125 @@
+s the single hop .json file for the given text, including 6 factual questions, 7 single-step reasoning questions, and 7 True or False questions:
+
+{
+  "questions": [
+    {
+      "question": "What is the name of the chiral metal-organic material that enables enantiomeric identification and purification?",
+      "answer": "CMOM-3S",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What two functions does CMOM-3S serve as?",
+      "answer": "CMOM-3S serves as both a chiral crystalline sponge (CCS) and a chiral stationary phase (CSP) for gas chromatography (GC).",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the maximum pore size of the 1D channel in CMOM-3S after subtracting van der Waals radii?",
+      "answer": "The maximum pore size of the 1D channel in CMOM-3S is ca. 0.8 × 0.8 nm after subtracting van der Waals radii.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "How many chiral alcohols or nitriles were evaluated for separation on the CMOM-3S-coated capillary column?",
+      "answer": "Ten chiral alcohols or nitriles were evaluated for separation on the CMOM-3S-coated capillary column.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What technique was used to directly observe the binding sites of CMOM-3S in high resolution?",
+      "answer": "Single-crystal X-ray diffraction (SCXRD) was used to directly observe the binding sites of CMOM-3S in high resolution.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "How much geraniol or nerol was used to expose a single crystal of CMOM-3S for structure determination?",
+      "answer": "A single crystal of CMOM-3S was exposed to 20 μL of dichloromethane (DCM) solutions containing 17 μg of geraniol or nerol for structure determination.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Why is CMOM-3S able to serve as both a CCS and CSP when previous materials could not?",
+      "answer": "CMOM-3S is able to serve as both a CCS and CSP because of its homochirality, exceptional thermal and hydrolytic stability, enzymatic-like binding sites, and highly crystalline nature with a low-symmetry space group.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Based on the results, what can be inferred about the enantioselectivity of the CMOM-3S-coated column compared to commercial columns?",
+      "answer": "The enantioselectivity of the CMOM-3S-coated column was found to be superior to the Chirasil-L-Val commercial column and comparable or better than the β-DEX 225 and Cyclosil B commercial columns.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What can be concluded about the durability of the CMOM-3S-coated column based on the shelf-life and multiple injection tests?",
+      "answer": "The durability tests showing no loss of performance after 10 months of shelf-life and 1,000 multiple injections demonstrate that the CMOM-3S-coated column is highly durable.",
+      "type": "reasoning",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Why does the adaptability of CMOM-3S cavities to guests and its low-symmetry space group enable determination of the absolute configuration of chiral analytes?",
+      "answer": "The adaptability of CMOM-3S cavities allows it to accommodate a range of chiral guests, while its low-symmetry space group enables unambiguous determination of the absolute configuration of the chiral analytes thanks to anomalous scattering effects.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Based on the binding site analysis, what types of intermolecular interactions are likely responsible for the enantioselectivity of CMOM-3S towards the chiral analytes?",
+      "answer": "The binding site analysis suggests that a plethora of weak but directional intermolecular forces, such as π⋯π, C–H⋯π, C–H⋯F and O–H⋯O hydrogen bonding interactions, are responsible for the enantioselectivity of CMOM-3S towards the chiral analytes.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Given the results demonstrating CMOM-3S as the first material to enable the CSP-CCS method, what potential future applications are envisioned for this new capability?",
+      "answer": "The CSP-CCS method enabled by CMOM-3S could potentially be applied to natural product separation, asymmetric synthesis, and drug discovery in the future.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Can the CSP-CCS method using CMOM-3S determine the absolute configuration of chiral analytes without the need for reference standards?",
+      "answer": "Yes, the CSP-CCS method using CMOM-3S can determine the absolute configuration of chiral analytes without needing reference standards.",
+      "type": "reasoning",
+      "difficulty": "easy"
+    },
+    {
+      "question": "CMOM-3S is the first porous material that can serve as both a chiral crystalline sponge and chiral stationary phase.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The chiral separation ability of CMOM-3S is inferior to all three commercial columns tested.",
+      "answer": "False",
+      "type": "true_false", 
+      "difficulty": "easy"
+    },
+    {
+      "question": "CMOM-3S requires large amounts of analyte to enable chiral identification.",
+      "answer": "False",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The CSP-CCS method eliminates the need for enantiomerically pure reference standards for chiral identification.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "CMOM-3S exhibits poor thermal and hydrolytic stability.",
+      "answer": "False",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The binding sites in CMOM-3S mimic enzyme binding sites.",
+      "answer": "True", 
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "CMOM-3S enabled chiral separation but not chiral identification of the analytes.",
+      "answer": "False",
+      "type": "true_false",
+      "difficulty": "medium"
+    }
+  ]

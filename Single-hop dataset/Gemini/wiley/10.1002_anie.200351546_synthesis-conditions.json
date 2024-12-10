@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the coordination number of the pyrite net?",
+        "answer": "The average coordination number of the pyrite net is four.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the role of DMF in the synthesis of MOF-150?",
+        "answer": "DMF, along with ethanol and water, acts as a solvent in the synthesis of MOF-150.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the symmetry of the two interpenetrating frameworks in MOF-150?",
+        "answer": "The two interpenetrating frameworks in MOF-150 have Ia3\u00af symmetry.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What characterization techniques were used to determine the structure of MOF-150?",
+        "answer": "Elemental microanalysis and single-crystal X-ray diffraction studies were employed to formulate the structure of MOF-150.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the percentage of crystal volume occupied by the solvent guests in MOF-150?",
+        "answer": "The solvent guests occupy 52% of the crystal volume in MOF-150.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the chemical formula of TCA?",
+        "answer": "The chemical formula of TCA is C21H15O6N.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "Why is it important to identify structures with the highest symmetry?",
+        "answer": "Structures with the highest symmetry are most likely to form from various molecular shapes, making their identification crucial.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "How are the SBUs connected in the formation of MOF-150?",
+        "answer": "The basic zinc acetate octahedral SBUs are linked by the tritopic TCA to form the structure of MOF-150.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why is the pyrite net considered the default structure for linking triangles and octahedra?",
+        "answer": "The pyrite net is the most regular and symmetric net for connecting triangles and octahedra, making it the default structure.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What is the significance of the transitivity pqrs in characterizing tilings?",
+        "answer": "The transitivity pqrs describes the number of distinct types of vertices (p), edges (q), faces (r), and tiles (s) in a tiling, reflecting its symmetry.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "How is the dual structure of a net obtained?",
+        "answer": "The dual structure of a net is obtained by placing new vertices inside the original tiles and connecting them if the corresponding tiles are adjacent.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why is the occurrence of the rutile net in bis(isonicotinate) FeII understandable?",
+        "answer": "The rutile net is observed in bis(isonicotinate) FeII because the three-coordinated vertex has more than one kind of link, leading to a less symmetrical network.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why might less symmetrical nets be expected with less flexible linkers than TCA?",
+        "answer": "TCA's flexibility allows for a 45\u00b0 twist angle between carboxylates and triangles, while less flexible linkers may not accommodate this, leading to less symmetrical nets.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "The synthesis of MOF-150 requires high pressure conditions.",
+        "answer": "false",
+        "difficulty_level": "easy",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "MOF-150 is the first example of a fully catenated structure with mixed coordination.",
+        "answer": "true",
+        "difficulty_level": "easy",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "The solvent guests in MOF-150 can be removed by heating.",
+        "answer": "true",
+        "difficulty_level": "easy",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "The pyrite net is less symmetric than the rutile net.",
+        "answer": "false",
+        "difficulty_level": "medium",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "The pyrite net is the only net with transitivity 2112.",
+        "answer": "false",
+        "difficulty_level": "medium",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "The default net for a given connectivity will always form, regardless of the SBU's features.",
+        "answer": "false",
+        "difficulty_level": "medium",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "The \u201coctahedral\u201d SBU in MOF-150 actually has octahedral (Oh) symmetry.",
+        "answer": "false",
+        "difficulty_level": "hard",
+        "question_type": "truefalse"
+    }
+]

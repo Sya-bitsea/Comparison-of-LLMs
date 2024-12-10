@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the boiling point of benzene?",
+        "answer": "80 \u00b0C",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the general synthetic procedure for ZIFs?",
+        "answer": "ZIFs are synthesized by reacting one or two of nine different imidazolate-type links with either zinc(II) nitrate or cobalt(II) nitrate in N,N\u00b4-dimethylformamide or N,N\u00b4-diethylformamide.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the chemical formula for ZIF-61?",
+        "answer": "Zn(IM)(mIM)",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the diameter of the largest sphere that will fit into the cavities of ZIF-70?",
+        "answer": "15.9 \u00c5",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the Langmuir surface area of ZIF-68?",
+        "answer": "1220 m2 g-1",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "How many ZIF crystal structures were discovered using the high-throughput protocol?",
+        "answer": "25",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "Why was methanol used as a solvent in the synthesis of ZIFs?",
+        "answer": "Methanol was used to effectively exchange the original solvent and simplify the thermogravimetric behavior of the ZIFs, making them easier to activate.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why is the density of ZIF frameworks typically lower than that of silicate zeolites?",
+        "answer": "The Zn...Zn distance in ZIFs is ~6.0 \u00c5, while the Si...Si distance in silicate zeolites is ~3.0 \u00c5, resulting in a lower density for ZIFs.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why is the high-throughput method advantageous for ZIF synthesis compared to traditional methods?",
+        "answer": "The high-throughput method is faster, less tedious, more predictable, and uses less solvent and reagents compared to traditional methods.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why were ZIF-68, 69, and 70 chosen for adsorption studies?",
+        "answer": "They share the same topology, have large pores, and their apertures are tunable, making them suitable for testing gas separation properties.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "How does the presence of heterolinks affect the pore structure of ZIFs?",
+        "answer": "Heterolinks introduce different functional groups on the linkers, leading to heterogeneous functionalization of the pores.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why is the hydrothermal stability of ZIF-61, 68, 69, and 70 considered outstanding?",
+        "answer": "Their resistance to hydrolysis is superior to other metal-organic solids and mesoporous silicas like MCM and SBA.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why is ZIF-69 considered a promising material for CO2 capture and storage?",
+        "answer": "ZIF-69 exhibits a high affinity for CO2, has a large storage capacity, and shows high selectivity for CO2 over CO in breakthrough experiments.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "ZIFs are synthesized using a metal salt and an organic linker in an aqueous solution.",
+        "answer": "False. ZIFs are synthesized using N,N\u00b4-dimethylformamide or N,N\u00b4-diethylformamide, which are organic solvents.",
+        "difficulty": "easy",
+        "type": "true_false"
+    },
+    {
+        "question": "All ZIFs have the same topology.",
+        "answer": "False. ZIFs can have a variety of topologies, as shown by the 25 different crystal structures discovered in this study.",
+        "difficulty": "easy",
+        "type": "true_false"
+    },
+    {
+        "question": "ZIF-60 contains only one type of imidazolate link.",
+        "answer": "False. ZIF-60 is a heterolinked ZIF, meaning it contains two chemically different imidazolate links.",
+        "difficulty": "medium",
+        "type": "true_false"
+    },
+    {
+        "question": "The high-throughput method can only produce ZIFs with known structures and topologies.",
+        "answer": "False. The high-throughput method resulted in the discovery of 5 ZIFs with topologies not previously observed in zeolites or other materials.",
+        "difficulty": "medium",
+        "type": "true_false"
+    },
+    {
+        "question": "ZIF-68 exhibits a higher selectivity for CO2 over CO than ZIF-70.",
+        "answer": "False. ZIF-70 has a higher selectivity for CO2 over CO than ZIF-68, as shown by the gas adsorption isotherms and breakthrough experiments.",
+        "difficulty": "medium",
+        "type": "true_false"
+    },
+    {
+        "question": "The porosity of ZIFs can be determined by nitrogen gas sorption analysis.",
+        "answer": "True. Type I nitrogen adsorption isotherm behavior observed in ZIFs is indicative of permanent porosity.",
+        "difficulty": "medium",
+        "type": "true_false"
+    },
+    {
+        "question": "ZIFs are unstable in boiling organic solvents.",
+        "answer": "False. ZIFs like ZIF-61, 68, 69, and 70 have shown high chemical stability, retaining their structure even after being immersed in boiling organic solvents for 7 days.",
+        "difficulty": "medium",
+        "type": "true_false"
+    }
+]

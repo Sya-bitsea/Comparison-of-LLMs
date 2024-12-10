@@ -1,0 +1,125 @@
+s a single hop .json file with 20 Q&As of different types based on the given text about the CUK-1 metal-organic framework:
+
+{
+  "questions": [
+    {
+      "question": "What is the chemical formula of CUK-1(Co)?",
+      "answer": "C14H6Co3N2O10",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the chemical formula of CUK-1(Mg)?", 
+      "answer": "C14H6Mg3N2O10",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the crystal system of CUK-1?",
+      "answer": "Monoclinic",
+      "type": "factual", 
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the space group of CUK-1?",
+      "answer": "C2/c (No. 15)",
+      "type": "factual",
+      "difficulty": "medium"  
+    },
+    {
+      "question": "At what temperature was the CUK-1(Co) synthesis carried out?",
+      "answer": "473 K",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the BET surface area of CUK-1 calculated from CO2 adsorption at 196 K?",
+      "answer": "Around 1000 m2/g for both CUK-1(Co) and CUK-1(Mg)",
+      "type": "factual",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What causes the sudden volume change observed in the mercury intrusion curve of CUK-1 at around 280 MPa?",
+      "answer": "A structural contraction of the CUK-1 framework from an open to a contracted phase",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Why does CUK-1 exhibit a spring-like reversible contraction behavior compared to other MOFs like MIL-53 that show irreversible or hysteretic transitions?",
+      "answer": "The staggered linker conformation in CUK-1 maintains a larger separation between phenyl rings in the contracted phase compared to MIL-53, lowering the stability of the contracted phase and enabling reversibility.",
+      "type": "reasoning",
+      "difficulty": "hard" 
+    },
+    {
+      "question": "How much mechanical energy per unit mass can CUK-1(Co) store during its pressure-induced structural contraction?",
+      "answer": "40 J/g",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "By what percentage does the unit cell volume of CUK-1 change during the pressure-induced structural transition?",
+      "answer": "20.9%",
+      "type": "reasoning",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What technique was used to directly observe the contracted phase of CUK-1 and solve its crystal structure?",
+      "answer": "High pressure single crystal X-ray diffraction in a diamond anvil cell",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the main reason the DFT calculated energy profile of CUK-1(Mg) does not show a local minimum for the contracted phase?",
+      "answer": "Entropic contributions at room temperature stabilize the open phase relative to the contracted phase",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What type of mechanical energy storing material does the pressure-induced behavior of CUK-1 resemble?",
+      "answer": "An ideal nano-spring with no hysteresis between compression and decompression",
+      "type": "reasoning",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The ligand used to synthesize CUK-1 is 2,4-pyridinedicarboxylic acid.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The structural contraction of CUK-1 under pressure is irreversible.",
+      "answer": "False",
+      "type": "true_false", 
+      "difficulty": "easy"
+    },
+    {
+      "question": "CUK-1 has a wine-rack type framework topology.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "The contraction of CUK-1 occurs through a displacive phase transition between two crystalline phases.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "medium" 
+    },
+    {
+      "question": "The pressure-induced structural transition of CUK-1 occurs at around 125 MPa.",
+      "answer": "False",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "The contracted phase of CUK-1 has a lower crystal symmetry than the open phase.",
+      "answer": "False",
+      "type": "true_false", 
+      "difficulty": "hard"
+    },
+    {
+      "question": "Density functional theory calculations predict CUK-1(Mg) has a metastable contracted phase at 0 K.",
+      "answer": "False",
+      "type": "true_false",
+      "difficulty": "hard"
+    }
+  ]

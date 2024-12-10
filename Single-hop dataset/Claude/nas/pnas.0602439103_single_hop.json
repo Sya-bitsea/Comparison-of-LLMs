@@ -1,0 +1,123 @@
+
+[
+  {
+    "question": "What are zeolitic imidazolate frameworks (ZIFs) composed of?",
+    "answer": "ZIFs are composed of transition metal ions (Zn2+, Co2+, In3+) linked by imidazolate organic linkers.",
+    "type": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the M-IM-M angle in ZIFs close to?",
+    "answer": "The M-IM-M angle in ZIFs is close to 145°, which is coincident with the preferred Si-O-Si angle in many zeolites.",
+    "type": "factual", 
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many different ZIF structures are reported in this work?",
+    "answer": "Twelve different ZIF structures (ZIF-1 to ZIF-12) are reported.",
+    "type": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the typical synthetic method used to prepare ZIFs?",
+    "answer": "ZIFs are typically synthesized using solvothermal methods, by combining a hydrated metal salt and an imidazole linker in an amide solvent like N,N-diethylformamide (DEF) at elevated temperature.",
+    "type": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the coordination environment of the metal centers in ZIFs?",
+    "answer": "In ZIFs, the metal centers (Zn, Co, In) are solely coordinated by the N atoms of the imidazolate linkers to give overall neutral frameworks.",
+    "type": "factual",
+    "difficulty": "easy" 
+  },
+  {
+    "question": "What is the density (T/V) range of the ZIF structures compared to zeolites?",
+    "answer": "The density (T/V) of ZIFs is in the range of 2.0-3.7 nm^-3, which is about 8 times less dense than zeolites that have a T/V of 12-20 nm^-3.",
+    "type": "factual",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Why do ZIFs have lower density compared to their zeolite counterparts?",
+    "answer": "ZIFs have lower density than zeolites because the Zn-Zn distance in ZIFs is ~6.0 Å due to the longer imidazolate linker, whereas the Si-Si distance in zeolites is ~3.0 Å. This makes the density of ZIFs about 8 times less than zeolites.",
+    "type": "reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the first example of a mixed-coordination imidazolate framework reported?",
+    "answer": "ZIF-5, having the composition In2Zn3(IM)12 with In(III) in an octahedral coordination environment, is the first example of a mixed-coordination imidazolate framework.",
+    "type": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which two ZIF structures were focused on for detailed investigation of porosity and stability?",
+    "answer": "ZIF-8 and ZIF-11 were focused on for detailed investigation of their porosity, thermal stability and chemical stability.",
+    "type": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is an important structural feature of ZIF-8 and ZIF-11 related to their porosity?",
+    "answer": "ZIF-8 and ZIF-11 possess large pores (11.6 and 14.6 Å in diameter respectively) that are connected through small apertures (3.4 and 3.0 Å across respectively).",
+    "type": "factual",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Up to what temperature do ZIF-8 and ZIF-11 show thermal stability in a nitrogen atmosphere?",
+    "answer": "ZIF-8 and ZIF-11 show high thermal stability up to 550°C in a nitrogen atmosphere.",
+    "type": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What type of nitrogen sorption isotherm behavior was observed for ZIF-8?",
+    "answer": "ZIF-8 showed a Type I nitrogen sorption isotherm, revealing its microporous nature.",
+    "type": "factual",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the apparent Langmuir surface area of ZIF-8?",
+    "answer": "The apparent Langmuir surface area of ZIF-8 is 1,810 m2/g.",
+    "type": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Why was ZIF-11 nonporous to nitrogen?",
+    "answer": "ZIF-11 was nonporous to nitrogen because its aperture size (3.0 Å) was smaller than the kinetic diameter of nitrogen (3.6 Å).",
+    "type": "reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What was the hydrogen uptake capacity of ZIF-8 at 77 K and 55 bar?",
+    "answer": "The hydrogen uptake capacity of ZIF-8 at 77 K and 55 bar was 350 cm3/g STP (31 mg/g).",
+    "type": "factual",
+    "difficulty": "medium"
+  },
+  {
+    "question": "ZIF-8 maintained its full crystallinity and structure in boiling water for 7 days.",
+    "answer": "True",
+    "type": "true/false",
+    "difficulty": "easy"
+  },
+  {
+    "question": "ZIF-11 was stable in boiling water for 7 days without any structural changes.",
+    "answer": "False. ZIF-11 transformed to another crystalline material after 3 days in boiling water.",
+    "type": "true/false",
+    "difficulty": "medium" 
+  },
+  {
+    "question": "ZIF-8 was stable in aqueous sodium hydroxide solution at 100°C for 24 hours.",
+    "answer": "True",
+    "type": "true/false", 
+    "difficulty": "easy"
+  },
+  {
+    "question": "The hydrothermal stability of ZIF-8 is superior to the original MCM and SBA types of ordered mesoporous silica.",
+    "answer": "True",
+    "type": "true/false",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The exceptional chemical stability of ZIFs compared to other metal-organic frameworks is likely due to the hydrophobic pore structure and the highly stable bonding between the imidazolate linkers and the metal ions.",
+    "answer": "True",
+    "type": "true/false",
+    "difficulty": "medium"
+  }
+]

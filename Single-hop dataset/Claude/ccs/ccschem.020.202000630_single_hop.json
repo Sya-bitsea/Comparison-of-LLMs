@@ -1,0 +1,125 @@
+s the single hop .json file with 20 questions of different types (6 factual, 7 reasoning, 7 True/False) based on the given text:
+
+{
+  "questions": [
+    {
+      "question": "What is the chemical formula of the [Zr16] cluster synthesized in this work?",
+      "answer": "[Zr16(SQA)8(HSQA)8(μ3-OH)12(μ3-O)4(μ2-O)8(COO)4(DMF)8]",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "At what temperature was the [Zr16] cluster synthesized?",
+      "answer": "60 °C",
+      "type": "factual", 
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the geometry of the [Zr16] cluster?",
+      "answer": "Tetragonal prismatic",
+      "type": "factual",
+      "difficulty": "medium"  
+    },
+    {
+      "question": "How many potential coordination sites are there in the [Zr16] cluster to link metal ions?",
+      "answer": "24",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the chemical formula of the 2D MOF obtained by ligand substitution on the [Zr16] cluster?",
+      "answer": "[Zr16(SQA)8(HSQA)8(μ3-OH)12(μ3-O)4(μ2-O)8(BPDC)2(DMF)8]",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What lanthanide ions were used to construct the 3D multinary MOFs from the 2D [Zr16-BPDC] MOF?",
+      "answer": "Eu and Tb",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The [Zr16] cluster has 24 potential coordination sites and 4 formate groups that can be substituted. What type of MOFs can likely be constructed using this cluster as a building block?",
+      "answer": "Multivariate MOFs with different organic linkers and metal ions",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Why was the H2BPDC ligand selected to substitute the formate groups and connect adjacent [Zr16] clusters?",
+      "answer": "The distance between formate groups on adjacent [Zr16] clusters matches the length of the H2BPDC ligand",
+      "type": "reasoning",
+      "difficulty": "medium" 
+    },
+    {
+      "question": "What causes the slight decrease in cell parameters when going from the [Zr16] cluster to the [Zr16-BPDC] MOF?",
+      "answer": "The distance between [Zr16] clusters is shortened by the coordination bonds formed between BPDC and Zr",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Why does the [Zr16-BPDC] MOF have a different space group than the [Zr16] cluster despite both being tetragonal?", 
+      "answer": "The [Zr16] clusters undergo a slight rotation in the space packing after ligand substitution, changing the space group",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What allows the [Zr16-BPDC] MOF to bind lanthanide ions and extend into a 3D framework?",
+      "answer": "The uncoordinated oxygen atoms on the SQA ligands of the [Zr16] clusters form tetrahedral cavities that can bind the lanthanides",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Why were Co2+, Ni2+, Sr2+, Zr4+, Cs+, Ba2+, In3+, Bi3+ ions unable to be installed in the [Zr16-BPDC] cavities to form other multinary MOFs?",
+      "answer": "Their coordination bond lengths or ion radii are incompatible with the tetrahedral geometry of the cavity",
+      "type": "reasoning",
+      "difficulty": "hard"  
+    },
+    {
+      "question": "What makes the mixed Eu/Tb multinary MOF [Zr16-BPDC-Eu0.8Tb0.2] a potential luminescent thermometer?",
+      "answer": "The temperature-dependent emissions of Eu3+ decay faster than Tb3+, allowing the Eu/Tb intensity ratio to correlate with temperature",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "The [Zr16] cluster contains a central [Zr6] cluster capped by two [Zr5] clusters.",
+      "answer": "True",
+      "type": "True/False",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The 2D and 3D MOFs were synthesized from the [Zr16] cluster via single-crystal-to-single-crystal transformations.",
+      "answer": "True", 
+      "type": "True/False",
+      "difficulty": "medium"
+    },
+    {
+      "question": "The [Zr16-BPDC] MOF and [Zr16-BPDC-Ln] MOFs have the same space group.",
+      "answer": "True",
+      "type": "True/False", 
+      "difficulty": "medium"
+    },
+    {
+      "question": "The multinary MOFs [Zr16-BPDC-Ln] could be synthesized in a one-pot reaction.",
+      "answer": "False",
+      "type": "True/False",
+      "difficulty": "easy" 
+    },
+    {
+      "question": "The luminescent thermometer behavior of [Zr16-BPDC-Eu0.8Tb0.2] relies on the intensity ratio of Eu and Tb emissions.",
+      "answer": "True",
+      "type": "True/False",
+      "difficulty": "easy"
+    },  
+    {
+      "question": "The maximum relative thermal sensitivity of [Zr16-BPDC-Eu0.8Tb0.2] is 0.66%·K−1 at 160 K.",
+      "answer": "False",
+      "type": "True/False",
+      "difficulty": "medium"
+    },
+    {
+      "question": "The CIE coordinates of [Zr16-BPDC-Eu0.8Tb0.2] change from orange to yellow as temperature increases from 80 K to 280 K.",
+      "answer": "True",
+      "type": "True/False",
+      "difficulty": "hard"
+    }
+  ]

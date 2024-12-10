@@ -1,0 +1,105 @@
+
+[
+  {
+    "question": "What is the chemical formula of Mn-MOF-1?",
+    "answer": "The chemical formula of Mn-MOF-1 is [Mn2(DPP)(H2O)3]·6H2O, where DPP = 2,6-di(2,4-dicarboxyphenyl)-4-(pyridine-4-yl)pyridine.",
+    "difficulty": "easy",
+    "type": "factual"
+  },
+  {
+    "question": "Under what conditions was Mn-MOF-1 synthesized?",
+    "answer": "Mn-MOF-1 was successfully synthesized under solvothermal conditions.",
+    "difficulty": "easy",
+    "type": "factual"
+  },
+  {
+    "question": "What is the structure of Mn-MOF-1?",
+    "answer": "Mn-MOF-1 possesses a 3D structure constructed by the combination of a 1D chain and the DPP4− ligand and features a micropore with a 1D drum-like shaped channel.",
+    "difficulty": "medium",
+    "type": "factual"
+  },
+  {
+    "question": "What happens to the structure of Mn-MOF-1 when the coordinated and lattice water molecules are removed?",
+    "answer": "Mn-MOF-1 can maintain the structure unchanged by the removal of coordinated and lattice water molecules.",
+    "difficulty": "medium",
+    "type": "factual"
+  },
+  {
+    "question": "What are the Lewis acid and base sites present in the activated state of Mn-MOF-1 (Mn-MOF-1a)?",
+    "answer": "The activated state of Mn-MOF-1 (Mn-MOF-1a) contains rich Lewis acid sites (tetra- and pentacoordinated Mn2+ ions) and Lewis base sites (Npyridine atoms).",
+    "difficulty": "medium",
+    "type": "factual"
+  },
+  {
+    "question": "What are the two reactions that Mn-MOF-1a can efficiently catalyze?",
+    "answer": "Mn-MOF-1a can efficiently catalyze CO2 cycloaddition reactions under eco-friendly, solvent-free conditions and Knoevenagel condensation under ambient conditions.",
+    "difficulty": "easy",
+    "type": "factual"
+  },
+  {
+    "question": "Why does the synergistic effect of Lewis acid and base sites in Mn-MOF-1a make it a promising catalyst for CO2 epoxidation and Knoevenagel condensation reactions?",
+    "answer": "The synergistic effect of Lewis acid sites (Mn2+ ions) and Lewis base sites (Npyridine atoms) in Mn-MOF-1a results in its promising potential in catalyzing CO2 epoxidation and Knoevenagel condensation reactions efficiently.",
+    "difficulty": "medium",
+    "type": "reasoning"
+  },
+  {
+    "question": "How many reaction cycles can the heterogeneous catalyst Mn-MOF-1a be recycled and reused for without an obvious decrease in activity?",
+    "answer": "The heterogeneous catalyst Mn-MOF-1a can be recycled and reused without an obvious decrease of activity for at least 5 reaction cycles.",
+    "difficulty": "easy",
+    "type": "factual"
+  },
+  {
+    "question": "What does this work demonstrate about Mn-based MOFs as heterogeneous catalysts?",
+    "answer": "This work demonstrates that Mn-based MOFs hold great promise as heterogeneous catalysts toward both CO2 epoxidation and Knoevenagel condensation reactions.",
+    "difficulty": "medium",
+    "type": "reasoning"
+  },
+  {
+    "question": "How does this work contribute to the construction of Lewis acid-base bifunctional MOFs?",
+    "answer": "This work paves the way for the construction of Lewis acid-base bifunctional MOFs based on pyridyl-based polycarboxylate ligands.",
+    "difficulty": "medium",
+    "type": "reasoning"
+  },
+  {
+    "question": "Is Mn-MOF-1 synthesized under hydrothermal conditions?",
+    "answer": "False. Mn-MOF-1 is synthesized under solvothermal conditions, not hydrothermal conditions.",
+    "difficulty": "easy",
+    "type": "True or False"
+  },
+  {
+    "question": "Does Mn-MOF-1 have a 2D layered structure?",
+    "answer": "False. Mn-MOF-1 possesses a 3D structure, not a 2D layered structure.",
+    "difficulty": "easy",
+    "type": "True or False"
+  },
+  {
+    "question": "The removal of coordinated and lattice water molecules causes the structure of Mn-MOF-1 to collapse.",
+    "answer": "False. Mn-MOF-1 can maintain its structure unchanged by the removal of coordinated and lattice water molecules.",
+    "difficulty": "medium",
+    "type": "True or False"
+  },
+  {
+    "question": "Mn-MOF-1a contains only Lewis acid sites in its activated state.",
+    "answer": "False. Mn-MOF-1a contains both Lewis acid sites (Mn2+ ions) and Lewis base sites (Npyridine atoms) in its activated state.",
+    "difficulty": "medium",
+    "type": "True or False"
+  },
+  {
+    "question": "Mn-MOF-1a can catalyze CO2 cycloaddition reactions only in the presence of solvents.",
+    "answer": "False. Mn-MOF-1a can catalyze CO2 cycloaddition reactions under eco-friendly, solvent-free conditions.",
+    "difficulty": "easy",
+    "type": "True or False"
+  },
+  {
+    "question": "The heterogeneous catalyst Mn-MOF-1a loses its catalytic activity after 3 reaction cycles.",
+    "answer": "False. Mn-MOF-1a can be recycled and reused without an obvious decrease in activity for at least 5 reaction cycles.",
+    "difficulty": "easy",
+    "type": "True or False"
+  },
+  {
+    "question": "This work demonstrates the potential of Zn-based MOFs as heterogeneous catalysts for CO2 epoxidation and Knoevenagel condensation reactions.",
+    "answer": "False. This work demonstrates the potential of Mn-based MOFs, not Zn-based MOFs, as heterogeneous catalysts for CO2 epoxidation and Knoevenagel condensation reactions.",
+    "difficulty": "medium",
+    "type": "True or False"
+  }
+]

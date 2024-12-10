@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What are the names of the three photoactive MOFs synthesized in the study?",
+        "answer": "The three photoactive MOFs synthesized are (E)-X\u2282MOF1, (E)-X\u2282MOF1\u2032, and ((E)-X)2\u2282MOF2.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What type of reaction does (E)-X\u2282MOF1 favor?",
+        "answer": "(E)-X\u2282MOF1 favors the photoinduced E\u2013Z isomerization of one encapsulated diaryl alkene substrate.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the approximate size of the square-like window in (E)-1p\u2282MOF1?",
+        "answer": "The approximate size of the square-like window in (E)-1p\u2282MOF1 is 8.59 x 8.53 \u00c5.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "Which dicarboxylate linker is used to create ((E)-X)2\u2282MOF2?",
+        "answer": "((E)-X)2\u2282MOF2 is created using the terephthalic acid (1,4-H2BDC) linker.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the wavelength of UV light used for the photoisomerization and photodimerization reactions?",
+        "answer": "The wavelength of UV light used for the photoisomerization and photodimerization reactions is 365 nm.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What type of NMR spectroscopy was used to monitor the reaction conversion rates?",
+        "answer": "1H NMR spectroscopy was used to monitor the reaction conversion rates.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "If a MOF has small pores, what type of photoreaction is it likely to favor?",
+        "answer": "A MOF with small pores is likely to favor photoinduced E-Z isomerization.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why does (E)-X\u2282MOF1 primarily exhibit E\u2013Z isomerization and not photodimerization?",
+        "answer": "(E)-X\u2282MOF1 primarily exhibits E\u2013Z isomerization because its small pore size can only accommodate one monomer (E)-X, preventing two molecules from coming into close contact for dimerization.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why are some cyclobutane derivatives observed during the photoisomerization of (E)-X\u2282MOF1?",
+        "answer": "Some cyclobutane derivatives are observed during the photoisomerization of (E)-X\u2282MOF1 because non-encapsulated (E)-X ligand pairs located between chains can be close enough for photodimerization.",
+        "difficulty": "hard",
+        "type": "reasoning"
+    },
+    {
+        "question": "Based on the study, how does the choice of dicarboxylate linker influence the pore size of the MOF?",
+        "answer": "The choice of dicarboxylate linker influences the pore size of the MOF by determining the geometry and arrangement of the linkers and metal nodes in the framework, ultimately affecting the size and shape of the pores.",
+        "difficulty": "hard",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why does ((E)-X)2\u2282MOF2 favor photodimerization?",
+        "answer": "((E)-X)2\u2282MOF2 favors photodimerization because its large pore size allows for the encapsulation of two (E)-X molecules in close proximity, facilitating their [2+2] cycloaddition reaction.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "How does preorientation of the diaryl alkene ligands within the MOF pores contribute to stereoselective dimerization?",
+        "answer": "Preorientation of the diaryl alkene ligands within the MOF pores forces the molecules to adopt a specific arrangement that favors the formation of a particular stereoisomer of the cyclobutane product, enhancing stereoselectivity.",
+        "difficulty": "hard",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why is sunlight sufficient for the photodimerization reaction in ((E)-X)2\u2282MOF2?",
+        "answer": "Sunlight is sufficient for the photodimerization reaction in ((E)-X)2\u2282MOF2 because the preorganization and high local concentration of the alkene substrates within the MOF pores enhance the reaction efficiency, allowing it to proceed even with the lower UV intensity of sunlight.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "True or False: The photodimerization reaction within MOFs requires high temperatures.",
+        "answer": "False. The photodimerization reaction within MOFs proceeds at room temperature.",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "True or False: The photodimerization reaction within MOFs is highly selective for the formation of the head-to-head cyclobutane isomer.",
+        "answer": "False. The photodimerization reaction within MOFs is highly selective for the formation of the head-to-tail cyclobutane isomer.",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "True or False: The choice of dicarboxylate linker has no impact on the type of photoreaction that occurs within the MOF.",
+        "answer": "False. The choice of dicarboxylate linker significantly influences the pore size and microenvironment of the MOF, directly affecting the type of photoreaction that is favored.",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "True or False: The E\u2013Z isomerization reaction can occur with a wide range of substituted diaryl alkene substrates.",
+        "answer": "True. The study demonstrates that the E\u2013Z isomerization reaction within MOFs has broad functional group compatibility and can occur with various substituted diaryl alkene substrates.",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "True or False: Photodimerization within MOFs can only be achieved using UV irradiation from a lamp.",
+        "answer": "False. The study shows that photodimerization within MOFs can also be achieved using sunlight, although the reaction proceeds at a slower rate.",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "True or False: The photoinduced reactions within the MOFs were monitored using infrared (IR) spectroscopy.",
+        "answer": "False. The photoinduced reactions within the MOFs were monitored using 1H NMR spectroscopy.",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "True or False: The dicarboxylate linkers used in the study are photoinert, meaning they do not participate in the photoreactions.",
+        "answer": "True. The dicarboxylate linkers are photoinert and act only as structural components of the MOFs, providing the pore environment for the photoreactions to occur.",
+        "difficulty": "medium",
+        "type": "truefalse"
+    }
+]

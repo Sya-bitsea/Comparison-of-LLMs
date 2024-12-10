@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the role of supercritical CO2 processing in the synthesis of NU-100?",
+        "answer": "Supercritical CO2 processing is used to remove guest solvent molecules from the pores of NU-100 without damaging the framework or diminishing porosity.",
+        "difficulty": "medium",
+        "type": "factual"
+    },
+    {
+        "question": "What type of metal ion nodes are present in the structure of NU-100?",
+        "answer": "NU-100 contains Cu(II)2 paddlewheel units as metal ion nodes.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the chemical formula of the ligand used in the synthesis of NU-100?",
+        "answer": "The ligand used in the synthesis of NU-100 is LH6, which is also referred to as 10 in the text.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What temperature was used for the solvothermal synthesis of NU-100?",
+        "answer": "NU-100 was synthesized at a temperature of 75\u00b0C.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the significance of the (3,24)-paddlewheel topology in the context of MOF design?",
+        "answer": "The (3,24)-paddlewheel topology is advantageous for its high stability, presence of open coordination sites for enhanced gas uptake, and resistance to interpenetration, ensuring maximum surface area.",
+        "difficulty": "medium",
+        "type": "factual"
+    },
+    {
+        "question": "What type of software was used to model the NU-100 structure?",
+        "answer": "The NU-100 structure was modeled using Materials Studio Visualizer.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "Why is it necessary to activate NU-100 after synthesis?",
+        "answer": "Activation is crucial for removing guest solvent molecules from the pores, which would otherwise hinder the material's porosity and performance in applications such as gas storage.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why was a (3,24)-connected network topology chosen for the design of NU-100?",
+        "answer": "This topology was chosen for its anticipated stability, open coordination sites for enhanced gas uptake, and resistance to interpenetration, ensuring maximum surface area.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "What advantage does the presence of different sized cavities offer in NU-100 for gas storage?",
+        "answer": "Different sized cavities allow NU-100 to accommodate a wider range of pressures, making it versatile for various gas storage applications.",
+        "difficulty": "hard",
+        "type": "reasoning"
+    },
+    {
+        "question": "How does the isosteric heat of adsorption of NU-100 compare to MOFs without open metal sites, and what does this imply about its gas uptake?",
+        "answer": "NU-100, with a heat of adsorption of 6.1 kJ/mol, surpasses the typical 4-5 kJ/mol range of MOFs lacking open metal sites, indicating a stronger interaction with gas molecules and enhanced uptake.",
+        "difficulty": "hard",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why is the total amount of gas adsorbed, rather than excess adsorption, a more relevant factor for gas storage applications?",
+        "answer": "Total adsorption reflects the actual storage capacity, including the gas within the pores and the excess adsorbed on the surface, while excess adsorption only considers surface interactions.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "How did the researchers confirm that the resolvated form of NU-100 retained its crystallinity after activation?",
+        "answer": "They confirmed the crystallinity of the resolvated NU-100 through PXRD data and crystal images.",
+        "difficulty": "easy",
+        "type": "reasoning"
+    },
+    {
+        "question": "What causes the discrepancy between the experimental and simulated CO2 uptake at low pressures in NU-100?",
+        "answer": "The discrepancy arises because the simulation doesn't fully capture the weak coordination bonds formed between CO2 molecules and the open copper sites in NU-100.",
+        "difficulty": "hard",
+        "type": "reasoning"
+    },
+    {
+        "question": "True or False: NU-100 is synthesized using a dicarboxylic acid ligand.",
+        "answer": "False",
+        "difficulty": "easy",
+        "type": "True/False"
+    },
+    {
+        "question": "True or False: The structure of NU-100 features interpenetrating networks.",
+        "answer": "False",
+        "difficulty": "easy",
+        "type": "True/False"
+    },
+    {
+        "question": "True or False: NU-100 exhibits a higher surface area than any previously reported porous material.",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "True/False"
+    },
+    {
+        "question": "True or False: The pore volume of NU-100 is smaller than that of MOF-5.",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "True/False"
+    },
+    {
+        "question": "True or False: The experimental and simulated H2 uptake data for NU-100 perfectly match at all pressures.",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "True/False"
+    },
+    {
+        "question": "True or False: NU-100 is well-suited for CO2 capture from flue gas due to its large pore size.",
+        "answer": "False",
+        "difficulty": "hard",
+        "type": "True/False"
+    },
+    {
+        "question": "True or False: The stability of NU-100 has been confirmed through multiple cycles of gas adsorption and desorption.",
+        "answer": "True",
+        "difficulty": "easy",
+        "type": "True/False"
+    }
+]

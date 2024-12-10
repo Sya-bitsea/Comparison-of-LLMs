@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the name of the synthetic method used to attach 4-(carboxyphenyl)ethynyl groups to the 2- and 5-positions of a central 1,4-dimethoxybenzene ring?",
+        "answer": "The synthetic method used is the Pd-catalyzed alkyne-aromatic Sonogashira coupling.",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "What is the name of the software used to calculate the volume of open space within the MOF structures?",
+        "answer": "Cerius2, version 4.2",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "What is the symmetry and unit cell parameter of MOF-1001?",
+        "answer": "MOF-1001 has Fm3m symmetry with a unit cell parameter a = 52.93 \u00c5.",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "What is the distance between the two carboxylate carbon atoms in strut 1?",
+        "answer": "19.3 \u00c5",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "What technique is highly sensitive to the environment of nitrogen (15N) in PQT2+?",
+        "answer": "Solid-state 15N NMR spectroscopy",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "What is the name of the dication that is docked within the macrocycles of MOF-1001?",
+        "answer": "Paraquat dication (PQT2+)",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "The structure of MOF-1000 is found to be four-fold interpenetrated because of the length and slender nature of the strut. What could be done to the strut to reduce the interpenetration?",
+        "answer": "Shortening the strut or making it bulkier could reduce interpenetration.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why does adding PQT\u00b72PF6 to an acetone solution of strut 2 lead to the formation of a pseudorotaxane?",
+        "answer": "The PQT2+ is threaded through the middle of the crown ether in strut 2 due to favorable charge-transfer interactions and [C\u2013H\u00b7\u00b7\u00b7O] interactions.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why was it difficult to determine the positions of the hydroquinone rings and the bismethylenedioxy units of the tetraethylene glycol loops in the crown ethers of MOF-1001?",
+        "answer": "These units were highly disordered in the highly porous structure of MOF-1001, limiting their periodicity and making their identification challenging.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "MOF-1001 pseudorotaxanes are formed by threading PQT2+ through the crown ether rings. What causes the crystals to turn red upon addition of PQT\u00b72PF6?",
+        "answer": "The color change is due to charge-transfer interactions between the electron-rich crown ether rings and the electron-deficient PQT2+.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why does the 15N CP/MAS signal of PQT2+ shift upfield when it is docked within the crown ether rings of MOF-1001?",
+        "answer": "The upfield shift is due to the shielding effect of the crown ether on the nitrogen atoms of PQT2+.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "What is the significance of the control experiment using MOF-177 and PQT\u00b72PF6?",
+        "answer": "The control experiment demonstrated that specific stereoelectronic host-guest interactions, rather than just diffusion and adsorption, are crucial for the formation of MOF-1001 pseudorotaxanes.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why was it necessary to exchange the DMF guests and unreacted BPP34C10DA in MOF-1001 with acetone before introducing PQT\u00b72PF6?",
+        "answer": "The exchange with acetone was necessary to ensure that the crown ether rings were accessible for PQT2+ docking and to remove any residual DMF that might compete with PQT2+ for binding sites.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "MOF-1000, synthesized from strut 1, is a quadruply interpenetrated framework. True or False?",
+        "answer": "True",
+        "difficulty": "easy",
+        "type": "True/False"
+    },
+    {
+        "question": "The bismethylenedioxy units of the tetraethylene glycol loops in the crown ether substructure of MOF-1001 are found to be highly ordered. True or False?",
+        "answer": "False",
+        "difficulty": "easy",
+        "type": "True/False"
+    },
+    {
+        "question": "MOF-1001 pseudorotaxanes are formed irreversibly. True or False?",
+        "answer": "False",
+        "difficulty": "easy",
+        "type": "True/False"
+    },
+    {
+        "question": "The docking of PQT2+ in MOF-1001 results in a loss of crystallinity in the framework. True or False?",
+        "answer": "False",
+        "difficulty": "easy",
+        "type": "True/False"
+    },
+    {
+        "question": "MOF-1002 shares the same cubic backbone framework as MOF-1001. True or False?",
+        "answer": "True",
+        "difficulty": "easy",
+        "type": "True/False"
+    },
+    {
+        "question": "The high porosity of MOF-1001 restricts the accessibility of the crown ether receptors to guest molecules. True or False?",
+        "answer": "False",
+        "difficulty": "easy",
+        "type": "True/False"
+    },
+    {
+        "question": "The pore dimensions of MOF-177 are too small to allow the free movement of PQT2+ within the pores. True or False?",
+        "answer": "False",
+        "difficulty": "easy",
+        "type": "True/False"
+    }
+]

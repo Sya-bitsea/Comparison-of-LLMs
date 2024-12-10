@@ -1,0 +1,123 @@
+
+[
+  {
+    "question": "What is the stoichiometry of the red, diamagnetic, and thermally stable compounds formed by reducing the rigid tetracyclic molecule 1 with alkali metals?",
+    "answer": "The red, diamagnetic, and thermally stable compounds formed by reducing the rigid tetracyclic molecule 1 with alkali metals have the stoichiometry (M+)2-12−.",
+    "type": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "question": "According to spectroscopic data and DFT calculations, how many electrons are cyclically delocalized in the plane made up by the four nitrogen atoms in the reduced compounds of 1?",
+    "answer": "According to spectroscopic data (UV/Vis, 1H, 13C, and 7Li NMR) and DFT calculations, six electrons are cyclically delocalized in the plane made up by the four nitrogen atoms (4 N/6 e, in-plane (σ) bishomoaromaticity) in the reduced compounds of 1.",
+    "type": "factual",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the molecular volume of [Na4(1)2(THF)x] in solution as determined by PGSE experiments?",
+    "answer": "The molecular volume of [Na4(1)2(THF)x] in solution as determined by PGSE experiments is 860 Å3, which is close to the estimated volume of the [Na4(1)2] cluster in the chain polymer [Na4(1)2(2)(THF)4]∞.",
+    "type": "factual",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the mean deviation from planarity of the four nitrogen atoms (N1, N2, N3, N4) of the dianion 12− in the solid-state structure of [Na4(1)2(2)(THF)4]∞?",
+    "answer": "In the solid-state structure of [Na4(1)2(2)(THF)4]∞, the four nitrogen atoms (N1, N2, N3, N4) of the dianion 12− have an almost planar trapezoidal arrangement with a mean deviation from planarity of 0.006 Å.",
+    "type": "factual",
+    "difficulty": "hard"
+  },
+  {
+    "question": "By what percentage are the N=N bonds lengthened and the transannular N···N distances shortened in the dianion 12− compared to the precursor 1?",
+    "answer": "Compared to the bonds in precursor 1, the N=N bonds in the dianion 12− are lengthened by 9.8% (mean) to 1.377(4)/1.374(4) Å, while the transannular N···N distances are shortened by 9.4% (mean, N1···N4) and 5.2% (mean, N2···N3) to 2.564(4) Å and 2.721(4) Å respectively.",
+    "type": "factual",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the difference between the two transannular N···N distances (N1···N4, N2···N3) in the dianion 12−?",
+    "answer": "The difference between the two transannular N···N distances (N1···N4, N2···N3) in the dianion 12− is 0.16 Å, which is already observed in the precursor 1 and is caused by the interaction between the methyl group and the hydrogen atoms on C3 and C9 in anti position.",
+    "type": "factual",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Why are the transannular N···N distances significantly greater in bisdiazene 3 compared to 1?",
+    "answer": "The transannular N···N distances are significantly greater in bisdiazene 3 compared to 1 because 3 is more flexible than the rigid tetracyclic molecule 1.",
+    "type": "reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the likely reason for the formation of bishydrazine 2 during the reduction of 1 on a sodium mirror in THF?",
+    "answer": "The likely reason for the formation of bishydrazine 2 during the reduction of 1 on a sodium mirror in THF is that the solvent THF acts as a proton source for a Birch-type reduction of 1.",
+    "type": "reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Why were two fluoride ions used in calculating the charge-neutral, physically realistic model compound [Na4(1)F2] for quantum chemical calculations?",
+    "answer": "Two fluoride ions were used in calculating the charge-neutral, physically realistic model compound [Na4(1)F2] for quantum chemical calculations because most dianions as isolated entities are not stable against spontaneous electron detachment.",
+    "type": "reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What empirical evidence from the broken-symmetry UB3LYP/6-31+G(d,p) single-point calculation indicates that the model structure [Na4(1)F2] is still reasonably described by a closed-shell singlet state?",
+    "answer": "The ⟨S2⟩ value of 0.31 and occupation numbers of 1.83 and 0.17 for the natural orbitals corresponding to the HOMO and the LUMO from the broken-symmetry UB3LYP/6-31+G(d,p) single-point calculation are taken as empirical evidence that the model structure [Na4(1)F2] is still reasonably described by a closed-shell singlet state, as its diradicaloid character is small.",
+    "type": "reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What characteristics do the transannular N···N bond paths show based on the topological analysis of the B3LYP electron density of the model structure [Na4(1)F2]?",
+    "answer": "Based on the topological analysis of the B3LYP electron density of the model structure [Na4(1)F2], the transannular N···N bond paths show characteristics between those of typical shared and closed-shell interactions, as indicated by the slightly positive values for the Laplacian of the electron density ∇2ρ(rb) and near-zero values for the sum of potential and kinetic energy densities H(rb) at the bond critical points.",
+    "type": "reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What bond orders are assigned to the reduced diazene moieties and the transannular bonds in the model structure [Na4(1)F2] based on the delocalization indices δ(Ωi,Ωj)?",
+    "answer": "Based on the delocalization indices δ(Ωi,Ωj), bond orders of 1.40/1.38 (N1−N2/N3−N4) are assigned to the reduced diazene moieties and bond orders of 0.28/0.22 (N1···N4/N2···N3) are assigned to the transannular bonds in the model structure [Na4(1)F2].",
+    "type": "reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What can be concluded about the model structure [Na4(1)F2] based on the delocalization index between the transannular nitrogen basins being similar to that in the homotropylium cation and the strongly negative NICS value?",
+    "answer": "Based on the delocalization index δ(Ωi,Ωj) = 0.28 between the transannular nitrogen basins being similar to that between the transannularly interacting carbon basins in the homotropylium cation (δ(Ωi,Ωj) = 0.28), and the calculated strongly negative nucleus independent chemical shift (NICS) of −18.4 ppm at the N4 ring centroid, it can be concluded that the model structure [Na4(1)F2] is a bishomoaromatic system at this level of theory.",
+    "type": "reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the major evidence that hardly any doubts can remain that the described compounds contain molecules with four cyclically bonded nitrogen atoms in the form of the bishomotetrazete dianion substructure?",
+    "answer": "The experimentally observed significant shortening of the transannular N···N distances in the highly rigid cage of 1 upon reduction is the major evidence that hardly any doubts can remain that the described compounds contain molecules with four cyclically bonded nitrogen atoms in the form of the bishomotetrazete dianion substructure.",
+    "type": "reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "True or False: The S0 singlet states for the counterion-free dianions of 1 are stable with respect to the T0 triplet states according to DFT calculations.",
+    "answer": "False. According to DFT calculations, the S0 singlet states for the counterion-free dianions of 1 are unstable with respect to the T0 triplet states, which have a significantly greater transannular N···N separation.",
+    "type": "true_false",
+    "difficulty": "medium"
+  },
+  {
+    "question": "True or False: Single crystals of pure [Na2(1)(THF/DME)x]y could be obtained by reduction of 1 on a sodium mirror in THF or DME.",
+    "answer": "False. Single crystals of pure [Na2(1)(THF/DME)x]y could not be obtained by reduction of 1 on a sodium mirror in THF or DME.",
+    "type": "true_false",
+    "difficulty": "easy"
+  },
+  {
+    "question": "True or False: The core of the [Na4(1)2] unit in the solid-state structure of [Na4(1)2(2)(THF)4]∞ is a distorted Na4N8 cuboctahedron, which is a unique structural motif.",
+    "answer": "True. The core of the [Na4(1)2] unit in the solid-state structure of [Na4(1)2(2)(THF)4]∞ is a distorted Na4N8 cuboctahedron, which is a unique structural motif.",
+    "type": "true_false",
+    "difficulty": "medium"
+  },
+  {
+    "question": "True or False: The calculated 15N chemical shifts of the dianion in the model compound [Na4(1)F2] agree satisfactorily with the corresponding experimental values of [Na4(1)2(THF)x] within the usual range of standard deviations.",
+    "answer": "True. The calculated 15N chemical shifts of the dianion in the model compound [Na4(1)F2] (N1, N4: 268; N2, N3: 242 ppm) agree satisfactorily with the corresponding experimental values of [Na4(1)2(THF)x] (244 and 218 ppm) within the usual range of standard deviations (6–12 ppm).",
+    "type": "true_false",
+    "difficulty": "hard"
+  },
+  {
+    "question": "True or False: Optimization of the model structure [Na4(1)F2] in the triplet state results in rather long transannular N···N distances while the lengths of the reduced diazene bonds remain essentially unchanged compared to the singlet state.",
+    "answer": "True. Optimization of the model structure [Na4(1)F2] in the triplet state results in rather long transannular N···N distances of 2.920 Å (N1···N4) and 3.010 Å (N2···N3), while the lengths of the reduced diazene bonds remain essentially unchanged (1.386/1.386 Å [N1−N2/N3−N4]) compared to the singlet state.",
+    "type": "true_false",
+    "difficulty": "hard"
+  },
+  {
+    "question": "True or False: The kinetic energy per electron [G(rb)/ρ(rb)] at the transannular N···N bond critical points in the model structure [Na4(1)F2] is well above unity, which is typical for shared interactions.",
+    "answer": "False. The kinetic energy per electron [G(rb)/ρ(rb)] at the transannular N···N bond critical points in the model structure [Na4(1)F2] is in the range for shared interactions, that is, well below unity.",
+    "type": "true_false",
+    "difficulty": "hard"
+  }
+]

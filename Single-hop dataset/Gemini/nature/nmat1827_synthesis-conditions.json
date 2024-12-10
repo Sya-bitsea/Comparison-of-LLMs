@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the chemical formula of the as-synthesized compound?",
+        "answer": "{[Ni(bpe)2(N(CN)2)](N(CN)2)(5H2O)}n",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the color of the as-synthesized compound?",
+        "answer": "Violet",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the name of the ligand used in the synthesis?",
+        "answer": "1,2-bis(4-pyridyl)ethane (bpe)",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the shape of the channel that accommodates free N(CN)2\u2212 anions?",
+        "answer": "Rectangular",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the temperature at which the dehydrated form of the compound is stable up to?",
+        "answer": "150 \u00b0C",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the percentage of void space in the as-synthesized compound?",
+        "answer": "19.2%",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "The as-synthesized compound shows a color change upon dehydration. What causes this color change?",
+        "answer": "The color change is due to a slight change in the Ni\u2013N bond length and the N\u2013Ni\u2013N bond angle.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why does the compound exhibit selective adsorption of carbon dioxide at 195 K despite having a similar size to oxygen, which is not adsorbed?",
+        "answer": "The framework host, which contains Ni(II), polar groups, and \u03c0-electron clouds from the bpe ligands inside the pores, gives rise to an electric field that is effective in carbon dioxide sorption.",
+        "difficulty": "hard",
+        "type": "reasoning"
+    },
+    {
+        "question": "What is the reason for the stepwise and hysteretic adsorption profile observed for methanol?",
+        "answer": "The stepwise and hysteretic adsorption profile of methanol is attributed to the presence of different binding sites with varying interaction strengths within the framework.",
+        "difficulty": "hard",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why does the adsorption of water begin at a higher relative pressure compared to methanol?",
+        "answer": "The adsorbate-adsorbate interaction is higher relative to the apohost-adsorbate interaction in the case of water, compared with methanol.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why does the N3-exchanged framework exhibit an increased carbon dioxide adsorption capacity compared to the as-synthesized compound?",
+        "answer": "The smaller size of the N3\u2212 anion compared to the N(CN)2\u2212 anion causes a shift in the relative positions of the two interpenetrating networks, resulting in a larger effective pore size and increased carbon dioxide accommodation.",
+        "difficulty": "hard",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why does the framework selectively exchange free N(CN)2\u2212 anions with N3\u2212 anions, but not with NCO\u2212, NO3\u2212, or BF4\u2212 anions?",
+        "answer": "The framework exhibits size-, shape-, and symmetry-selective anion exchange, and the symmetries, shapes, and sizes of NCO\u2212, NO3\u2212, and BF4\u2212 ions differ from those of the N(CN)2\u2212 anion, preventing their exchange.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "Explain how the anion exchange process leads to 'nanospace engineering' in this framework.",
+        "answer": "Anion exchange with a smaller anion (N3\u2212) causes a rearrangement of the interpenetrating networks, effectively increasing the pore size and demonstrating the control of framework structure and porosity through anion exchange.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "The dehydrated form of the compound is stable up to 200 \u00b0C.",
+        "answer": "False",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "The compound exhibits single-crystal to single-crystal transformation upon dehydration and rehydration.",
+        "answer": "True",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "The framework is constructed from a single three-dimensional network.",
+        "answer": "False",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "The compound exhibits selective adsorption of nitrogen and oxygen at 77 K.",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "The adsorption of methanol shows a gradual and continuous increase with increasing relative pressure.",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "The anion exchange process with N3\u2212 anions is reversible.",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "The XRPD patterns of the as-synthesized and dehydrated forms of the compound are significantly different.",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "truefalse"
+    }
+]

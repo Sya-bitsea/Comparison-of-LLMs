@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the name of the chiral metal-organic framework used in the study?",
+        "answer": "MOF-520",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What are the secondary building units (SBUs) of MOF-520?",
+        "answer": "Rings of eight aluminum octahedra sharing corners through eight \u03bc-OHs and four formate ligands.",
+        "difficulty": "medium",
+        "type": "factual"
+    },
+    {
+        "question": "What is the chemical formula of MOF-520?",
+        "answer": "Al8(\u03bc-OH)8(HCOO)4(BTB)4",
+        "difficulty": "medium",
+        "type": "factual"
+    },
+    {
+        "question": "What type of isotherm does MOF-520 exhibit for N2 adsorption at 77 K?",
+        "answer": "Type I",
+        "difficulty": "medium",
+        "type": "factual"
+    },
+    {
+        "question": "How many BTB units are linked to each SBU in MOF-520?",
+        "answer": "12",
+        "difficulty": "medium",
+        "type": "factual"
+    },
+    {
+        "question": "What technique was used to confirm the incorporation of molecules into MOF-520?",
+        "answer": "Single-crystal X-ray diffraction (SXRD)",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "Why was MOF-520 chosen for the study?",
+        "answer": "Due to its high crystallinity, robustness, and chirality.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "How are molecules incorporated into the pores of MOF-520?",
+        "answer": "By substituting the formate ligands in the SBUs with incoming organic molecules.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "How does the binding mode of ethylene glycol differ from that of methanol in MOF-520?",
+        "answer": "The remaining two formates in ethylene glycol are bonded as terminal ligands, whereas in methanol they are bridging ligands.",
+        "difficulty": "hard",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why does the unit cell double in the c-direction upon incorporation of alkoxides and phenolates?",
+        "answer": "Because consecutive SBUs along c are substituted on the opposite face of the ring.",
+        "difficulty": "hard",
+        "type": "reasoning"
+    },
+    {
+        "question": "What is the advantage of using a chiral MOF for absolute structure determination?",
+        "answer": "It avoids pseudosymmetry problems encountered in achiral host frameworks.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "How does the CAL method allow for structure determination even with low occupancy?",
+        "answer": "By anchoring the molecules to metal sites and lowering their motional degrees of freedom, promoting an ordered arrangement.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "How was the enantioselectivity of MOF-520 demonstrated in the study?",
+        "answer": "By the selective binding of (-)-jasmonic acid to D-MOF-520 and (+)-jasmonic acid to L-MOF-520.",
+        "difficulty": "hard",
+        "type": "reasoning"
+    },
+    {
+        "question": "MOF-520 has a Brunauer-Emmett-Teller (BET) surface area greater than 1000 m2/g.",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "The synthesis of MOF-520 requires the use of a chiral auxiliary.",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "MOF-520 can be used to separate enantiomers.",
+        "answer": "True",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "The CAL method relies primarily on weak interactions to induce crystalline order of included molecules.",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "All molecules included in MOF-520 exhibit strong hydrogen bonding interactions with the framework.",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "The structure of gibberellin A1 was determined with an occupancy of 80%.",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "The absolute configuration of jasmonic acid had been previously determined by x-ray crystallography.",
+        "answer": "False",
+        "difficulty": "hard",
+        "type": "truefalse"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the pore size of SIFSIX-2-Cu?",
+        "answer": "13.05 Angstroms",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the BET apparent surface area of SIFSIX-2-Cu-i?",
+        "answer": "735 m2/g",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the pore size of SIFSIX-3-Zn?",
+        "answer": "3.84 Angstroms",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the CO2 uptake of SIFSIX-2-Cu-i at 298 K and 1 bar?",
+        "answer": "238 mg/g",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the CO2/N2 selectivity of SIFSIX-2-Cu-i as determined by IAST calculations?",
+        "answer": "140",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the CO2/CH4 selectivity of SIFSIX-2-Cu-i as determined by IAST calculations?",
+        "answer": "33",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "Why does SIFSIX-2-Cu-i exhibit higher CO2 uptake than SIFSIX-2-Cu?",
+        "answer": "SIFSIX-2-Cu-i has a denser structure with narrower pores, leading to enhanced isosteric heat of adsorption for CO2.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why is SIFSIX-2-Cu-i particularly suitable for CO2 separation from syngas?",
+        "answer": "It exhibits high selectivity for CO2 over H2 (240) as determined from column breakthrough experiments.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why does SIFSIX-3-Zn exhibit high CO2 uptake at low pressures?",
+        "answer": "The contracted pore size of SIFSIX-3-Zn leads to a sharp increase in CO2 uptake at low CO2 loading.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "What is the significance of the relatively constant Qst value observed for SIFSIX-3-Zn?",
+        "answer": "It indicates homogenous binding sites over the full range of CO2 loading, making it favorable for efficient, reversible adsorption-desorption.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why is the CO2 selectivity of SIFSIX-3-Zn significantly higher than SIFSIX-2-Cu-i?",
+        "answer": "SIFSIX-3-Zn has a smaller pore size and a stronger interaction with CO2, leading to longer retention times and higher selectivity.",
+        "difficulty": "hard",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why were quantitative measurements of CO2/H2 selectivity not possible for SIFSIX-3-Zn?",
+        "answer": "The H2 uptake is relatively low, leading to a large error associated with its measurement, making it difficult to determine accurate selectivity values exceeding 1000.",
+        "difficulty": "hard",
+        "type": "reasoning"
+    },
+    {
+        "question": "How does the kinetic adsorption behavior of SIFSIX-3-Zn contribute to its high CO2 selectivity?",
+        "answer": "CO2 adsorbs more strongly and faster than other gases (N2, O2, CH4, H2) in mixtures, occupying available space and sites, thereby excluding other gases and enhancing selectivity.",
+        "difficulty": "hard",
+        "type": "reasoning"
+    },
+    {
+        "question": "True or False: The CO2 uptake of SIFSIX-2-Cu-i is higher than that of SIFSIX-2-Cu.",
+        "answer": "True",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "True or False: SIFSIX-3-Zn exhibits lower CO2/N2 selectivity compared to SIFSIX-2-Cu-i.",
+        "answer": "False",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "True or False: Increasing adsorption temperature significantly reduces the CO2 uptake of SIFSIX-3-Zn.",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "True or False: SIFSIX-2-Cu-i and SIFSIX-3-Zn are both structurally stable in the presence of moisture.",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "True or False: The presence of water vapor has a negligible effect on the CO2 capture properties of SIFSIX-3-Zn.",
+        "answer": "True",
+        "difficulty": "hard",
+        "type": "truefalse"
+    },
+    {
+        "question": "True or False: The CO2/N2 selectivity of SIFSIX-3-Zn is lower than that of zeolite 13X.",
+        "answer": "False",
+        "difficulty": "hard",
+        "type": "truefalse"
+    },
+    {
+        "question": "True or False: The synthesis of dpa requires the use of bromine.",
+        "answer": "True",
+        "difficulty": "easy",
+        "type": "truefalse"
+    }
+]

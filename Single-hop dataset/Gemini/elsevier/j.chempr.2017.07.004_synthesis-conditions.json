@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the maximum pore size of the 1D channel in CMOM-3S?",
+        "answer": "The maximum pore size of the 1D channel in CMOM-3S is approximately 0.8 x 0.8 nm after subtracting van der Waals radii.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "How is the CMOM-3S coated onto the capillary column?",
+        "answer": "CMOM-3S is coated onto the capillary column via a dynamic coating method.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What are the dimensions of the cuboid nanocrystals of CMOM-3S?",
+        "answer": "The cuboid nanocrystals of CMOM-3S have dimensions of ~500 nm as revealed by scanning electron microscopy (SEM).",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What three commercial columns were used to compare the separation ability of the CMOM-3S-coated column?",
+        "answer": "The three commercial columns used were \u03b2-DEX 225, Cyclosil B, and Chirasil-L-Val.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What metal is used in the synthesis of CMOM-3S?",
+        "answer": "Cobalt is used in the synthesis of CMOM-3S",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What technique was used to determine the binding preference between the CSP and CCS?",
+        "answer": "Single-crystal X-ray diffraction (SCXRD) was used to determine the binding preference between the CSP and CCS.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "If CMOM-3S is stable to solvent exchange, heat, and humidity, would it be suitable as both a CSP and a CCS?",
+        "answer": "Yes, the stability of CMOM-3S to solvent exchange, heat, and humidity makes it suitable for use as both a CSP and a CCS.",
+        "difficulty": "easy",
+        "type": "reasoning"
+    },
+    {
+        "question": "What can be said about the enantioselectivity of the CMOM-3S-coated column compared to Chirasil-L-Val?",
+        "answer": "The CMOM-3S-coated column showed superior enantioselectivity compared to the Chirasil-L-Val column.",
+        "difficulty": "easy",
+        "type": "reasoning"
+    },
+    {
+        "question": "If the CMOM-3S-coated column has a shorter separation time for racemates than \u03b2-DEX 225 and Cyclosil B, is it more efficient?",
+        "answer": "Yes, CMOM-3S-coated column exhibits shorter separation times for racemates compared to \u03b2-DEX 225 and Cyclosil B, suggesting it is more efficient.",
+        "difficulty": "easy",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why are triflate counterions presumably a key factor in the observed enantioselectivity?",
+        "answer": "Triflate counterions are presumably a key factor in the observed enantioselectivity due to their role in the formation of C-H...F and O-H...O hydrogen bonding interactions with the analytes.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "How is the adaptability of CMOM-3S's cavities enabled?",
+        "answer": "The extra-framework cation in CMOM-3S allows its cavities to adapt to different guest molecules, enabling its adaptability.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "How is the determination of the absolute configurations of preferred chiral guest molecules made possible?",
+        "answer": "The anomalous scattering effects of heavy atoms like Cobalt and Sulfur in CMOM-3S allows for unambiguous determination of the absolute configurations of the preferred chiral guest molecules.",
+        "difficulty": "hard",
+        "type": "reasoning"
+    },
+    {
+        "question": "Considering the performance of CMOM-3S as both a CCS and CSP, what does this suggest about its potential in addressing chiral separation challenges?",
+        "answer": "The successful performance of CMOM-3S as both a CCS and CSP suggests that CMOMs have great potential in addressing chiral separation challenges that were previously considered difficult or intractable.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "CMOM-3S is a previously reported porous crystalline metal-organic material.",
+        "answer": "False",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "CMOM-3S nanocrystals were loaded onto a capillary column through a static coating process.",
+        "answer": "False",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "The chiral separation ability of CMOM-3S is superior to that of the \u03b2-DEX 225 column.",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "The slowest eluent exhibited a lower enantiomeric excess (ee) ratio for all ten racemates.",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "The enantiomeric separation and identification is important to technologies such as pharmaceuticals, agrochemicals, flavorings, fragrances, and asymmetric synthesis.",
+        "answer": "True",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "CMOM-3S is the first porous material that can serve as both a CCS and a CSP.",
+        "answer": "True",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "The CSP-CCS method requires a reference standard and large amounts of analyte.",
+        "answer": "False",
+        "difficulty": "easy",
+        "type": "truefalse"
+    }
+]

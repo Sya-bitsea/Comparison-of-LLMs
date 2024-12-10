@@ -1,0 +1,125 @@
+s the .json file with 20 single hop questions and answers of different types based on the given text:
+
+{
+  "questions": [
+    {
+      "question": "What is the flexible ligand L1 synthesized from?",
+      "answer": "L1 is synthesized by attaching three isophthalic acids (L2) to a benzene ring through flexible –CH2-O- bonds.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the pore size and density of the MOFs obtained with L1 and Eu3+, Tb3+, or Gd3+?",
+      "answer": "Single-crystal result of the MOFs obtained with L1 and Eu3+, Tb3+, or Gd3+ reveals the aperture of 18 Å and the density of 1.2 g/mL.",
+      "difficulty": "medium",
+      "type": "factual"  
+    },
+    {
+      "question": "What optical property does the –CH2-O- group in L1 enable in L1-Eu MOF?",
+      "answer": "The –CH2-O- group tunes the energy transfer for dual-emission at 360 and 623 nm from L1-Eu MOF under single excitation of 290 nm.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the dual-emission from L1-Eu MOF used for?",
+      "answer": "The dual-emission is used for ratiometric fluorescence detection of phosphate (PO43-) and adenosine-5′-triphosphate (ATP).",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does the pore size of MOFs affect the response to targets like PO43- and ATP?",
+      "answer": "The pore size affects the target entrance as L1-Eu MOF shows faster response to PO43- and ATP than L2-Eu MOF.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is observed regarding the diffusion dynamics of targets in large-pore MOFs?",
+      "answer": "Fast diffusion dynamics of a target is observed in large-pore MOFs for good linear response.",
+      "difficulty": "hard",
+      "type": "reasoning"  
+    },
+    {
+      "question": "L1 retains the optical properties of L2 for antenna effect.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "L1-Eu MOF shows slower response to PO43- and ATP compared to L2-Eu MOF.",
+      "answer": "False",
+      "difficulty": "medium", 
+      "type": "True or False"
+    },
+    {
+      "question": "The relative specific surface area affects the linear response range of targets.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "L1 sensitizes only Eu3+ ions for antenna effect emission.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"  
+    },
+    {
+      "question": "What is the benefit of using a flexible ligand like L1 for MOFs?",
+      "answer": "Flexible ligand is effective to expand the aperture, improve optical properties, and study the response mechanism for the extensive applications of MOFs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the full name of the flexible ligand L1?",
+      "answer": "1,3,5-tris(5-methoxy-1,3-benzene dicarboxylic acid)benzene",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What lanthanide ions does L1 excite for antenna effect emission?",
+      "answer": "L1 excites Eu3+ and Tb3+ ions for their antenna effect emission.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "A narrower linear response range was observed for ATP compared to PO43- with L1-Eu MOF.",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the reason for the narrower linear response range of ATP compared to PO43-?",
+      "answer": "The big size of ATP occupies larger area, resulting in the narrower range, not because of the three phosphate groups.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "L1-Eu MOF and L2-Eu MOF show similar response speed to PO43- and ATP.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the reason for the poor linear response of PO43- in MOFs with small pore?",
+      "answer": "Different diffusion dynamics is observed for the target at different concentrations in MOFs with small pore, leading to poor linear response.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What improves the accessibility of targets in MOFs?",
+      "answer": "The big pore of MOFs improves the accessibility of the targets.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What enlarges the response range of targets in MOFs?",
+      "answer": "The big relative specific area enlarges the response range of targets in MOFs.",
+      "difficulty": "medium",
+      "type": "factual" 
+    },
+    {
+      "question": "The sensing efficiency is improved by combining the dual-emission from antenna effect and the structural properties of L1-Eu MOF.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]

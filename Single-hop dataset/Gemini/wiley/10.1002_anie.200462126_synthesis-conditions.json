@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the color of the compounds formed upon reduction of bisdiazenes with alkali metals?",
+        "answer": "The compounds formed upon reduction of bisdiazenes with alkali metals are red.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the stoichiometry of the compounds formed by reducing bisdiazenes with alkali metals?",
+        "answer": "The stoichiometry of the compounds formed is (M+)2-12, where M+ represents the alkali metal cation.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What spectroscopic techniques were used to characterize the reduced bisdiazene compounds?",
+        "answer": "The reduced bisdiazene compounds were characterized using UV/Vis, 1H NMR, 13C NMR, and 7Li NMR spectroscopy.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the core structural motif of the [Na4(1)2] unit in the solid-state structure?",
+        "answer": "The core structural motif is a distorted Na4N8 cuboctahedron.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the relationship between the N4 plane and the Ca-N-N-Ca planes in the solid-state structure?",
+        "answer": "The N4 plane is almost orthogonal to the Ca-N-N-Ca planes.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What computational method was used to optimize the structure of the model compound [Na4(1)F2]?",
+        "answer": "The structure was optimized at the B3LYP/6-31+G(d,p) level.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "Why were the counterions included in the quantum chemical calculations?",
+        "answer": "Counterions were included because most dianions are not stable against spontaneous electron detachment as isolated entities.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What is the significance of the shortening of the transannular N...N distances in the rigid cage of 1 upon reduction?",
+        "answer": "The shortening of the transannular N...N distances provides evidence for the formation of chemical bonds between the nitrogen atoms.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why was a broken-symmetry UB3LYP/6-31+G(d,p) single-point calculation performed for the model structure?",
+        "answer": "This calculation was performed to assess the diradicaloid character of the model structure and to determine whether it is better described by a closed-shell singlet state or a singlet diradical.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What is the significance of the bond paths observed in the topological analysis of the electron density?",
+        "answer": "The bond paths indicate the presence of chemical bonds linking the formally adjacent radical anions, supporting the concept of bishomoaromaticity.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why are the single-determinant calculations used in the study considered to provide upper boundaries for electron delocalization and the degree of covalent transannular N-N bonding?",
+        "answer": "Single-determinant calculations do not fully account for electron correlation, which can lead to an overestimation of delocalization and bonding.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What causes the difference in the two transannular N-N distances (N1-N4, N2-N3) observed in both the precursor 1 and the reduced dianion?",
+        "answer": "The difference is caused by the interaction between the methyl group and the hydrogen atoms on C3 and C9 in the anti position.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why was [Na4(1)F2] chosen as a model compound for quantum chemical calculations instead of using the dianion as an isolated entity?",
+        "answer": "The dianion as an isolated entity is unstable against spontaneous electron detachment, while the inclusion of counterions in the model compound [Na4(1)F2] makes it a charge-neutral and physically realistic model.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "True or False: The reduced bisdiazene compounds are paramagnetic.",
+        "answer": "False. The reduced bisdiazene compounds are diamagnetic.",
+        "difficulty_level": "easy",
+        "question_type": "true_false"
+    },
+    {
+        "question": "True or False: The S0 singlet states for the counterion-free dianions are more stable than the T0 triplet states.",
+        "answer": "False. Calculations show that the S0 singlet states are unstable with respect to the T0 triplet states.",
+        "difficulty_level": "easy",
+        "question_type": "true_false"
+    },
+    {
+        "question": "True or False: The Na-N bond lengths in the solid-state structure are significantly different for the formally neutral and negatively charged nitrogen atoms.",
+        "answer": "False. The Na-N bond lengths are not significantly different for the formally neutral and negatively charged nitrogen atoms.",
+        "difficulty_level": "easy",
+        "question_type": "true_false"
+    },
+    {
+        "question": "True or False: Bisdiazene 3 is more rigid than bisdiazene 1.",
+        "answer": "False. Bisdiazene 3 is more flexible than bisdiazene 1.",
+        "difficulty_level": "easy",
+        "question_type": "true_false"
+    },
+    {
+        "question": "True or False: The calculated 15N chemical shifts of the dianion in the model compound [Na4(1)F2] are significantly different from the experimental values of [Na4(1)2(THF)x].",
+        "answer": "False. The calculated and experimental 15N chemical shifts agree satisfactorily.",
+        "difficulty_level": "easy",
+        "question_type": "true_false"
+    },
+    {
+        "question": "True or False: The model structure [Na4(1)F2] is best described as a singlet diradical.",
+        "answer": "False. The model structure is better described by a closed-shell singlet state, as its diradicaloid character is small.",
+        "difficulty_level": "medium",
+        "question_type": "true_false"
+    },
+    {
+        "question": "True or False: The transannular N-N bond paths in the model structure [Na4(1)F2] show characteristics of typical shared interactions.",
+        "answer": "False. The transannular N-N bond paths show characteristics between those of typical shared and closed-shell interactions.",
+        "difficulty_level": "hard",
+        "question_type": "true_false"
+    }
+]

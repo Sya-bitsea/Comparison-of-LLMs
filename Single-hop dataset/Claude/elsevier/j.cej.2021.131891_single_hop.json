@@ -1,0 +1,125 @@
+s the single hop Q&A .json file for the given text:
+
+{
+  "questions": [
+    {
+      "question": "What are the characteristics of three-dimensional (3D) discrete nanocages?",
+      "answer": "Three-dimensional (3D) discrete nanocages possess the characteristics of definite structure, ultra-high specific surface area and porosity, adjustable cavities and windows, and easy chemical functionalization.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What are nanocages attracting widespread attention for in biological applications?",
+      "answer": "As a new class of functionalized nanomaterials, nanocages have attracted widespread attention in biological applications and clinical translation.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What are the remaining challenges and suggestions discussed for the rational design of next-generation nanocages?",
+      "answer": "The remaining challenges and suggestions for the rational design of next-generation nanocages are also discussed.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the aim of this review on nanocages?",
+      "answer": "The aim is to guide some key trends in reporting the biological activity and potential applications of 3D nanocage structures for precision biomedicine.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What are the unique properties and common topological types of nanocages summarized in this review?",
+      "answer": "This review summarizes the unique properties and common topological types of nanocages with great potential in biomedical applications.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the focus kept on reviewing in this article on nanocages?",
+      "answer": "Focus is kept on reviewing recent progress and emerging multi-functional bioengineering for effective drug delivery, imaging, diagnosis, and treatment using nanocages.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Can the adjustable cavities and windows of 3D discrete nanocages enable controlled drug release?",
+      "answer": "Yes, the adjustable cavities and windows of 3D discrete nanocages can enable controlled drug release.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Do the ultra-high specific surface area and porosity of nanocages make them suitable for high drug loading?",
+      "answer": "Yes, the ultra-high specific surface area and porosity of nanocages make them suitable platforms for high drug loading.",
+      "type": "reasoning",
+      "difficulty": "medium" 
+    },
+    {
+      "question": "Are the remaining challenges and suggestions for rational nanocage design important to address for advancing their biomedical applications?",
+      "answer": "Yes, discussing the remaining challenges and suggestions for rational nanocage design is important for advancing their biomedical applications.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Is easy chemical functionalization of nanocages beneficial for targeting them to specific sites in the body?",
+      "answer": "Yes, the easy chemical functionalization of nanocages is beneficial for targeting them to specific sites in the body for drug delivery or imaging.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Can reviewing the recent progress in nanocages help guide future research directions in this field?",
+      "answer": "Yes, reviewing the recent progress in nanocages can help guide some key future research trends and directions in this field for biomedical applications.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Are nanocages a promising platform for theranostic applications combining therapy and diagnosis?",
+      "answer": "Yes, nanocages are a promising multi-functional platform for theranostic applications that can combine capabilities for therapy and diagnosis.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Will understanding the structure-property relationships of different nanocage topologies accelerate their biomedical translation?",
+      "answer": "Yes, understanding the structure-property relationships of different nanocage topologies will be important to accelerate their rational design and biomedical translation.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "3D discrete nanocages have a random, undefined structure.",
+      "answer": "False. 3D discrete nanocages possess a definite structure.",
+      "type": "True or False",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Nanocages have attracted limited attention for biological applications.",
+      "answer": "False. Nanocages have attracted widespread attention in biological applications and clinical translation.",
+      "type": "True or False", 
+      "difficulty": "easy"
+    },
+    {
+      "question": "The review does not discuss any challenges or suggestions for future nanocage design.",
+      "answer": "False. The remaining challenges and suggestions for the rational design of next-generation nanocages are discussed in the review.",
+      "type": "True or False",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The cavities and windows of nanocages are fixed and cannot be adjusted.",
+      "answer": "False. Nanocages have adjustable cavities and windows.",
+      "type": "True or False",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Chemical functionalization of nanocages is difficult.",
+      "answer": "False. Nanocages allow for easy chemical functionalization.",
+      "type": "True or False",
+      "difficulty": "easy"  
+    },
+    {
+      "question": "The high surface area and porosity of nanocages limit their drug loading capacity.",
+      "answer": "False. The ultra-high specific surface area and porosity of nanocages make them suitable for high drug loading.",
+      "type": "True or False",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Nanocages are unsuitable for applications requiring a combination of therapy and diagnosis.",
+      "answer": "False. Nanocages are a promising multi-functional platform for theranostic applications that can combine capabilities for therapy and diagnosis.",
+      "type": "True or False",
+      "difficulty": "medium"
+    }
+  ]

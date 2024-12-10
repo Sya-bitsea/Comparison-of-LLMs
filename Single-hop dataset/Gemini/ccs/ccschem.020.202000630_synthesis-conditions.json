@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the chemical formula of the versatile hexadecanuclear zirconium cluster?",
+        "answer": "[Zr16(SQA)8(HSQA)8(\u03bc3-OH)12(\u03bc3-O)4(\u03bc2-O)8(COO)4(DMF)8]",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the name of the instrument used to analyze the C, H, and N elemental composition of the synthesized materials?",
+        "answer": "Perkin\u2013Elmer 2400CHN elemental analyzer",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the temperature at which the mixture for [Zr16] synthesis is kept in the autoclave?",
+        "answer": "60 \u00b0C",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the temperature at which the mixture for [Zr16-BPDC] and [Zr16-BPDC-Ln] synthesis is kept in the autoclave?",
+        "answer": "80 \u00b0C",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What wavelength of Cu K\u03b1 radiation was used in the X-ray diffraction experiments?",
+        "answer": "1.5418 \u00c5",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the mole ratio of Eu(NO3)3\u00b75H2O to Tb(NO3)3\u00b75H2O used in the synthesis of [Zr16-BPDC-Eu0.8Tb0.2]?",
+        "answer": "4:1",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "Considering the reaction conditions for the synthesis of [Zr16], what would happen if the temperature was significantly lower than 60 \u00b0C?",
+        "answer": "The reaction rate would decrease, potentially leading to incomplete reaction or the formation of undesired products.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What is the rationale for selecting the H2BPDC ligand to substitute the formate groups in the [Zr16] cluster?",
+        "answer": "The distance between two opposite formate groups of adjacent [Zr16] clusters is similar to the length of the H2BPDC ligand.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why is the stepwise synthesis approach beneficial for the construction of multivariate MOFs compared to a one-pot reaction?",
+        "answer": "It allows for better control over the assembly process and the incorporation of different components at specific stages.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Based on the experimental results, why were metal ions like Co2+, Ni2+, Sr2+, Zr4+, and others not successfully installed in the cavity of the [Zr16-BPDC] framework?",
+        "answer": "Their coordination preferences, bond lengths, and ionic radii might not be compatible with the geometry and size of the cavity.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Explain the reason for the slight decrease in cell parameters observed in the [Zr16-BPDC] framework compared to the [Zr16] cluster.",
+        "answer": "The formation of coordination bonds between the BPDC ligands and Zr atoms shortens the distance between the [Zr16] clusters.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "How does the luminescent behavior of the [Zr16-BPDC-Eu0.8Tb0.2] framework enable its application as a ratiometric thermometer?",
+        "answer": "The ratio of Eu3+ to Tb3+ emission intensities shows a temperature-dependent behavior that can be calibrated for temperature sensing.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What makes the [Zr16] cluster an ideal molecular building block (MBB) for constructing multivariate Zr-MOFs?",
+        "answer": "It possesses multiple unsaturated coordination sites and substitutable formate groups, enabling diverse modifications.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "The synthesis of [Zr16] cluster requires a high-pressure reactor.",
+        "answer": "false",
+        "difficulty_level": "easy",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "The [Zr16] cluster is synthesized under hydrothermal conditions.",
+        "answer": "false",
+        "difficulty_level": "easy",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "The [Zr16] cluster exhibits a cubic geometry.",
+        "answer": "false",
+        "difficulty_level": "medium",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "The ligand substitution and metal ion installation processes in the synthesis of multivariate MOFs from [Zr16] cluster occur via single-crystal-to-single-crystal transformations.",
+        "answer": "true",
+        "difficulty_level": "medium",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "The mixed-lanthanide MOF [Zr16-BPDC-Eu0.8Tb0.2] displays only the characteristic emissions of Eu3+.",
+        "answer": "false",
+        "difficulty_level": "medium",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "The luminescence intensity of [Zr16-BPDC-Eu0.8Tb0.2] increases with increasing temperature.",
+        "answer": "false",
+        "difficulty_level": "medium",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "The [Zr16-BPDC-Eu0.8Tb0.2] framework can function as a luminescent ratiometric thermometer over a wide temperature range, from 80 to 280 K.",
+        "answer": "false",
+        "difficulty_level": "hard",
+        "question_type": "truefalse"
+    }
+]

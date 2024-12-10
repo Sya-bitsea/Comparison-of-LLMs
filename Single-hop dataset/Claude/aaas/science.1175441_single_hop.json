@@ -1,0 +1,125 @@
+s a single hop .json file with 20 Q&As of different types based on the given text:
+
+{
+  "questions": [
+    {
+      "question": "What is the name of the MOF that is capable of docking paraquat dication guests within its macrocycles?",
+      "answer": "MOF-1001 is capable of docking paraquat dication (PQT2+) guests within the macrocycles in a stereoelectronically controlled fashion.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What are the three architectural domains present in the MOFs described in this work?",
+      "answer": "The three architectural domains are: (i) the pore aperture (sorting domain), (ii) the internal surface of the pores (coverage domain), and (iii) the active domain with recognition sites for docking guests.",
+      "type": "factual", 
+      "difficulty": "medium"
+    },
+    {
+      "question": "What synthetic approach was used to make MOF-1000?",
+      "answer": "MOF-1000 was synthesized by mixing a solution of strut 1 with Zn(NO3)2·4H2O in N,N-diethylformamide under conditions previously used in the synthesis of MOF-5.",
+      "type": "factual",
+      "difficulty": "medium" 
+    },
+    {
+      "question": "What is the distance between the two carboxylate carbon atoms in strut 1 used to make MOF-1000?",
+      "answer": "The distance between the two carboxylate carbon atoms in strut 1 is 19.3 Å.",
+      "type": "factual",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the unit cell parameter a for MOF-1001?",
+      "answer": "MOF-1001 has an exceptionally large unit cell parameter a = 52.93 Å.",
+      "type": "factual",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What percentage of space is unoccupied by MOF-1001 framework atoms?",
+      "answer": "86.9% of space is unoccupied by MOF-1001 framework atoms, as assessed by a model using the program Cerius2.",
+      "type": "factual",
+      "difficulty": "hard"
+    },
+    {
+      "question": "The docking of PQT2+ into MOF-1001 is controlled by specific stereoelectronic host-guest interactions rather than simple diffusion and adsorption.",
+      "answer": "True. Control experiments involving the attempted inclusion of PQT2+ inside MOF-177 showed negligible uptake, indicating the importance of the macrocyclic polyether in PQT2+ docking in MOF-1001.",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "The MOFs presented in this work are the first examples of hybrid organic-inorganic compounds with macrocycles and mechanically interlocking components.",
+      "answer": "False. The authors note that a number of reports have previously appeared on the synthesis and structure of hybrid organic-inorganic compounds with macrocycles and mechanically interlocking components.",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "The phenylene rings that incorporate the struts in MOF-1001 and MOF-1002 support planes of chirality.",
+      "answer": "True. The authors note that the phenylene rings incorporating the struts in MOF-1001 and MOF-1002 support planes of chirality, providing another source of disorder and the prospect of constructing chiral MOFs.",
+      "type": "true_false",
+      "difficulty": "hard"
+    },
+    {
+      "question": "The binding affinity between PQT2+ and strut 2 in solution was obtained from NMR titrations.",
+      "answer": "False. The binding affinity (Ka = 829 M–1) between PQT2+ and strut 2 in solution was obtained from spectrophotometric titrations, not NMR titrations.",
+      "type": "true_false",
+      "difficulty": "hard"
+    },
+    {
+      "question": "The crystals of MOF-1001 turned red immediately upon introduction into a saturated solution of PQT·2PF6 in acetone.",
+      "answer": "True. When MOF-1001 crystals were introduced into a saturated solution of PQT·2PF6 in acetone, the crystals immediately turned red, indicating charge-transfer interactions between PQT2+ and crown ether rings.",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The complexation of PQT2+ in MOF-1001 was found to be irreversible.",
+      "answer": "False. The reversibility of the PQT2+ complexation was evidenced by the reappearance of the original light yellow color of MOF-1001 upon rinsing with acetone, where 60% of PQT2+ could be removed.",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "The upfield shift of the 15N NMR signal of PQT2+ complexed in MOF-1001 compared to free PQT2+ provides evidence for the docking of PQT2+ into the macrocyclic polyether units.",
+      "answer": "True. The 15N CP/MAS NMR spectrum of PQT2+ bound within the crown ether rings in MOF-1001 shows an upfield shift to 204.6 ppm compared to 207.2 ppm for uncomplexed PQT2+, resulting from docking into the macrocyclic polyether units.",
+      "type": "true_false",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Why does the complexation of PQT2+ in MOF-1001 result in the crystals turning red?",
+      "answer": "The red color upon complexation of PQT2+ in MOF-1001 is a result of charge-transfer interactions between the electron-deficient PQT2+ and the electron-rich crown ether rings in the MOF.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What can be concluded about the accessibility of the crown ether receptors in MOF-1001 based on the docking of PQT2+ at every receptor site?",
+      "answer": "The docking of PQT2+ at every crown ether ring throughout the MOF-1001 framework indicates that each of the receptors is accessible, likely due to the openness of the MOF structure allowing substrates to diffuse freely through the pores to the active domains.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Why was a control experiment involving the attempted inclusion of PQT2+ in MOF-177 performed, and what did the results indicate?",
+      "answer": "The control experiment with MOF-177 was performed to test if PQT2+ could be incorporated simply by diffusion and adsorption in a porous MOF lacking the polyether struts. The negligible uptake of PQT2+ in MOF-177 indicated that specific stereoelectronic host-guest interactions with the macrocyclic polyethers, rather than simple diffusion, are responsible for the quantitative formation of the MOF-1001 pseudorotaxanes.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What evidence suggests that the bismethylenedioxy units of the tetraethylene glycol loops in MOF-1001 are highly disordered?",
+      "answer": "The single-crystal X-ray analysis of MOF-1001 found the bismethylenedioxy units of the tetraethylene glycol loops to be highly disordered, indicating the inherent flexibility of the macrocyclic polyether substructure.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "How does the openness of the MOF-1001 structure relate to its ability to act as a platform for molecular recognition?",
+      "answer": "The high porosity and openness of MOF-1001 allows substrates to diffuse freely from solution, through the pores, and dock in the active domains containing the crown ether receptors. This contrasts with passive MOF platforms where only gas adsorption or compaction of small molecules with simple interaction sites occurs.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the significance of the MOF-1001 pseudorotaxanes maintaining the original high crystallinity of the parent framework?",
+      "answer": "The maintenance of the original high crystallinity of MOF-1001 after PQT2+ docking to form the pseudorotaxanes, as confirmed by coincident powder X-ray diffraction patterns, indicates that the complexation occurs without disrupting or altering the MOF framework structure.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "How do the solid-state 15N NMR results for the molecular pseudorotaxane analog [PQT⊂2]·2PF6 compare to those observed for the MOF-1001 pseudorotaxanes?",
+      "answer": "The molecular pseudorotaxane analog [PQT⊂2]·2PF6 showed the same upfield shift trend in the solid-state 15N NMR spectra as observed for PQT2+ complexed in MOF-1001 compared to free PQT2+, supporting that the same type of host-guest complexation occurs in both the molecular and MOF systems.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    }
+  ]

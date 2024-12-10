@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the name of the Cu2+ based metal-organic framework?",
+        "answer": "Cu-TCA",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the volume of the cavities in the Cu-TCA framework?",
+        "answer": "approximately 4000 nm^3",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the estimated free volume in fully desolvated Cu-TCA?",
+        "answer": "79.7%",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the wavelength of the emission peak of the ligand when excited at 350 nm?",
+        "answer": "430 nm",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the approximate size of the NCu-TCA nanoparticles?",
+        "answer": "100 nm x 100 nm x 100 nm",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the space group of the Eu-TCA crystal?",
+        "answer": "P2(1)/c",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "Why does Cu-TCA exhibit weak emission at 430 nm?",
+        "answer": "The presence of paramagnetic Cu2+ ions quenches the luminescence of triphenylamine.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "How does the addition of NO affect the luminescence of Cu-TCA?",
+        "answer": "NO reduces Cu2+ to Cu+, alleviating the quenching effect and enhancing luminescence.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What properties of Cu-TCA make it suitable for NO detection in biological systems?",
+        "answer": "High selectivity for NO and solubility in aqueous media.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why was Cu-TCA scaled down to the nanoregime?",
+        "answer": "To be used as delivery vehicles for imaging agents and drug molecules in biological imaging.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "How does the luminescence of Eu-TCA change upon the addition of NO?",
+        "answer": "The luminescence at 430 nm increases significantly, while the emission at 610 nm remains relatively unchanged.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why is Eu-TCA considered a ratiometric luminescent chemosensor?",
+        "answer": "Because the ratio of emission intensities at 430 nm and 610 nm can be used to determine the concentration of NO.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What limits the application of Eu-TCA in fluorescence imaging in biological systems?",
+        "answer": "Its sensitivity to water, which causes fluorescence quenching.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "The Cu-TCA framework features a two-dimensional porous structure.",
+        "answer": "false",
+        "difficulty_level": "easy",
+        "question_type": "true_false"
+    },
+    {
+        "question": "The addition of NO to Cu-TCA results in a decrease in fluorescence.",
+        "answer": "false",
+        "difficulty_level": "easy",
+        "question_type": "true_false"
+    },
+    {
+        "question": "Cu-TCA exhibits high selectivity for NO over other reactive oxygen and nitrogen species.",
+        "answer": "true",
+        "difficulty_level": "easy",
+        "question_type": "true_false"
+    },
+    {
+        "question": "NCu-TCA nanoparticles emit green fluorescence when excited with blue light.",
+        "answer": "false",
+        "difficulty_level": "medium",
+        "question_type": "true_false"
+    },
+    {
+        "question": "The Eu-TCA framework has a 3D interpenetrating extended network.",
+        "answer": "false",
+        "difficulty_level": "medium",
+        "question_type": "true_false"
+    },
+    {
+        "question": "The emission of Eu3+ in Eu-TCA is quenched upon the addition of NO.",
+        "answer": "false",
+        "difficulty_level": "medium",
+        "question_type": "true_false"
+    },
+    {
+        "question": "Eu-TCA is highly stable in the presence of water.",
+        "answer": "false",
+        "difficulty_level": "hard",
+        "question_type": "true_false"
+    }
+]

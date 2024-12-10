@@ -1,0 +1,128 @@
+[
+    {
+        "question": "What is the general synthetic procedure for synthesizing ZIFs?",
+        "answer": "All ZIFs were synthesized using solvothermal methods. Highly crystalline materials were obtained by combining the requisite hydrated metal salt (usually nitrate) and imidazole-type linker in an amide solvent such as N,N-diethylformamide (DEF). The resulting solutions were heated (85\u2013150\u00b0C) wherefrom ZIFs precipitated after 48\u201396 h and were readily isolated.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the bridging angle in metal imidazolates, and how does it compare to the Si-O-Si angle in zeolites?",
+        "answer": "The bridging angle (M-IM-M) in metal imidazolates is close to 145 degrees, which is coincident with the Si-O-Si angle commonly found in many zeolites.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the role of organic components in the structure of ZIFs?",
+        "answer": "The organic components of ZIFs provide for organically lined cages and channels rather than a silicate oxide surface as in zeolites.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "How does the density of ZIFs compare to the density of zeolites?",
+        "answer": "The density of ZIFs is eight times less than the density of zeolites.",
+        "difficulty": "medium",
+        "type": "factual"
+    },
+    {
+        "question": "What are the advantages of ZIF-8 and ZIF-11 in terms of porosity?",
+        "answer": "ZIF-8 and ZIF-11 possess large pores connected through small apertures, making them suitable for molecular sieving applications.",
+        "difficulty": "medium",
+        "type": "factual"
+    },
+    {
+        "question": "What is the highest temperature that ZIF-8 can withstand without decomposition?",
+        "answer": "ZIF-8 can withstand temperatures up to 550 degrees Celcius in a nitrogen atmosphere without decomposition.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "Why is DEF able to escape from the pores of ZIF-11 during TGA, despite being larger than the aperture size?",
+        "answer": "ZIF-11 exhibits a dynamic structure at elevated temperatures, allowing the orientation of imidazolate links to adjust reversibly, enabling larger guest species like DEF to escape without compromising the framework integrity.",
+        "difficulty": "hard",
+        "type": "reasoning"
+    },
+    {
+        "question": "What type of nitrogen sorption isotherm does ZIF-8 exhibit, and what does it indicate about its porosity?",
+        "answer": "ZIF-8 exhibits a Type I nitrogen sorption isotherm, indicating its microporous nature.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why is the initial hydrogen uptake of ZIF-11 higher than that of ZIF-8?",
+        "answer": "The unique cage interior of ZIF-11, with protruding benzene side rings from PhIM links, creates favorable hydrogen sorption sites, leading to higher initial hydrogen uptake compared to ZIF-8.",
+        "difficulty": "hard",
+        "type": "reasoning"
+    },
+    {
+        "question": "How does the chemical stability of ZIFs compare to that of other metal-organic solids?",
+        "answer": "ZIFs exhibit exceptional chemical stability, even in boiling organic solvents, water, and aqueous alkaline solution, which is outstanding among metal-organic solids.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why is ZIF-8 more stable in boiling water than ZIF-11?",
+        "answer": "The exact reason is not fully determined, but it is suggested that the hydrophobic pore and surface structure of ZIF-8, along with the strong bonding between IM and Zn(II), contributes to its higher hydrothermal stability compared to ZIF-11.",
+        "difficulty": "hard",
+        "type": "reasoning"
+    },
+    {
+        "question": "What is the function of chloroform in the synthesis of ZIF-8?",
+        "answer": "Chloroform is used to wash the synthesized ZIF-8 crystals, separating them from the mother liquor and any remaining reactants.",
+        "difficulty": "easy",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why does the TGA trace for ZIF-8 only show partial loss of guest species?",
+        "answer": "The TGA trace for ZIF-8 shows partial guest loss because some guest molecules are expected to carbonize at high temperatures within the pores.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "How does the pore size of ZIF-8 compare to its zeolite counterpart?",
+        "answer": "The pore size of ZIF-8 is approximately twice as large as its zeolite counterpart due to the longer IM linking units.",
+        "difficulty": "easy",
+        "type": "reasoning"
+    },
+    {
+        "question": "True or False: ZIF-5 is solely based on tetrahedral nets.",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "True/False"
+    },
+    {
+        "question": "True or False: ZIF-8 and ZIF-11 exhibit permanent porosity.",
+        "answer": "True",
+        "difficulty": "easy",
+        "type": "True/False"
+    },
+    {
+        "question": "True or False: ZIF-7 and ZIF-9 have virtually identical structures.",
+        "answer": "True",
+        "difficulty": "medium",
+        "type": "True/False"
+    },
+    {
+        "question": "True or False: ZIF-10 was synthesized using cobalt nitrate.",
+        "answer": "False",
+        "difficulty": "easy",
+        "type": "True/False"
+    },
+    {
+        "question": "True or False: The synthesis of ZIF-1 involved the use of benzimidazole.",
+        "answer": "False",
+        "difficulty": "easy",
+        "type": "True/False"
+    },
+    {
+        "question": "True or False: The hydrothermal stability of ZIF-8 is comparable to ultrastable derivatives of ordered mesoporous silica.",
+        "answer": "True",
+        "difficulty": "medium",
+        "type": "True/False"
+    },
+    {
+        "question": "True or False: The chemical stability of ZIFs is primarily attributed to the weak bonding between imidazolate and Zn(II)/Co(II).",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "True/False"
+    }
+]

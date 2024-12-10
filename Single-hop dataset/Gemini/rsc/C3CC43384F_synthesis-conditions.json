@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the name of the new lanthanoid porous coordination polymer synthesized?",
+        "answer": "The new lanthanoid porous coordination polymer synthesized is La-BTTc.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the BTTc linker?",
+        "answer": "BTTc stands for benzene-1,3,5-tris(2-thiophene-5-carboxylate).",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the coordination number of the La cation in La-BTTc?",
+        "answer": "The La cation in La-BTTc is ten-coordinated.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What method was used to determine the acidity of La-BTTc?",
+        "answer": "The acidity of La-BTTc was evaluated using temperature-programmed desorption of ammonia (NH3-TPD).",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the BET surface area of the activated La-BTTc?",
+        "answer": "The BET surface area of the activated La-BTTc is 731 m2 g\u20131.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What probe molecule was used to evaluate the acidity of La-BTTc spectroscopically?",
+        "answer": "Acetone was used as a probe molecule in IR spectroscopy to evaluate the acidity of La-BTTc.",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "Why was the BTB linker modified to include thiophene rings?",
+        "answer": "Switching benzene rings to thiophene rings in the linker was expected to afford more rigid frameworks due to favored p-stacking from the linker's higher planarity and the nonbonded S---S interaction.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why is the hexagon in La-BTTc flattened compared to the regular hexagon in MIL-103?",
+        "answer": "The hexagon in La-BTTc is flattened due to the tilt of the BTTc linker from the ab plane, which is caused by its strong tendency to p-stack.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What is the advantage of the densely aligned 1-D open metal sites (OMSs) in La-BTTc?",
+        "answer": "The densely aligned 1-D OMSs in La-BTTc can act as strong Lewis acid sites after the removal of the coordinated solvent.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What causes the high temperature required for the desorption of DMF in La-BTTc?",
+        "answer": "The high temperature required for the desorption of DMF in La-BTTc is attributed to its strong coordination to the La cation.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why does La-BTTc exhibit a larger low-frequency shift of n(C=O) compared to MIL-103(La) and MIL-101(Cr) when interacting with acetone?",
+        "answer": "La-BTTc shows the largest low-frequency shift because it has the strongest interaction between the LaIII in the PCP and the carbonyl oxygen atom of acetone, indicating stronger Lewis acidity.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why is La-BTTc considered to be a strong Lewis acid?",
+        "answer": "La-BTTc is considered a strong Lewis acid because it shows a large desorption peak in the high-temperature region during NH3-TPD, indicating strong interaction with the ammonia molecules.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why is the cyanosilylation reaction used to test the Lewis acid catalysis of La-BTTc?",
+        "answer": "The cyanosilylation reaction, which is known to be catalyzed by Lewis acids, was used to test the catalytic activity of La-BTTc, as the product cyanohydrin derivatives are useful building blocks in organic synthesis.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "True or False: La-BTTc is synthesized from a LaIII cation and a BTTc linker.",
+        "answer": "True",
+        "difficulty_level": "easy",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "True or False: La-BTTc has a two-dimensional structure.",
+        "answer": "False",
+        "difficulty_level": "medium",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "True or False: The thiophene rings in La-BTTc are tilted at an angle of approximately 60 degrees from the central benzene ring.",
+        "answer": "False",
+        "difficulty_level": "hard",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "True or False:  The La-BTTc framework collapses upon removal of the coordinated solvent molecules.",
+        "answer": "False",
+        "difficulty_level": "medium",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "True or False: ZIF-8 has strong Lewis acid sites.",
+        "answer": "False",
+        "difficulty_level": "easy",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "True or False:  La-BTTc is stable towards NH3 at temperatures up to 350 \u00b0C.",
+        "answer": "True",
+        "difficulty_level": "medium",
+        "question_type": "truefalse"
+    },
+    {
+        "question": "True or False: The catalytic activity of La-BTTc is significantly lower than the best prior results for PCPs.",
+        "answer": "False",
+        "difficulty_level": "medium",
+        "question_type": "truefalse"
+    }
+]

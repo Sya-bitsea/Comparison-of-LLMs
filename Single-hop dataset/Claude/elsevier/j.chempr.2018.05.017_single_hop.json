@@ -1,0 +1,125 @@
+s the single hop .json file for the given text:
+
+{
+  "questions": [
+    {
+      "question": "What are the two MOFs synthesized in this work?",
+      "answer": "The two MOFs synthesized in this work are [Zr6(μ3-O)4(μ3-OH)4(BDB)6] (BUT-66) and [Zr6(μ3-O)4(μ3-OH)4(NDB)6] (BUT-67).",
+      "difficulty": "easy",
+      "type": "factual" 
+    },
+    {
+      "question": "What are the ligands used to synthesize BUT-66 and BUT-67?",
+      "answer": "The ligands used to synthesize BUT-66 and BUT-67 are 4,4′-(benzene-1,3-diyl)dibenzoate (BDB2−) and 4,4′-(naphthalene-2,7-diyl)dibenzoate (NDB2−) respectively.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the topology of the frameworks in BUT-66 and BUT-67?",
+      "answer": "BUT-66 and BUT-67 have two-fold interpenetrated three-dimensional (3D) pcu-type frameworks.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are some key properties of BUT-66 and BUT-67?",
+      "answer": "BUT-66 and BUT-67 have small pore size, permanent porosity, high hydrolytic stability, hydrophobic pore and crystal surfaces.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does the benzene adsorption capacity of BUT-66 compare to benchmark adsorbents at low pressure and high temperature?",
+      "answer": "BUT-66 has higher volumetric benzene adsorption capacity at low pressure (0.12 kPa) and high temperature (80°C) compared to benchmark adsorbents like MIL-101(Cr), ZIF-8, MCM-41, PAF-1, and Carboxen 1000.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the benzene capture capacity of BUT-66 for 10 ppm benzene in air at room temperature?",
+      "answer": "BUT-66 can capture ca. 0.28 mmol cm−3 of benzene from air containing 10 ppm benzene at room temperature.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of humidity affect the benzene capture capacity of BUT-66?",
+      "answer": "The benzene capture capacity of BUT-66 is nearly uncompromised when the gas mixture is moisturized with RH ≈ 50%.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What insights do the single-crystal structures of guest-loaded BUT-66 provide about its high performance for BTEX capture?",
+      "answer": "The single-crystal structures reveal that the high BTEX capture performance of BUT-66 can be attributed to its small hydrophobic pores, mutually less-interfered hydrophobic and hydrophilic adsorption sites, and rigid overall framework with local rotatable phenyl rings.",
+      "difficulty": "hard",
+      "type": "reasoning" 
+    },
+    {
+      "question": "What are the two types of adsorbed benzene molecules found in BUT-66 and where are they located?",
+      "answer": "One type of adsorbed benzene molecule is located inside the window defined by a pair of BDB2− ligands (site i), and the other is located in the center of the 1D channel (site ii).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of host-guest interactions are observed between the adsorbed benzene molecules and the framework in BUT-66?",
+      "answer": "The adsorbed benzene molecules interact with the aromatic rings on the host framework in a T-shaped edge-to-face fashion through C–H···π interactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is network interpenetration the only factor contributing to the formation of small pores in BUT-66 and BUT-67?",
+      "answer": "No, both network interpenetration and the presence of angular ligands contribute to the formation of small pores in BUT-66 and BUT-67.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the bridging angle of the angular ligands BDB2− and NDB2− used in BUT-66 and BUT-67?",
+      "answer": "The angular ligands BDB2− and NDB2− have a bridging angle of approximately 120°.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The exterior crystal surfaces of BUT-66 and BUT-67 are hydrophilic.",
+      "answer": "False. The exterior crystal surfaces of BUT-66 and BUT-67 are hydrophobic, as indicated by their high water contact angles.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The interior pore surfaces of BUT-66 and BUT-67 are highly hydrophobic.",
+      "answer": "False. The interior pore surfaces of BUT-66 and BUT-67 are moderately hydrophobic based on their water vapor adsorption isotherms.",
+      "difficulty": "medium",
+      "type": "True or False"  
+    },
+    {
+      "question": "True or False: BUT-66 and BUT-67 are stable in pure water and acidic and weakly basic aqueous solutions.",
+      "answer": "True. BUT-66 and BUT-67 show high chemical stability in pure water and acidic and weakly basic aqueous solutions.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The benzene adsorption capacity of BUT-66 is higher than that of Carboxen 1000 at low pressure.",
+      "answer": "True. At low pressure, the volumetric benzene adsorption capacity of BUT-66 is more than twice as high as that of Carboxen 1000.",
+      "difficulty": "medium", 
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The framework of BUT-66 is completely rigid during the BTEX adsorption processes.",
+      "answer": "False. Although the overall framework of BUT-66 remains nearly unchanged, it exhibits local flexibility through the rotation of peripheral phenyl rings of the ligands during BTEX adsorption.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The benzene capture capacity of BUT-66 decreases significantly in the presence of 80% relative humidity.",
+      "answer": "False. BUT-66 retains ∼70% of its benzene capture capacity in dry conditions even when the humidity of the gas mixture is increased to RH ≈ 80%.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The presence of NO gas does not affect the benzene capture performance of BUT-66.",
+      "answer": "True. Breakthrough experiments show that the introduction of 1,000 ppm NO gas into the benzene-containing gas mixture does not obviously affect the benzene capture performance of BUT-66.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: BUT-66 and BUT-67 represent rare examples of Zr-MOFs with the pcu topology.",
+      "answer": "True. BUT-66 and BUT-67 represent rare examples of Zr-MOFs with the pcu topology.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]

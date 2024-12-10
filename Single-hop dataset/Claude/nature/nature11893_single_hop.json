@@ -1,0 +1,105 @@
+s a single hop .json file with 20 Q&As (6 factual, 7 reasoning, 7 True/False) based on the given text:
+
+{
+  "questions": [
+    {
+      "question": "What is the chemical formula of SIFSIX-2-Cu?",
+      "answer": "[Cu(dpa)2(SiF6)]n",
+      "type": "factual"
+    },
+    {
+      "question": "What is the pore size of SIFSIX-2-Cu?", 
+      "answer": "13.05 Å",
+      "type": "factual"
+    },
+    {
+      "question": "What is the chemical formula of the ligand dpa used to synthesize SIFSIX-2-Cu and SIFSIX-2-Cu-i?",
+      "answer": "1,2-bis(4-pyridyl)acetylene",
+      "type": "factual"
+    },
+    {
+      "question": "What is the pore size of SIFSIX-2-Cu-i?",
+      "answer": "5.15 Å",
+      "type": "factual" 
+    },
+    {
+      "question": "What is the chemical formula of SIFSIX-3-Zn?",
+      "answer": "[Zn(pyr)2(SiF6)]n",
+      "type": "factual"
+    },
+    {
+      "question": "What is the pore size of SIFSIX-3-Zn?",
+      "answer": "3.84 Å",
+      "type": "factual"
+    },
+    {
+      "question": "Why does SIFSIX-2-Cu-i exhibit substantially higher CO2 uptake compared to SIFSIX-2-Cu despite being a denser polymorph?",
+      "answer": "The higher CO2 uptake in SIFSIX-2-Cu-i is attributed to better overlap of attractive potential fields of opposite walls in its relatively narrower pores compared to SIFSIX-2-Cu.",
+      "type": "reasoning"
+    },
+    {
+      "question": "What properties enable SIFSIX-3-Zn to have high CO2 uptake at low partial pressures relevant for post-combustion CO2 capture?",
+      "answer": "The ultra-microporous pore size of SIFSIX-3-Zn leads to a sharp increase in CO2 uptake at low CO2 partial pressures, with the CO2 isotherm reaching saturation at pressures less than 0.3 bar.",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why does the presence of water vapor have a negligible effect on the CO2 capture performance of SIFSIX-2-Cu-i at elevated CO2 concentrations?",
+      "answer": "The high CO2 affinity of SIFSIX-2-Cu-i allows it to selectively adsorb CO2 over water vapor, especially at higher CO2 concentrations in the gas mixture.",
+      "type": "reasoning"
+    },
+    {
+      "question": "What structural features and sorption properties enable the SIFSIX compounds to achieve effective CO2 separation and capture?",
+      "answer": "The SIFSIX compounds combine equilibrium and kinetic adsorption selectivity in the same material through pore size control and favorable electrostatic interactions with the inorganic SiF6 anions.",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is SIFSIX-3-Zn particularly suitable for pre-combustion CO2 capture or H2 purification?",
+      "answer": "SIFSIX-3-Zn exhibits very high adsorption selectivity for CO2 over H2, greater than 1800, making it promising for separating CO2 from H2-rich gas mixtures.",
+      "type": "reasoning"
+    },
+    {
+      "question": "How do the kinetics of CO2 adsorption from gas mixtures on SIFSIX-3-Zn compare to the pure CO2 adsorption kinetics?",
+      "answer": "The CO2 adsorption kinetics from CO2-containing gas mixtures match the pure CO2 adsorption kinetics, indicating CO2 adsorbs more strongly and faster than other gases, occupying the sorption sites.",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is increasing the adsorption temperature a desirable feature for many CO2 separation applications using SIFSIX-3-Zn?",
+      "answer": "Increasing temperature does not significantly reduce the steepness of the CO2 adsorption isotherm on SIFSIX-3-Zn, allowing it to maintain high CO2 capacity and selectivity at elevated temperatures.",
+      "type": "reasoning"
+    },
+    {
+      "question": "SIFSIX-2-Cu-i is an interpenetrated polymorph of SIFSIX-2-Cu.",
+      "answer": "True",
+      "type": "True/False"
+    },
+    {
+      "question": "The apparent BET surface area of SIFSIX-3-Zn was determined from the N2 adsorption isotherm at 77 K.",
+      "answer": "False. The surface area of SIFSIX-3-Zn was determined from the CO2 adsorption isotherm at 298 K because it adsorbs minimal N2 at 77 K.",
+      "type": "True/False"
+    },
+    {
+      "question": "The isosteric heat of CO2 adsorption (Qst) for SIFSIX-2-Cu-i is higher than that of SIFSIX-2-Cu.",
+      "answer": "True",
+      "type": "True/False"
+    },
+    {
+      "question": "SIFSIX-3-Zn exhibits lower CO2/N2 and CO2/CH4 selectivity compared to SIFSIX-2-Cu-i in column breakthrough experiments.",
+      "answer": "False. SIFSIX-3-Zn shows much higher CO2/N2 and CO2/CH4 selectivity than SIFSIX-2-Cu-i in column breakthrough tests.",
+      "type": "True/False"
+    },
+    {
+      "question": "The CO2 adsorption selectivity of SIFSIX-3-Zn over CH4 and N2 is higher than that of benchmark MOFs like Mg-dobdc and zeolite 13X.",
+      "answer": "True",
+      "type": "True/False" 
+    },
+    {
+      "question": "SIFSIX-2-Cu-i maintains its crystallinity and CO2 capture performance after exposure to moisture.",
+      "answer": "True",
+      "type": "True/False"
+    },
+    {
+      "question": "SIFSIX-3-Zn undergoes an irreversible phase change when exposed to high relative humidity.",
+      "answer": "False. SIFSIX-3-Zn undergoes a reversible phase change at high humidity that can be reversed by heating under vacuum.",
+      "type": "True/False"
+    }
+  ]

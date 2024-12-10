@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What are the two families of robust MOFs studied in this research?",
+        "answer": "The two families of robust MOFs studied are UiO-66 and MFM-300.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the exceptional adsorption capacity of benzene exhibited by UiO-66-CuII at 298 K and 1.2 mbar?",
+        "answer": "UiO-66-CuII shows an exceptional adsorption of benzene of 3.92 mmol g\u22121 at 298 K and 1.2 mbar.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the high selectivity exhibited by MFM-300(Sc) for the separation of benzene/cyclohexane mixture?",
+        "answer": "MFM-300(Sc) exhibits a high selectivity of 166 for the separation of benzene/cyclohexane (v/v = 1/1) mixture.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What are the pore sizes of MFM-300(Sc) and MFM-300(Al)?",
+        "answer": "The pore size of MFM-300(Sc) is 8.1 \u00c5 and MFM-300(Al) is 6.5 \u00c5.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What type of isotherm is observed for cyclohexane adsorption in MFM-300(In)?",
+        "answer": "Type-\u2163 isotherm",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "Which MOF material represents a new benchmark for benzene/cyclohexane selectivity?",
+        "answer": "MFM-300(Sc)",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "UiO-66-CuII exhibits enhanced benzene adsorption compared to UiO-66. What is the reason for this improvement?",
+        "answer": "The introduction of atomically dispersed Cu(II) sites in UiO-66-CuII significantly enhances the adsorption of benzene.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why does UiO-66-CuI show a lower benzene uptake compared to UiO-66-CuII?",
+        "answer": "UiO-66-CuI exhibits lower benzene uptake due to the weaker Lewis acidity of Cu(I) sites compared to Cu(II) sites.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "How does the pore size of MFM-300 materials affect the selectivity for benzene over cyclohexane?",
+        "answer": "Larger pore sizes in MFM-300 materials generally lead to higher selectivity for benzene over cyclohexane due to stronger host-guest interactions and favorable guest-guest packing.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why does MFM-300(Al) show a decrease in isosteric heat of adsorption at high loading?",
+        "answer": "The narrow pore diameter of MFM-300(Al) restricts guest-guest interactions, leading to a decrease in isosteric heat of adsorption at high loading.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "Explain why the change in the FTIR v(OH) band is smaller for benzene adsorption in UiO-66 systems compared to MFM-300 materials.",
+        "answer": "The presence of Cu(II) sites in UiO-66 systems directly binds with benzene, leading to weaker -OH\u00b7\u00b7\u00b7\u03c0 interactions and smaller changes in the v(OH) band compared to MFM-300 materials.",
+        "difficulty": "hard",
+        "type": "reasoning"
+    },
+    {
+        "question": "What does the Lorentzian peak shape in 2H NMR spectra indicate about benzene dynamics in UiO-66 systems?",
+        "answer": "The Lorentzian peak shape indicates rapid (quasi-)isotropic motion of benzene molecules within the pores of UiO-66 systems.",
+        "difficulty": "hard",
+        "type": "reasoning"
+    },
+    {
+        "question": "What does the absence of a 13C peak in {1H-}13C cross-polarization MAS NMR experiments suggest about benzene dynamics in the studied MOFs?",
+        "answer": "The absence of a 13C peak suggests rapid reorientation of benzene molecules, averaging out dipolar interactions between framework 1H and benzene 13C centers.",
+        "difficulty": "hard",
+        "type": "reasoning"
+    },
+    {
+        "question": "True or False: The adsorption of benzene in UiO-66-CuII is irreversible.",
+        "answer": "False",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "True or False: The benzene uptake in UiO-66-CuII is higher than that of the benchmark BUT-54 under the same conditions.",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "True or False: Single-atom systems have been extensively studied for applications in gas adsorption.",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "True or False: The adsorption of cyclohexane in the studied MOFs is weaker than that of benzene.",
+        "answer": "True",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "True or False: The presence of defect sites in UiO-66-defect does not affect the cyclohexane uptake.",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "True or False: The binding of benzene to open Cu(II) sites in UiO-66-CuII is a novel observation.",
+        "answer": "True",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "True or False: The 2H NMR spectrum of d6-benzene in MFM-300(Sc) displays a Lorentzian peak, indicating isotropic motion.",
+        "answer": "False",
+        "difficulty": "hard",
+        "type": "truefalse"
+    }
+]

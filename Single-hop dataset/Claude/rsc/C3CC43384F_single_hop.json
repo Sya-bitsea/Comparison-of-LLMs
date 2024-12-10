@@ -1,0 +1,125 @@
+s a single hop .json file with 20 Q&As based on the given text:
+
+{
+  "questions": [
+    {
+      "question": "What is the chemical formula of the new lanthanoid porous coordination polymer synthesized in this study?",
+      "answer": "The new lanthanoid porous coordination polymer synthesized has the formula La-BTTc, where BTTc stands for benzene-1,3,5-tris(2-thiophene-5-carboxylate).",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the key structural feature of La-BTTc that enables the formation of densely aligned one-dimensional open metal sites?",
+      "answer": "In La-BTTc, the metal cations are aligned in a slightly zigzag one-dimensional chain with a La-La distance of 4.1 Å and are coordinated by DMF from the same direction. This enables the formation of densely aligned one-dimensional open metal sites after removal of the coordinated DMF.",
+      "difficulty": "medium",
+      "type": "reasoning"  
+    },
+    {
+      "question": "What technique was used to evaluate the Lewis acidity of the open metal sites in La-BTTc?",
+      "answer": "Infrared spectroscopy using acetone as a probe molecule was used to evaluate the Lewis acidity of the open metal sites in La-BTTc. The interaction of acetone with the acidic sites causes a low-frequency shift of the carbonyl stretching vibration.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What other lanthanoid analogs of La-BTTc were also synthesized in this study?",
+      "answer": "Ce-BTTc, Pr-BTTc and Nd-BTTc were also synthesized using the same procedure and found to be isostructural to La-BTTc.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the Brunauer-Emmett-Teller (BET) surface area of activated La-BTTc?",
+      "answer": "The calculated Brunauer-Emmett-Teller (BET) surface area of activated La-BTTc is 731 m2/g.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What catalytic reaction was used to test the Lewis acid catalysis of La-BTTc?",
+      "answer": "The cyanosilylation reaction of benzaldehyde with trimethylsilyl cyanide was used to test the Lewis acid catalysis of La-BTTc.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Why does La-BTTc show strong Lewis acidity compared to MIL-103 after removal of the coordinated solvent?",
+      "answer": "In MIL-103, removal of the coordinated solvent causes a change in coordination mode of the linker which maintains the coordination geometry around the metal. However, in La-BTTc, all carboxylate groups are already in the µ-carboxylato-1κ2O:2κO mode, so removal of DMF leads to a highly distorted 9-coordinated metal center showing strong Lewis acidity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the peak temperature of NH3 desorption observed for La-BTTc in the temperature-programmed desorption experiment?",
+      "answer": "The largest NH3 desorption peak for La-BTTc was observed at a very high temperature of 480 °C, followed by a shoulder at 500 °C and a small additional peak at 550 °C.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The thiophene rings in the BTTc linker of La-BTTc are more planar compared to the peripheral benzene rings in the BTB linker of MIL-103.",
+      "answer": "True. The average dihedral angle between the thiophene rings and central benzene ring in BTTc is 17°, much smaller than the ~35° angle between the peripheral and central benzene rings in BTB.",
+      "difficulty": "medium",
+      "type": "true_false"
+    },
+    {
+      "question": "True or False: The framework structure of La-BTTc remains stable after exposure to ammonia at temperatures up to 350 °C.",
+      "answer": "True. The XRPD pattern shows that the framework structure of La-BTTc was maintained even after exposure to ammonia at 350 °C.",
+      "difficulty": "easy",
+      "type": "true_false"  
+    },
+    {
+      "question": "What is the origin of the two different carbonyl stretching vibrations observed in the IR spectrum of acetone adsorbed in La-BTTc?",
+      "answer": "The two carbonyl stretching vibrations likely arise from steric repulsion between neighboring acetone molecules coordinated to the closely spaced La sites. Acetone cannot coordinate strongly when the next site is already occupied due to the short 4.1 Å La-La distance compared to acetone's 4.6 Å kinetic diameter.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What property of the thiophene-based BTTc linker is expected to lead to more rigid frameworks compared to the benzene-based BTB linker?",
+      "answer": "The thiophene rings in BTTc have higher planarity and can engage in nonbonded S-S interactions, both of which are expected to lead to more rigid frameworks compared to the BTB linker with peripheral benzene rings.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The NH3 desorption peak temperatures observed for La-BTTc are within the stable temperature range of the framework as determined by thermogravimetric analysis.",
+      "answer": "False. The NH3 desorption peaks at 480-550 °C are above the decomposition temperature of ~430 °C estimated for La-BTTc from the TGA data.",
+      "difficulty": "medium",
+      "type": "true_false"
+    },
+    {
+      "question": "What is the coordination mode of the carboxylate groups in the BTTc linker of La-BTTc?",
+      "answer": "In La-BTTc, all three carboxylate groups in the BTTc linker adopt a µ-carboxylato-1κ2O:2κO coordination mode to the La cations.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The catalytic activity of La-BTTc in the cyanosilylation reaction is comparable to the best prior results reported for porous coordination polymers.",
+      "answer": "True. The observed turnover number (TON) and turnover frequency (TOF) values for La-BTTc are comparable to the highest values reported for other PCPs used as Lewis acid catalysts in this reaction.",
+      "difficulty": "medium",
+      "type": "true_false"
+    },
+    {
+      "question": "What is the coordination number and geometry of the La cation in as-synthesized La-BTTc?",
+      "answer": "In the as-synthesized La-BTTc, the La cation is 10-coordinated with a SAPRS-10 geometry by nine oxygen atoms from carboxylate groups and one oxygen from a coordinated DMF molecule.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The hexagonal pores in La-BTTc have a regular shape similar to those in the corresponding BTB analog MIL-103.",
+      "answer": "False. The hexagonal pores in La-BTTc are somewhat flattened, whereas MIL-103 forms regular hexagonal pores. This is due to the tilt of the BTTc linker (~30°) from the ab plane in La-BTTc.",
+      "difficulty": "medium",
+      "type": "true_false"
+    },
+    {
+      "question": "How does the removal of coordinated DMF affect the coordination environment of La in La-BTTc?",
+      "answer": "The removal of coordinated DMF is expected to generate a highly distorted 9-coordinated La center in La-BTTc, since all carboxylate groups are already in the µ-carboxylato-1κ2O:2κO mode and cannot change coordination to compensate for the loss of DMF.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Among the porous coordination polymers tested, La-BTTc showed the smallest low-frequency shift of the acetone carbonyl stretching vibration, indicating the weakest Lewis acidity.",
+      "answer": "False. La-BTTc actually showed the largest low-frequency shift of ~30 cm-1 for the acetone carbonyl vibration, indicating it has the strongest Lewis acid sites among the PCPs tested.",
+      "difficulty": "easy",
+      "type": "true_false"  
+    },
+    {
+      "question": "What structural feature enables La-BTTc to maintain its framework integrity during the activation process, unlike some other PCPs?",
+      "answer": "The rigid framework of La-BTTc arising from the highly planar BTTc linker with π-stacking and S-S interactions allows it to maintain its structure during activation. Some other PCPs change their coordination modes and lose acidity during solvent removal.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]

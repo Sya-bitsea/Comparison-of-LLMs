@@ -1,0 +1,125 @@
+s the single hop .json file for the given text:
+
+{
+  "questions": [
+    {
+      "question": "What is the chemical formula of the starting material (NH4)[Au(d-Hpen)2] used in the synthesis?",
+      "answer": "The chemical formula of the starting material (NH4)[Au(d-Hpen)2] is C10H31.3AuN3O7.67S2.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the chemical formula of the intermediate [Au2Ag2(d-Hpen-S)4] formed in the synthesis?",
+      "answer": "The chemical formula of the intermediate [Au2Ag2(d-Hpen-S)4] is C20H48Ag2Au2N4O12S4.",
+      "type": "factual", 
+      "difficulty": "easy"
+    },
+    {
+      "question": "What are the three coinage metals incorporated in the final supramolecular structure?",
+      "answer": "The three coinage metals incorporated in the final supramolecular structure are gold(I), silver(I), and copper(II).",
+      "type": "factual",
+      "difficulty": "easy" 
+    },
+    {
+      "question": "What is the shape of the CuII coordination geometry in the final structure?",
+      "answer": "The CuII atoms exhibit a trans square planar geometry chelated by two N,O arms from two different [Au2Ag2(d-pen-S)4]4- units.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the coordination number and geometry of the AgI atoms that support the cage structure in the final product?",
+      "answer": "The AgI atoms that support the cage structure are trigonally coordinated by two S atoms from two different [Au2Ag2(d-pen-S)4]4- units and a Cl- atom.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is encapsulated in the center of each supramolecular cage in the final structure?",
+      "answer": "A Cl- ion is encapsulated in the center of each supramolecular cage in the final structure.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The intermediate [Au2Ag2(d-Hpen-S)4] likely has a square structure with the AuI and AgI atoms alternately bridged by what type of atoms?",
+      "answer": "The intermediate [Au2Ag2(d-Hpen-S)4] likely has a square structure with the AuI and AgI atoms alternately bridged by S atoms from the d-pen ligands.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Why does the 13C NMR signal of the tertiary C atom adjacent to S shift downfield in the intermediate compared to the starting material?",
+      "answer": "The downfield shift of the 13C NMR signal of the tertiary C atom adjacent to S in the intermediate suggests the AgI ions are connected to [Au(d-Hpen-S)2]- through the S atoms, since AgI has a tendency to coordinate to soft thiolato groups.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Why is the Cl- ion essential for the formation of the final supramolecular structure?",
+      "answer": "The Cl- ion is essential because it is incorporated in the center of each supramolecular cage. When CuNO3 was used instead of CuCl2, the final product did not form, showing the Cl- is necessary to template the cage structure.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "How do the monocationic and monoanionic cage clusters in the final structure combine to form the overall lattice?",
+      "answer": "The monocationic and monoanionic cage clusters are connected such that each anionic/cationic cage is octahedrally surrounded by six cationic/anionic cages to form a rock-salt-like lattice structure.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What interactions are present between the CuII centers in adjacent cages as revealed by EPR and magnetic measurements?",
+      "answer": "EPR shows a weak half-field transition band indicative of weak magnetic exchange between adjacent CuII centers. Magnetic measurements confirm a weak antiferromagnetic interaction between the CuII centers.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "How is the overall charge of each supramolecular cage ingeniously regulated to enable the formation of the rock-salt lattice?",
+      "answer": "The overall charge of each cage is ingeniously regulated by the attachment of neutral [AgCl]0 or cationic [Ag(H2O)]+ fragments, such that 20-nuclear monocationic and 21-nuclear monoanionic cages are formed which can then combine into the rock-salt lattice.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What does this work demonstrate about the types of supramolecular architectures that can be created from simple building blocks?",
+      "answer": "This work demonstrates that heterometallic supramolecular species exhibiting unique structures and multiple supramolecular interactions can be created exclusively from simple sulfur-containing aminocarboxylates by stepwise combination with appropriate transition metal ions.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "The final product contains metallophilic Au···Ag interactions.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The supramolecular cages in the final structure are uncharged.",
+      "answer": "False. The cages are monocationic and monoanionic.",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The CuII atoms in the final structure have an octahedral coordination geometry.",
+      "answer": "False. The CuII atoms have a trans square planar geometry.",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The intermediate [Au2Ag2(d-Hpen-S)4] exhibits photoluminescent properties.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "The final supramolecular structure collapses upon removal of solvating water molecules.",
+      "answer": "True. Powder XRD shows the lattice structure collapses after removal of water.",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "The encapsulated Cl- ions have short contacts with the outer CuII atoms in the cages.",
+      "answer": "False. The encapsulated Cl- ions have short contacts with the inner AgI atoms in the cages.",
+      "type": "true_false",
+      "difficulty": "medium"  
+    },
+    {
+      "question": "The final product is the first example of a supramolecular cage involving AgI, AuI and CuII ions.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "easy"
+    }
+  ]

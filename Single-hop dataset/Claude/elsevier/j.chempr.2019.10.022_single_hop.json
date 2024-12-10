@@ -1,0 +1,119 @@
+s the single hop .json file for the given text:
+
+{
+  "questions": [
+    {
+      "question": "What are the two metal-organic frameworks (MOFs) used for architectural stabilization of the gold(III) catalyst?",
+      "answer": "The two MOFs used are IRMOF-10 and bio-MOF-100.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What unimolecular decomposition pathway of the gold(III) catalyst is suppressed by incorporation into the MOFs?",
+      "answer": "The unimolecular decomposition pathway of reductive elimination is suppressed by incorporation of the gold(III) catalyst into the MOFs.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the homogeneous analog of the gold(III) catalyst prone to in solution?",
+      "answer": "The homogeneous analog of the gold(III) catalyst is prone to decomposition in solution.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What two benefits does stabilization of the catalyst in the MOFs provide?",
+      "answer": "Stabilization of the catalyst in the MOFs precludes leaching and enables recyclability.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What occupancy of the gold(III) precatalyst was achieved in IPrAu(III)Cl-IRMOF-10?",
+      "answer": "5-16% occupancy of the gold(III) precatalyst was achieved in IPrAu(III)Cl-IRMOF-10.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What occupancy of the gold(III) precatalyst was achieved in IPrAu(III)Cl-bio-MOF-100?",
+      "answer": "Up to 40% occupancy of the gold(III) precatalyst per substitutable site was achieved in IPrAu(III)Cl-bio-MOF-100.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Why does the inherent rigidity of the MOFs architecturally stabilize the gold(III) catalyst?",
+      "answer": "The inherent rigidity of the MOFs architecturally stabilizes the gold(III) catalyst by precluding the unimolecular decomposition pathway of reductive elimination, since this would require formation of a defect site or strain in the rigid framework.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "How does the binding mode of BPDC in bio-MOF-100 enable characterization of the gold(III) catalyst by SXRD?",
+      "answer": "Bio-MOF-100 has two symmetrically distinct BPDC moieties, allowing selective displacement of one type at low guest loading but high occupancy, enabling SXRD characterization of the gold(III) catalyst.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What evidence supports that catalysis is occurring within the pores of IRMOF-10 rather than on the surface or in solution?",
+      "answer": "The impact of substrate size on reactivity in IRMOF-10 supports that catalysis is occurring within the pores. Larger substrates showed decreased or no reactivity compared to smaller substrates, while the homogeneous catalyst was active with all substrates.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "How does the recyclability of the Au(III)-MOF catalysts over multiple cycles demonstrate the robustness provided by architectural stabilization?",
+      "answer": "The recyclability of the Au(III)-MOF catalysts over 7 cycles with retained activity demonstrates the robustness provided by architectural stabilization in preventing catalyst decomposition.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the proposed reason for the decrease in reactivity of IPrAu(III)SbF6-IRMOF-10 in later catalytic cycles?",
+      "answer": "The decrease in reactivity of IPrAu(III)SbF6-IRMOF-10 in later cycles is proposed to be due to slow trapping of Au(III)Cl species by AgCl within the pores.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What two strategies were used to introduce the gold(III) catalyst into the MOFs with different BPDC binding modes?",
+      "answer": "A mixed-linker synthesis was used to incorporate the gold(III) precatalyst into IRMOF-10, while a solvent-assisted linker exchange was used for bio-MOF-100.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "True or False: The homogeneous analog of the gold(III) catalyst showed no decomposition under the reaction conditions.",
+      "answer": "False. The homogeneous analog showed 68-78% decomposition to reductive elimination products under the reaction conditions, while the MOF catalysts showed less than 5% decomposition.",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "True or False: The gold(III) catalyst was more stable in IRMOF-10 compared to bio-MOF-100.",
+      "answer": "False. Both IRMOF-10 and bio-MOF-100 provided architectural stabilization of the gold(III) catalyst, showing less than 5% decomposition compared to 68-78% for the homogeneous analog.",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "True or False: The MOF catalysts could be recycled for at least 7 cycles with no loss in activity.",
+      "answer": "True. Both IPrAu(III)SbF6-IRMOF-10 and IPrAu(III)PF6-bio-MOF-100 showed recyclable reactivity over 7 cycles.",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "True or False: The binding mode of BPDC was the same in IRMOF-10 and bio-MOF-100.",
+      "answer": "False. Bio-MOF-100 possesses a unique binding mode of BPDC to the SBU compared to IRMOF-10, offering an alternative strategy to rigidify the biphenyl ligand.",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "True or False: Reductive elimination of the gold(III) catalyst would result in strain or defect formation in the rigid MOF.",
+      "answer": "True. Reductive elimination in the rigid MOF would either necessitate the formation of a defect site or result in strain throughout the material.",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "True or False: The zinc-based SBUs were responsible for the observed catalytic reactivity.",
+      "answer": "False. Control experiments showed that the zinc-based SBUs and silver salt alone did not yield any product. The cationic gold(III) species generated by chloride abstraction were responsible for the catalysis.",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "True or False: Chloride abstraction from the gold(III) precatalyst was achieved using the same reagent in both MOFs.",
+      "answer": "False. AgSbF6 was used for chloride abstraction in IRMOF-10 to generate the active catalyst, while TlPF6 was used in bio-MOF-100 to avoid MOF degradation.",
+      "type": "true_false",
+      "difficulty": "hard"
+    }
+  ]

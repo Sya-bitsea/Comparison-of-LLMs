@@ -1,0 +1,123 @@
+
+[
+  {
+    "question": "What is the hallmark of the pairwise linking approach for MOCs described in this work?",
+    "answer": "The hallmark of this approach is the ability to pre-program the positioning of multiple metal ions and ligand-based functionalities within a structurally well-defined porous material.",
+    "type": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What type of crystalline materials are formed by linking Cu4L4 and Rh4L4 MOCs?", 
+    "answer": "Linking Cu4L4 and Rh4L4 MOCs results in an unprecedented class of multivariate crystalline materials.",
+    "type": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the space group and unit cell parameters of the 2D MOF {[1-Cu]·[2-Rh]2}n (3)?",
+    "answer": "The 2D MOF {[1-Cu]·[2-Rh]2}n (3) crystallizes in the tetragonal space group I4/m with unit cell parameters a = 32.444(5) Å, c = 25.626(5) Å.",
+    "type": "factual", 
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the Brunauer–Emmett–Teller surface area of {[1-Cu]·[2-Rh]2}n (3) based on N2 adsorption at 77 K?",
+    "answer": "The Brunauer–Emmett–Teller surface area of {[1-Cu]·[2-Rh]2}n (3) is 422 m2/g based on N2 adsorption at 77 K.",
+    "type": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the calculated energy for the ligand exchange reaction between Cu and Rh paddlewheel complexes based on DFT calculations?",
+    "answer": "The calculated energy for the ligand exchange reaction between Cu and Rh paddlewheel complexes is ΔE = −7.6 kcal mol-1 based on DFT calculations.",
+    "type": "factual",
+    "difficulty": "medium" 
+  },
+  {
+    "question": "What techniques were used to activate the mixed-cage MOF samples for gas adsorption measurements?",
+    "answer": "The mixed-cage MOF samples were activated by repeatedly soaking in acetone over 24 hours, followed by supercritical CO2 drying.",
+    "type": "factual",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Why does changing the stoichiometry of 1-Cu and 2-Rh result in different mixed-cage solid structures?",
+    "answer": "Changing the stoichiometry impacts the number of aniline donors from 1-Cu that can coordinate to the axial Rh sites of 2-Rh. This leads to different connectivity and dimensionality of the resulting mixed-cage solids.",
+    "type": "reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Why is the Rh-aniline coordination critical for the pairwise linking of 1-Cu and 2-Rh into mixed-cage MOFs?",
+    "answer": "The Rh-aniline coordination is critical because it is highly directional and preferential over Cu-aniline coordination. This allows for rational and predictable linking of the two MOCs into well-defined structures.",
+    "type": "reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How does the porosity of the mixed-cage MOF 3 compare to the discrete 1-Cu and 2-Rh MOCs based on the gas adsorption data?",
+    "answer": "The mixed-cage MOF 3 shows significantly higher porosity compared to the discrete 1-Cu and 2-Rh MOCs. 3 is porous to N2 at 77 K unlike the discrete MOCs, and has a much higher CO2 uptake and surface area at 195 K.",
+    "type": "reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Why do the authors propose that DMA competes more strongly than DMF for coordination at the Rh paddlewheel sites?",
+    "answer": "The authors propose this because 3 forms spontaneously in DMF but requires diffusion of a non-coordinating solvent to form in DMA. This suggests DMA coordinates more strongly and competes with the Rh-aniline linking.",
+    "type": "reasoning", 
+    "difficulty": "hard"
+  },
+  {
+    "question": "What structural features of the Cu paddlewheel complex may contribute to the preference for Rh-aniline over Cu-aniline coordination?",
+    "answer": "The DFT optimized structure of the Cu-aniline paddlewheel complex shows tilting of the Cu-O-O-Cu dihedral angles and a shorter Cu-N bond compared to the Rh analog. This suggests increased steric hindrance for aniline coordination to Cu.",
+    "type": "reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How do the authors envision this MOC linking approach could be extended to enable access to a wider range of multifunctional MOFs?",
+    "answer": "The authors propose optimizing the interaction energy and coordination preference could allow this approach to be extended to a broad range of paddlewheel MOCs. This would enable access to multifunctional MOFs with programmable connectivity and dimensionality.",
+    "type": "reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Based on the TGA data, does aniline desolvation occur at a higher temperature for the Rh paddlewheel complex compared to the Cu analog?",
+    "answer": "Yes, the TGA data shows aniline desolvation occurs at a higher temperature (~111 °C) for the Rh paddlewheel complex compared to ~80 °C for the Cu analog.",
+    "type": "reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The pairwise linking of 1-Cu and 2-Rh represents the first example of two different preformed MOCs being linked into a mixed-MOF material.",
+    "answer": "True",
+    "type": "true_false",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The 2D MOF 3 adopts a (4,4)-net topology, where 1-Cu and 2-Rh act as four-connecting and two-connecting nodes respectively.",
+    "answer": "True",
+    "type": "true_false",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The discrete 1-Cu and 2-Rh MOCs are porous to N2 at 77 K.",
+    "answer": "False. The discrete 1-Cu and 2-Rh MOCs are non-porous to N2 at 77 K, likely due to random structural aggregation upon activation.",
+    "type": "true_false",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Crystals of the mixed-cage MOFs 3 and 4 can only be obtained when using DMA as the solvent.",
+    "answer": "False. Crystals of 3 and 4 can be obtained from both DMF and DMA as solvents.",
+    "type": "true_false",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The Cu-N aniline bond is longer than the Rh-N aniline bond in the linked mixed-cage MOFs based on the crystallographic data.",
+    "answer": "False. The crystallographic data shows the Rh-N aniline bond is actually longer by 0.4 Å compared to the Cu-N bond in the linked MOCs.",
+    "type": "true_false",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The Rh paddlewheel complexes have an open-shell singlet ground state with antiferromagnetically coupled unpaired electrons according to DFT calculations.",
+    "answer": "False. The DFT calculations predict the Rh paddlewheel complexes have a closed-shell ground state with a Rh-Rh bond, while it is the Cu complexes that have the open-shell antiferromagnetically coupled ground state.",
+    "type": "true_false",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Compound 8, a pyridyl-functionalized dicarboxylate ligand, was successfully used to assemble a Cu paddlewheel based MOC.",
+    "answer": "False. Attempts to assemble a Cu MOC with compound 8 resulted in immediate precipitation, likely because the pyridyl donor interferes with Cu-mediated self-assembly.",
+    "type": "true_false",
+    "difficulty": "medium"
+  }
+]

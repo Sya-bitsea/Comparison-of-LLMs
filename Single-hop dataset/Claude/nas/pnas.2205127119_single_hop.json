@@ -1,0 +1,119 @@
+s a single hop .json file with 20 questions of different types (6 factual, 7 reasoning, 7 True/False) based on the given text:
+
+{
+  "questions": [
+    {
+      "question": "What is the chemical formula of the HOTP linker used in the synthesis of Ln1.5HOTP?",
+      "answer": "H6HOTP (2,3,6,7,10,11-hexaoxytriphenylene)",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the space group of the La1.5HOTP crystal structure at 375 K?", 
+      "answer": "P21/n",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the highest electrical conductivity reported for Ln1.5HOTP in this study?",
+      "answer": "Above 1,000 S/cm",
+      "type": "factual", 
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the critical temperature (Tc) of the charge density wave transition in La1.5HOTP?",
+      "answer": "361 K",
+      "type": "factual",
+      "difficulty": "medium" 
+    },
+    {
+      "question": "What is the critical exponent (β) of the charge density wave transition in both La1.5HOTP and Nd1.5HOTP?",
+      "answer": "1/3",
+      "type": "factual",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What functional was used for the DFT calculations on La1.5HOTP to obtain the electronic band structure and density of states?",
+      "answer": "GGA-PBEsol exchange-correlation functional",
+      "type": "factual",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Why do the Ln1.5HOTP frameworks show high electrical conductivity along the c-axis direction?",
+      "answer": "The short π-π stacking distance between neighboring HOTP linkers along the c-axis enables efficient charge delocalization and formation of disperse electronic bands.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What evidence suggests that the incommensurate structural modulation in Ln1.5HOTP below 370 K has an electronic origin rather than being caused by steric effects or guest solvent molecules?",
+      "answer": "The materials are metallic and show a BCS-like temperature dependence of the satellite reflection intensities, which is characteristic of charge density wave ordering originating from a metallic state.",
+      "type": "reasoning",
+      "difficulty": "hard" 
+    },
+    {
+      "question": "How do the Raman spectra provide evidence for the charge density wave transition in Ln1.5HOTP?",
+      "answer": "The Raman spectra show clear anomalies and discontinuities in the intensities and positions of vibrational modes originating from the HOTP linker at the charge density wave transition temperature of 350-360 K.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Why were the synthetic conditions modified compared to the previous report on cation-deficient Ln1.5-xHOTP materials?",
+      "answer": "To prevent overoxidation of the linker, enable in-situ deprotonation, and allow more reversible metal-ligand bond formation to produce larger crystals suitable for single-crystal studies.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Based on the electronic band structures, why do the Ln-O bonds in the ab plane not provide an efficient pathway for charge delocalization in Ln1.5HOTP?",
+      "answer": "The Ln-O bonds are highly ionic and only allow negligible charge delocalization, resulting in flat electronic bands and a bandgap in the ab plane directions.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Why does Nd1.5HOTP have additional flat electronic bands above the Fermi level compared to La1.5HOTP?",
+      "answer": "The partially filled 4f orbitals of the Nd3+ ions introduce additional flat bands that are mostly Nd-originated above the Fermi level in Nd1.5HOTP.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Is the following statement true or false? The Ln1.5HOTP materials show temperature-activated semiconducting behavior in their electrical conductivity.",
+      "answer": "False. The materials show clear temperature-deactivated metallic conductivity.",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Is the following statement true or false? The charge density wave transition temperature of 360-375 K in Ln1.5HOTP is the highest reported for any organic-based material.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Is the following statement true or false? The incommensurate structural modulation in Ln1.5HOTP is caused by guest solvent molecules in the pores.",
+      "answer": "False. The modulation is intrinsic to the framework and has an electronic origin related to the metallic state of the materials.",
+      "type": "true_false", 
+      "difficulty": "medium"
+    },
+    {
+      "question": "Is the following statement true or false? The Ln1.5HOTP frameworks have a perfect hexagonal symmetry.",
+      "answer": "False. The apparent hexagonal symmetry is broken by 10% of the metal sites deviating from their idealized positions, leading to a monoclinic crystal system.",
+      "type": "true_false",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Is the following statement true or false? The electronic band structures of La1.5HOTP and Nd1.5HOTP are qualitatively identical.",
+      "answer": "False. While similar, Nd1.5HOTP has additional flat bands above the Fermi level originating from the partially filled Nd 4f orbitals.",
+      "type": "true_false",
+      "difficulty": "medium" 
+    },
+    {
+      "question": "Is the following statement true or false? Charge density wave ordering is commonly observed in electrically insulating metal-organic frameworks.",
+      "answer": "False. Charge density wave ordering necessarily originates in metallic systems and has never been observed in any other porous material before this study.",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Is the following statement true or false? The electrical conductivity of Ln1.5HOTP measured on single crystals is orders of magnitude higher than previously reported values measured on pressed pellets.",
+      "answer": "True. The single crystal conductivity is up to six orders of magnitude higher, likely due to the absence of grain boundary resistance present in pellet measurements.",
+      "type": "true_false",
+      "difficulty": "medium"
+    }
+  ]

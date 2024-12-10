@@ -1,0 +1,123 @@
+
+[
+  {
+    "question": "What type of ligand was used to construct the chiral porous metal-metallosalan frameworks?",
+    "answer": "An unsymmetrical chiral pyridinecarboxylate ligand derived from Ti(salan) was used to construct the chiral porous metal-metallosalan frameworks.",
+    "type": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What metals were used to construct the frameworks 1 and 2?",
+    "answer": "Cadmium (Cd) was used to construct framework 1, while zinc (Zn) was used to construct framework 2.",
+    "type": "factual", 
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the oxidant used for the asymmetric oxidation of thioethers catalyzed by the chiral MOFs?",
+    "answer": "Aqueous H2O2 was used as the oxidant for the asymmetric oxidation of thioethers catalyzed by the chiral MOFs.",
+    "type": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the space group of the crystal structure of MOF 1?",
+    "answer": "MOF 1 crystallizes in the chiral orthorhombic P21212 space group.",
+    "type": "factual",
+    "difficulty": "medium" 
+  },
+  {
+    "question": "What is the coordination environment of the Ti centers in the Ti2L2(μ2-O) dimer building unit of MOF 1?",
+    "answer": "The Ti centers in the Ti2L2(μ2-O) dimer are six-coordinate octahedral, enclosed in the N2O2 pockets, binding one MeO- anion and linked by one μ2-O atom.",
+    "type": "factual",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the maximum inner width of the distorted octahedral cage in MOF 1?",
+    "answer": "The distorted octahedral cage in MOF 1 has a maximum inner width of ∼1.7 nm considering van der Waals radii.",
+    "type": "factual",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Why do the chiral MOF catalysts exhibit enhanced enantioselectivity compared to the homogeneous TiL catalyst?",
+    "answer": "The increased enantioselectivity may arise from geometrical constraints imposed by the unique chiral micro-environments around the site-isolated Ti centers in the MOFs, which may effectively restrict molecular motion, leading to efficient enantiodiscrimination.",
+    "type": "reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What evidence suggests that the asymmetric sulfoxidation reaction occurs inside the pores of the chiral MOF catalyst rather than on the surface?",
+    "answer": "When a sterically bulky substrate benzyl 2-naphthyl sulfide was subjected to the oxidation conditions, less than 5% conversion was observed with MOF 1 compared to 88% with the homogeneous TiL catalyst. This suggests the bulky substrate cannot access the catalytic Ti sites inside the porous MOF structure.",
+    "type": "reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Why does MOF 1 exhibit lower turnover frequency (TOF) compared to the homogeneous TiL catalyst for sulfoxidation reactions?",
+    "answer": "The lower TOF of MOF 1 is likely due to the slower diffusion of substrates in the porous MOF structure, which makes the access of the substrate to the active Ti sites slower compared to the homogeneous system.",
+    "type": "reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How does the introduction of electron-withdrawing or electron-donating groups on the sulfide substrate affect the catalytic performance of MOF 1?",
+    "answer": "Introduction of an electron-withdrawing -NO2 group led to slightly lower conversion, while an electron-donating -OMe group gave comparable conversion and enantioselectivity to the unsubstituted substrate. Substrates with electron-rich aryl groups tended to give higher enantioselectivities.",
+    "type": "reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What structural features of MOF 1 contribute to its ability to act as an enantioselective heterogeneous catalyst?",
+    "answer": "The channel surfaces of MOF 1 are uniformly lined with chiral Ti2L2(μ2-O) units with accessible Ti sites pointing to the open channels. This provides a unique chiral microenvironment that enables enantioselective sulfoxidation catalysis.",
+    "type": "reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "How does the size of the alkyl group on the sulfide substrate affect the catalytic activity of MOF 1?",
+    "answer": "Increasing the size of the alkyl group from methyl to isopropyl still gave good conversion, but a bulkier benzyl group significantly decreased the conversion, likely due to slower mass-diffusion of the bulky substrate in the porous MOF structure.",
+    "type": "reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What experimental evidence confirms that MOF 1 is acting as a truly heterogeneous catalyst without leaching of active species?",
+    "answer": "Filtration tests showed the supernatant solution after catalyst removal did not catalyze further oxidation. ICP analysis also showed negligible metal leaching from the MOF. The recycled MOF retained its crystallinity and catalytic activity over multiple cycles.",
+    "type": "reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "MOF 2 is isostructural to MOF 1 and contains the same chiral Ti-salan building units.",
+    "answer": "True",
+    "type": "true_false",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The chiral MOF catalysts exhibit lower enantioselectivity compared to the homogeneous TiL catalyst for sulfoxidation reactions.",
+    "answer": "False. The chiral MOFs exhibit enhanced enantioselectivity compared to the homogeneous TiL catalyst.",
+    "type": "true_false",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The asymmetric sulfoxidation reaction catalyzed by the MOFs occurs on the outer surface of the crystallites rather than inside the pores.",
+    "answer": "False. Experimental evidence suggests the reaction occurs inside the pores of the MOF and not just on the surface.",
+    "type": "true_false",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The chiral MOF catalysts can be recycled and reused multiple times without significant loss of activity or enantioselectivity.",
+    "answer": "True",
+    "type": "true_false", 
+    "difficulty": "easy"
+  },
+  {
+    "question": "Substrates with electron-withdrawing groups give higher conversions and enantioselectivities compared to those with electron-donating groups in the MOF-catalyzed sulfoxidation.",
+    "answer": "False. Substrates with electron-donating groups tended to give higher enantioselectivities, while electron-withdrawing groups decreased the conversion.",
+    "type": "true_false",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The stereoselectivity of the chiral MOF catalysts rivals that of the analogous homogeneous catalysts.",
+    "answer": "True. The chiral MOFs exhibited enhanced enantioselectivity compared to the homogeneous TiL catalyst, rivaling its stereoselectivity.",
+    "type": "true_false",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Significant metal leaching from the MOF structure was observed during the catalytic reactions as determined by ICP analysis.",
+    "answer": "False. ICP analysis indicated negligible metal leaching from the MOF structure during catalysis.",
+    "type": "true_false",
+    "difficulty": "easy"
+  }
+]

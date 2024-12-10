@@ -1,0 +1,158 @@
+[
+    {
+        "question": "What contributes to the small pore size in BUT-66 and BUT-67?",
+        "answer": "Both network interpenetration and the presence of angular ligands.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the bridging angle of the NDB ligand?",
+        "answer": "120 degrees.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the benzene uptake of BUT-66 at 0.12 kPa and 80\u00b0C?",
+        "answer": "1.65 mmol g\u22121",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the name of the commercial carbon molecular sieve used in the study?",
+        "answer": "Carboxen 1000.",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the calculated density of BUT-66?",
+        "answer": "1.06 g cm\u22123",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the space group of BUT-66a?",
+        "answer": "R-3",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "BUT-66a was synthesized solvothermally using a 1:1 ratio of Zr4+ atoms to the H2BDB ligand. True or False?",
+        "answer": "False",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "BUT-67 single crystals crack when guest exchanged with methanol. True or False?",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "The chemical stability of BUT-66 is greater than that of BUT-67. True or False?",
+        "answer": "True",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "How does increasing adsorption temperature usually effect adsorbate uptake?",
+        "answer": "Increasing adsorption temperature usually suppresses the adsorbate uptake of porous adsorbents.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "What type of isotherm does BUT-66 exhibit for benzene?",
+        "answer": "Type I isotherms.",
+        "difficulty": "easy",
+        "type": "reasoning"
+    },
+    {
+        "question": "Which material has the highest gravimetric benzene uptake at near room temperature?",
+        "answer": "PAF-1",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "How does the benzene capture capacity of BUT-66 change at 80 degrees C compared to room temperature?",
+        "answer": "The benzene capture capacity decreases at 80 degrees C because the adsorption process is exothermic and increasing adsorption temperature normally suppresses adsorbate uptake.",
+        "difficulty": "hard",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why does ZIF-8 exhibit almost no benzene capture capacity despite moderate uptake at equilibrium?",
+        "answer": "The discrepancy originates from its extremely small windows (\u223c3.3\u00a0\u00c5) between large cages (\u223c12.5\u00a0\u00c5), which are kinetically slow to open and thus not favored for uptake of benzene molecules in a dynamic adsorption process.",
+        "difficulty": "hard",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why are adsorbents with high volumetric adsorption capacity preferred?",
+        "answer": "Adsorbents with high volumetric adsorption capacities are preferred when the volume of a separation column or tank is limited in a real application.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why is co-adsorption of water not a significant issue for BUT-66?",
+        "answer": "Adsorption of any type of molecule on the corresponding adsorption sites would not affect the adsorption of the others evidently. Consequently, co-adsorption of water and BTEX molecules in BUT-66 could proceed without significantly lowering its adsorption capacity for the hydrocarbons.",
+        "difficulty": "hard",
+        "type": "reasoning"
+    },
+    {
+        "question": "The volumetric benzene adsorption capacity of BUT-66 is half that of Carboxen 1000. True or False?",
+        "answer": "False",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "Why is the exterior hydrophobicity of BUT-66 and BUT-67 unique?",
+        "answer": "In this case, the crystal surfaces of BUT-66 and BUT-67 were not post-modified, and their ligands featured only angular aromatic backbones without an alkyl or fluorine substituent.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "The pores in BUT-66 are non-uniform. True or False?",
+        "answer": "False",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "What topology do BUT-66 and BUT-67 frameworks exhibit?",
+        "answer": "pcu-type network.",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "BUT-10 and BUT-11 are constructed from slightly more bent ligands than MOF-802, DUT-51, and DUT-67. True or False?",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "Why was the plastic stopper of the sample tube removed during hydrocarbon vapor adsorption experiments?",
+        "answer": "To avoid extra adsorption of hydrocarbon vapors by the plastic stopper.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "ZIF-8 has a higher density than BUT-66. True or False?",
+        "answer": "False",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "The adsorption capacity of BUT-66 is significantly compromised when the gas mixture is moisturized with RH \u2248 50%. True or False?",
+        "answer": "False",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "What type of interaction is exhibited between adsorbed benzene and the framework in BUT-66?",
+        "answer": "T-shaped edge-to-face interaction.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "What are the three geometries for two aromatic rings involved in \u03c0-\u03c0 interactions?",
+        "answer": "Parallel-displaced, T-shaped edge-to-face, and eclipsed face-to-face stacking.",
+        "difficulty": "medium",
+        "type": "factual"
+    }
+]

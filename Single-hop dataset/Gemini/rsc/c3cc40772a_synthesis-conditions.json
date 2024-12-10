@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the primary function of anions in supramolecular chemistry?",
+        "answer": "The design of molecular containers capable of selectively interacting with anions is a topic of continuous interest in supramolecular chemistry due to the essential function played by anions.",
+        "difficulty_level": "factual",
+        "question_type": "factual"
+    },
+    {
+        "question": "What type of metal ion is used in the study?",
+        "answer": "The authors selected silver as a coordination metal because it has a pronounced ability to form two-coordination linear complexes.",
+        "difficulty_level": "factual",
+        "question_type": "factual"
+    },
+    {
+        "question": "What are ICEs?",
+        "answer": "ICEs stands for Inverse Crown Ethers and is the term used to describe host\u2013guest ring systems, which topologically display an inverse relationship with conventional crown ether complexes.",
+        "difficulty_level": "factual",
+        "question_type": "factual"
+    },
+    {
+        "question": "What method was used to prepare ligand L1?",
+        "answer": "Ligand L1 was prepared by reacting 2-chloropyrimidine with propane-1,3-diamine in a mixture of n-butanol and triethylamine under reflux.",
+        "difficulty_level": "factual",
+        "question_type": "factual"
+    },
+    {
+        "question": "How is ligand L2 prepared?",
+        "answer": "Ligand L2 was prepared using similar conditions to L1 but using 1,4,7-triazaheptane instead of propane-1,3-diamine.",
+        "difficulty_level": "factual",
+        "question_type": "factual"
+    },
+    {
+        "question": "What type of interactions stabilize the nitrate anion in the H1 complex?",
+        "answer": "Each nitrate forms two hydrogen bonds with the N\u2013H groups and it is further stabilized electrostatically by the charged metal center.",
+        "difficulty_level": "factual",
+        "question_type": "factual"
+    },
+    {
+        "question": "Why is the macrocycle not observed when BF4- anion is used?",
+        "answer": "The formation of the macrocycle is not observed when the BF4- anion is used because its very poor metal-coordination ability likely complicates the formation of the macrocycle.",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "How does the tosylate anion induce the formation of the macrocycle?",
+        "answer": "The tosylate anion induces the formation of the macrocycle by interacting with two anions. Each sulfate group interacts with one Ag+ of the host and the N\u2013H groups that are located furthest from that AgI metal center.",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What causes the different conformation of the aliphatic chain in the 2TsO- @H1 complex?",
+        "answer": "The interaction of the sulfate group with one Ag+ of the host and the N\u2013H groups located furthest from that AgI metal center provokes a different conformation of the aliphatic chain that connects both N\u2013H groups.",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why is the orientation of the nitrate ions different in the H2 complex compared to the H1 complex?",
+        "answer": "The orientation of the ions is different in the H2 complex compared to the H1 complex, allowing the formation of shorter N\u2013H   O hydrogen bonds compared to 2NO3\u2212@H1 and additional C\u2013H   O bonds that further stabilize the complex.",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What is the role of water molecules in the 2BF4- @H2 complex?",
+        "answer": "In the 2BF4\u2212@H2 complex, two water molecules are present connecting the N\u2013H groups with the anions. Each anion forms a bifurcated H-bond with two water molecules and it is located at 3.05 \u00c5 from the Ag+ ion.",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why is the optimized geometry of the H2 complex different from the X-ray crystal structure?",
+        "answer": "The optimized geometry of the H2 complex is different from the X-ray crystal structure because the theoretical study did not consider additional Ag+ metal centers bridging the pyrimidine rings, which are present in the X-ray crystal structure.",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What additional interactions stabilize the H2 complex with nitrate anions compared to the H1 complex?",
+        "answer": "In addition to the hydrogen bonds observed in the H1 complex, the H2 complex with nitrate anions is further stabilized by C\u2013H\u00b7\u00b7\u00b7O bonds.",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "True or False: The study solely relies on experimental methods to investigate the metallomacrocycles.",
+        "answer": "False. The study uses both theoretical (DFT calculations) and experimental (X-ray crystallography) methods.",
+        "difficulty_level": "easy",
+        "question_type": "true_false"
+    },
+    {
+        "question": "True or False: Both L1 and L2 ligands are synthesized using identical reaction conditions.",
+        "answer": "False. Although similar conditions are used, the synthesis of L2 differs from L1 by using 1,4,7-triazaheptane instead of propane-1,3-diamine.",
+        "difficulty_level": "easy",
+        "question_type": "true_false"
+    },
+    {
+        "question": "True or False: The BF4- anion exhibits a strong ability to coordinate with metals.",
+        "answer": "False. BF4- has very poor metal-coordination ability, likely due to its tetrahedral geometry and charge distribution.",
+        "difficulty_level": "medium",
+        "question_type": "true_false"
+    },
+    {
+        "question": "True or False: The theoretical calculations suggest that the tosylate anion forms the most stable complexes with both H1 and H2 hosts.",
+        "answer": "True. The DFT calculations indicate that the TsO- anion has the most favorable binding energy for both hosts, likely due to additional \u03c0-\u03c0 stacking interactions.",
+        "difficulty_level": "hard",
+        "question_type": "true_false"
+    },
+    {
+        "question": "True or False: The researchers successfully obtained X-ray crystal structures for all combinations of ligands (L1, L2) and anions (NO3-, BF4-, TsO-).",
+        "answer": "False. While structures were obtained for most combinations, attempts to obtain suitable crystals for the X-ray elucidation of the 2TsO\u2212@H2 complex were unsuccessful.",
+        "difficulty_level": "medium",
+        "question_type": "true_false"
+    },
+    {
+        "question": "True or False: The study concludes that the synthesized molecular hosts have no potential as anion-binding receptors.",
+        "answer": "False. The initial results highlight the potential of these molecular hosts as anion-binding receptors, and further investigation into their host-guest behavior in solution is underway.",
+        "difficulty_level": "easy",
+        "question_type": "true_false"
+    },
+    {
+        "question": "True or False: The formation of the macrocycle is always observed regardless of the anion used.",
+        "answer": "False. The formation of the macrocycle depends on the anion used. For instance, it's not observed with BF4- but is observed with TsO- and NO3-.",
+        "difficulty_level": "medium",
+        "question_type": "true_false"
+    }
+]

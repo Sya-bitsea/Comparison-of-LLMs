@@ -1,0 +1,125 @@
+s a single hop .json file with 20 questions and answers based on the given text about zeolite A imidazolate frameworks:
+
+{
+  "questions": [
+    {
+      "question": "What are the two technologically important porous zeolites mentioned in the text?",
+      "answer": "Faujasite (FAU) and zeolite A (LTA) are the two technologically important porous zeolites mentioned.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What are zeolitic imidazolate frameworks (ZIFs) based on?",
+      "answer": "ZIFs are based on metal imidazolates that share many riches of zeolite chemistry.",
+      "type": "factual", 
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the T-Im-T angle in ZIFs close to?",
+      "answer": "The T-Im-T angle in ZIFs is close to 145°, similar to the Si-O-Si angle typically found in zeolites.",
+      "type": "factual",
+      "difficulty": "medium" 
+    },
+    {
+      "question": "What positions of nitrogen atoms in the imidazolate linker are key for forming the LTA structure in ZIFs?",
+      "answer": "Replacing carbon atoms with nitrogen at positions 5 or 5 and 7 of the imidazolate linker led to ZIFs based on LTA structures.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the cubic unit cell parameter a for ZIF-20?",
+      "answer": "The cubic unit cell of ZIF-20 has a = 45.4725(2) Å.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the density of metal atoms per unit volume in ZIF-20 compared to zeolite A?",
+      "answer": "The density of metal atoms per unit volume in ZIF-20 is 2.04 nm-3, which is much less than that of zeolite A (12.9 nm-3).",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Why does replacing carbon with nitrogen at position 4 of benzimidazolate not lead to the LTA structure?",
+      "answer": "Replacing carbon at position 4 does not allow favorable interactions between the linkers, which are important for forming the cube units that lead to the LTA structure.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What type of isotherm is observed for Ar adsorption in ZIF-20 at 87 K?",
+      "answer": "A type-I isotherm is observed for Ar adsorption in ZIF-20 at 87 K, indicating its microporosity.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "How does ZIF-20 become accessible to Ar despite its pore aperture being smaller than the kinetic diameter of Ar?",
+      "answer": "The space inside ZIF-20 becomes accessible through a dynamic aperture-widening process where the purine linkers swing out of the way to allow Ar molecules to pass.",
+      "type": "reasoning",
+      "difficulty": "hard" 
+    },
+    {
+      "question": "Why does ZIF-20 show a relatively strong interaction with H2 compared to other porous materials?",
+      "answer": "The initial isosteric heat of adsorption for H2 in ZIF-20 is relatively high, and the nitrogen atoms on the aromatic linkers can enhance the adsorption energy of H2, leading to a strong interaction.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What property of ZIF-20 likely leads to its ability to separate CO2 from CH4?",
+      "answer": "The uncoordinated nitrogen atoms inducing a polar pore wall and/or the appropriate pore size of ZIF-20 likely leads to favorable CO2 binding sites and its ability to separate CO2 from CH4.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What two effects make ZIF-20 bind H2 strongly?",
+      "answer": "The relatively high initial isosteric heat of adsorption and the nitrogen atoms on the aromatic linkers that can enhance H2 adsorption energy make ZIF-20 bind H2 strongly.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What technique was used to solve the crystal structures of the new ZIF compounds?",
+      "answer": "Single-crystal X-ray diffraction was used to solve the crystal structures of the new ZIF compounds.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "True or False: ZIF-20 and ZIF-21 have the same LTA topology but different metal ions.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "True or False: The ACO topology is the only other candidate besides LTA that can propagate once the cube units are formed in ZIFs.",
+      "answer": "True", 
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "True or False: Using 5-azabenzimidazolate as a linker led to a ZIF with SOD topology.",
+      "answer": "False - Using 5-azabenzimidazolate as a linker led to ZIF-22 with LTA topology.",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "True or False: The apparent surface area of ZIF-20 calculated from the Ar adsorption isotherm is 800 m2/g.",
+      "answer": "True",
+      "type": "true_false", 
+      "difficulty": "easy"
+    },
+    {
+      "question": "True or False: The CO2 uptake in ZIF-20 at 273 K and 760 torr is three times higher than that of CH4.",
+      "answer": "False - The CO2 uptake is five times higher than that of CH4 under those conditions.",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "True or False: The methanol-exchanged sample of ZIF-20 was evacuated at high temperature to activate it for gas adsorption measurements.",
+      "answer": "False - The methanol-exchanged sample was evacuated at ambient temperature to activate it.",
+      "type": "true_false",
+      "difficulty": "medium" 
+    },
+    {
+      "question": "True or False: In the breakthrough experiment, ZIF-20 was able to separate CO2 from a CO2/CH4 gas mixture.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "easy"
+    }
+  ]

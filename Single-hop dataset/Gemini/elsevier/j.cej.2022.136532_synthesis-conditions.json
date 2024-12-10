@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the name of the trefoil flexible ligand synthesized?",
+        "answer": "The trefoil flexible ligand synthesized is 1,3,5-tris(5-methoxy-1,3-benzene dicarboxylic acid)benzene (L1).",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the aperture of the L1-Eu MOF?",
+        "answer": "18 \u00c5",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the density of L1-Eu MOF?",
+        "answer": "1.2 g/mL",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the BET surface area of L1-Eu MOF?",
+        "answer": "580 m\u00b2/g",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What are the wavelengths of the dual-emission from L1-Eu MOF under single excitation of 290 nm?",
+        "answer": "360 nm and 623 nm",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the name of the software used to refine the single-crystal X-ray diffraction analysis results?",
+        "answer": "Olex2",
+        "difficulty_level": "easy",
+        "question_type": "factual"
+    },
+    {
+        "question": "L1-Eu MOF exhibits dual-emission, why?",
+        "answer": "The energy gap (\u0394E2) between T1 of L1 and the excited state of Eu3+ ions is larger than that of L2, resulting in incomplete energy transfer for dual-emission.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why do L1-Eu and L1-Tb MOFs exhibit antenna effect emission while L1-Gd MOF does not?",
+        "answer": "Gd3+ has a higher excited state level that cannot be excited by L1, unlike Eu3+ and Tb3+ which have lower excited state levels.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "The pores of L2-Eu MOF are almost blocked, why?",
+        "answer": "The pores of L2-Eu MOF are almost blocked due to strong steric hindrance with two carboxylic acid groups in the meta position of isophthalic acid (L2).",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why does L1-Eu MOF show a faster response to PO4\u2073\u00b9 and ATP compared to L2-Eu MOF?",
+        "answer": "The larger pore size of L1-Eu MOF (18 \u00c5) allows PO4\u2073\u00b9 and ATP to enter easily compared to L2-Eu MOF, which has smaller, almost blocked pores.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why does L1-Eu MOF have a wider linear response range for PO4\u2073\u00b9 than ATP?",
+        "answer": "ATP, despite having three phosphate groups, has a larger molecular size that occupies a greater relative specific surface area within the L1-Eu MOF, leading to a narrower linear response range compared to the smaller PO4\u2073\u00b9.",
+        "difficulty_level": "medium",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "L2-Eu MOF shows poor linear response for PO4\u2073\u00b9, why?",
+        "answer": "The small pores of L2-Eu MOF lead to different diffusion dynamics of PO4\u2073\u00b9 at different concentrations, hindering a consistent linear response.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What are the advantages of using flexible ligands in the synthesis of MOFs, as demonstrated by L1?",
+        "answer": "Flexible ligands, like L1, can expand the pore size of MOFs while retaining the desired optical properties of the modules, such as the antenna effect of L2. This allows for improved functionality, including dual-emission for ratiometric sensing, and a larger surface area for broader response ranges.",
+        "difficulty_level": "hard",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "L1 ligand is used to prepare MOFs with antenna effect and large pore.",
+        "answer": "true",
+        "difficulty_level": "easy",
+        "question_type": "true/false"
+    },
+    {
+        "question": "The energy level of L1 is not efficient to sensitize Ln3+.",
+        "answer": "false",
+        "difficulty_level": "easy",
+        "question_type": "true/false"
+    },
+    {
+        "question": "L1-Eu MOF shows high stability, high porosity, and high density even when a flexible ligand is used.",
+        "answer": "false",
+        "difficulty_level": "medium",
+        "question_type": "true/false"
+    },
+    {
+        "question": "Polycyclic aromatic ligands enhance energy transfer for antenna effect emission.",
+        "answer": "false",
+        "difficulty_level": "medium",
+        "question_type": "true/false"
+    },
+    {
+        "question": "L1-Eu MOF shows a single emission peak at 623 nm under single excitation of 290 nm.",
+        "answer": "false",
+        "difficulty_level": "medium",
+        "question_type": "true/false"
+    },
+    {
+        "question": "L1 maintains the energy level of L2 to excite Eu3+ and Tb3+.",
+        "answer": "true",
+        "difficulty_level": "medium",
+        "question_type": "true/false"
+    },
+    {
+        "question": "L2-Eu MOF effectively senses ATP due to its large pore size.",
+        "answer": "false",
+        "difficulty_level": "hard",
+        "question_type": "true/false"
+    }
+]

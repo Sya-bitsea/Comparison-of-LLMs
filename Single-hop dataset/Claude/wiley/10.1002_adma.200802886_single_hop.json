@@ -1,0 +1,125 @@
+s a single hop .json file with 20 questions of different types based on the given text:
+
+{
+  "questions": [
+    {
+      "question": "What is the name of the coordination polymer synthesized in this study?",
+      "answer": "{[Co(ox)(Htr)2] 2H2O}n, where ox = oxalato and Htr = 1,2,4-triazole",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the novel method proposed for preparing low-dimensional metal-organic frameworks (MOFs) on solid surfaces?",
+      "answer": "Deposition from vapor phase on a substrate of oligomeric species obtained by direct sublimation of a bulk MOF in vacuum",
+      "type": "factual", 
+      "difficulty": "easy"
+    },
+    {
+      "question": "What are the advantages of the sublimation method for preparing MOF fibers compared to deposition from solution?",
+      "answer": "The sublimation method produces straighter fibers, with more homogeneous width distributions and lower density of impurities on the substrate areas not covered by fibers",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the key feature that differentiates coordination polymers from classical covalent polymers?",
+      "answer": "Reversibility, the ability to break the metal-organic ligand coordination bonds and reassemble them later",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What substrates were used to prove the reliability of the sublimation method for preparing MOFs?",
+      "answer": "Conductive inert graphite (HOPG) and insulating reactive mica",
+      "type": "factual",
+      "difficulty": "easy" 
+    },
+    {
+      "question": "What is the proposed mechanism for the formation of well-ordered 1D MOF structures on the surface by sublimation?",
+      "answer": "Thermal scission of the coordination bonds of the polymer rendering volatile fragments, their adsorption and reassembly on the surface",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "The sublimation conditions were very similar for both the {[Co(ox)(Htr)2] 2H2O}n and [Pt2(n-butylCS2)4I]n coordination polymers.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the binding energy of the Pt-I coordination bond in [Pt2(n-butylCS2)4I]n according to DFT calculations?",
+      "answer": "0.41 eV/bond",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Sublimation of the [Pt2(n-butylCS2)4I]n polymer likely occurs through fragmentation of which bonds based on the DFT calculated binding energies?",
+      "answer": "The weak Pt-I bonds",
+      "type": "reasoning",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The {[Co(ox)(Htr)2] 2H2O}n coordination polymer has a 2D symmetry in its crystal structure.",
+      "answer": "False, it has a 1D symmetry with linear chains running along the c axis",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the CoCo distance in the {[Co(ox)(Htr)2] 2H2O}n coordination polymer?",
+      "answer": "5.492(1) Å",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "The {[Co(ox)(Htr)2] 2H2O}n chains are interconnected by covalent bonds to form a 3D supramolecular framework.",
+      "answer": "False, the chains are interconnected by hydrogen bonds to form a supramolecular framework with water channels along the c axis",
+      "type": "true_false",
+      "difficulty": "medium" 
+    },
+    {
+      "question": "At what temperature range does the water release occur in {[Co(ox)(Htr)2] 2H2O}n based on thermogravimetric analysis?",
+      "answer": "343 K to 378 K",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Deposition of {[Co(ox)(Htr)2] 2H2O}n on HOPG at room temperature leads to the formation of 3D islands.",
+      "answer": "False, it leads to the formation of 1D fibers with high length-to-width ratios reflecting the 1D polymer symmetry",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Why do the {[Co(ox)(Htr)2] 2H2O}n fibers obtained on mica at 393 K have a less homogeneous width compared to those formed on HOPG?",
+      "answer": "The fibers grown on mica are shorter, with a lower average length-to-width ratio",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the approximate height of an individual [Pt2(n-butylCS2)4I]n polymer chain based on X-ray data of the monocrystal?",
+      "answer": "1.2 nm",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Adsorption of [Pt2(n-butylCS2)4I]n on mica at room temperature leads to the formation of 1D fibers.",
+      "answer": "False, it leads to the formation of islands, similar to the {[Co(ox)(Htr)2] 2H2O}n polymer",
+      "type": "true_false", 
+      "difficulty": "medium"
+    },
+    {
+      "question": "What two factors appear to dictate the reassembly of sublimated oligomers into different structures on the surface?",
+      "answer": "1) Kinetics plays a key role in the nanostructuration, and 2) the hierarchy of interactions present in the starting compound, such as coordination connections and hydrogen bonds",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "The comparison of architectures on HOPG vs mica suggests the [Pt2(n-butylCS2)4I]n polymer has a higher diffusion rate on mica than on graphite.",
+      "answer": "False, it suggests a higher diffusion rate on graphite than on mica",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What type of calculations were performed to estimate the binding energies of the coordination bonds in [Pt2(n-butylCS2)4I]n?",
+      "answer": "Density functional theory (DFT) calculations",
+      "type": "factual",
+      "difficulty": "easy"
+    }
+  ]

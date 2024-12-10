@@ -1,0 +1,123 @@
+
+[
+  {
+    "question": "What are the formulas of the two copper-iodide coordination polymers reported in this work?",
+    "answer": "The two copper-iodide coordination polymers reported are [Cu4I4(dmimpr)2]n (1) and [Cu6I6(dimb)3]n (2), where dmimpr = 1,3-di(2-methyl-imidazol-1-yl)propane and dimb = 1,4-di(imidazol-1-yl)butane.",
+    "type": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the luminescence thermochromism property exhibited by complexes 1 and 2?",
+    "answer": "Upon cooling by liquid nitrogen, the solid-state luminescences of 1 and 2 at room temperature are drastically changed with large red-shifts of 41 and 78 nm respectively.",
+    "type": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the crystal system and space group of complex 1?",
+    "answer": "Complex 1 crystallizes in the orthorhombic crystal system with space group Pnn2.",
+    "type": "factual",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the crystal system and space group of complex 2?",
+    "answer": "Complex 2 crystallizes in the monoclinic crystal system with space group C2/c.",
+    "type": "factual",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What are the quantum yields of complexes 1 and 2 at room temperature when excited at 365 nm?",
+    "answer": "The absolute luminescent quantum yields at an excitation of 365 nm are 0.20 and 0.36 for complexes 1 and 2 respectively at room temperature.",
+    "type": "factual",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the lifetime scale of the solid state luminescence of complexes 1 and 2 at room temperature?",
+    "answer": "The solid state lifetime at room temperature is on the scale of microseconds - 2.36 and 2.19 ms for complexes 1 and 2 respectively.",
+    "type": "factual",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Why does the emission wavelength of complexes 1 and 2 increase with decreasing temperature?",
+    "answer": "As the temperature decreases, the Cu-Cu distances become shorter, increasing the bonding character and lowering the excited state energy levels. This reduces the energy gap between excited and ground states, leading to emission at longer wavelengths.",
+    "type": "reasoning",
+    "difficulty": "hard" 
+  },
+  {
+    "question": "What structural feature is responsible for the 2D entanglement in the crystal structure of complex 1?",
+    "answer": "In complex 1, a pair of identical 2D single nets interpenetrate in a parallel fashion, with the square centers of one net located in the middle of the edges of the second net. This interpenetration of the large windows prevents formation of channels and leads to an overall 2D entanglement.",
+    "type": "reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What causes the structural differences between complexes 1 and 2?",
+    "answer": "The structural differences between complexes 1 and 2 are caused by the use of different bidentate N-donor ligands with different lengths, flexibility and substituents (dmimpr vs dimb).",
+    "type": "reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How does the degree of interpenetration in complex 2 lead to a 3D entangled structure?",
+    "answer": "In complex 2, each window of one 2D net is simultaneously catenated by two other nets. Although the interpenetrating nets have parallel mean planes, they are offset rather than coincident. This polycatenation of the large windows leads to an overall 3D entangled structure rather than 2D.",
+    "type": "reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What two factors enable the high degree of entanglement in the structure of complex 2?",
+    "answer": "The high degree of entanglement in complex 2 is enabled by 1) the large window size of the individual 2D nets and 2) the highly undulated, non-planar nature of the single nets.",
+    "type": "reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How does the luminescence thermochromism of 1 and 2 differ from the conventional behavior in Cu4I4(pyridine)4 clusters?",
+    "answer": "In conventional Cu4I4(pyridine)4 clusters, luminescence thermochromism arises from two emission bands whose relative intensities change with temperature. However, in complexes 1 and 2, a single cluster-centered emission band undergoes a large red-shift with decreasing temperature without splitting.",
+    "type": "reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What makes complexes 1 and 2 promising candidates for sensor applications?",
+    "answer": "The dramatic luminescence color changes in complexes 1 and 2 that can be induced by variation in temperature make them promising candidates for sensor applications.",
+    "type": "reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Complex 1 contains cubic Cu4I4 clusters.",
+    "answer": "True",
+    "type": "true_false",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The interpenetrating 2D nets in complex 1 are not coincident but offset.",
+    "answer": "False. The interpenetrating 2D nets in complex 1 are coincident, resulting in 2D entanglement. It is complex 2 where the interpenetrating nets are offset, leading to 3D entanglement.",
+    "type": "true_false",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Complex 2 contains both cubane-type Cu4I4 and rhomboid-type Cu2I2 clusters.",
+    "answer": "True",
+    "type": "true_false",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The luminescence thermochromism in 1 and 2 is irreversible.",
+    "answer": "False. The luminescence thermochromism in complexes 1 and 2 is completely reversible. The original yellow emission is recovered when the samples are warmed back up to room temperature after cooling.",
+    "type": "true_false",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The emission bands of 1 and 2 are attributed to ligand-centered excited states.",
+    "answer": "False. The emission bands are attributed to triplet cluster-centered (3CC) excited states, which are a combination of iodide-to-copper charge transfer (XMCT) and d-s transitions.",
+    "type": "true_false",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Variable temperature X-ray crystallography shows the Cu-Cu distances in 1 and 2 increase with decreasing temperature.",
+    "answer": "False. Variable temperature X-ray crystallography reveals that the Cu-Cu distances in complexes 1 and 2 decrease as the temperature is lowered.",
+    "type": "true_false",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The emission red-shift with decreasing temperature is larger for complex 2 compared to complex 1.",
+    "answer": "True",
+    "type": "true_false",
+    "difficulty": "easy"
+  }
+]

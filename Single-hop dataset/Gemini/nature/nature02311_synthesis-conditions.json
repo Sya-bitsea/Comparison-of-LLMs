@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the space group of the Zn4O(BTB)2 framework?",
+        "answer": "P 1c (No. 163)",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the chemical formula of the guest molecules found in the assynthesized MOF-177?",
+        "answer": "DEF and H2O",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the temperature range for the first weight loss step observed in the thermal gravimetric analysis of MOF-177?",
+        "answer": "50 to 100 \u00b0C",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the percentage weight loss attributed to the loss of guest molecules in MOF-177 during thermal gravimetric analysis?",
+        "answer": "47.95%",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the estimated surface area of MOF-177?",
+        "answer": "4,500 m2 g-1",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the total weight uptake of N2 per gram of the fully evacuated MOF-177 framework?",
+        "answer": "1,288 mg",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "Why were colored organic molecules included in MOF-177 single crystals?",
+        "answer": "To directly verify the incorporation of the guest visually.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why is it advantageous to use nets for which the structure of the dual is very different to avoid interpenetration in MOF synthesis?",
+        "answer": "Two such qom nets cannot interpenetrate efficiently because some of the edges link sites of the same coordination.",
+        "difficulty": "hard",
+        "type": "reasoning"
+    },
+    {
+        "question": "What is the reason for the broadening and shift in the Raman bands of encapsulated fullerene compared to bulk C60?",
+        "answer": "Interaction with the framework.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why does the excision of progressively smaller fragments from a graphene sheet lead to a significant enhancement of specific surface area?",
+        "answer": "Exposing the latent edges of the six-membered rings.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why was chlorobenzene chosen as a solvent for washing MOF-177 samples in the powder X-ray Diffraction study?",
+        "answer": "To remove DEF guest molecules and replace them with chlorobenzene, allowing for the observation of characteristic peaks for both solvents in the FT-IR spectra.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "What is the significance of the lack of weight loss between 100 and 350 \u00b0C in the TGA of MOF-177?",
+        "answer": "It indicates that the framework is thermally stable in air at those temperatures.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why are structures with condensed rings avoided in order to maximize the surface area of porous materials?",
+        "answer": "To maximize the number of exposed ring faces and edges.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "MOF-177 was synthesized by heating a mixture of H3BTB and Zn(NO3)2\u22c56H2O in N,N-dimethylformamide (DMF) to 100 \u00b0C.",
+        "answer": "False. The solvent used was N,N-diethylformamide (DEF), not DMF.",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "The structure of MOF-177 is entirely constructed of five-membered rings.",
+        "answer": "False. The structure of MOF-177 is entirely constructed of six-membered rings.",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "The pore volume of MOF-177 is smaller than that observed for the most porous crystalline zeolites.",
+        "answer": "False. The pore volume of MOF-177 is larger than that observed for the most porous crystalline zeolites.",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "The nitrogen gas sorption isotherm for MOF-177 exhibits hysteresis upon desorption of gas from the pores.",
+        "answer": "False. The isotherm revealed a reversible type I behavior and showed no hysteresis upon desorption of gas from the pores.",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "MOF-177 is incapable of binding polycyclic organic guest molecules.",
+        "answer": "False. MOF-177 has extra-large pores capable of binding polycyclic organic guest molecules.",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "Inclusion of C60 in MOF-177 crystals changes their color to deep blue.",
+        "answer": "False. The color change is to deep red, not deep blue.",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "Reichardt's dye, due to its large molecular size, uniformly colored the MOF-177 crystal slices.",
+        "answer": "False. Reichardt's dye molecules only penetrated the outer part of the crystal due to their large size.",
+        "difficulty": "hard",
+        "type": "truefalse"
+    }
+]

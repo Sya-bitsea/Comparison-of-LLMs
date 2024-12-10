@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the shortest p-p distance observed in the studied MOFs?",
+        "answer": "3.39 \u00c5",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "Which MOF displayed the highest room temperature electrical conductivity?",
+        "answer": "Na-MOF (1-ox)",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the chemical formula of the ligand used to synthesize these MOFs?",
+        "answer": "Tetrathiafulvalene tetracarboxylate (TTFTC)",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What type of spectroscopy was used to quantify the TTFTCc+ radical cations in the MOFs?",
+        "answer": "Electron spin resonance (ESR) spectroscopy",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What is the maximum temperature up to which all four MOFs are stable before decomposition?",
+        "answer": "300 \u00b0C",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "What was the precursor used to synthesize the TTFTC ligand?",
+        "answer": "TTFTC\u2013Me4 tetramethyl ester",
+        "difficulty": "easy",
+        "type": "factual"
+    },
+    {
+        "question": "The  presence of a greater number of aerobically generated TTFTCc+ radical cations  in 2-ox compared to 2 leads to a less prominent anodic peak at -200mV. Why?",
+        "answer": "This is because fewer neutral TTFTC ligands are available for electrochemical oxidation at -200mV in 2-ox, as many have already been oxidized to TTFTCc+.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why did K-MOF 2 and Rb-MOF 3 initially display wider optical bandgaps than Na-MOF 1-ox?",
+        "answer": "Freshly prepared K-MOF 2 and Rb-MOF 3 had lower initial TTFTCc+ populations and therefore weaker IVCT interactions, leading to wider band gaps.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "Na-MOF 1-ox displayed a narrower calculated electronic bandgap than K-MOF 2 and Cs-MOF 4. Explain the reason.",
+        "answer": "Na-MOF 1-ox has the shortest p-p distance and maximum p-overlap between the TTFTC ligands, which leads to stronger p-p interactions and a narrower bandgap.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why is the conductivity of 3-ox higher than that of 1-ox despite 1-ox having a shorter p-p distance and a larger initial TTFTCc+ population?",
+        "answer": "The coordination of all four S atoms of TTFTC ligands to Rb+ ions in Rb-MOF, along with the presence of a hepta-coordinated Rb+ ion in the pores, could contribute to the higher electrical conductivity of 3-ox.",
+        "difficulty": "hard",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why does Cs-MOF 4 exhibit a high thermal activation energy?",
+        "answer": "Cs-MOF 4 has a very low TTFTCc+ population and inefficient charge movement due to large p-p distances and a highly staggered orientation of TTF stacks, leading to poor electrical conductivity that does not improve significantly with temperature.",
+        "difficulty": "hard",
+        "type": "reasoning"
+    },
+    {
+        "question": "How does the IVCT interaction between mixed valent ligands influence the electronic band gap of a MOF?",
+        "answer": "IVCT interaction facilitates charge delocalization across the MOF framework, leading to a narrower electronic band gap.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "What is the role of p-p interactions in the charge transport mechanism of these MOFs?",
+        "answer": "p-p interactions facilitate through-space charge movement across the p-stacked TTFTC ligands.",
+        "difficulty": "medium",
+        "type": "reasoning"
+    },
+    {
+        "question": "Cs-MOF was resistant to aerobic oxidation.",
+        "answer": "True",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "Na-MOF 1-ox did not display any ESR signal.",
+        "answer": "False",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "The BET surface area of 2-ox was less than 1-ox.",
+        "answer": "False",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "The solution-phase CV of TTFTC-H4 tetra-acid displayed a quasi-reversible second oxidation peak due to the decarboxylation of the resulting TTF2+ dications.",
+        "answer": "True",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "The electronic band structures of the MOFs revealed that their CBMs consisted mostly of metal ion orbitals.",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "All four MOFs were strictly isostructural.",
+        "answer": "False",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "The I-V plots of all four MOFs indicated ohmic contact between the electrodes and the sandwiched MOF pellets.",
+        "answer": "True",
+        "difficulty": "easy",
+        "type": "truefalse"
+    }
+]
