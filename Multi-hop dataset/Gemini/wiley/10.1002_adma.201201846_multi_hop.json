@@ -1,0 +1,70 @@
+**Factual Questions:**
+
+1. **Question:** What is the topology of the anionic double layer in compound **1**? 
+   **Answer:**  [6<sup>3</sup>][6<sup>2\u00b710</sup>] net topology. 
+   **Difficulty:** Medium
+2. **Question:**  What type of intermolecular interaction is responsible for the templating effect of organic countercations in compound **1**?
+   **Answer:** Weak intermolecular interactions (van der Waals and/or electrostatic).
+   **Difficulty:** Hard
+3. **Question:** What is the wavelength of the emission attributed to the MV<sup>2+</sup>-Cu<sup>II</sup> interaction in compound **1** when dispersed in toluene?
+   **Answer:** 544 nm.
+   **Difficulty:** Easy
+4. **Question:** By how much does the mass of compound **1** decrease upon heating to 90 \u00b0C under dry N<sub>2</sub> atmosphere?
+   **Answer:**  ca. 25%
+   **Difficulty:** Medium
+5. **Question:** What happens to the XRPD pattern of the anhydrous derivative of compound **1** after immersion in water for several minutes?
+   **Answer:** The crystallinity is rapidly recovered and the XRPD pattern shows well-resolved peaks, located at the same positions as the calculated pattern for compound **1**.
+   **Difficulty:** Hard
+6. **Question:** What is the shortest distance between the MV<sup>2+</sup> moieties and the Cu<sup>II</sup> ions in the crystal structure of compound **1**? 
+   **Answer:** ca. 3.7 \u00c5. 
+   **Difficulty:** Medium 
+
+---
+**Reasoning Questions:**
+
+1. **Question:** Why is the almost planar conformation of the MV<sup>2+</sup> cations in compound **1** significant for its luminescent properties?
+   **Answer:**  Because significant rotation around the single bond connecting the two pyridinium rings in MV<sup>2+</sup> leads to fast radiationless deactivation of the singlet excited state and a subsequent non-emissive decay.
+   **Difficulty:** Hard
+2. **Question:** Compound **1** exhibits a paramagnetic to ferromagnetic phase transition. What measurement confirms this observation? 
+   **Answer:**  The temperature dependence of the field-cooled magnetization (FCM) and zero-field-cooled magnetization (ZFCM).
+   **Difficulty:** Medium
+3. **Question:**  What causes the blue-shift in the MV<sup>2+</sup>-Cu<sup>II</sup> emission band of compound **1** upon rehydration?
+   **Answer:**  Small changes in the Cu<sup>II</sup>-MV<sup>2+</sup> distance during the adsorption-desorption process.
+   **Difficulty:** Medium
+4. **Question:** Why does the anhydrous derivative of compound **1** exhibit selectivity for CO<sub>2</sub> over CH<sub>4</sub>?
+   **Answer:** The accessible pore size of the anhydrous derivative of **1** is approximately 3.8 \u00c5, allowing CO<sub>2</sub> to enter while excluding larger CH<sub>4</sub> molecules. 
+   **Difficulty:** Hard
+5. **Question:** Why is it important that compound **1** exhibits different luminescence responses to CO<sub>2</sub>, CH<sub>3</sub>OH, and H<sub>2</sub>O?
+   **Answer:** This difference in response indicates that compound **1** is not only sensitive to adsorption loading but also specific to different adsorbates, allowing for their identification.
+   **Difficulty:** Medium
+6. **Question:**  The anhydrous derivative of compound **1** is amorphous. How can it be converted back to its crystalline form? 
+   **Answer:** By immersing the anhydrous derivative in water for several minutes. 
+   **Difficulty:** Easy
+7. **Question:** Compound **1** shows a sharp frequency-independent maximum in the \u03c7<sub>M</sub>\u201d vs. T plots. What does this indicate about the material? 
+   **Answer:**  This indicates the presence of long-range 3D ferromagnetic order in the material. 
+   **Difficulty:** Hard
+
+---
+**True/False Questions:**
+
+1. **Question:** The MV<sup>2+</sup> cations in compound **1** are situated in the interlayer space.
+   **Answer:** False (They are situated in the intralayer space)
+   **Difficulty:** Medium
+2. **Question:** The emission band at 330 nm in the luminescence spectrum of compound **1** is assigned to the MV<sup>2+</sup>-Cu<sup>II</sup> interaction.
+   **Answer:** False (It is assigned to the emission of the MV<sup>2+</sup> species)
+   **Difficulty:** Easy
+3. **Question:** The adsorption of both CO<sub>2</sub> and CH<sub>3</sub>OH on the anhydrous derivative of compound **1** results in a blue-shift of the MV<sup>2+</sup>-Cu<sup>II</sup> emission band.
+   **Answer:**  False (CO<sub>2</sub> adsorption causes a red-shift)
+   **Difficulty:** Medium
+4. **Question:** Compound **1** exhibits a relatively low critical temperature (T<sub>C</sub>) for its magnetic transition. 
+   **Answer:** False (It exhibits a relatively high T<sub>C</sub> of 19.0 K)
+   **Difficulty:** Easy
+5. **Question:** The emission spectra of compound **1** remain unchanged after exposure to CH<sub>4</sub>. 
+   **Answer:** True.
+   **Difficulty:** Medium
+6. **Question:** The anhydrous derivative of compound **1**  shows negligible adsorption of water and methanol. 
+   **Answer:** False (It shows considerable adsorption of both)
+   **Difficulty:** Easy
+7. **Question:** The double layers in the crystal structure of compound **1** stack directly on top of each other along the b-axis. 
+   **Answer:** False (They are parallelly displaced in the [100] direction)
+   **Difficulty:** Hard

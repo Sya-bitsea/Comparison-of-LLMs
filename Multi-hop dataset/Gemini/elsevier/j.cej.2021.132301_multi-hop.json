@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the space group of CSMCRI-10?",
+        "answer": "P-1",
+        "difficulty_level": "factual",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the BET surface area of the activated CSMCRI-10?",
+        "answer": "63 m^2/g",
+        "difficulty_level": "factual",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the molecular formula of CSMCRI-10?",
+        "answer": "(CH3)2NH2\u00b7[Co3(L)2(\u00b52-OH)(bpy)1.5(H2O)3]\u00b71.5DMF\u00b71.5H2O",
+        "difficulty_level": "factual",
+        "question_type": "factual"
+    },
+    {
+        "question": "What overpotential is required for CSMCRI-10 to reach a benchmark current density of 10 mA\u00a0cm\u22122?",
+        "answer": "396 mV",
+        "difficulty_level": "factual",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the percentage of the cell volume that the PLATON-calculated solvent accessible volume accounts for?",
+        "answer": "Nearly 30.6%",
+        "difficulty_level": "factual",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the OER turn-over frequency of CSMCRI-10?",
+        "answer": "0.03s\u22121",
+        "difficulty_level": "factual",
+        "question_type": "factual"
+    },
+    {
+        "question": "The activated CSMCRI-10 framework demonstrates efficient water oxidation. Is the framework stable in potentiodynamic and potentiostatic conditions?",
+        "answer": "Yes, over 500 consecutive cycles.",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What is the impact of increasing CO2 pressure on the yield of styrene carbonate during the CO2 fixation process?",
+        "answer": "The yield of styrene carbonate increases with increasing CO2 pressure up to 5 bar, after which further increment shows no significant effect.",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why is tetrabutylammonium bromide (n-Bu4N+Br\u2212) preferred over tetrabutylammonium iodide (n-Bu4N+I\u2212) as a co-catalyst in the CO2 cycloaddition reaction with CSMCRI-10?",
+        "answer": "Larger sized I\u2212 may find difficulty in entering inside the porous channel of 10a than that of Br\u2212.",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What type of geometry is displayed by the [CoN2(COO)2] node in CSMCRI-10?",
+        "answer": "Distorted octahedral geometry",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why does cyclohexene carbonate have a lower yield compared to other cyclic carbonate compounds in the CO2 cycloaddition reaction?",
+        "answer": "The sterically encumbered cyclohexyl ring hampers the Sn2 reaction of the Br\u2212 ion with the intermediate species.",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What is the role of cobalt in facilitating the tandem CO2 fixation process with CSMCRI-10?",
+        "answer": "Cobalt's ability to switch between two different oxidation states (Co(II) and Co(III)) facilitates the epoxidation of styrene and the subsequent cycloaddition reaction.",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What is the impact of increasing the concentration of KOH on the OER performance of CSMCRI-10?",
+        "answer": "The OER performance considerably rises with increasing KOH concentration.",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "CSMCRI-10 is synthesized by a solvothermal reaction of Co(NO3)2\u00b76H2O, H3TCA and bpy (1:1:1).",
+        "answer": "False",
+        "difficulty_level": "easy",
+        "question_type": "true_false"
+    },
+    {
+        "question": "The activated MOF, 10a, requires an overpotential of 596\u00a0mV to reach 10\u00a0mA/cm2 anodic current density.",
+        "answer": "False",
+        "difficulty_level": "easy",
+        "question_type": "true_false"
+    },
+    {
+        "question": "The framework CSMCRI-10 exhibits a 3,3,4,4,6-c net topology with a 3-nodal net.",
+        "answer": "False",
+        "difficulty_level": "medium",
+        "question_type": "true_false"
+    },
+    {
+        "question": "The presence of redox-active Co(II) ions and the bridge-head N-atom of TCA3\u2212 in CSMCRI-10 make it a bi-functional material.",
+        "answer": "True",
+        "difficulty_level": "medium",
+        "question_type": "true_false"
+    },
+    {
+        "question": "The Tafel slope for CSMCRI-10 is 120 mV/dec.",
+        "answer": "False",
+        "difficulty_level": "easy",
+        "question_type": "true_false"
+    },
+    {
+        "question": "The use of n-Bu4N+Br\u2212 as a co-catalyst significantly increases the yield of styrene carbonate in the CO2 cycloaddition reaction with CSMCRI-10.",
+        "answer": "True",
+        "difficulty_level": "easy",
+        "question_type": "true_false"
+    },
+    {
+        "question": "Increasing the temperature beyond 80\u00a0\u00b0C enhances the yield of styrene carbonate in the tandem reaction.",
+        "answer": "False",
+        "difficulty_level": "medium",
+        "question_type": "true_false"
+    }
+]

@@ -1,0 +1,160 @@
+**Question 1:**
+
+* **Type:** Factual
+* **Difficulty:** Medium
+* **Question:**  What is the coordination geometry of the CuII ions in complexes 1-4 and what electronic effect contributes to this geometry? 
+* **Answer:** The CuII ions in complexes 1-4 adopt an elongated octahedral coordination sphere. This distortion arises from the Jahn-Teller effect observed in CuII ions.
+* **Source:** \"Crystal Structure\" and \"Results and Discussion\" sections
+
+**Question 2:**
+
+* **Type:** Factual
+* **Difficulty:** Hard
+* **Question:** How does the reaction temperature affect the formation of Cu-Ln heterometallic chains when using the NITPhPybis biradical ligand?
+* **Answer:**  Conducting the synthesis at a reflux temperature (around 69 \u00b0C) yields a new family of Cu-Ln heterometallic chains with unique structural motifs compared to reactions performed at 50 \u00b0C, signifying the influence of temperature on the thermodynamic control of the reaction and the resulting structure.
+* **Source:** \"Synthesis\" and \"Results and Discussion\" sections.
+
+**Question 3:**
+
+* **Type:** Factual
+* **Difficulty:** Medium
+* **Question:** What is the role of the OMIT command during the refinement of the crystal structures of complexes 1-4?
+* **Answer:** The OMIT command was employed to disregard specific diffraction points during the refinement process to enhance the accuracy of the refinement results, particularly due to the presence of highly disordered solvent molecules and groups within the crystal structures.
+* **Source:** \"X-ray crystallography\" section
+
+**Question 4:**
+
+* **Type:** Factual
+* **Difficulty:** Easy
+* **Question:**  What software was used to determine the coordination geometry of the GdIII ion in the complexes?
+* **Answer:** SHAPE analysis
+* **Source:** \"Crystal structure\" section
+
+**Question 5:**
+
+* **Type:** Factual
+* **Difficulty:** Hard
+* **Question:**  Apart from elemental analysis, what other technique was used to confirm the presence of CHCl3 in the crystal lattice of the complexes?
+* **Answer:** Despite the significant disorder in the solvent molecules, partial modeling of the CHCl3 molecule within the crystal lattice of complex 1 was achieved, further supporting the findings from elemental analysis. 
+* **Source:** \"X-ray crystallography\" section
+
+**Question 6:**
+
+* **Type:** Factual
+* **Difficulty:** Medium
+* **Question:** What type of instrument was used to measure the magnetic susceptibility of the complexes?
+* **Answer:** A Quantum Design SQUID VSM and PPMS-9 magnetometer.
+* **Source:** \"Experimental Section\"
+
+**Question 7:**
+
+* **Type:** Reasoning
+* **Difficulty:** Easy
+* **Question:**  The \u03c7MT values for complexes 1, 2, and 4 increase upon cooling. What type of magnetic interaction does this indicate?
+* **Answer:**  This behavior suggests the presence of dominant ferromagnetic CuII/LnIII\u2013nitroxide couplings in complexes 1, 2, and 4.
+* **Source:** \"Magnetic properties\" section
+
+**Question 8:**
+
+* **Type:** Reasoning
+* **Difficulty:** Hard
+* **Question:** The experimental M value for complex 1 is higher than the calculated Brillouin function for an uncoupled system. What does this discrepancy indicate about the magnetic interactions within the complex?
+* **Answer:** This difference confirms that ferromagnetic interactions are predominant in the system, leading to a higher observed magnetization compared to a hypothetical scenario with no magnetic coupling between the spin centers.
+* **Source:** \"Magnetic properties\" section
+
+**Question 9:**
+
+* **Type:** Reasoning
+* **Difficulty:** Medium
+* **Question:** Based on the reported J1 value, what is the nature of the magnetic interaction between the GdIII ions and the coordinated NO groups in complex 1?
+* **Answer:** The positive J1 value of +3.50 cm\u22121 demonstrates a ferromagnetic interaction between the GdIII ions and the coordinated NO groups.
+* **Source:** \"Magnetic properties\" section
+
+**Question 10:**
+
+* **Type:** Reasoning
+* **Difficulty:** Medium
+* **Question:** What is the significance of the orthogonality of magnetic orbits between CuII and NO groups in the context of magnetic exchange interactions?
+* **Answer:** The orthogonality of the magnetic orbitals of CuII (dx2\u2212y2) and the NO group (\u03c0*) leads to ferromagnetic interactions (J2) in these complexes.
+* **Source:** \"Magnetic properties\" section
+
+**Question 11:**
+
+* **Type:** Reasoning
+* **Difficulty:** Hard
+* **Question:**  Why does the presence of a larger Gd\u2013O\u2013N\u2013C torsion angle in complex 1 favor a ferromagnetic interaction?
+* **Answer:** Larger Gd\u2013O\u2013N\u2013C torsion angles facilitate increased charge transfer within the complex, thereby enhancing the strength of the ferromagnetic exchange interaction.
+* **Source:** \"Magnetic properties\" section
+
+**Question 12:**
+
+* **Type:** Reasoning
+* **Difficulty:** Medium
+* **Question:** Why was an external magnetic field applied during the AC susceptibility measurements for complex 2?
+* **Answer:** An external magnetic field was applied to suppress the quantum tunneling of magnetization (QTM) effect often observed in lanthanide-containing complexes, allowing for a clearer observation of the slow magnetic relaxation behavior.
+* **Source:** \"Magnetic properties\" section
+
+**Question 13:**
+
+* **Type:** Reasoning
+* **Difficulty:** Hard
+* **Question:** Based on the obtained \u03b1 values from the Cole-Cole plots for complex 2, what can be inferred about the distribution of relaxation times in this complex?
+* **Answer:** The \u03b1 values ranging from 0.26 to 0.40 suggest a medium distribution of relaxation times within complex 2, indicating some degree of variability in the relaxation processes of the magnetic moments.
+* **Source:** \"Magnetic properties\" section
+
+
+**Question 14:**
+
+* **Type:** True or False
+* **Difficulty:** Easy
+* **Question:** Complexes 1\u20134 crystallize in the monoclinic space group P21/c.
+* **Answer:** False. They crystallize in the triclinic space group P1\u02c9.
+* **Source:** \"Crystal structure\" section
+
+**Question 15:**
+
+* **Type:** True or False
+* **Difficulty:** Medium
+* **Question:** The NITPhPybis biradical chelates the LnIII ion through its two adjacent NO groups.
+* **Answer:** True
+* **Source:** \"Crystal Structure\" section
+
+**Question 16:**
+
+* **Type:** True or False
+* **Difficulty:** Easy
+* **Question:**  The magnetic data for the complexes were corrected for diamagnetic contributions using Pascal\u2019s constants. 
+* **Answer:** True 
+* **Source:** \"Experimental Section\"
+
+**Question 17:**
+
+* **Type:** True or False
+* **Difficulty:** Hard
+* **Question:** The magnetic exchange interaction (J3) in complex 1 represents solely the antiferromagnetic interaction between NO groups through GdIII ions.
+* **Answer:** False. It represents a combination of antiferromagnetic interactions between NO groups through GdIII ions and ferromagnetic exchange between the two NIT moieties via a benzene ring.
+* **Source:** \"Magnetic properties\" section
+
+**Question 18:**
+
+* **Type:** True or False
+* **Difficulty:** Medium
+* **Question:** Complex 3 exhibits field-induced slow magnetic relaxation behavior.
+* **Answer:** False. Complex 2 exhibits field-induced slow magnetic relaxation behavior.
+* **Source:** \"Magnetic properties\" section
+
+**Question 19:**
+
+* **Type:** True or False
+* **Difficulty:** Medium
+* **Question:** The anisotropic energy barrier of complex 2 is significantly different from that observed in the similar fragment [Dy2Cu3(hfac)12(NITPhMeImbis)2].
+* **Answer:** False. The anisotropic energy barrier is comparable due to similar magnetic motifs.
+* **Source:** \"Magnetic properties\" section
+
+**Question 20:**
+
+* **Type:** True or False
+* **Difficulty:** Medium
+* **Question:**  Applying an external DC field of 2 kOe successfully revealed peak signals of \u03c7\u2033 for complex 4, indicating slow magnetic relaxation behavior.
+* **Answer:**  False. Peak signals were not observed even after applying the external field.
+* **Source:** \"Magnetic properties\" section

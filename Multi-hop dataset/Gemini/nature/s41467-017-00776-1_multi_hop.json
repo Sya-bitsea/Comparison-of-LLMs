@@ -1,0 +1,48 @@
+Factual Questions
+
+1. **Question:** What is the Au\u00b7\u00b7\u00b7Au distance observed in the framework structure of [Fe], indicating strong aurophilic interactions? (Difficulty: Medium)
+   **Answer:** 3.0843(5) \u00c5 
+2. **Question:**  What is the percentage change in the 'a' and 'b' parameters of [Fe] when transitioning from the low spin state at 185 K to the high spin state at 230 K? (Difficulty: Hard)
+    **Answer:** \u0394a = -6.2% (contraction), \u0394b = +10% (expansion)
+3. **Question:**  According to Supplementary Figure 13, at what temperature does the exothermic peak occur during cooling, indicating the spin transition in the DSC data for [Fe]? (Difficulty: Medium)
+   **Answer:** 220 K
+4. **Question:**  What is the calculated formula weight of [Fe(bpac)(Au(CN)2)2]\u00b72EtOH, as presented in Supplementary Table 2? (Difficulty: Easy)
+   **Answer:** 826.20 g mol\u22121 
+5. **Question:** Based on Supplementary Table 1, what is the experimentally found [Au] for the material with an iron fraction (x) of 0.57? (Difficulty: Easy) 
+    **Answer:** 1.97
+6. **Question:**  What is the range of linear coefficients of thermal expansion observed along the b-axis for [Fe] between temperatures 210 K and 100 K, as stated in Supplementary Note 5? (Difficulty: Hard)
+    **Answer:** 860 \u00d7 10\u22126 K\u22121 > \u03b1b > \u221239  \u00d7 10\u22126  K\u22121
+
+### Reasoning Questions
+
+1. **Question:**  Explain how the change in Fe(II) coordination geometry from high spin to low spin state contributes to the observed lattice flexing behavior in [Fe]. (Difficulty: Hard)
+   **Answer:** The high spin Fe(II) allows for a distorted octahedral geometry with non-linear cyanide coordination, accommodating framework distortion. Conversely, the low spin Fe(II) prefers a more rigid, orthogonal geometry with linear cyanide coordination, inducing lattice expansion along the a-axis and contraction along the b-axis to achieve a near-orthogonal conformation of the {Fe(Au(CN)2)2} rhombic grids.
+2. **Question:** Why was Ni(II) chosen as the dopant to disrupt the cooperativity of the spin crossover in [Fe]? (Difficulty: Medium)
+   **Answer:** Ni(II) possesses a coordination volume intermediate to that of HS and LS Fe(II), minimizing its impact on the transition temperature while effectively disrupting long-range spin-state communication within the lattice.
+3. **Question:**  What advantages does using spin crossover as a mechanism for thermal expansion offer over traditional methods in the context of this paper? (Difficulty: Medium)
+   **Answer:** Spin crossover offers the advantage of being controllable through various stimuli like temperature, pressure, guest effects, and light irradiation, potentially allowing for more diverse and dynamic control over mechanical motion compared to traditional thermal expansion methods.
+4. **Question:** Using information from Figures 2 and 3, explain how the nature of the spin transition changes with increasing Ni(II) doping, and how this affects the observed thermal expansion behavior. (Difficulty: Hard)
+    **Answer:** Increasing Ni(II) doping disrupts the cooperative spin transition, making it more gradual and resulting in a wider temperature range for the transition. This directly translates to continuous lattice motion over a broader temperature range, leading to a decrease in the peak magnitude of the thermal expansion coefficients as the transition becomes less abrupt.
+5. **Question:** Why is it necessary to disrupt the abrupt spin transition in [Fe] to enable the determination of continuous thermal expansion coefficients? (Difficulty: Medium)
+    **Answer:** Temperature-dependent dimension change cannot be accurately quantified for a discontinuous phase transition. Disrupting the lattice cooperativity induces a more gradual transition in the bulk material, allowing for the calculation of meaningful continuous thermal expansion coefficients.
+6. **Question:**  Considering Supplementary Note 2, how does the change in the c-parameter from 240 K to 190 K relate to the Fe-Npyridyl bond lengths, and what does this indicate about the structural changes occurring during the spin transition? (Difficulty: Hard)
+   **Answer:** The c-parameter contracts by 0.439(4) \u00c5 from 240 K to 190 K, closely matching the combined contraction of the two Fe-Npyridyl bond lengths (0.41(5) \u00c5) along this dimension. This correlation directly links the macroscopic lattice contraction to the decrease in Fe-N bond length associated with the HS to LS transition.
+7. **Question:**  Why is the observation of continuous colossal thermal expansion in [Fe0.84Ni0.16] significant? (Difficulty: Medium)
+    **Answer:** The observed continuous NTE and PTE values in [Fe0.84Ni0.16] are an order of magnitude greater than any previously reported, highlighting the potential of this material and similar systems for applications requiring extreme and controllable thermal expansion behavior. 
+
+### True/False Questions
+
+1. **Question:** The framework material [Fe] exhibits negative thermal expansion along all three crystallographic axes (a, b, c) during the spin transition. (Difficulty: Hard)
+   **Answer:** False. [Fe] shows negative thermal expansion along the a-axis and positive thermal expansion along both the b and c-axes.
+2. **Question:** The presence of ethanol guest molecules within the pores of [Fe] has a negligible effect on its spin crossover behavior. (Difficulty: Medium)
+   **Answer:** False. While not explicitly stated, host-guest interactions are mentioned as a factor influencing the framework geometry and likely influence the spin crossover behavior.
+3. **Question:** Increasing the Ni(II) content in the [FexNi1\u2212x] series consistently leads to an increase in the maximum coefficient of thermal expansion. (Difficulty: Hard)
+    **Answer:** False. While initial Ni(II) doping increases the breadth of the transition and thus the range of thermal expansion, further increasing the Ni(II) content makes the spin transition more gradual and incomplete, leading to a decrease in the maximum coefficient of thermal expansion. 
+4. **Question:** The low-temperature phase transition observed in [Fe] below the spin crossover temperature is also electronic in origin. (Difficulty: Medium)
+    **Answer:** False. According to the magnetic and DSC data, the low-temperature transition is not electronic in origin, as it involves only a small enthalpic change.
+5. **Question:** The spin crossover behavior in [Fe] is primarily driven by strong intermolecular interactions between the bpac ligands. (Difficulty: Easy)
+    **Answer:** False. The spin crossover behavior is primarily driven by the electronic configuration change of the Fe(II) centers, although intermolecular interactions play a role in the overall framework flexibility. 
+6. **Question:** The authors successfully used single-crystal X-ray diffraction to study the continuous thermal expansion behavior of the doped framework materials. (Difficulty: Medium) 
+    **Answer:** False. The authors used synchrotron powder X-ray diffraction to study the variable temperature behavior and determine continuous thermal expansion, as it is more suitable for analyzing bulk material and tracking unit cell parameter evolution.
+7. **Question:** The spin crossover phenomenon in [Fe] and [FexNi1\u2212x] is reversible. (Difficulty: Easy)
+    **Answer:** True. Both the magnetic susceptibility and DSC data show that the spin transition in these materials occurs upon both cooling and heating, indicating reversibility. 

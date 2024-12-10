@@ -1,0 +1,127 @@
+[
+    {
+        "doi": "10.31635/ccschem.021.202101378",
+        "questions": [
+            {
+                "question": "What is the contact angle of SnTCPP-SHE?",
+                "answer": "165\u00b0",
+                "difficulty": "Factual",
+                "type": "What is"
+            },
+            {
+                "question": "What is the BET surface area of SnTCPP-SHE?",
+                "answer": "3940 m2 g\u22121",
+                "difficulty": "Factual",
+                "type": "What is"
+            },
+            {
+                "question": "What is the coordination geometry of SnTCPP-SQL?",
+                "answer": "Each TCPP ligand of SnTCPP-SQL was coordinated to four [Sn4] nodes, and each [Sn4] node was coordinated to four TCPP linkers, producing a coordination network topological motif, 2D (4,4)-connected \u201csql net.\u201d",
+                "difficulty": "Factual",
+                "type": "What is"
+            },
+            {
+                "question": "What is the coordination geometry of SnTCPP-PTS?",
+                "answer": "The SBU in SnTCPP-PTS was similar to that of SnTCPP-SQL but with more distortion and n-butyl substituent instead of methyl species. Distinct from the bridging coordination mode of all carboxyl groups in SnTCPP-SQL, two of four carboxyl groups in SnTCPP-PTS displayed a monodentate coordination geometry. Topologically, the framework could be classified as a 3D (4,4)-connected pts net with the point symbol {4^2.8^4}.",
+                "difficulty": "Factual",
+                "type": "What is"
+            },
+            {
+                "question": "What is the coordination geometry of SnTCPP-SHE?",
+                "answer": "The [Sn6] clusters were connected to six TCPP ligands forming a (4,6)-connected \u201cshe net\u201d with the point symbol {4^4.6^2}3 {4^6.6^6.8^3}2 and the space group Im-3m.",
+                "difficulty": "Factual",
+                "type": "What is"
+            },
+            {
+                "question": "What technique was used to determine the structure of SnTCPP-PTS?",
+                "answer": "The structures of SnTCPP-SQL and SnTCPP-PTS were determined by single-crystal XRD.",
+                "difficulty": "Factual",
+                "type": "What is"
+            },
+            {
+                "question": "Since SnTCPP-PTS has a higher contact angle than SnTCPP-SQL, does it have a higher hydrophobicity?",
+                "answer": "Yes, SnTCPP-PTS has higher hydrophobicity than SnTCPP-SQL because higher contact angle means higher hydrophobicity.",
+                "difficulty": "Reasoning",
+                "type": "YesNo"
+            },
+            {
+                "question": "What causes the increase in hydrophobicity from SnTCPP-SQL to SnTCPP-PTS?",
+                "answer": "The length of the ester group increases from SnTCPP-SQL to SnTCPP-PTS, leading to increase in hydrophobicity.",
+                "difficulty": "Reasoning",
+                "type": "What"
+            },
+            {
+                "question": "Why does SnTCPP-PTS have better chemical stability than SnTCPP-SQL?",
+                "answer": "SnTCPP-PTS is protected by butyltin, while SnTCPP-SQL is protected by methyltin, which leads to better chemical stability for SnTCPP-PTS.",
+                "difficulty": "Reasoning",
+                "type": "Why"
+            },
+            {
+                "question": "Why is SnTCPP-PTS a good candidate for oil-water separation?",
+                "answer": "Because SnTCPP-PTS is highly porous, hydrophobic and very stable.",
+                "difficulty": "Reasoning",
+                "type": "Why"
+            },
+            {
+                "question": "Why were organotin precursors used to fabricate the MOFs?",
+                "answer": "Because organotin species could be introduced directly into the SBUs of MOFs to improve the environment of their inner cavities, making the MOFs more hydrophobic.",
+                "difficulty": "Reasoning",
+                "type": "Why"
+            },
+            {
+                "question": "What is the advantage of using the organotin-precursor method to make the MOF hydrophobic as opposed to post-synthetic modification?",
+                "answer": "The post-synthetic modification method often exhibits limitations due to challenges involved in achieving precise control of the position and content of the introduced components. The organotin-precursor method does not have such limitations.",
+                "difficulty": "Reasoning",
+                "type": "What"
+            },
+            {
+                "question": "Based on the information on SnTCPP-PTS, what can be said about its suitability for applications in humid conditions?",
+                "answer": "SnTCPP-PTS is suitable for applications in humid conditions due to its excellent stability in water and humid environment.",
+                "difficulty": "Reasoning",
+                "type": "What"
+            },
+            {
+                "question": "The contact angle for SnTCPP-PTS is 170\u00b0. True or False?",
+                "answer": "True",
+                "difficulty": "TrueFalse",
+                "type": "TrueFalse"
+            },
+            {
+                "question": "The BET surface area of SnTCPP-PTS is larger than that of SnTCPP-SHE. True or False?",
+                "answer": "False",
+                "difficulty": "TrueFalse",
+                "type": "TrueFalse"
+            },
+            {
+                "question": "SnTCPP-SHE has one of the highest BET surface areas among all the reported hydrophobic MOFs. True or False?",
+                "answer": "True",
+                "difficulty": "TrueFalse",
+                "type": "TrueFalse"
+            },
+            {
+                "question": "The three materials, SnTCPP-SQL, SnTCPP-PTS, and SnTCPP-SHE, all showed good chemical stability when immersed in water for 24 h. True or False?",
+                "answer": "True",
+                "difficulty": "TrueFalse",
+                "type": "TrueFalse"
+            },
+            {
+                "question": "The organotin-porphyrinic MOFs were synthesized by a two-pot reaction under hydrothermal conditions. True or False?",
+                "answer": "False",
+                "difficulty": "TrueFalse",
+                "type": "TrueFalse"
+            },
+            {
+                "question": "The fabric coated by SnTCPP-PTS showed good oil-water separation. True or False?",
+                "answer": "True",
+                "difficulty": "TrueFalse",
+                "type": "TrueFalse"
+            },
+            {
+                "question": "The water contact angle decreased as the length of the ester group increased. True or False?",
+                "answer": "False",
+                "difficulty": "TrueFalse",
+                "type": "TrueFalse"
+            }
+        ]
+    }
+]

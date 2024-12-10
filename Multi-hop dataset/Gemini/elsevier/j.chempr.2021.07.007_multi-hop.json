@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the chemical formula of the organic linker ligand used in the HUMs?",
+        "answer": "The chemical formula of the organic linker ligand, 4-(3,5-dimethyl-1H-pyrazol-4-yl)pyridine, is pypz.",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "What are the advantages of physisorbents for gas purification?",
+        "answer": "Physisorbents offer potential for energy-efficient gas purification due to their selective adsorption properties, eliminating the need for harsh chemicals or energy-intensive processes like cryogenic distillation.",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "Which HUM exhibited the highest C2H2 uptake at 298 K and 1 bar?",
+        "answer": "SIFSIX-21-Ni exhibited the highest C2H2 uptake at approximately 4.05 mmol\u00b7g\u22121.",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "What is the crystal structure and space group of SIFSIX-21-Ni, TIFSIX-4-Ni, SIFSIX-21-Cu, and TIFSIX-4-Cu?",
+        "answer": "All four HUMs are isostructural and crystallize as pcu topology networks in the orthorhombic space group Pnna.",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "What two key features of HUMs contribute to their selective binding properties?",
+        "answer": "HUMs possess narrow pore sizes and pore surfaces with strong electrostatics, both of which enhance selective binding.",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "How does the binding energy of CO2 in SIFSIX-21-Ni compare to that of SIFSIX-3-Ni?",
+        "answer": "SIFSIX-21-Ni exhibits weaker CO2 binding compared to SIFSIX-3-Ni. This is because SIFSIX-21-Ni only has a single C\u03b4+\u00b7\u00b7\u00b7F\u03b4- binding interaction with CO2, while SIFSIX-3-Ni has four such interactions.",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "Why are dynamic column breakthrough experiments essential for evaluating sorbent performance?",
+        "answer": "Dynamic column breakthrough (DCB) experiments provide a more realistic evaluation of separation performance under actual operating conditions, as opposed to IAST calculations based on single-component isotherms, which tend to overestimate performance.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "Based on the IAST selectivities at 1 bar and 298 K, which HUM exhibits the highest preference for C2H2 over CO2?",
+        "answer": "SIFSIX-21-Cu demonstrates the highest IAST selectivity for C2H2 over CO2 with values of 10.0 and 9.4 for 1:1 and 2:1 mixtures, respectively.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "How does the presence of methyl groups in pzpz affect the binding of CO2 compared to pypz in HUMs?",
+        "answer": "The extra methyl groups in pzpz lead to multiple CH\u00b7\u00b7\u00b7O interactions with CO2 in SIFSIX-18-Ni-\u03b2, resulting in stronger CO2 binding compared to SIFSIX-21-Ni which uses pypz and exhibits only single CH\u00b7\u00b7\u00b7O interactions.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why is the comparison of (\u0394Qst)AC at half loading considered a more suitable metric for estimating binding affinity in equimolar mixtures compared to zero coverage?",
+        "answer": "For many C2H2 selective sorbents, Qst(C2H2) declines at higher loadings due to weak multilayer adsorption. Comparing (\u0394Qst)AC at half loading provides a more relevant assessment of relative binding affinity under practical conditions.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "Explain the reason for two distinct \u03bdas(C2H2) bands observed in the IR spectra of both NbOFFIVE-3-Cu and SIFSIX-21-Ni.",
+        "answer": "The two distinct bands suggest the presence of two different C2H2 binding sites within the HUMs, each with a different binding strength due to varying interactions with the framework.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why does the 3209 cm\u22121 band in the IR spectrum decay slower than the one at 3309 cm\u22121?",
+        "answer": "The slower decay of the 3209 cm\u22121 band indicates stronger binding of C2H2 at that specific site, resulting in a longer residence time and delayed desorption.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why does the sharp peak of adsorbed CO2 in the 13C NMR spectrum of NbOFFIVE-3-Cu become broader at lower temperatures?",
+        "answer": "The broadening of the peak is attributed to reduced mobility of CO2 at lower temperatures. This decrease in mobility causes chemical shift anisotropy, which is normally averaged out by motion, to become more prominent.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "True or False: The HUMs studied in this work are capable of separating C2H2 from CO2 with high selectivity.",
+        "answer": "True",
+        "difficulty": "easy",
+        "type": "true/false"
+    },
+    {
+        "question": "True or False: All six HUMs exhibited a higher affinity for CO2 compared to C2H2.",
+        "answer": "False",
+        "difficulty": "easy",
+        "type": "true/false"
+    },
+    {
+        "question": "True or False: SIFSIX-21-Ni requires a higher regeneration temperature than UTSA-74a.",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "true/false"
+    },
+    {
+        "question": "True or False: Molecular modeling studies revealed that CO2 interacts with the HUMs primarily through hydrogen bonding.",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "true/false"
+    },
+    {
+        "question": "True or False: In situ PXRD measurements on SIFSIX-21-Ni and SIFSIX-21-Cu showed significant changes in their PXRD patterns with C2H2 loading.",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "true/false"
+    },
+    {
+        "question": "True or False: The six HUMs reported in this study exhibit lower gravimetric surface areas compared to the corresponding pyrazine-linked HUMs.",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "true/false"
+    },
+    {
+        "question": "True or False: Solid-state NMR studies confirmed that NbOFFIVE-3-Cu has a weaker affinity for C2H2 compared to CO2.",
+        "answer": "False",
+        "difficulty": "hard",
+        "type": "true/false"
+    }
+]

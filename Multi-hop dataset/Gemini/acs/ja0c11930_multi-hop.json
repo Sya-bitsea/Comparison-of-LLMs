@@ -1,0 +1,142 @@
+[
+    {
+        "doi": "10.1021/jacs.0c11930",
+        "question": "What is the pressure used for the adsorption isotherm of ammonia in MFM-300(In) material as shown in Figure S3c?",
+        "answer": "1 bar",
+        "difficulty": "Factual",
+        "type": "factual"
+    },
+    {
+        "doi": "10.1021/jacs.0c11930",
+        "question": "What is the maximum temperature for ammonia adsorption isotherm measurements of the MFM-300 series in Figure 1a-d?",
+        "answer": "328 K",
+        "difficulty": "Factual",
+        "type": "factual"
+    },
+    {
+        "doi": "10.1021/jacs.0c11930",
+        "question": "What is the name of the software package used for Rietveld refinement of the NPD patterns of the bare MOF and samples at various ND3 loadings?",
+        "answer": "TOPAS",
+        "difficulty": "Factual",
+        "type": "factual"
+    },
+    {
+        "doi": "10.1021/jacs.0c11930",
+        "question": "At what temperature were the N2 isotherms of the desolvated samples measured to characterize porosity?",
+        "answer": "77 K",
+        "difficulty": "Factual",
+        "type": "factual"
+    },
+    {
+        "doi": "10.1021/jacs.0c11930",
+        "question": "What are the characteristic parameters B and R0 respectively when calculating the valence of the V center?",
+        "answer": "0.32 \u00c5 and 1.788 \u00c5",
+        "difficulty": "Factual",
+        "type": "factual"
+    },
+    {
+        "doi": "10.1021/jacs.0c11930",
+        "question": "What is the wavelength used for single-crystal X-ray diffraction of VC8O5H3\u00b70.2NH3?",
+        "answer": "0.7749 \u00c5",
+        "difficulty": "Factual",
+        "type": "factual"
+    },
+    {
+        "doi": "10.1021/jacs.0c11930",
+        "question": "Why does MFM-300(In) show decreased ammonia uptake capacity over multiple cycles as shown in Figure S3?",
+        "answer": "MFM-300(In) shows reduced porosity after one cycle.",
+        "difficulty": "Reasoning",
+        "type": "reasoning"
+    },
+    {
+        "doi": "10.1021/jacs.0c11930",
+        "question": "According to Figure S2, which MFM-300(M) material has the fastest ammonia adsorption kinetics?",
+        "answer": "MFM-300(Fe)",
+        "difficulty": "Reasoning",
+        "type": "reasoning"
+    },
+    {
+        "doi": "10.1021/jacs.0c11930",
+        "question": "How can the residual ammonia in MFM-300(Cr) after desorption under dynamic vacuum at 298 K be readily desorbed?",
+        "answer": "Heating at 333 K for 2 h.",
+        "difficulty": "Reasoning",
+        "type": "reasoning"
+    },
+    {
+        "doi": "10.1021/jacs.0c11930",
+        "question": "Why were ND3 molecules used instead of NH3 for neutron powder diffraction experiments?",
+        "answer": "Hydrogen has a large incoherent neutron scattering cross section, which results in high background noise. Deuterium has a much smaller incoherent scattering cross section and a larger coherent scattering cross section, which is better for structural studies.",
+        "difficulty": "Reasoning",
+        "type": "reasoning"
+    },
+    {
+        "doi": "10.1021/jacs.0c11930",
+        "question": "According to Figure S4, what is the trend in isosteric enthalpy of adsorption of ammonia with increasing loading in MFM-300(VIV)?",
+        "answer": "The isosteric enthalpy of adsorption decreases with increasing loading.",
+        "difficulty": "Reasoning",
+        "type": "reasoning"
+    },
+    {
+        "doi": "10.1021/jacs.0c11930",
+        "question": "Why is MFM-300(V IV) unstable to ammonia under humid conditions as shown in Figure S6?",
+        "answer": "MFM-300(VIV) shows some structural degradation after contacting wet ammonia vapor.",
+        "difficulty": "Reasoning",
+        "type": "reasoning"
+    },
+    {
+        "doi": "10.1021/jacs.0c11930",
+        "question": "Based on the FTIR spectra shown in Figure 3b, how does the intensity of the N\u2013H stretching mode change as the NH3 loading in MFM-300(VIII) increases?",
+        "answer": "The intensity of the N\u2013H stretching mode increases steadily.",
+        "difficulty": "Reasoning",
+        "type": "reasoning"
+    },
+    {
+        "doi": "10.1021/jacs.0c11930",
+        "question": "MFM-300(V III) displays a single resonance centered at g = 1.955 in EPR spectra.",
+        "answer": "False",
+        "difficulty": "True/False",
+        "type": "truefalse"
+    },
+    {
+        "doi": "10.1021/jacs.0c11930",
+        "question": "MFM-300(VIV) exhibits the maximum retention of NH3 under dynamic conditions.",
+        "answer": "False",
+        "difficulty": "True/False",
+        "type": "truefalse"
+    },
+    {
+        "doi": "10.1021/jacs.0c11930",
+        "question": "The N2H4 molecules can be removed from the pores of MFM-300(V IV) after NH3 loading by soaking in an aqueous solution of NaOH.",
+        "answer": "False",
+        "difficulty": "True/False",
+        "type": "truefalse"
+    },
+    {
+        "doi": "10.1021/jacs.0c11930",
+        "question": "The N\u2013H stretching mode of NH3 in MFM-300(V IV) at 3374 cm\u22121 weakens with the increase of NH3 partial pressure.",
+        "answer": "False",
+        "difficulty": "True/False",
+        "type": "truefalse"
+    },
+    {
+        "doi": "10.1021/jacs.0c11930",
+        "question": "The INS peaks for the adsorbed NH3 molecules are sharper than those in the pure solid phase.",
+        "answer": "False",
+        "difficulty": "True/False",
+        "type": "truefalse"
+    },
+    {
+        "doi": "10.1021/jacs.0c11930",
+        "question": "The isosteric heats of adsorption for MFM-300(Cr) calculated from the isotherms are in the range of 30\u201365 kJ mol\u22121.",
+        "answer": "True",
+        "difficulty": "True/False",
+        "type": "truefalse"
+    },
+    {
+        "doi": "10.1021/jacs.0c11930",
+        "question": "A blue shift of all peaks in the three regions (transitional, librational and rocking) was observed for the adsorbed NH3 molecules when compared to solid NH3.",
+        "answer": "False",
+        "difficulty": "True/False",
+        "type": "truefalse"
+    }
+]

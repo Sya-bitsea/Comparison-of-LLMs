@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What method is used to observe the binding sites of CMOM-3S?",
+        "answer": "Single-crystal X-ray diffraction (SCXRD)",
+        "difficulty_level": "factual",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the size of the maximum pore size of the 1D channel for CMOM-3S after subtracting van der Waals radii?",
+        "answer": "ca. 0.8 \u00d7 0.8 nm",
+        "difficulty_level": "factual",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the composition of the buffer solution used in the synthesis of CMOM-3S single crystals?",
+        "answer": "5 mL 1:1 methanol/DCB",
+        "difficulty_level": "factual",
+        "question_type": "factual"
+    },
+    {
+        "question": "How is the CMOM-3S-coated capillary column conditioned after the dynamic coating process?",
+        "answer": "The column is settled for 2 hours under N2, then subjected to a temperature program: 30\u00b0C for 10 minutes, ramp from 30\u00b0C to 150\u00b0C at 3\u00b0C/min, and 150\u00b0C for 2 hours.",
+        "difficulty_level": "factual",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the concentration of the CMOM-3S suspension used for dynamic coating of the capillary column?",
+        "answer": "1 mg/mL",
+        "difficulty_level": "factual",
+        "question_type": "factual"
+    },
+    {
+        "question": "What types of interactions are involved in the formation of the binding sites for (<italic>R</italic>, <italic>S</italic>)-1-phenyl-1-propanol and (<italic>R</italic>, <italic>S</italic>)-1-phenyl-2-propanol in CMOM-3S?",
+        "answer": "Triflate counterions form C\u2013H\u22efF and O\u2013H\u22efO hydrogen bonding interactions with the analytes, while \u03c0\u22ef\u03c0 and C\u2013H\u22ef\u03c0 interactions occur between the phenyl group and terminal \u2013CH3 moiety of the analyte and the host framework.",
+        "difficulty_level": "factual",
+        "question_type": "factual"
+    },
+    {
+        "question": "Given that CMOM-3S is stable to solvent exchange and its cavities adapt to the guest molecules, is it a suitable material for both CCS and CSP applications?",
+        "answer": "Yes",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "If the CMOM-3S-coated column exhibits comparable or better resolution for racemates than commercial columns like \u03b2-DEX 225 and Cyclosil B, would it be considered an effective CSP for GC separation?",
+        "answer": "Yes",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Knowing that CMOM-3S is homochiral and exhibits exceptional thermal and hydrolytic stability, can a robust chiral GC column be fabricated using this material?",
+        "answer": "Yes",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Considering that the absolute configuration of the preferred chiral guest molecules in CMOM-3S can be determined and validated by anomalous scattering effects of heavy atoms, can we assign chirality in CSP experiments without a reference standard?",
+        "answer": "Yes",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Can we use CMOM-3S as a CCS for determining the structure of small molecules even if they are difficult to crystallize?",
+        "answer": "Yes, that is one of the main advantages of the crystalline sponge method.",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Since the slowest eluent consistently exhibited a higher ee ratio when analyzed with the CMOM-3S column after being submerged in racemates, can we infer that the binding preference between CSP and CCS can be determined without a reference standard?",
+        "answer": "Yes",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Based on the information provided, does the CSP-CCS method have the potential to be applied to natural product separation, asymmetric synthesis, and drug discovery?",
+        "answer": "Yes",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "True or False: CMOM-3S can separate all ten tested racemates within 5 minutes.",
+        "answer": "True",
+        "difficulty_level": "easy",
+        "question_type": "True/False"
+    },
+    {
+        "question": "True or False: Existing CSPs like polysaccharides and cyclodextrins are suitable for diffraction studies.",
+        "answer": "False",
+        "difficulty_level": "easy",
+        "question_type": "True/False"
+    },
+    {
+        "question": "True or False: The CSP-CCS method requires a reference standard for enantiomer identification.",
+        "answer": "False",
+        "difficulty_level": "easy",
+        "question_type": "True/False"
+    },
+    {
+        "question": "True or False: CMOM-3S is the first porous material that enables the CSP-CCS method.",
+        "answer": "True",
+        "difficulty_level": "easy",
+        "question_type": "True/False"
+    },
+    {
+        "question": "True or False: The synthesis of CMOM-3S single crystals requires the use of a 1:1 methanol/DCB buffer solution.",
+        "answer": "True",
+        "difficulty_level": "easy",
+        "question_type": "True/False"
+    },
+    {
+        "question": "True or False: CMOM-3S is inherently modular and amenable to crystal engineering.",
+        "answer": "True",
+        "difficulty_level": "easy",
+        "question_type": "True/False"
+    },
+    {
+        "question": "True or False: CMOM-3S is less robust than existing commercial columns.",
+        "answer": "False",
+        "difficulty_level": "easy",
+        "question_type": "True/False"
+    }
+]

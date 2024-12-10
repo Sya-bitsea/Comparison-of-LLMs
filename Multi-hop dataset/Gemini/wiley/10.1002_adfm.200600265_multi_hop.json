@@ -1,0 +1,72 @@
+**Factual (6 Questions)**
+
+1. **Question:** What is the role of protonated triethylamine in the synthesis of the Mn<sub>3</sub>(HCOO)<sub>6</sub> framework?
+   **Answer:** It acts as a bulky cation, preventing the formation of anionic perovskite frameworks and promoting the formation of porous compounds.
+   **Difficulty:** Medium
+2. **Question:** What spectroscopic technique confirms the presence of 2-chloropropan-1-ol in the Mn<sub>3</sub>(HCOO)<sub>6</sub> framework? What distinct features are observed?
+   **Answer:** Infrared (IR) spectroscopy. Absorption bands appear in the 3100\u20133600 cm<sup>-1</sup>, 2980 cm<sup>-1</sup>, 1455 cm<sup>-1</sup>, 1121 cm<sup>-1</sup>, 1060 cm<sup>-1</sup>, and 1040 cm<sup>-1</sup> regions, which correspond to the OH group of the guest molecule.
+   **Difficulty:** Medium
+3. **Question:**  How does the cell volume of Mn<sub>3</sub>(HCOO)<sub>6</sub> change upon guest inclusion compared to the empty framework?
+   **Answer:** The cell volume expands by 12-14 \u00c5<sup>3</sup>.
+   **Difficulty:** Easy
+4. **Question:** What type of Cotton effect does the **1S** compound exhibit at 210 nm in its CD spectrum?
+   **Answer:** A positive Cotton effect.
+   **Difficulty:** Easy
+5. **Question:** What is the approximate energy requirement for removing 2-chloropropan-1-ol from the Mn<sub>3</sub>(HCOO)<sub>6</sub> framework, as determined by DSC measurements?
+   **Answer:** 15-25 kJ mol<sup>-1</sup>.
+   **Difficulty:** Medium
+6. **Question:** What is the significance of the delayed phase transition observed at approximately 260 \u00b0C in the DSC analysis of the guest-inclusion compounds?
+    **Answer:** The cause of this phase transition is currently not understood. 
+    **Difficulty:** Hard
+
+---
+
+**Reasoning (7 Questions)**
+
+1. **Question:** Explain why the Mn<sub>3</sub>(HCOO)<sub>6</sub> framework exhibits amphiphilic character in its guest inclusion behavior.
+   **Answer:** The channel lining consists of both C\u2013H groups and oxygen atoms, allowing it to accommodate guests with either donor or acceptor groups.
+   **Difficulty:** Medium
+2. **Question:** Why is the inclusion of a chiral guest molecule significant for the Mn<sub>3</sub>(HCOO)<sub>6</sub> framework's magnetic properties?
+   **Answer:** It introduces chirality into the magnetic system, potentially leading to magneto-chiral dichroism (MChD). 
+   **Difficulty:** Hard
+3. **Question:** Based on the crystallographic data, which enantiomer of 2-chloropropan-1-ol shows a better fit within the M channel of the Mn<sub>3</sub>(HCOO)<sub>6</sub> framework? Justify your answer. 
+   **Answer:** The R-enantiomer. The crystal structure analysis reveals a well-defined, single conformation for the R-enantiomer in the M channel, with normal thermal parameters. In contrast, the R-enantiomer shows disorder and elongated thermal ellipsoids in the P channel, suggesting a poorer fit.
+   **Difficulty:** Hard 
+4. **Question:** Why does the inclusion of 2-chloropropan-1-ol in the Mn<sub>3</sub>(HCOO)<sub>6</sub> framework lead to a decrease in the specific heat capacity compared to the empty framework?
+   **Answer:** Guest inclusion introduces additional interactions (e.g., hydrogen bonds, electrostatic forces) between the guest and the host framework, which strengthens the lattice and reduces its vibrational freedom. This results in a decrease in the specific heat capacity. 
+   **Difficulty:** Hard
+5. **Question:**  Comparing 1R and 1S to the empty framework 1, how does the guest inclusion affect the Curie temperature? What could be a possible reason for this observation?
+   **Answer:** The Curie temperature decreases for both 1R and 1S compared to 1. This is likely due to subtle changes in the molecular geometry of the framework upon guest inclusion, affecting the magnetic exchange interactions.
+   **Difficulty:** Medium
+6. **Question:** Explain the possible reason for observing a second magnetic transition in the Mn<sub>3</sub>(HCOO)<sub>6</sub> framework and its guest-inclusion compounds. 
+   **Answer:** The diamond framework possesses multiple superexchange pathways between the Mn sites. The second transition, observed as a small peak in dM/dT and a shoulder in AC susceptibility measurements, is likely due to spin reorientation arising from the competition between these different exchange pathways.
+   **Difficulty:** Hard
+7. **Question:** Why is the chiral recognition of 2-chloropropan-1-ol by the Mn<sub>3</sub>(HCOO)<sub>6</sub> framework not perfectly selective?
+   **Answer:** While the R-enantiomer shows a better fit in the M channel and the S-enantiomer in the P channel, both enantiomers can be included in both types of channels, indicating that the chiral discrimination is not absolute.
+   **Difficulty:** Medium
+
+---
+
+**True or False (7 Questions)**
+
+1. **Question:** The Mn<sub>3</sub>(HCOO)<sub>6</sub> framework becomes more rigid upon the inclusion of 2-chloropropan-1-ol, as evidenced by its specific heat capacity.
+   **Answer:** True
+   **Difficulty:** Medium
+2. **Question:** The magnetic ordering temperature of the Mn<sub>3</sub>(HCOO)<sub>6</sub> framework is independent of the type of guest molecule included.
+   **Answer:** False
+   **Difficulty:** Easy
+3. **Question:** The inclusion of a racemic mixture of 2-chloropropan-1-ol in the Mn<sub>3</sub>(HCOO)<sub>6</sub> framework results in a chiral crystal structure. 
+   **Answer:** False
+   **Difficulty:** Medium
+4. **Question:** The second magnetic transition observed in the Mn<sub>3</sub>(HCOO)<sub>6</sub> framework is attributed to a structural phase transition. 
+   **Answer:** False
+   **Difficulty:** Medium
+5. **Question:** The CD spectra of 1R and 1S provide evidence that the chirality of the guest molecule is successfully transferred to the electronic structure of the Mn<sub>3</sub>(HCOO)<sub>6</sub> framework. 
+   **Answer:** True
+   **Difficulty:** Hard
+6. **Question:** The synthesis of the Mn<sub>3</sub>(HCOO)<sub>6</sub> framework requires high temperatures and pressures. 
+   **Answer:** False
+   **Difficulty:** Easy
+7. **Question:** The Mn<sub>3</sub>(HCOO)<sub>6</sub> framework exhibits a single-molecule magnet behavior. 
+   **Answer:** False
+   **Difficulty:** Hard

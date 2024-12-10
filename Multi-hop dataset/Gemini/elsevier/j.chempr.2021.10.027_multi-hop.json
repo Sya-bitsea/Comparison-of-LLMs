@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the formal charge of the uranyl-based node in NU-1303-6?",
+        "answer": "-1",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "What is the pore volume of NU-1303-6 after soaking in DMF for 144 days?",
+        "answer": "2.25 cm3g\u22121",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "What method is used to determine the pore size distribution of NU-1303-6?",
+        "answer": "Nonlocal DFT (NLDFT) model for pillared clay",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "What is the closest U\u2013U distance observed in the NU-1303-6 structure?",
+        "answer": "8.1 \u00c5 in Motif 2 (M2)",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "How does the calculated geometric surface area of NU-1303 change after de-interpenetration?",
+        "answer": "It increases",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "What technique is used to identify the presence of uranium in the DMF soaking solution?",
+        "answer": "Inductively coupled plasma-mass spectrometry (ICP-MS) and ultraviolet-visible spectroscopy",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "Why does NU-1303-6 undergo spontaneous de-interpenetration?",
+        "answer": "Energetically unfavored charged point-point repulsions (CPPR) between closely positioned anionic nodes on different networks drive the de-interpenetration process.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why is the BET area of NU-1303-1 experimentally lower than the calculated geometric surface area?",
+        "answer": "Partial pore collapse in NU-1303-1 can lead to a lower experimental BET area compared to the calculated geometric surface area.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "How does the presence of water molecules affect the de-interpenetration of NU-1303-6?",
+        "answer": "Water molecules from humid conditions can hydrogen bond with neighboring nodes, stabilizing NU-1303-6 and hindering de-interpenetration.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "What is the role of the methyl groups in the DMBP linker?",
+        "answer": "The methyl groups on the biphenylene linkers force rotation around the central carbon-carbon bond, leading to the formation of the three-dimensional, srs-topology MOF.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why does NU-1304 not undergo de-interpenetration to the same extent as NU-1303-6?",
+        "answer": "The added methyl substituents in NU-1304 create greater steric hindrance between networks, increasing the distance between nodes and leading to less effective CPPR, which hinders de-interpenetration.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "Explain the role of CPPR and bridging hydrogen-bonded water in the de-interpenetration of NU-1303-6.",
+        "answer": "CPPR between anionic uranium nodes favors de-interpenetration, while bridging hydrogen-bonded water molecules between nodes stabilize NU-1303-6 and hinder de-interpenetration. The interplay between these two competing forces determines the rate and extent of de-interpenetration.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "How does the symmetry of NU-1303-6 change after activation, and what evidence supports this change?",
+        "answer": "After activation, NU-1303-6 transitions to a lower symmetry crystal system. This is evidenced by the splitting of the first two major peaks in the PXRD pattern.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "The closest U-U distance in NU-1303-6 is 9.7 \u00c5.",
+        "answer": "False",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "The NU-1303-6 framework is cationic.",
+        "answer": "False",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "NU-1303-1 has a higher BET surface area than NU-1303-6.",
+        "answer": "False",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "The addition of bulky functional groups to linkers always prevents interpenetration in MOFs.",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "De-interpenetration in NU-1303-6 is driven by external stimuli.",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "The free energy calculations show that de-interpenetration is entropically favored.",
+        "answer": "True",
+        "difficulty": "hard",
+        "type": "truefalse"
+    },
+    {
+        "question": "Peak splitting in the PXRD pattern of NU-1303-6 after activation is due to a transition to a higher symmetry crystal system.",
+        "answer": "False",
+        "difficulty": "hard",
+        "type": "truefalse"
+    }
+]

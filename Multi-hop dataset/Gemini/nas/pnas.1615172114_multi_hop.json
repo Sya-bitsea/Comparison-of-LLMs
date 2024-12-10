@@ -1,0 +1,67 @@
+**Question:** What is the role of the central aromatic core in the octacarboxylate linkers used in the synthesis of MFM materials?
+    * **Answer:** The central aromatic core dictates the distance (l2) between the metal-organic cages (B and C) and thus influences the overall porosity of the resulting MFM material. 
+    * **Difficulty:** Hard
+2. **Question:**  What alternative activation method was employed for MFM-183a and MFM-185a compared to MFM-180a and MFM-181a?
+    * **Answer:** MFM-183a and MFM-185a were activated using supercritical CO2 drying before undergoing heating under dynamic vacuum, while MFM-180a and MFM-181a were directly subjected to heating under vacuum.
+    * **Difficulty:** Medium
+3. **Question:**  Which analytical technique revealed the pore size distribution for the activated MFM materials?
+    * **Answer:** N2 adsorption isotherms at 77 K, analyzed using a non-local density-functional theory (NLDFT) model, revealed the pore size distribution.
+    * **Difficulty:** Medium
+4. **Question:**  What type of nodes are formed by the combination of the octacarboxylate linkers and copper ions in the MFM frameworks? 
+    * **Answer:** The combination forms square planar [Cu2(O2CR)4] nodes bridged by the octacarboxylate linkers.
+    * **Difficulty:** Medium 
+5. **Question:**  What specific structural feature allows MFM-185a to achieve a higher gravimetric CO2 uptake at 20 bar compared to MFM-180a?
+    * **Answer:** The larger pore volume of MFM-185a, due to its extended linker structure, enables a higher gravimetric CO2 uptake at 20 bar compared to the less porous MFM-180a.
+    * **Difficulty:** Hard
+6. **Question:**  What is the highest volumetric CO2 uptake achieved among the studied MFM materials at 20 bar and 298 K, and which MOF exhibits it? 
+    * **Answer:** The highest volumetric CO2 uptake is 292.4 vol/vol, achieved by MFM-181a due to its large surface area and moderately low density.
+    * **Difficulty:** Medium 
+
+**Reasoning (7)**
+
+1. **Question:** Why does increasing the length of the linker (l2) not always lead to an increase in porosity in octacarboxylate MOFs? 
+    * **Answer:**  Simply increasing the length in all directions can lead to flexibility issues, highly strained frameworks, and/or interpenetration, which can reduce porosity. 
+    * **Difficulty:** Hard
+2. **Question:** Why was the synthesis of MFM-185 conducted with different solvents and copper salt compared to the other MFM materials?
+    * **Answer:**  H8L5, the linker used for MFM-185, showed poor solubility in the N,N'-diethylformamide/ethanol/aqueous HCl mixture used for other MOFs. Therefore, a different solvent system (N,N'-dimethylformamide/DMSO/aqueous HCl) and copper salt (Cu(NO3)2.2.5H2O) were employed.
+    * **Difficulty:** Medium
+3. **Question:**  Based on the reported BET surface areas and pore volumes, how does the structural design strategy of selective cage elongation impact the porosity of the MFM series?
+    * **Answer:** The increasing BET surface areas and pore volumes from MFM-180a to MFM-185a demonstrate that selectively extending the metal-organic cages along one direction effectively increases the porosity of the MFM materials.
+    * **Difficulty:** Medium
+4. **Question:** How does the high connectivity of the MFM frameworks contribute to their CH4 storage properties? 
+    * **Answer:** The high connectivity leads to relatively high crystal density. This minimizes the trade-off between gravimetric and volumetric capacity, allowing for simultaneously high values of both.
+    * **Difficulty:** Hard
+5. **Question:**  Considering the CO2 adsorption behavior at 1 bar, what is the significance of a high density of open metal sites in these MOFs?
+    * **Answer:** The higher CO2 uptake at 1 bar for the less porous MOFs with a higher density of open metal sites suggests that these sites are crucial for strong host-guest interactions with CO2 at low pressure.
+    * **Difficulty:** Medium
+6. **Question:**  Explain the rationale behind choosing to deuterate the aromatic rings of the linkers for 2H NMR studies.
+    * **Answer:** Deuterating the aromatic rings provides a sensitive probe to investigate the molecular dynamics of these rings within the MOF structure. The 2H NMR spectra provide information about their rotational freedom and dynamic behavior. 
+    * **Difficulty:** Hard
+7. **Question:** How does the change in the central core of the linker from MFM-180a-d16 to MFM-181a-d16 affect the rotational dynamics of the phenyl rings as observed by 2H NMR?
+    * **Answer:** The change in the central core primarily affects the flipping mode (k1) of the phenyl rings. MFM-181a-d16 exhibits a faster flipping motion compared to MFM-180a-d16, indicated by the lower transition temperature (T1) for MFM-181a-d16.
+    * **Difficulty:** Hard
+
+**True/False (7)**
+
+1. **Question:** True or False: MFM-180a exhibits a higher BET surface area than MFM-185a.
+    * **Answer:** False 
+    * **Difficulty:** Easy
+2. **Question:** True or False: The isosteric heat of CO2 adsorption is significantly different across the MFM series.
+    * **Answer:** False 
+    * **Difficulty:** Easy
+3. **Question:** True or False: Elongating the metal-organic cages in the MFM series leads to a decrease in the volumetric CH4 uptake at 65 bar. 
+    * **Answer:** False 
+    * **Difficulty:** Medium
+4. **Question:** True or False:  The 2H NMR studies revealed that the phenyl rings in both MFM-180a-d16 and MFM-181a-d16 exhibit free, unrestricted rotation at all temperatures.
+    * **Answer:** False
+    * **Difficulty:** Medium
+5. **Question:** True or False: The MFM materials demonstrate a higher selectivity for CO2 adsorption over CH4.
+    * **Answer:** True
+    * **Difficulty:** Easy
+6. **Question:** True or False: The synthesis of all MFM materials was achieved under identical solvent and temperature conditions. 
+    * **Answer:** False
+    * **Difficulty:** Easy
+7. **Question:** True or False: The presence of open metal sites in the MFM series contributes to their CO2 adsorption capabilities.
+    * **Answer:** True
+    * **Difficulty:** Easy 
+"

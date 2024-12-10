@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the chemical formula for F-pymo?",
+        "answer": "The chemical formula for F-pymo is C4H3FN2O.",
+        "difficulty_level": "factual",
+        "question_type": "factual"
+    },
+    {
+        "question": "What technique was used to determine the real structure of ZPF-2-Co-\u03b1?",
+        "answer": "Single-crystal X-ray diffraction (SCXRD) was used to determine the real structure of ZPF-2-Co-\u03b1 for the first time.",
+        "difficulty_level": "factual",
+        "question_type": "factual"
+    },
+    {
+        "question": "Compare the water sorption behavior of ZPF-2-Co under vacuum and dynamic flow conditions at ambient temperature.",
+        "answer": "Under vacuum (DVS), ZPF-2-Co-\u03b2 exhibits minimal water uptake until 10% RH, followed by a steep uptake, reaching 230 mg/g at 95% RH. The desorption isotherm shows a small hysteresis. Under dynamic flow with 30% RH, ZPF-2-Co-\u03b2 rapidly captures water vapor (15 wt% in <10 min) and regenerates quickly (&lt;20 min) at 0% RH. This allows for a water harvesting potential of 7.2 L/kg/day.",
+        "difficulty_level": "factual",
+        "question_type": "factual"
+    },
+    {
+        "question": "How does the distribution of ZPF-2-Co particles in the PVA matrix affect the actuator's bending behavior?",
+        "answer": "Membranes with a gradient distribution of ZPF-2-Co particles, where larger particles are concentrated near the bottom layer, show bending deformation upon moisture stimulus. This is because the non-uniform distribution creates a difference in swelling behavior between the two sides of the membrane, leading to bending. Membranes with uniformly dispersed, smaller particles do not exhibit bending.",
+        "difficulty_level": "factual",
+        "question_type": "factual"
+    },
+    {
+        "question": "Explain the role of PVDF in the energy transduction pathway based on ZPF-2-Co.",
+        "answer": "The PVDF acts as a piezoelectric transducer, converting the mechanical work of the PVA-ZPF-2-Co actuator into electrical power. As the actuator bends and stretches in response to humidity changes, it exerts a mechanical force on the PVDF, generating electrical signals.",
+        "difficulty_level": "factual",
+        "question_type": "factual"
+    },
+    {
+        "question": "Based on the experimental results, what are the limitations of the current ZPF-2-Co based water harvesting setup, and what future research directions are suggested?",
+        "answer": "The actual water harvesting amount (1.54 L/kg/day) is lower than the calculated value (7.2 L/kg/day). This is likely due to not all MOF particles being accessible in the sorbent bed. Future research should focus on developing better MOF formulations and device designs to enhance water accessibility and improve harvesting efficiency from arid air.",
+        "difficulty_level": "factual",
+        "question_type": "factual"
+    },
+    {
+        "question": "What causes the structural transformation in ZPF-2-Co upon exposure to moisture?",
+        "answer": "The rotation of the F-pymo ligand and changes in the Co-N bond angles cause the sodalite cages to squeeze, leading to the structural transformation from the dehydrated \u03b2 phase to the hydrated \u03b1 phase.",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why is a flexible MOF structure considered advantageous for energy transduction based on moisture?",
+        "answer": "Flexible MOFs can undergo reversible phase transformations with significant volume changes upon moisture adsorption and desorption. This allows them to act as efficient swelling media for converting humidity gradients into mechanical work.",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "How does the gate-opening effect observed in the CO2 sorption isotherm of ZPF-2-Co-\u03b2 relate to its water sorption behavior?",
+        "answer": "The gate-opening effect in the CO2 isotherm indicates a flexible structure, which is essential for the steep water uptake observed at low RH. The structural transformation triggered by CO2 adsorption is similar to that induced by water, demonstrating the framework's flexibility.",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why is ZPF-2-Co considered a promising material for water harvesting from arid air?",
+        "answer": "ZPF-2-Co exhibits fast water vapor adsorption-desorption kinetics, enabling efficient water capture and release. Additionally, its green and scalable synthesis approach makes it suitable for large-scale production, making it a viable platform for water harvesting.",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Explain why grinding the ZPF-2-Co particles to a smaller size negatively affects the bending performance of the PVA-based actuator.",
+        "answer": "Grinding leads to a more uniform distribution of particles in the PVA matrix, eliminating the gradient structure necessary for bending. The gradient structure, with larger particles near the bottom, creates differential swelling behavior on the two sides of the membrane, causing it to bend.",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Based on the FTIR spectrum of PVA-ZPF-2-Co, what can be inferred about the interactions between the polymer and the MOF particles?",
+        "answer": "The absence of significant band shifts in the FTIR spectrum suggests weak interactions between PVA and ZPF-2-Co. This implies that the actuator's shape change is mainly driven by the crystal size change of ZPF-2-Co, rather than strong polymer-MOF interactions.",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "How does the performance of the PVA-ZPF-2-Co actuator compare to actuators based on other hydrophilic polymers like PEG and CMC?",
+        "answer": "The PVA-ZPF-2-Co actuator exhibits a larger curvature and better weight-lifting capacity compared to PEG- and CMC-based actuators under the same moisture conditions. This indicates that PVA is a more suitable connective polymer for this application.",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "True or False: ZPF-2-Co-\u03b1 is unstable in water and aqueous solutions.",
+        "answer": "False. ZPF-2-Co-\u03b1 is stable in water and in a pH 4\u20139 aqueous solution for 24 hours.",
+        "difficulty_level": "easy",
+        "question_type": "true_false"
+    },
+    {
+        "question": "True or False: The water vapor adsorption capacity of ZPF-2-Co-\u03b2 increases gradually with increasing relative humidity.",
+        "answer": "False. ZPF-2-Co-\u03b2 exhibits a gate-opening effect, showing a steep increase in water uptake after a certain humidity threshold.",
+        "difficulty_level": "medium",
+        "question_type": "true_false"
+    },
+    {
+        "question": "True or False: The actual water harvesting amount using ZPF-2-Co is higher than the extrapolated value.",
+        "answer": "False. The actual harvested water amount is lower than the extrapolated value due to limitations in the experimental setup.",
+        "difficulty_level": "medium",
+        "question_type": "true_false"
+    },
+    {
+        "question": "True or False: Smaller ZPF-2-Co particles result in better bending performance in the PVA-based actuator.",
+        "answer": "False. Larger, gradient-distributed ZPF-2-Co particles are more effective for bending actuation.",
+        "difficulty_level": "medium",
+        "question_type": "true_false"
+    },
+    {
+        "question": "True or False: The bending response of the PVA-ZPF-2-Co actuator is primarily due to the swelling of the PVA polymer.",
+        "answer": "False. The bending response is primarily attributed to the crystal size change of ZPF-2-Co upon water adsorption.",
+        "difficulty_level": "medium",
+        "question_type": "true_false"
+    },
+    {
+        "question": "True or False: The PVA-ZPF-2-Co actuator coupled with PVDF can generate a constant DC voltage output.",
+        "answer": "False. The coupled actuator generates a periodic output of electrical signals, corresponding to the bending and stretching cycles driven by humidity changes.",
+        "difficulty_level": "hard",
+        "question_type": "true_false"
+    },
+    {
+        "question": "True or False: The energy transduction pathway based on ZPF-2-Co relies on strong chemical bonding between the MOF and the polymer.",
+        "answer": "False. The energy transduction is primarily based on the physical changes in the ZPF-2-Co structure and its weak interactions with the polymer matrix.",
+        "difficulty_level": "hard",
+        "question_type": "true_false"
+    }
+]

@@ -1,0 +1,109 @@
+**Factual Questions (6):**
+
+1. **Question:**  What is the BET surface area of CUK-1(Mg) determined from CO2 adsorption at 196 K, and why is N2 adsorption not suitable for this measurement? 
+    **Answer:** The BET surface area of CUK-1(Mg) cannot be determined from N2 adsorption at 77 K due to limited N2 uptake. Instead, CO2 adsorption at 196 K is utilized, but the exact surface area value is not provided in the text.
+    **Difficulty:** Hard
+    **Type:** Factual 
+
+2. **Question:** What pressure range is explored during mercury intrusion porosimetry measurements on CUK-1, and what information can be derived from the observed steps below 10 MPa? 
+    **Answer:** The pressure range explored is 0.1 MPa to 413 MPa. Steps below 10 MPa indicate the filling of the penetrometer, interparticle porosity, and other textural effects.
+    **Difficulty:** Medium
+    **Type:** Factual
+
+3. **Question:** What are the unit cell parameters (a, b, c, \u03b2) of the CUK-1(Co) contracted phase as determined by high-pressure single-crystal X-ray diffraction at 0.5 GPa? 
+    **Answer:** a = 18.024 \u00c5, b = 13.089 \u00c5, c = 10.883 \u00c5, \u03b2 = 103.92\u00b0.
+    **Difficulty:** Easy
+    **Type:** Factual
+
+4. **Question:** Comparing CUK-1(Co) and MIL-47(V), which material exhibits a larger percentage change in unit cell volume upon pressure-induced structural transition, and what is the approximate difference? 
+    **Answer:** MIL-47(V) exhibits a larger change (43%) compared to CUK-1(Co) (20.9%), with an approximate difference of 22%.
+    **Difficulty:** Hard
+    **Type:** Factual
+
+5. **Question:** What is the primary reason for using CUK-1(Mg) instead of CUK-1(Co) in density functional theory (DFT) calculations to investigate the mechanical behavior of CUK-1?
+    **Answer:** CUK-1(Mg) is used instead of CUK-1(Co) because Co, being a transition metal with a high spin state in CUK-1, presents a more challenging electronic structure to resolve accurately using standard DFT methods.
+    **Difficulty:** Medium
+    **Type:** Factual
+
+6. **Question:**  What software was used for azimuthal integration of the 2D diffraction images obtained from the gold foil pressure standard during high-pressure single-crystal X-ray diffraction experiments? 
+    **Answer:**  Dioptas was used as a graphical interface for pyFAI to perform azimuthal integration of the 2D diffraction images.
+    **Difficulty:** Easy
+    **Type:** Factual
+
+---
+
+**Reasoning Questions (7):**
+
+1. **Question:** Based on the experimental findings, explain why CUK-1 is considered an \"ideal spring\" in contrast to materials like MIL-53(Cr) or MIL-47(V).
+    **Answer:**  CUK-1 exhibits a near-perfect overlap of the intrusion and extrusion curves in mercury porosimetry, indicating a fully reversible structural contraction and expansion with minimal energy loss. This lack of hysteresis contrasts with the behavior of MIL-53(Cr) and MIL-47(V), which show hysteretic behavior, signifying energy dissipation during the cycle. 
+    **Difficulty:** Hard
+    **Type:** Reasoning
+
+2. **Question:** Explain how the linker coordination and arrangement in CUK-1 contribute to its unique spring-like behavior under pressure. 
+    **Answer:** The asymmetrically coordinated linkers in CUK-1 act as dual-hinged pivots, allowing for a continuous and reversible structural contraction under pressure. The staggered arrangement of linkers minimizes strong \u03c0-\u03c0 interactions, facilitating easy reversibility to the open form upon pressure release.
+    **Difficulty:** Medium
+    **Type:** Reasoning
+
+3. **Question:** Explain the reason for the difference in transition pressures observed for CUK-1(Co) and CUK-1(Mg) during mercury intrusion experiments, despite their similar structural features. 
+    **Answer:** Although structurally similar, the slight difference in ionic radii between Co2+ and Mg2+ leads to subtle variations in bond strengths and overall framework flexibility. These variations might be responsible for the observed difference in transition pressures. 
+    **Difficulty:** Hard
+    **Type:** Reasoning
+
+4. **Question:**  Why is the energy storage capacity of CUK-1(Co) considered significant, even though its volume change during the pressure-induced transition is lower than that of MIL-47(V)? 
+    **Answer:** Despite the lower volume change, CUK-1(Co) exhibits a higher transition pressure compared to MIL-47(V). This higher pressure compensates for the lower volume change in the energy storage calculation (W = P\u0394V), resulting in a comparable energy storage capacity. 
+    **Difficulty:** Medium
+    **Type:** Reasoning
+
+5. **Question:** Why are CO2 adsorption isotherms at 196 K used to determine the BET surface area of CUK-1 materials instead of traditional N2 adsorption at 77 K?
+    **Answer:** CUK-1 materials exhibit limited N2 uptake at 77 K, making it unsuitable for accurate BET surface area determination. CO2 adsorption at 196 K provides a more reliable alternative due to its higher adsorption at that temperature.
+    **Difficulty:** Easy
+    **Type:** Reasoning
+
+6. **Question:** Considering that DFT calculations were initially performed at 0 K, why was it necessary to incorporate free energy calculations at 300 K to accurately model the pressure-volume response of CUK-1(Mg)?
+    **Answer:**  Calculations at 0 K only account for internal energy, neglecting entropic contributions that become significant at higher temperatures.  Including free energy at 300 K allows for a more realistic representation of the system's behavior under experimental conditions.
+    **Difficulty:** Medium
+    **Type:** Reasoning
+
+7. **Question:**  High-pressure single-crystal X-ray diffraction experiments revealed that the CUK-1(Co) framework retains the same C2/c space group throughout the pressure-induced transition. What does this observation imply about the nature of the structural transformation?
+    **Answer:** The preservation of the space group indicates that the structural change is displacive rather than reconstructive. This means the transformation involves a shifting of atomic positions within the same crystallographic framework, without breaking or forming new bonds.
+    **Difficulty:** Hard
+    **Type:** Reasoning
+
+---
+
+**True or False Questions (7):**
+
+1. **Statement:**  The pressure-induced structural transition in CUK-1 is irreversible, meaning it cannot revert to its original structure upon pressure release. 
+    **Answer:** False
+    **Difficulty:** Easy
+    **Type:** True/False
+
+2. **Statement:** The application of external pressure on CUK-1 leads to a decrease in its unit cell volume.
+    **Answer:** True
+    **Difficulty:** Easy
+    **Type:** True/False
+
+3. **Statement:** Guest molecules adsorbed within the pores of CUK-1 can trigger the same pressure-induced structural contraction observed in mercury intrusion experiments.
+    **Answer:** False
+    **Difficulty:** Hard
+    **Type:** True/False
+
+4. **Statement:**  The energy stored in CUK-1 during the pressure-induced transition is primarily attributed to strong \u03c0-\u03c0 interactions between the aromatic rings of adjacent linkers in the contracted phase.
+    **Answer:** False
+    **Difficulty:** Medium
+    **Type:** True/False
+
+5. **Statement:** CUK-1 materials are categorized as nano-dampers due to the presence of hysteresis in their pressure-volume response curves. 
+    **Answer:** False
+    **Difficulty:** Medium
+    **Type:** True/False
+
+6. **Statement:** The choice of silicone oil AP-100 as the pressure transmitting medium in high-pressure single-crystal X-ray diffraction experiments is crucial because it can readily penetrate the pores of CUK-1.
+    **Answer:** False
+    **Difficulty:** Medium
+    **Type:** True/False
+
+7. **Statement:**  The use of a gold flake as a pressure standard in high-pressure experiments relies on the known relationship between its unit cell volume and the applied pressure. 
+    **Answer:** True
+    **Difficulty:** Easy
+    **Type:** True/False

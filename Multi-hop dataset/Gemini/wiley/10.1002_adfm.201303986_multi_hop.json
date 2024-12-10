@@ -1,0 +1,68 @@
+Factual Questions:**
+
+1. **Question:** What is the BET surface area of the activated material **2a**?
+   **Answer:** 316.20 m<sup>2</sup> g<sup>-1</sup>
+   **Difficulty:** Easy
+2. **Question:** What is the coordination geometry of the Eu2 ion in compound **1**?
+   **Answer:** Square antiprismatic
+   **Difficulty:** Medium
+3. **Question:** What technique confirmed the complete removal of coordinated DMF in the SC-SC transformation from **1** to **2**?
+    **Answer:** Infrared spectroscopy
+    **Difficulty:** Medium
+4. **Question:** What is the percentage of void space in the unit cell of compound **2** after the removal of disordered solvent molecules?
+   **Answer:** 29.7%
+   **Difficulty:** Hard
+5. **Question:** What is the Eu\u00b7\u00b7\u00b7Eu distance range within the 1D chains in compound **1**?
+   **Answer:** 3.659(3) to 4.159(3) \u00c5
+   **Difficulty:** Hard
+6. **Question:** Besides its sensing capabilities, what other potential application is mentioned for porous metal-organic frameworks in the introduction?
+   **Answer:** Gas storage, separation methods, and catalysis.
+   **Difficulty:** Medium
+
+**Reasoning Questions:**
+
+1. **Question:** Why is the synthesis of microporous LnMOFs considered challenging?
+   **Answer:** Due to the high coordination number and flexible coordination geometry of lanthanide ions.
+   **Difficulty:** Easy
+2. **Question:** Explain the mechanism behind the fluorescence quenching observed when compound **2a** is exposed to acetone under 320 nm excitation.
+   **Answer:**  Acetone absorbs at 320 nm, leading to competition between the absorption of acetone and the excitation of **2a**, resulting in decreased fluorescence intensity.
+   **Difficulty:** Medium
+3. **Question:** How does the length of the linear carbon chain in primary alcohols affect the PL intensity of **2a** suspensions?
+   **Answer:** Increasing chain length leads to decreased PL intensity due to fewer interactions between the alcohol and active sites of **2a**.
+   **Difficulty:** Medium
+4. **Question:** Why does TNP exhibit a stronger fluorescence quenching effect than other nitro-compounds in DMF solution?
+   **Answer:**  Synergistic effects of electron transfer, energy absorption by TNP, and electrostatic interaction between TNP's hydroxyl group and the pyridine rings of **2a**.
+   **Difficulty:** Hard
+5. **Question:** What is the reason behind the non-linear Stern-Volmer plots observed for TNP quenching in both aqueous and DMF systems?
+   **Answer:**  Simultaneous presence of both static and dynamic quenching mechanisms.
+   **Difficulty:** Hard
+6. **Question:** What is the role of F- anions in enhancing the luminescent intensity of **2a** compared to other anions?
+   **Answer:**  F- anions form hydrogen bonds with terminal water molecules in **2a**, reducing OH bond stretching and enhancing luminescence.
+   **Difficulty:** Hard
+7. **Question:** Based on the text, what structural features of the bpydbH2 ligand make it particularly suitable for the synthesis of porous LnMOFs?
+   **Answer:** Its rigidity, ability to sensitize lanthanide luminescence via the antenna effect, and the presence of conjugated rings and Lewis-base sites for host-guest interactions. 
+   **Difficulty:** Medium
+
+**True or False Questions:**
+
+1. **Question:** The formate anion in compound **1** originates from the bpydbH2 ligand.
+   **Answer:** False (It originates from the hydrolysis of DMF).
+   **Difficulty:** Medium
+2. **Question:** The SC-SC transformation from **1** to **2** involves a change in the space group of the crystal structure.
+   **Answer:** False (The space group remains P2<sub>1</sub>/n).
+   **Difficulty:** Medium
+3. **Question:** Compound **2a** exhibits stronger fluorescence quenching in response to n-propanol compared to i-propanol.
+   **Answer:** False (It exhibits stronger quenching for i-propanol).
+   **Difficulty:** Hard
+4. **Question:** The quenching effect of Cu<sup>2+</sup> ions on the luminescence of **2a** is due to strong binding interactions with the carboxylate groups of the bpydb<sup>2-</sup> ligand.
+   **Answer:** False (It is due to weak binding with pyridyl nitrogen atoms).
+   **Difficulty:** Hard 
+5. **Question:** The activated material **2a** completely loses its sensing capability for TNP in the vapor phase. 
+   **Answer:** False (It shows a rapid response and significant quenching percentage). 
+   **Difficulty:** Medium 
+6. **Question:** The organic ligands in compound **2a** completely quench the metal-based red emission of the Eu(III) ion.
+   **Answer:** False (The metal-based red emission dominates the spectra).
+   **Difficulty:** Medium
+7. **Question:** The presence of unsaturated metal centers in MOFs is the only signal transmission medium for sensing applications.
+   **Answer:** False (Lewis-base sites are also utilized as signal transmission media).
+   **Difficulty:** Easy 

@@ -1,0 +1,142 @@
+[
+    {
+        "doi": "10.1063/1.4946041",
+        "question": "What is the space group of [Nd(C4H5O6)(C4H4O6)][3H2O]?",
+        "answer": "P41212",
+        "difficulty": "Factual",
+        "type": "What is"
+    },
+    {
+        "doi": "10.1063/1.4946041",
+        "question": "What is the coordination geometry of the Nd center in NTT?",
+        "answer": "Distorted capped square antiprismatic",
+        "difficulty": "Factual",
+        "type": "What is"
+    },
+    {
+        "doi": "10.1063/1.4946041",
+        "question": "What are the approximate dimensions of the open channels along the c-axis in the NTT framework?",
+        "answer": "2.5 \u00c5 x 2.5 \u00c5",
+        "difficulty": "Factual",
+        "type": "What"
+    },
+    {
+        "doi": "10.1063/1.4946041",
+        "question": "What is the value of the Curie-Weiss constant (Cpara) for NTT in the paraelectric phase at a frequency of 800 kHz?",
+        "answer": "7.4 x 10^3 K",
+        "difficulty": "Factual",
+        "type": "What is"
+    },
+    {
+        "doi": "10.1063/1.4946041",
+        "question": "What is the calculated heat of formation (DHf) for the [Nd(C4H5O6)(C4H4O6)][3H2O] complex using the Sparkle/PM7 method?",
+        "answer": "-2524 kJ/mol",
+        "difficulty": "Factual",
+        "type": "What is"
+    },
+    {
+        "doi": "10.1063/1.4946041",
+        "question": "What is the total ground state molecular dipole moment (\u00b5) calculated using the Sparkle/PM7 model?",
+        "answer": "11.838 D",
+        "difficulty": "Factual",
+        "type": "What is"
+    },
+    {
+        "doi": "10.1063/1.4946041",
+        "question": "The dielectric constant of NTT exhibits frequency dispersion. What is the primary reason for this behavior?",
+        "answer": "The relaxation of dipoles and frequency-dependent hopping conduction.",
+        "difficulty": "Reasoning",
+        "type": "Why"
+    },
+    {
+        "doi": "10.1063/1.4946041",
+        "question": "Why is the dielectric anomaly observed at TC1 (185 K) in NTT not attributed to a paraelectric-to-ferroelectric phase transition?",
+        "answer": "Because a good dielectric hysteresis loop is observed below TC1, indicating the presence of a ferroelectric phase.",
+        "difficulty": "Reasoning",
+        "type": "Why"
+    },
+    {
+        "doi": "10.1063/1.4946041",
+        "question": "The coercive field (Ec) in NTT is relatively high. What is a possible reason for this?",
+        "answer": "The measurements were performed on powder pellets instead of single crystals, which can lead to higher coercive fields and broader dielectric peaks.",
+        "difficulty": "Reasoning",
+        "type": "Why"
+    },
+    {
+        "doi": "10.1063/1.4946041",
+        "question": "Why does NTT have a lower dielectric nonlinearity compared to TGS?",
+        "answer": "The value of the coefficient 'b' in the Landau-Devonshire equation for NTT is smaller than that of TGS, indicating lower nonlinearity.",
+        "difficulty": "Reasoning",
+        "type": "Why"
+    },
+    {
+        "doi": "10.1063/1.4946041",
+        "question": "What is the origin of the ferroelectric ordering observed in NTT below 295 K?",
+        "answer": "The ordering of protons arising from the motion of hydroxyl groups in tartrate ligands and water molecules.",
+        "difficulty": "Reasoning",
+        "type": "What"
+    },
+    {
+        "doi": "10.1063/1.4946041",
+        "question": "Why are C-H and O-H bond lengths calculated using Sparkle/PM7 less accurate compared to Nd-O, C-C, and C-O bond lengths?",
+        "answer": "Hydrogen atoms are generally difficult to fix accurately in crystallographic structures, and in this case, they were fixed geometrically.",
+        "difficulty": "Reasoning",
+        "type": "Why"
+    },
+    {
+        "doi": "10.1063/1.4946041",
+        "question": "Why is the x-component of the point charge component of the dipole moment (\u00b5Q) nearly equal to the y-component in NTT?",
+        "answer": "The view of the molecule along the x and y axes is identical, resulting in similar point charge contributions to the dipole moment in those directions.",
+        "difficulty": "Reasoning",
+        "type": "Why"
+    },
+    {
+        "doi": "10.1063/1.4946041",
+        "question": "True or False: The dielectric constant (\u03b5') of NTT exhibits a single, sharp peak at the Curie temperature (TC2).",
+        "answer": "False",
+        "difficulty": "True/False",
+        "type": "True/False"
+    },
+    {
+        "doi": "10.1063/1.4946041",
+        "question": "True or False: The Curie-Weiss temperature (T0) and the Curie temperature (TC2) in NTT coincide, suggesting a second-order phase transition.",
+        "answer": "True",
+        "difficulty": "True/False",
+        "type": "True/False"
+    },
+    {
+        "doi": "10.1063/1.4946041",
+        "question": "True or False:  The ratio of Curie-Weiss constants (Cpara/Cferro) in NTT is exactly 2, as predicted by the Landau-Devonshire theory.",
+        "answer": "False",
+        "difficulty": "True/False",
+        "type": "True/False"
+    },
+    {
+        "doi": "10.1063/1.4946041",
+        "question": "True or False: The AC conductivity (\u03c3) of NTT remains constant with varying temperatures.",
+        "answer": "False",
+        "difficulty": "True/False",
+        "type": "True/False"
+    },
+    {
+        "doi": "10.1063/1.4946041",
+        "question": "True or False: The Sparkle/AM1 model provides the most accurate prediction for the unit cell parameters of the NTT framework.",
+        "answer": "False",
+        "difficulty": "True/False",
+        "type": "True/False"
+    },
+    {
+        "doi": "10.1063/1.4946041",
+        "question": "True or False:  The Sparkle/PM7 model accurately predicts the coordination polyhedron geometry around the Nd ion and the attached ligands.",
+        "answer": "True",
+        "difficulty": "True/False",
+        "type": "True/False"
+    },
+    {
+        "doi": "10.1063/1.4946041",
+        "question": "True or False:  The x-, y-, and z-components of the hybrid component of the dipole moment (\u00b5H) are identical in NTT.",
+        "answer": "False",
+        "difficulty": "True/False",
+        "type": "True/False"
+    }
+]

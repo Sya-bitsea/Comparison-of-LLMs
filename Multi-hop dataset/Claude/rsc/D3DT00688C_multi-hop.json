@@ -1,0 +1,126 @@
+s the multi-hop Q&A .json file for the given text:
+
+{
+  "doi": "10.1039/d3dt00688c",
+  "questions": [
+    {
+      "question": "What is the chemical formula of the new birefringent crystal synthesized in this work?",
+      "answer": "C10H6NO2Cd(NO3)·2H2O",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What two key components were combined to design the new birefringent crystal?",
+      "answer": "A π-conjugated [C10H6NO2]− group and a CdO7N polyhedron were combined to design the new birefringent crystal C10H6NO2Cd(NO3)·2H2O.",
+      "type": "factual", 
+      "difficulty": "medium"
+    },
+    {
+      "question": "How does the experimental energy gap of the new crystal compare to that of the organic raw material used?",
+      "answer": "The experimental energy gap of C10H6NO2Cd(NO3)·2H2O is 0.02 eV higher than that of the organic raw material isoquinoline-1-carboxylic acid used to synthesize it.",
+      "type": "factual",
+      "difficulty": "medium" 
+    },
+    {
+      "question": "What is the space group and crystal system of C10H6NO2Cd(NO3)·2H2O?",
+      "answer": "C10H6NO2Cd(NO3)·2H2O belongs to the monoclinic crystal system with space group P21/n (no. 14).",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "How many different types of basic structural blocks make up the asymmetric unit of C10H6NO2Cd(NO3)·2H2O?", 
+      "answer": "The asymmetric unit of C10H6NO2Cd(NO3)·2H2O is composed of four basic structural blocks - carboxylic acid-deprotonated isoquinoline-1-carboxylic acid [C10H6NO2]−, Cd2+ cations, [NO3]− planar units and H2O molecules.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the coordination number of the Cd2+ cation in C10H6NO2Cd(NO3)·2H2O and what atoms is it coordinated by?",
+      "answer": "The Cd2+ cation in C10H6NO2Cd(NO3)·2H2O has a coordination number of 8 and is coordinated by two O atoms in water molecules, two O atoms in [NO3]−, three O atoms in the carboxyl group, and an N atom in the isoquinoline ring.",
+      "type": "factual",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Why does the [Cd-O-Cd]∞ chain in the b-c plane of C10H6NO2Cd(NO3)·2H2O have a wavy large arc angle?",
+      "answer": "The [Cd-O-Cd]∞ chain in the b-c plane has a wavy large arc angle because the Cd-O-Cd bond angle between the chain links is 142.54°, which negatively impacts the symmetric arrangement of adjacent [C10H8CdN2O7] chain links and alignment between chains.",
+      "type": "reasoning",
+      "difficulty": "hard" 
+    },
+    {
+      "question": "How do the O−H⋯O hydrogen bonds provided by water molecules impact the crystal structure when viewed along the b-axis?",
+      "answer": "When viewed along the b-axis, the O−H⋯O hydrogen bonds provided by water molecules give the crystal a two-dimensional network structure, and adjacent chains cross each other creating a tighter crystal structure.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What structural feature is responsible for the enhanced optical anisotropy and widening of the band gap in C10H6NO2Cd(NO3)·2H2O?",
+      "answer": "The edge-sharing connection of the two coordination modes of Cd2+ results in a relatively fixed geometric structure of the connection unit, which leads to enhanced optical anisotropy and widening of the band gap in C10H6NO2Cd(NO3)·2H2O.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "How does the initial decomposition temperature of C10H6NO2Cd(NO3)·2H2O compare to other compounds containing 6-membered ring motifs?",
+      "answer": "The initial decomposition temperature of C10H6NO2Cd(NO3)·2H2O is higher than that of (C3N6H7)2SiF6·H2O (110 °C) and Cs2Mg(H2C3N3O3)4·10H2O (<100 °C) which contain 6-membered ring motifs.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Based on the UV-Vis-NIR diffuse reflectance spectra, how do the cut-off edge and experimental energy gap of C10H6NO2Cd(NO3)·2H2O compare to the organic raw material isoquinoline-1-carboxylic acid?",
+      "answer": "The cut-off edge of C10H6NO2Cd(NO3)·2H2O is about 370 nm, which is lower than that of isoquinoline-1-carboxylic acid. The experimental energy gap of C10H6NO2Cd(NO3)·2H2O obtained by the Kubelka–Munk function is 3.13 eV, which is 0.02 eV higher than that of isoquinoline-1-carboxylic acid (3.11 eV).",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "According to density of states analysis, what structural components mainly contribute to the optical properties of C10H6NO2Cd(NO3)·2H2O?",
+      "answer": "Based on density of states analysis, the optical properties of C10H6NO2Cd(NO3)·2H2O are mainly contributed by the π-conjugated [C10H6NO2]− group, [NO3]− group and Cd2+ cations.",
+      "type": "reasoning",
+      "difficulty": "medium"  
+    },
+    {
+      "question": "Why is the birefringence value of C10H6NO2Cd(NO3)·2H2O smaller than expected despite being formed through the combination of multi-planar primitives?",
+      "answer": "The birefringence value of C10H6NO2Cd(NO3)·2H2O is smaller than expected because the nitrate ions are not in the same plane as the deprotonated isoquinoline-1-carboxylic acid. If the water molecules could be eliminated to allow the [NO3]− to be coplanar with the [C10H6NO2]− unit, the birefringence could be significantly improved.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "True or False: The Cd2+ cation in C10H6NO2Cd(NO3)·2H2O has a coordination number of 6.",
+      "answer": "False. The Cd2+ cation in C10H6NO2Cd(NO3)·2H2O has a coordination number of 8, not 6.",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "True or False: The experimental energy gap of C10H6NO2Cd(NO3)·2H2O is smaller than that of the organic raw material isoquinoline-1-carboxylic acid.",
+      "answer": "False. The experimental energy gap of C10H6NO2Cd(NO3)·2H2O is 0.02 eV higher than that of isoquinoline-1-carboxylic acid, not smaller.",
+      "type": "true_false", 
+      "difficulty": "medium"
+    },
+    {
+      "question": "True or False: The initial decomposition temperature of C10H6NO2Cd(NO3)·2H2O is lower than that of compounds containing 6-membered ring motifs like (C3N6H7)2SiF6·H2O and Cs2Mg(H2C3N3O3)4·10H2O.",
+      "answer": "False. The initial decomposition temperature of C10H6NO2Cd(NO3)·2H2O is actually higher than that of (C3N6H7)2SiF6·H2O (110 °C) and Cs2Mg(H2C3N3O3)4·10H2O (<100 °C) which contain 6-membered ring motifs.",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "True or False: The birefringence value of C10H6NO2Cd(NO3)·2H2O reaches 0.137 at a wavelength of 550 nm.",
+      "answer": "True. The birefringence measurement shows that the birefringence value of C10H6NO2Cd(NO3)·2H2O reaches 0.137 at a wavelength of 550 nm, in good agreement with the calculated value.",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "True or False: The π-conjugated [C10H6NO2]− unit plays a negative role in the exploration of birefringent materials in C10H6NO2Cd(NO3)·2H2O.",
+      "answer": "False. Although the birefringence of C10H6NO2Cd(NO3)·2H2O is smaller than some other compounds, the π-conjugated [C10H6NO2]− unit has played a positive role in the exploration of birefringent materials. The planar structure built by this unit and the Cd2+ cation is a meaningful attempt at primitive combination.",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "True or False: The edge-sharing connection between Cd2+ cations and isoquinoline-1-carboxylic acid is responsible for the decreased band gap of C10H6NO2Cd(NO3)·2H2O compared to the organic raw material.",
+      "answer": "False. The edge-sharing connection between Cd2+ cations and isoquinoline-1-carboxylic acid is actually responsible for the enlarged band gap of C10H6NO2Cd(NO3)·2H2O that is 0.02 eV higher than the organic raw material, not a decreased band gap.",
+      "type": "true_false",
+      "difficulty": "hard"
+    },
+    {
+      "question": "True or False: The UV cut-off edge and birefringence value of C10H6NO2Cd(NO3)·2H2O have been improved compared to the organic raw material isoquinoline-1-carboxylic acid.",
+      "answer": "True. The UV cut-off edge of C10H6NO2Cd(NO3)·2H2O is lower than isoquinoline-1-carboxylic acid and its birefringence value of 0.137@550 nm is relatively ideal, indicating the π-conjugated [C10H6NO2]− unit has played a positive role in improving these properties compared to the organic material.",
+      "type": "true_false",
+      "difficulty": "medium"
+    }
+  ]

@@ -1,0 +1,146 @@
+ **Q:** Question
+* **A:** Answer
+* **D:** Difficulty (1: Easy, 2: Medium, 3: Hard)
+* **Type:** Factual, Reasoning, True/False
+
+---
+
+**1.**
+
+* **Q:** How does the change in volume occupied by the framework during the desorption phase transition in Fe(bdp) compare between the 40-bar expanded phase and the 50-bar expanded phase?
+* **A:** The volume occupied by the framework decreases by 52% relative to the 40-bar expanded phase and 53% relative to the 50-bar expanded phase, indicating a negligible difference.
+* **D:** 2
+* **Type:** Factual
+
+**2.** 
+
+* **Q:**  Why is it not possible to directly measure the pore volume of the methane-expanded phase of Co(bdp) using 77 K N2 adsorption?
+* **A:** This phase can only be accessed at high CH4 pressures near ambient temperature, while 77 K N2 adsorption would only capture the collapsed phase.
+* **D:** 1
+* **Type:** Factual
+
+**3.** 
+
+* **Q:** What is the estimated error in the experimentally measured excess CH4 uptake at 65 bar for Co(bdp), considering the sample size used?
+* **A:** The estimated error is \u00b11 cm3 STP g\u20131.
+* **D:** 2
+* **Type:** Factual
+
+**4.**
+
+* **Q:** Explain why the usable methane capacity of Fe(bdp) is less affected by cooling during desorption compared to HKUST-1 and MOF-5.
+* **A:** The desorption step for Fe(bdp) occurs at pressures above 5.8 bar even at 0 and -25 \u00b0C, unlike HKUST-1 and MOF-5 where the desorption pressures drop significantly below 5.8 bar upon cooling.
+* **D:** 3
+* **Type:** Reasoning
+
+**5.** 
+
+* **Q:**  Given that the collapsed phases of Co(bdp) and Fe(bdp) are nonporous, what can be inferred about the origin of the observed methane adsorption in these phases?
+* **A:** The observed methane adsorption can be attributed to particles that have not yet collapsed due to the distribution of transition pressures arising from the variation in particle sizes.
+* **D:** 2
+* **Type:** Reasoning
+
+**6.** 
+
+* **Q:** Why is it necessary to mathematically fit the background scattering from the quartz glass capillaries in the diffraction patterns of Co(bdp) and Fe(bdp)?
+* **A:** This broad hump around 10\u00b0 2\u03b8 does not originate from the sample but is an artifact of the thick-walled capillaries required for high CH4 pressures, and therefore needs to be accounted for during structural analysis.
+* **D:** 3
+* **Type:** Reasoning
+
+**7.**
+
+* **Q:** True or False: The experimentally measured excess amounts of adsorbed methane are directly equivalent to the total amount adsorbed.
+* **A:** False. The excess amounts must be converted to total amounts using Equation 1.2, which takes into account the pore volume and bulk density of methane at the given temperature and pressure.
+* **D:** 1
+* **Type:** True/False
+
+**8.**
+
+* **Q:** True or False: The skeletal density of the expanded phase of a flexible framework is always lower than that of the collapsed phase.
+* **A:** False. The text specifically mentions that the skeletal density of the expanded phase might be greater than that of the collapsed phase, leading to potential inaccuracies in adsorption measurements.
+* **D:** 2
+* **Type:** True/False
+
+**9.**
+
+* **Q:**  True or False: The paracrystalline distortions observed in Co(bdp) and Fe(bdp) significantly affect the calculated methane storage capacities of these materials.
+* **A:** False. While paracrystallinity influences Bragg peak widths, it does not affect the bulk density or pore volume, which are the key parameters for CH4 capacity calculations.
+* **D:** 3
+* **Type:** True/False
+
+**10.** 
+
+* **Q:** How does the NIST REFPROP database contribute to the accurate determination of the total amount of methane adsorbed in Co(bdp) and Fe(bdp)? 
+* **A:** It provides the bulk density of methane at each temperature and pressure, which is a key parameter in Equation 1.2 used for converting excess adsorption to total adsorption.
+* **D:** 2
+* **Type:** Factual
+
+**11.**
+
+* **Q:**  What is the rationale for using a 4th order polynomial to correct the desorption data for Co(bdp) and Fe(bdp)?
+* **A:** This polynomial accurately fits the consistent desorption backgrounds observed in multiple experiments using a sample holder with glass beads, likely arising from intrinsic hysteresis in the pressure transducer.
+* **D:** 3
+* **Type:** Reasoning
+
+**12.**
+
+* **Q:**  Despite the presence of a distribution of particle sizes in Co(bdp) and Fe(bdp), why can the Clausius-Clapeyron equation still be reliably used to calculate differential enthalpies?
+* **A:** The additional chemical potential (CH4 pressure) needed to overcome the activation barrier to the phase transition is assumed to be relatively constant at each temperature, maintaining the validity of the equation. 
+* **D:** 3
+* **Type:** Reasoning
+
+**13.** 
+
+* **Q:** True or False: The usable methane capacity of Co(bdp) is significantly lower than that of Fe(bdp).
+* **A:** False. While the step pressures differ, both Co(bdp) and Fe(bdp) exhibit high usable methane capacities exceeding those of previously reported materials.
+* **D:** 1
+* **Type:** True/False
+
+**14.**
+
+* **Q:**  True or False: The crystallographic density of a periodic crystal remains unchanged even after undergoing a paracrystalline distortion.
+* **A:** True. The paracrystalline distortion involves correlated movements of atomic chains, maintaining the overall average periodicity and therefore the density of the crystal.
+* **D:** 2
+* **Type:** True/False
+
+**15.**
+
+* **Q:** Based on the reported data, which material exhibits a higher enthalpy change during the phase transition: Co(bdp) or Fe(bdp)?
+* **A:** Fe(bdp) exhibits a higher enthalpy change (8.1 kJ/mol) compared to Co(bdp) (7.0 kJ/mol).
+* **D:** 1
+* **Type:** Factual
+
+**16.** 
+
+* **Q:** What is the significance of edge-to-face \u03c0-\u03c0 interactions in the collapsed phases of Co(bdp) and Fe(bdp) for methane storage?
+* **A:** These interactions stabilize the collapsed, non-porous structure, preventing methane adsorption at low pressures and contributing to the sharp step in the isotherms.
+* **D:** 2
+* **Type:** Reasoning
+
+**17.**
+
+* **Q:** How does the differential enthalpy of methane adsorption during the phase transition in Co(bdp) compare to that of HKUST-1?
+* **A:** The differential enthalpy in Co(bdp) (-8.4 kJ/mol) is significantly lower than that of HKUST-1 (-17.1 kJ/mol), indicating less heat release due to the endothermic framework expansion.
+* **D:** 2
+* **Type:** Factual
+
+**18.** 
+
+* **Q:** Explain why the total amount of heat released during methane adsorption in Co(bdp) is less than that in a hypothetical rigid Co(bdp) framework.
+* **A:** The endothermic expansion of the framework in the real Co(bdp) consumes a portion of the heat generated by methane adsorption, leading to a lower overall heat release compared to the rigid scenario.
+* **D:** 3
+* **Type:** Reasoning
+
+**19.**
+
+* **Q:** True or False: Applying mechanical pressure to Co(bdp) consistently shifts the methane adsorption step to lower pressures. 
+* **A:** False. The application of mechanical pressure, leading to higher compaction densities, actually shifts the adsorption step to *higher* CH4 pressures, reflecting an increase in the energy barrier for phase transition.
+* **D:** 2
+* **Type:** True/False
+
+**20.** 
+
+* **Q:** What is the key advantage of the shift in desorption step pressures to lower values at lower temperatures in Co(bdp) and Fe(bdp)? 
+* **A:** This behavior ensures that even with cooling during desorption, the transition to the collapsed phase still occurs above the minimum desorption pressure of 5.8 bar, preserving the usable methane capacity.
+* **D:** 3
+* **Type:** Reasoning 

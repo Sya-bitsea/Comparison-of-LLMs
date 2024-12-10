@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the space group for the compound [Bi(NO3)2(E03-)]2?",
+        "answer": "The space group is P\\bar{1}.",
+        "difficulty_level": "Factual",
+        "type": "Factual"
+    },
+    {
+        "question": "What type of radiation and its wavelength was used in the diffractometer for the synthesis of the compound [Bi(NO3)2(E03-)]2?",
+        "answer": "The radiation used was MoK\\alpha with a wavelength of 0.71073 \\AA.",
+        "difficulty_level": "Factual",
+        "type": "Factual"
+    },
+    {
+        "question": "What computer program was used for structure solution for [Bi(NO3)2(E03-)]2?",
+        "answer": "The computer program used for structure solution was SHELXS.",
+        "difficulty_level": "Factual",
+        "type": "Factual"
+    },
+    {
+        "question": "What is the formula weight of the compound [Bi(N03)3(12-crown-4)]?",
+        "answer": "The formula weight is 571.21.",
+        "difficulty_level": "Factual",
+        "type": "Factual"
+    },
+    {
+        "question": "What is the cell volume of [Bi(N03)2(E06-)]2?",
+        "answer": "979.1 \\AA\\(^3\\)",
+        "difficulty_level": "Factual",
+        "type": "Factual"
+    },
+    {
+        "question": "What are the maximum crystal dimensions used to study the [Bi(N03)2(E04~)]2 * 20HMe?",
+        "answer": "The maximum crystal dimensions were 0.25 x 0.30 x 0.33 mm.",
+        "difficulty_level": "Factual",
+        "type": "Factual"
+    },
+    {
+        "question": "The range of relative transmission factors for the compound [Bi(N03)2(E03-)]2 is between 52/100. True or False?",
+        "answer": "True",
+        "difficulty_level": "True or False",
+        "type": "True or False"
+    },
+    {
+        "question": "The compound [Bi(N03)3(12-crown-4)] is colorless and has a parallelepiped shape. True or False?",
+        "answer": "True",
+        "difficulty_level": "True or False",
+        "type": "True or False"
+    },
+    {
+        "question": "The value of R for the compound [Bi(N03)2(E03-)]2 is 0.069. True or False?",
+        "answer": "False",
+        "difficulty_level": "True or False",
+        "type": "True or False"
+    },
+    {
+        "question": "The cell volume of [Bi(ft03)2(E04~) ] 2* 20HMe is smaller than that of [Bi(N03)2(E05)][Bi(N03)2- (E052-)Bi(N03)3] *2H20. True or False?",
+        "answer": "True",
+        "difficulty_level": "True or False",
+        "type": "True or False"
+    },
+    {
+        "question": "The decay of standards for [Bi(N03)3(OH2)3] \u202218-crown-6 was \\pm 1%. True or False?",
+        "answer": "False",
+        "difficulty_level": "True or False",
+        "type": "True or False"
+    },
+    {
+        "question": "The color and shape of [M(N03)2(E03-)]2 are the same as that of [Bi(N03)3(12-crown-4)]. True or False?",
+        "answer": "True",
+        "difficulty_level": "True or False",
+        "type": "True or False"
+    },
+    {
+        "question": "The radiation used in the diffractometer for [Bi(N03)2(E06-)]2 and [Bi(N03)3(OH2)3] * 18-crown-6 are different. True or False?",
+        "answer": "False",
+        "difficulty_level": "True or False",
+        "type": "True or False"
+    },
+    {
+        "question": "If the synthesis of [Bi(N03)2(E03-)]2 requires an Enraf-Nonius CAD-4 diffractometer and the scan method is omega-2theta, what would be the appropriate range of relative transmission factors?",
+        "answer": "35/100",
+        "difficulty_level": "Reasoning",
+        "type": "Reasoning"
+    },
+    {
+        "question": "What is the difference between the cell volume of [Bi(N03)2(E05)][Bi(N03)2- (E052-)Bi(N03)3] *2H20 and [M(N03)2(E03-)]2?",
+        "answer": "3793.39 \\AA\\(^3\\)",
+        "difficulty_level": "Reasoning",
+        "type": "Reasoning"
+    },
+    {
+        "question": "Based on the space groups, which of the compounds [Bi(N03)2(E03-)]2 or [Bi(N03)3(12-crown-4)] is centrosymmetric?",
+        "answer": "[Bi(N03)3(12-crown-4)] is centrosymmetric because the space group is Pnma.",
+        "difficulty_level": "Reasoning",
+        "type": "Reasoning"
+    },
+    {
+        "question": "What is the R value for the compound with the highest calculated density?",
+        "answer": "The compound with the highest calculated density is [Bi(N03)3(12-crown-4)] with a value of 0.046 for R.",
+        "difficulty_level": "Reasoning",
+        "type": "Reasoning"
+    },
+    {
+        "question": "Which compound has the highest GOF value?",
+        "answer": "[Bi(N03)2(E03-)]2",
+        "difficulty_level": "Reasoning",
+        "type": "Reasoning"
+    },
+    {
+        "question": "Which compound has the lowest temperature during data collection?",
+        "answer": "[Bi(N03)3(12-crown-4)]",
+        "difficulty_level": "Reasoning",
+        "type": "Reasoning"
+    },
+    {
+        "question": "Which compound required the least number of parameters during refinement?",
+        "answer": "[Bi(N03)2(E03-)]2",
+        "difficulty_level": "Reasoning",
+        "type": "Reasoning"
+    }
+]

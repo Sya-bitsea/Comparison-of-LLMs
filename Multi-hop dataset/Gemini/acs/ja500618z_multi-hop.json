@@ -1,0 +1,131 @@
+[
+    {
+        "doi": "10.1021/ja500618z",
+        "factual": [
+            {
+                "question": "What is the crystal system and space group of both MOF 1 and MOF 2?",
+                "answer": "Both MOF 1 and MOF 2 crystallize in the orthorhombic system. MOF 1 has the space group Pnna, while MOF 2 has the space group Pnma.",
+                "difficulty": "easy",
+                "type": "factual"
+            },
+            {
+                "question": "What are the values of the Young's modulus (E) and hardness (H) for MOF 1 along the (010) orientation?",
+                "answer": "For MOF 1 along the (010) orientation, the Young's modulus (E) is 28.6(4) GPa, and the hardness (H) is 1.25(4) GPa.",
+                "difficulty": "easy",
+                "type": "factual"
+            },
+            {
+                "question": "What are the cell parameters of [(CH3)2NH2][Mn(HCOO)3]  (3) at room temperature?",
+                "answer": "[(CH3)2NH2][Mn(HCOO)3] (3) crystallizes in the R3\u0305c space group with a = 8.3211(3) \u00c5 and c = 22.8856(12) \u00c5 at room temperature.",
+                "difficulty": "easy",
+                "type": "factual"
+            },
+            {
+                "question": "Based on the Glazer notation, what are the octahedral tilting systems for MOF 1 and MOF 2?",
+                "answer": "The Glazer notation for the octahedral tilting systems are a\u2013b0a\u2013 for MOF 1 and a\u2013b+a\u2013 for MOF 2.",
+                "difficulty": "easy",
+                "type": "factual"
+            },
+            {
+                "question": "What is the hydrogen-bonding energy per pseudocubic unit cell for MOF 2?",
+                "answer": "The hydrogen-bonding energy for MOF 2 is approximately \u22123.01 eV per pseudocubic unit cell.",
+                "difficulty": "easy",
+                "type": "factual"
+            },
+            {
+                "question": "What software package was used to determine the structures of the MOFs from the synchrotron single-crystal X-ray diffraction data?",
+                "answer": "The CrysAlisPro software package (version 1.171.36.32) was used to analyze the synchrotron single-crystal X-ray diffraction data.",
+                "difficulty": "hard",
+                "type": "factual"
+            }
+        ],
+        "reasoning": [
+            {
+                "question": "Why does MOF 1 have a higher rigidity than MOF 2?",
+                "answer": "MOF 1 has a higher rigidity because the guanidinium cations in MOF 1 form six hydrogen bonds with the framework, creating more cross-linking constraints compared to the four hydrogen bonds formed by the azetidium cations in MOF 2.",
+                "difficulty": "hard",
+                "type": "reasoning"
+            },
+            {
+                "question": "How does the difference in hydrogen bonding between MOF 1 and MOF 2 affect their mechanical properties?",
+                "answer": "The stronger and more extensive hydrogen bonding in MOF 1 leads to higher Young's moduli, increased hardness, and lower thermal expansion compared to MOF 2, which exhibits weaker hydrogen bonding.",
+                "difficulty": "hard",
+                "type": "reasoning"
+            },
+            {
+                "question": "Why are the elastic moduli of MOF 1 and MOF 2 significantly lower than those of typical perovskite oxides?",
+                "answer": "The elastic moduli of MOF 1 and MOF 2 are lower due to the increased flexibility provided by the larger formate ligands compared to the smaller O2\u2212 anions found in oxide perovskites.",
+                "difficulty": "hard",
+                "type": "reasoning"
+            },
+            {
+                "question": "Explain the observation of 'pop-in' events in the load\u2013penetration (P\u2013h) curves for MOF 2 and their absence in MOF 1.",
+                "answer": "The 'pop-in' events in MOF 2 indicate heterogeneous deformation due to the less cross-linked hydrogen bonding, making slip development easier compared to the more constrained structure of MOF 1, which does not exhibit pop-ins.",
+                "difficulty": "hard",
+                "type": "reasoning"
+            },
+            {
+                "question": "Why does MOF 1 exhibit a smaller thermal strain compared to MOF 2?",
+                "answer": "MOF 1 experiences smaller thermal strain because of its stronger hydrogen-bonding interactions between the framework and the A-site cations, leading to a more tightly bound structure that is more resistant to thermal expansion.",
+                "difficulty": "medium",
+                "type": "reasoning"
+            },
+            {
+                "question": "How does the hydrogen-bonding energy correlate with the observed mechanical properties in MOF 1, MOF 2, and MOF 3?",
+                "answer": "The hydrogen-bonding energy directly correlates with the mechanical properties: MOF 1, with the strongest hydrogen bonding, exhibits the highest stiffness and hardness, while MOF 2, with the weakest hydrogen bonding, shows the lowest values. MOF 3, possessing intermediate hydrogen-bonding strength, demonstrates intermediate mechanical properties.",
+                "difficulty": "hard",
+                "type": "reasoning"
+            },
+            {
+                "question": "What causes the negative thermal expansion along the c-axis observed in both MOF 1 and MOF 2?",
+                "answer": "The negative thermal expansion along the c-axis in both MOFs can be attributed to the classical strut and hinge mechanism associated with this type of framework structure, as detailed in the Supporting Information.",
+                "difficulty": "medium",
+                "type": "reasoning"
+            }
+        ],
+        "truefalse": [
+            {
+                "question": "MOF 1 and MOF 2 have significant differences in their densities.",
+                "answer": "false",
+                "difficulty": "easy",
+                "type": "truefalse"
+            },
+            {
+                "question": "The Young's modulus of MOF 1 is approximately half that of MOF 2.",
+                "answer": "false",
+                "difficulty": "easy",
+                "type": "truefalse"
+            },
+            {
+                "question": "Pop-in events observed during nanoindentation experiments suggest homogeneous deformation in the material.",
+                "answer": "false",
+                "difficulty": "medium",
+                "type": "truefalse"
+            },
+            {
+                "question": "The mechanical properties of MOFs are independent of the hydrogen-bonding interactions within their structures.",
+                "answer": "false",
+                "difficulty": "easy",
+                "type": "truefalse"
+            },
+            {
+                "question": "The  azetidium  cations in MOF 2 are disordered over three positions within the framework.",
+                "answer": "false",
+                "difficulty": "medium",
+                "type": "truefalse"
+            },
+            {
+                "question": "High-pressure synchrotron X-ray diffraction experiments revealed that both MOF 1 and MOF 2 undergo pressure-induced phase transitions.",
+                "answer": "true",
+                "difficulty": "easy",
+                "type": "truefalse"
+            },
+            {
+                "question": "The thermal expansion of MOF 1 is generally larger than that of MOF 2.",
+                "answer": "false",
+                "difficulty": "easy",
+                "type": "truefalse"
+            }
+        ]
+    }
+]

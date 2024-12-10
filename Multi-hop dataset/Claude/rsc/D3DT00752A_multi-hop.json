@@ -1,0 +1,116 @@
+
+[
+  {
+    "question": "What is the chemical formula of the nitronyl nitroxide biradical ligand used in the synthesis of complexes 1-4?",
+    "answer": "The nitronyl nitroxide biradical ligand used is NITPhPybis [5-(4-pyridyl)-1,3-bis(1'-oxyl-3'-oxido-4',4',5',5'-tetramethyl-4,5-hydro-1H-imidazol-2-yl)-benzene].",
+    "difficulty": "easy",
+    "type": "factual"
+  },
+  {
+    "question": "What are the metal ions present in the heterometallic chains 1-4?",
+    "answer": "The heterometallic chains 1-4 contain lanthanide ions (Gd in 1, Dy in 2, Ho in 3, Tb in 4) and Cu(II) ions.",
+    "difficulty": "easy", 
+    "type": "factual"
+  },
+  {
+    "question": "What is the coordination mode of the NITPhPybis biradical in complexes 1-4?",
+    "answer": "In complexes 1-4, the NITPhPybis biradical chelates one lanthanide ion through its bis(NIT) moiety while the N donor of pyridine and another uncoordinated NO group of the biradical bind one Cu(II) ion.",
+    "difficulty": "medium",
+    "type": "factual"  
+  },
+  {
+    "question": "What is the unique structural motif found in the 1D chains of complexes 1-4?",
+    "answer": "The 1D chains in complexes 1-4 have a unique [Ln-bis(NIT)–Cu-bis(NIT)–Ln] structural motif.",
+    "difficulty": "easy",
+    "type": "factual"
+  },
+  {
+    "question": "What type of magnetic exchanges are dominant in the Cu-Ln-biradical chains 1-4 based on the DC magnetic studies?",
+    "answer": "Ferromagnetic exchanges dominate in the Cu-Ln-biradical chains 1-4, originating from the ferromagnetic Ln–NO and NOaxial–Cu exchanges.",
+    "difficulty": "medium",
+    "type": "factual"
+  },
+  {
+    "question": "Which complexes exhibited slow magnetic relaxation behavior based on the observation of non-zero χ'' signals?",
+    "answer": "The Dy/Tb–Cu derivatives (complexes 2 and 4) exhibited slow magnetic relaxation behavior based on the observation of non-zero χ'' signals.",
+    "difficulty": "easy",
+    "type": "factual"
+  },
+  {
+    "question": "How does changing the reaction temperature lead to the formation of the new family of Cu-Ln heterometallic chains 1-4 compared to the previously reported Cu-Ln chains using the same NITPhPybis ligand?",
+    "answer": "Changing the reaction temperature from 50°C to refluxing conditions (about 69°C) led to the formation of the new family of isomorphic Cu-Ln heterometallic chains 1-4 with a unique [Ln-bis(NIT)–Cu-bis(NIT)–Ln] motif, which is different from the previously reported Cu-Ln chains using the same NITPhPybis ligand.",
+    "difficulty": "hard",
+    "type": "reasoning"
+  },
+  {
+    "question": "What is the reason for the elongated octahedral coordination sphere of the Cu(II) ions in complexes 1-4?",
+    "answer": "The elongated octahedral coordination sphere of the Cu(II) ions with longer axial Cu-O bonds compared to the equatorial ones in complexes 1-4 is mainly attributed to the Jahn-Teller effect of the Cu(II) ions.",
+    "difficulty": "medium",
+    "type": "reasoning"
+  },
+  {
+    "question": "Why does the χMT value of complex 3 initially decrease with lowering temperature before rapidly increasing at lower temperatures?",
+    "answer": "For complex 3, the initial decrease of χMT with lowering temperature may be attributed to the crystal field of Ho(III) ions, whereas the rapid increase at lower temperatures arises from the ferromagnetic coupling interactions dominating the system.",
+    "difficulty": "hard",
+    "type": "reasoning"
+  },
+  {
+    "question": "What is the origin of the ferromagnetic Gd-NIT magnetic exchange in complex 1 based on the structural parameters and previous theoretical calculations?",
+    "answer": "The ferromagnetic Gd-NIT magnetic exchange in complex 1 is related to the large Gd–O–N–C torsion angles (65.0(3)° and −71.8(4)°) which favor charge transfer and increase the ferromagnetic exchange strength, as suggested by previous density functional theory calculations.",
+    "difficulty": "hard",
+    "type": "reasoning"
+  },
+  {
+    "question": "Why is an external magnetic field required to observe the slow magnetic relaxation in the Dy-Cu complex 2?",
+    "answer": "An external magnetic field is required to suppress the quantum tunneling of magnetization (QTM) of the Dy(III) ions in complex 2, which can mask the slow magnetic relaxation. Applying a field of 1900 Oe effectively suppressed the QTM and allowed the observation of the frequency-dependent χ'' signals.",
+    "difficulty": "hard",
+    "type": "reasoning"  
+  },
+  {
+    "question": "How does the magnetic relaxation behavior of the Dy-Cu complex 2 compare to a previously reported discrete Dy2Cu3 complex with a similar [Dy-bis(NIT)–Cu-bis(NIT)–Dy] motif?",
+    "answer": "The anisotropic energy barrier of 18 K for the Dy-Cu complex 2 is comparable to that of the previously reported discrete [Dy2Cu3(hfac)12(NITPhMeImbis)2] complex due to the presence of a similar [Dy-bis(NIT)–Cu-bis(NIT)–Dy] magnetic motif in both compounds.",
+    "difficulty": "medium",
+    "type": "reasoning"
+  },
+  {
+    "question": "What is the potential of using functionalized nitronyl nitroxide biradicals as ligands in the construction of 3d-4f compounds?",
+    "answer": "This work demonstrates that functionalized nitronyl nitroxide biradicals could serve as versatile ligands to construct 3d-4f compounds with intriguing spin topology structures, consequently resulting in appealing magnetic properties.",
+    "difficulty": "easy",
+    "type": "reasoning"
+  },
+  {
+    "question": "The Cu(II) ions in complexes 1-4 display a Jahn-Teller distorted octahedral geometry.",
+    "answer": "True",
+    "type": "true_false"
+  },
+  {
+    "question": "Complexes 1-4 are isostructural and crystallize in the monoclinic space group P21/c.",
+    "answer": "False. Complexes 1-4 are isostructural but crystallize in the triclinic space group P-1.",
+    "type": "true_false"
+  },
+  {
+    "question": "The lanthanide ions in complexes 1-4 are eight-coordinate with a square antiprismatic geometry.",
+    "answer": "False. The lanthanide ions in complexes 1-4 are eight-coordinate with a biaugmented trigonal prismatic geometry.",
+    "type": "true_false" 
+  },
+  {
+    "question": "Ferromagnetic interactions are dominant in the Cu-Gd, Cu-Dy, and Cu-Tb chains (1, 2, and 4), while antiferromagnetic interactions are dominant in the Cu-Ho chain (3).",
+    "answer": "False. Ferromagnetic interactions are dominant in all the Cu-Ln chains 1-4, including the Cu-Ho chain 3.",
+    "type": "true_false"
+  },
+  {
+    "question": "Slow magnetic relaxation was observed for both the Dy-Cu (2) and Tb-Cu (4) complexes under an applied dc field.",
+    "answer": "False. Slow magnetic relaxation was observed for the Dy-Cu complex 2 under an applied dc field of 1900 Oe, but no clear slow relaxation was observed for the Tb-Cu complex 4 even under a 2000 Oe field.",
+    "type": "true_false"
+  },
+  {
+    "question": "The Ho-Cu complex 3 exhibits slow magnetic relaxation behavior under zero dc field.",
+    "answer": "False. The Ho-Cu complex 3 does not exhibit any magnetic relaxation behavior based on the ac susceptibility measurements.",
+    "type": "true_false"
+  },
+  {
+    "question": "The magnetic relaxation behavior of the Dy-Cu complex 2 originates from the [Dy-bis(NIT)–Cu-bis(NIT)–Dy] units, where the ferromagnetic NO-Cu exchanges favor the relaxation.",
+    "answer": "True",
+    "type": "true_false"
+  }
+]

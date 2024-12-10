@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the chemical formula of MOF-520?",
+        "answer": "Al8(m-OH)8(HCOO)4(BTB)4, where BTB stands for 1,3,5-benzenetribenzoate.",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "What are the advantages of using chiral MOFs for crystallizing molecules?",
+        "answer": "The advantages are: (i) Molecules form covalent bonds with the MOF's metal sites, leading to anchoring and reduced motion, promoting ordered alignment. (ii) The chiral MOF's structure serves as a reference for determining the absolute configuration of bound chiral molecules.",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "Describe the two types of pores formed in MOF-520 and their dimensions.",
+        "answer": "MOF-520 has two types of ellipsoidal pores: octahedral pores with dimensions 10.01 \u00c5 \u00d7 10.01 \u00c5 \u00d7 23.23 \u00c5, and tetrahedral pores with dimensions 5.89 \u00c5 \u00d7 5.89 \u00c5 \u00d7 6.21 \u00c5.",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "How is the absolute structure of each enantiomorph of MOF-520 designated?",
+        "answer": "The absolute structure is designated as L or D based on the chirality of the BTB linker in the crystal structure.",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "How was the porosity of MOF-520 confirmed?",
+        "answer": "The porosity was confirmed by measuring the N2 type I isotherm at 77 K, which showed an uptake of 770 cm3 g\u22121 at 1 atm. This result is close to the calculated uptake of 821 cm3 g\u22121 based on the SXRD data.",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "What happens to the formates on the SBU when alkoxides and phenolates are incorporated into MOF-520?",
+        "answer": "Only two formates on the same face of the SBU are replaced, in addition to the \u03bc-OHs. This substitution leads to a doubling of the unit cell in the c-direction.",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "Why was MOF-520 chosen as the framework for implementing the CAL method?",
+        "answer": "MOF-520 was chosen due to its high crystallinity, robustness, and chirality, which are beneficial for the CAL method.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "How do the pore widths of MOF-520-2 and MOF-520-3 compare to the original MOF-520?",
+        "answer": "Both MOF-520-2 and MOF-520-3 have larger pore widths compared to MOF-520. This is due to the substitution of formates and \u03bc-OHs with larger alkoxide and phenolate groups.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why do the anisotropic displacement parameters of incorporated molecules generally increase with distance from the binding sites?",
+        "answer": "This is because the molecules are primarily anchored by a single covalent bond to the aluminum. The parts further away from this bond have more freedom of movement.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "What is the role of weak interactions in the ordering of molecules within MOF-520?",
+        "answer": "While covalent bonding to aluminum is the primary factor in anchoring and ordering the molecules, weak interactions like \u03c0-\u03c0 interactions and hydrogen bonding can further enhance their ordering, particularly for larger and more complex molecules.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why is the CAL method advantageous for determining the structures of complex molecules like gibberellins?",
+        "answer": "Because the CAL method produces highly ordered arrangements within the MOF, even molecules with low occupancy can have their structures determined with high accuracy. This is particularly useful for complex molecules like gibberellins, which are difficult to crystallize conventionally.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "How does the chirality of MOF-520 aid in the determination of absolute configuration of molecules?",
+        "answer": "The chiral MOF framework exhibits anomalous scattering, which helps to distinguish the absolute structure of the crystal and the absolute configuration of the bound molecule, even at low occupancy. This is unlike achiral frameworks where pseudosymmetry issues can arise.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "What evidence supports the enantioselective binding of jasmonic acid enantiomers to the respective enantiomorphs of MOF-520?",
+        "answer": "The crystal structures show that (-)-jasmonic acid selectively binds to D-MOF-520, while (+)-jasmonic acid selectively binds to L-MOF-520. This is further supported by the refined Flack parameters for each enantiomer, indicating distinct absolute configurations.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "True or False: MOF-520 is synthesized using a single enantiomer of the BTB linker.",
+        "answer": "False. MOF-520 is synthesized using a racemic mixture of BTB linkers, resulting in a racemic conglomerate of the MOF.",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "True or False: The formate ligands in MOF-520 can only be substituted with carboxylic acids.",
+        "answer": "False. The formate ligands can be substituted with various functional groups, including carboxylic acids, alkoxides, and phenolates.",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "True or False: All sixteen molecules studied exhibited strong interactions with the MOF framework in addition to the covalent bond with aluminum.",
+        "answer": "False. While many molecules exhibited weak interactions like \u03c0-\u03c0 stacking or hydrogen bonding with the framework, smaller molecules like methanol and ethylene glycol did not show any significant interactions beyond the covalent bond.",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "True or False: The CAL method is only effective for crystallizing molecules with high occupancy within the MOF pores.",
+        "answer": "False. The CAL method can be effective even for molecules with low occupancy, as demonstrated by the successful crystallization and structure determination of gibberellins with only 30% occupancy.",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "True or False: The absolute structure of MOF-520 was determined using circular dichroism spectroscopy.",
+        "answer": "False. The absolute structure of MOF-520 was determined using single-crystal X-ray diffraction (SXRD) and analysis of the Flack parameter.",
+        "difficulty": "hard",
+        "type": "truefalse"
+    },
+    {
+        "question": "True or False: The CAL method could be used to separate enantiomers based on their different binding affinities to the chiral MOF.",
+        "answer": "True. The enantioselective binding of jasmonic acid enantiomers to specific MOF-520 enantiomorphs suggests that this method could be used for enantiomeric separation based on differential binding affinities.",
+        "difficulty": "hard",
+        "type": "truefalse"
+    },
+    {
+        "question": "True or False: The primary function of the MOF framework in the CAL method is to provide a chiral environment for enantioselective crystallization.",
+        "answer": "False. While the chiral environment is important for determining absolute configuration, the primary function of the MOF framework is to anchor and align the molecules via covalent bonds, thus reducing their motional freedom and promoting crystallization.",
+        "difficulty": "hard",
+        "type": "truefalse"
+    }
+]

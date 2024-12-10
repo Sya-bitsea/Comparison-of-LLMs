@@ -1,0 +1,61 @@
+**Factual Questions:**
+
+1. **Question:** What is the coordination geometry of the Dy3+ ion in complex 1 after desolvation and hydration?
+    * **Answer:** Triangular dodecahedron
+    * **Difficulty:** Hard
+2. **Question:** What is the shortest Dy-O bond length in complex 2b and what is its significance in the context of the study?
+    * **Answer:** 2.3178(18) \u00c5. It represents the bond between Dy3+ and the non-bridged oxygen atom, potentially contributing to axial magnetic anisotropy.
+    * **Difficulty:** Hard
+3. **Question:** What technique was used to identify the desolvated and hydrated form of complex 1 after air drying?
+    * **Answer:** Elemental analysis (C, N, H, and S)
+    * **Difficulty:** Medium
+4. **Question:** What is the primary difference in the synthetic procedure between complexes 1 and 2?
+    * **Answer:** The use of DyCl3\u00b76H2O and triethylamine in complex 1, compared to Dy(NO3)3\u00b76H2O and NaOH in complex 2.
+    * **Difficulty:** Medium
+5. **Question:** What happens to the crystal structure of complex 2a when exposed to air, and what technique was used to confirm this transformation? 
+    * **Answer:** It loses coordinated methanol molecules, captures water molecules, and transforms into complex 2b. This was confirmed through powder X-ray diffraction measurements.
+    * **Difficulty:** Medium
+6. **Question:** Based on ab initio calculations, at what energy level does the second excited KD lie for complex 2b', and why is this significant?
+    * **Answer:** 303 cm\u22121 above the ground state. This is significant because it suggests that the magnetic relaxation in complex 2b' is most likely to proceed via this second excited state.
+    * **Difficulty:** Hard
+
+## **Reasoning Questions:**
+
+1. **Question:**  Why is the modulation of the ligand field crucial for enhancing the magnetic anisotropy and energy barrier in Dy-SMMs?
+    * **Answer:**  The ligand field influences the energy splitting of the 2J+1 levels in the Dy(III) ion's ground state, directly affecting its magnetic anisotropy and the energy barrier for magnetization reversal.
+    * **Difficulty:** Hard
+2. **Question:** Explain the rationale behind using 2-pyridinethiol 1-oxide as a ligand in the synthesis of these Dy-SMMs.
+    * **Answer:** The ligand contains both hard donor oxygen (for axial magnetic anisotropy) and soft donor sulfur (to weaken the spherical ligand field), promoting air stability and potentially leading to desirable SMM properties.
+    * **Difficulty:** Hard
+3. **Question:** What experimental evidence suggests that complex 1 might exhibit quantum tunneling of magnetization (QTM) at low temperatures?
+    * **Answer:** The absence of a peak in the out-of-phase (\u03c7\u2033) signal and the divergence of the signal below 16 K under zero applied DC field.
+    * **Difficulty:** Hard
+4. **Question:** How does the bridging nature of the oxygen atoms in complex 1 affect the Dy-O bond lengths?
+    * **Answer:** Bridging oxygen atoms lead to longer Dy-O bond lengths compared to the non-bridged oxygen. This is observed in complex 1 where Dy-Obridge bond lengths are longer than the Dy-O bond with the non-bridged oxygen atom.
+    * **Difficulty:** Medium
+5. **Question:** Based on the magnetic data, why is complex 2 considered to have a temperature-independent relaxation under zero DC field?
+    * **Answer:** AC susceptibility measurements as a function of frequency with varying temperatures showed no change in the relaxation behavior, indicating a process independent of thermal energy, characteristic of QTM.
+    * **Difficulty:** Medium
+6. **Question:**  Comparing complexes 1 and 2, which one shows a more pronounced Raman process under an applied DC field, and what evidence supports your conclusion?
+    * **Answer:** Complex 2 shows a more pronounced Raman process. This is evident from the smaller pre-factor (C) and higher exponent (n) obtained from the fitting of its relaxation time data to the Raman process equation. 
+    * **Difficulty:** Hard
+7. **Question:** Why are sulfur-ligated Dy-SMMs less explored compared to those containing carbon, nitrogen, oxygen, or halogens as ligands?
+    * **Answer:**  Sulfur, being a soft donor atom, is typically less common in the coordination sphere of lanthanide ions, which are hard Lewis acids. This preference for harder donors has limited the exploration of sulfur-based systems.
+    * **Difficulty:** Medium
+
+## **True or False Questions:**
+
+1. **Question:** Both complexes 1 and 2 exhibit significant magnetic hysteresis loops at 2 K, indicating strong SMM behavior.
+    * **Answer:** False. While both show hysteresis loops, they exhibit small coercive fields, suggesting weak SMM behavior.
+2. **Question:** The \u03c7MT values for complexes 1 and 2 at 300 K are higher than the expected value for one free Dy(III) ion.
+    * **Answer:** False. The \u03c7MT values at 300 K are close to the expected value for a free Dy(III) ion. 
+3. **Question:** The CSM method was employed to analyze the deviation of the Dy(III) coordination geometry from ideal geometries in both complexes.
+    * **Answer:** True.
+4. **Question:** The ab initio calculations for complexes 1' and 2b' were performed after optimizing the crystal structures.
+    * **Answer:** False. The calculations were performed without any optimization of the crystal structures obtained from X-ray diffraction.
+5. **Question:** The main magnetic axes of the ground states for both 1' and 2b' are oriented approximately perpendicular to the shortest Dy-O bond.
+    * **Answer:** False. The main magnetic axes are nearly parallel to the shortest Dy-O bond, which involves the non-bridged oxygen atom.
+6. **Question:**  The study concludes that achieving a spherical ligand field is beneficial for enhancing SMM properties in sulfur-ligated Dy-complexes.
+    * **Answer:** False. The study suggests that weakening the equatorial ligand field, rather than achieving a spherical one, is more beneficial for enhancing SMM properties in such systems.
+7. **Question:** The ab initio calculations suggest that the Orbach relaxation process is likely to dominate the magnetic relaxation in both complexes at temperatures above 22 K. 
+    * **Answer:** True. 

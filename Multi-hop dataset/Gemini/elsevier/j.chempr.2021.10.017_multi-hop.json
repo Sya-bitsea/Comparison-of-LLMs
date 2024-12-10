@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What are the two novel polymetallic ligand-bridged copper redox shuttles based on?",
+        "answer": "The two novel polymetallic ligand-bridged copper redox shuttles are based on tetradentate (denticity  \u03ba4) ligands 6,6\u2032-bis(2,3,4-trihydropyrrol-5-yl)-2,2\u2032-bipyridine (Ctetra) and 6,6\u2032-bis(4,5-dihydrothiazol-2-yl)-2,2\u2032-bipyridine (Stetra).",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "Based on DFT calculations, what are the copper ion's positions in Cu(II) monomers and Cu(I) dimers?",
+        "answer": "DFT calculations show that in Cu(II) monomers, the Cu ion is in the middle of a square-planar coordination environment, with Cu\u2013N bond lengths of about 2.0 \u00c5. In Cu(I) dimers, the Cu ion is closer to the 5-membered ring (bond length ~2.0 \u00c5) than to the pyridines (bond length ~2.1 \u00c5 for Cu(Ctetra) and ~2.2 \u00c5 for Cu(Stetra)).",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "What is the effect of tBP on charge transport in the tetradentate complexes?",
+        "answer": "The common additive tBP greatly limited charge transport in both tetradentate complexes, in accordance with earlier findings.",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "What are the redox potentials of Cu(Ctetra) and Cu(Stetra) versus NHE?",
+        "answer": "The redox potentials of Cu(Ctetra) and Cu(Stetra) are 569 mV and 650 mV versus NHE respectively.",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "What is the function of redox mediators in biological systems?",
+        "answer": "Redox mediators are organic or inorganic materials used in biological systems as electron donors or acceptors in electron transfer processes.",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "What are the computed inner reorganization energies upon single oxidation of a (Cu(I))2 dimer to form a (Cu(I)Cu(II)) mixed valence dimer for Cu(Ctetra) and Cu(Stetra)?",
+        "answer": "Inner reorganization energies upon single oxidation of a (Cu(I))2 dimer to form a (Cu(I)Cu(II)) mixed valence dimer were 0.39 eV for Cu(Ctetra) and 0.40 eV for Cu(Stetra).",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "Why are DSCs based on the dimer redox shuttles subject to reduced voltage losses?",
+        "answer": "The disproportionation of the tetradentate copper dimers following oxidation in DSC electrolytes decouples dye regeneration and charge recombination, leading to slower recombination kinetics and reduced voltage losses.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "How does the dynamic dimer formation affect charge recombination in DSCs?",
+        "answer": "The dynamic dimer formation leads to a disproportionation mechanism that stabilizes the square-planar Cu(II) monomers and inhibits charge recombination.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why is the limiting current density higher for Cu(Ctetra) compared to Cu(Stetra)?",
+        "answer": "Cu(Ctetra) has better solubility and hence higher concentration in the electrolyte, which results in a higher limiting current density compared to Cu(Stetra).",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why does the presence of tBP limit charge transport in the tetradentate complexes?",
+        "answer": "tBP coordinates with the Cu(II) monomers, hindering their movement and thus limiting charge transport.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "How does the dimer disproportionation mechanism affect the kinetics at the electrolyte/PEDOT interface?",
+        "answer": "Dimer disproportionation leads to slow kinetics at the electrolyte/PEDOT interface because the restoration of the electrolyte at the cathode follows second-order kinetics.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why are Cu(Ctetra)-based DSC devices less efficient than Cu(Stetra)-based devices?",
+        "answer": "Cu(Ctetra)-based devices exhibit a fill factor drop due to slow kinetics at the electrolyte/PEDOT interface, resulting in lower efficiency compared to Cu(Stetra)-based devices.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why is charge recombination with injected electrons thermodynamically unfavored in the case of dimer redox mediators?",
+        "answer": "After dynamic dimer disproportionation, the tetradentate ligand stabilizes the square-planar coordination of the Cu(II) state, making charge recombination with injected electrons unfavored by up to 1 eV per transfer.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "True or False: Conventional \u03ba2 bis(bipyridine) copper redox mediators are designed in a (pseudo-)tetrahedral geometry to obtain low redox potentials.",
+        "answer": "False. Conventional  \u03ba2 bis(bipyridine) copper redox mediators are designed in a (pseudo-)tetrahedral geometry to obtain *high* redox potentials.",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "True or False: Cu(I) monomers are energetically favored over Cu(I) dimers.",
+        "answer": "False. Cu(I) dimers are energetically favored over Cu(I) monomers.",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "True or False: The dynamic dimer redox mediators promote charge recombination in hybrid solar cells.",
+        "answer": "False. The dynamic dimer redox mediators *inhibit* charge recombination in hybrid solar cells.",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "True or False: The disproportionation of Cu(I)Cu(II) dimers into a (Cu(I))2 dimer and two Cu(II) monomers is energetically unfavored.",
+        "answer": "False. The disproportionation of Cu(I)Cu(II) dimers into a (Cu(I))2 dimer and two Cu(II) monomers is energetically *favored*.",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "True or False:  The Cu(I) dimer's 2-electron oxidation process yields two Cu(II) monomers, thus destabilizing both oxidation states.",
+        "answer": "False. The Cu(I) dimer's 2-electron oxidation process yields two Cu(II) monomers, thus *stabilizing* both oxidation states.",
+        "difficulty": "medium",
+        "type": "truefalse"
+    },
+    {
+        "question": "True or False: The addition of 4-tert-butylpyridine (tBP) enhances charge transport in both tetradentate complexes.",
+        "answer": "False. The addition of 4-tert-butylpyridine (tBP) *limits* charge transport in both tetradentate complexes.",
+        "difficulty": "easy",
+        "type": "truefalse"
+    },
+    {
+        "question": "True or False: Cu(Ctetra) and Cu(Stetra) have lower diffusion coefficients compared to Cu(tmby)2.",
+        "answer": "False. Cu(Ctetra) and Cu(Stetra) have *higher* diffusion coefficients compared to Cu(tmby)2.",
+        "difficulty": "hard",
+        "type": "truefalse"
+    }
+]

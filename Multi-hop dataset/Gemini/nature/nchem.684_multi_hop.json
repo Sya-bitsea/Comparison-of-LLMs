@@ -1,0 +1,69 @@
+**Factual:**
+
+1. **Question:** What is the yield of the synthesis of [Zn(TCNQ-TCNQ)bpy]\u20221.5benzene?
+   **Answer:** 93%
+   **Difficulty:** Easy
+2. **Question:** What is the ratio of MeOH to benzene used to wash the obtained green powder in the synthesis of [Zn(TCNQ-TCNQ)bpy]\u20221.5benzene?
+   **Answer:** 1:20
+   **Difficulty:** Easy
+3. **Question:** Besides benzene, what other type of molecules can be incorporated into the [Zn(TCNQ-TCNQ)bpy] framework?
+   **Answer:** Aromatic molecules
+   **Difficulty:** Medium
+4. **Question:**  What technique was used to determine the accommodation of guest molecules within the framework of compound 1?
+   **Answer:** Single-crystal X-ray diffraction analysis
+   **Difficulty:** Medium
+5. **Question:**  What is the maximum wavelength used in the Raman spectroscopy study of compound 1 under a controlled atmosphere?
+   **Answer:** 785 nm
+   **Difficulty:** Hard
+6. **Question:**  What causes the error of +0.25% in each point of the adsorption isotherms?
+   **Answer:**  The resolution of the pressure gauge used in the BELSORP-CRYO, BELSORP-MAX, and AUTOSORB-1 instruments.
+   **Difficulty:** Hard
+
+**Reasoning:**
+
+1. **Question:** Why is the slow addition of LiTCNQ and bpy solution crucial in the synthesis process?
+   **Answer:**  Slow addition ensures controlled crystal growth and prevents the formation of unwanted amorphous products. 
+   **Difficulty:** Medium
+2. **Question:** Why is the synthesis of [Zn(TCNQ-TCNQ)bpy] conducted under an N2 atmosphere?
+   **Answer:** To prevent oxidation of the reagents and products.
+   **Difficulty:** Medium
+3. **Question:** Considering the selective sorption properties of compound 1, what could be a potential application for this material?
+   **Answer:** Gas separation and purification, specifically for separating O2 and NO from other gases.
+   **Difficulty:** Medium
+4. **Question:** The paper mentions the difficulty in obtaining isotherms for compound 1 due to its transformable nature.  What does this imply about the mechanism of guest accommodation in this framework?
+   **Answer:**  It suggests that guest accommodation involves a dynamic process where the framework structure changes to accommodate the guest, making it a more complex kinetic process.
+   **Difficulty:** Hard
+5. **Question:** Based on the observed red shift in the n(O=O) band in the Raman spectra, what can be inferred about the electronic interaction between compound 1 and O2?
+   **Answer:** The red shift indicates a weakening of the O=O bond, suggesting that the framework donates electron density to the antibonding orbital of O2.
+   **Difficulty:** Hard
+6. **Question:**  The text mentions that the TCNQ ligands in compound 1 form dimeric dianion units. What does this tell us about the electronic properties of TCNQ in this framework?
+   **Answer:**  It suggests that each TCNQ molecule in the dimer has gained an extra electron, making the dimer electron-rich and capable of interacting with electron-accepting molecules.
+   **Difficulty:** Hard
+7. **Question:** The paper mentions using Le Bail analysis on XRPD data. What information can be extracted from this analysis and how is it relevant to understanding the properties of compound 1?
+   **Answer:**  Le Bail analysis helps determine lattice parameters and space group information from powder diffraction data. This is crucial for understanding the structural changes in compound 1 upon guest sorption and confirming the transition between closed and open forms.
+   **Difficulty:** Hard
+
+**True or False:**
+
+1. **Statement:** The compound [Zn(TCNQ-TCNQ)bpy] shows selective uptake of CO2 over O2. 
+   **Answer:** False 
+   **Difficulty:** Easy
+2. **Statement:** The size and shape of the pores in compound 1 are the only factors determining its gas sorption selectivity. 
+   **Answer:** False
+   **Difficulty:** Medium
+3. **Statement:** The charge-transfer interaction between the TCNQ ligands and guest molecules like O2 leads to a blue shift in the n(C\u2261N) band in the infrared spectra.
+   **Answer:** False
+   **Difficulty:** Medium
+4. **Statement:** The Raman spectroscopy results suggest that a complete redox reaction with one-electron transfer occurs between compound 1 and O2. 
+   **Answer:** False
+   **Difficulty:** Medium
+5. **Statement:** The gated sorption behavior of compound 1 is characterized by a gradual and linear increase in gas uptake with increasing pressure.
+   **Answer:** False
+   **Difficulty:** Hard
+6. **Statement:** According to the paper, the reduction energies of gas molecules, calculated at the MP2/6-311+G* level, can provide insights into their electron acceptability.
+   **Answer:** True
+   **Difficulty:** Hard
+7. **Statement:**  The \"confinement effect\" usually results in a significant redshift of the n(O=O) stretching band of O2 upon adsorption in microporous materials. 
+   **Answer:** False 
+   **Difficulty:** Hard 
+

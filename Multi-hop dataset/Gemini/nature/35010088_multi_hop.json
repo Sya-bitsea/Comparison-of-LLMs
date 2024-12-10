@@ -1,0 +1,148 @@
+**Factual Questions:**
+
+1. **Question:** What is the role of CaCl2, KCl, and NaCl in the synthesis of the oxonitride pigments?
+   **Answer:** They act as mineralizers.
+   **Difficulty:** Medium
+2. **Question:**  What is the stoichiometric ratio of the mineralizers to the starting materials in the synthesis of the oxonitride pigments?
+   **Answer:** Approximately 50 wt% each.
+   **Difficulty:** Hard
+3. **Question:** How does the thermal stability of the novel pigments compare to that of cadmium yellow in the context of glass paint application?
+   **Answer:** The oxonitride pigment has superior thermal stability in the glass flux compared to cadmium yellow. 
+   **Difficulty:** Medium
+4. **Question:** Apart from high temperatures, what other chemical is used to test the stability of the oxonitride pigments?
+   **Answer:**  Boiling sulfuric acid.
+   **Difficulty:** Hard
+5. **Question:** What is the recommended approach for utilizing the new pigments in high-temperature applications like ceramics coloring?
+   **Answer:** Encapsulating the pigment particles within refractive materials like ZrSiO4 or ZrO2.
+   **Difficulty:** Medium
+6. **Question:** What method is employed to analyze the light absorption characteristics of the synthesized oxonitride samples?
+   **Answer:** UV-vis spectroscopy in diffuse reflection mode using a mixture of 100 mg sample and 4.5 g BaSO4.
+   **Difficulty:** Hard
+
+**Reasoning Questions:**
+
+1. **Question:** Why is the substitution of divalent (Ca,O) for trivalent (La,N) constituents significant in these oxonitrides?
+   **Answer:**  It slows down the mobility in the solid state, influencing properties like thermal stability.
+   **Difficulty:** Medium
+2. **Question:**  Why are the new pigments considered a safer alternative to cadmium-based pigments?
+   **Answer:** Cadmium poses health and environmental risks, as detailed in references 3 and 4, while the new pigments are lead-free and resist various chemical attacks.
+   **Difficulty:** Medium
+3. **Question:** Based on the text, why is the tinting strength of a pigment important in its application?
+    **Answer:**  High tinting strength implies that a smaller amount of pigment is needed to achieve the desired color, making it more cost-effective. This is shown in the comparison with cadmium sulphoselenide in Table 2. 
+    **Difficulty:** Hard
+4. **Question:**  The text mentions the oxonitride pigments have good dispersability. Why is this property important for their application?
+   **Answer:** Good dispersability ensures the pigment particles distribute evenly within the medium, leading to a uniform and smooth color.
+   **Difficulty:** Medium
+5. **Question:** How does the processing temperature limit of the oxonitrides compare to cadmium sulphoselenides in enamel applications?
+   **Answer:** Oxonitrides can withstand temperatures up to 720\u00b0C, higher than the 650\u00b0C limit for cadmium sulphoselenides, making them suitable for higher-temperature processing. 
+   **Difficulty:** Medium
+6. **Question:** What is the implication of the oxonitrides resisting solvents like HCl, HNO3, and aqua regia?
+   **Answer:** This resistance demonstrates their high chemical stability and suitability for applications where exposure to harsh chemicals is expected.
+   **Difficulty:** Easy
+7. **Question:** Why is the discovery of these new pigments significant in the context of existing environmental regulations?
+   **Answer:**  The EC guideline (reference 5) restricts cadmium use, and these pigments offer a viable alternative with a desirable combination of properties.
+   **Difficulty:** Medium
+
+**True or False Questions:**
+
+1. **Question:** The new oxonitride pigments are less thermally stable than cadmium yellow. 
+   **Answer:** False
+   **Difficulty:** Easy 
+2. **Question:** The opacity of the oxonitride pigment is significantly higher compared to the sulphoselenide pigment.
+   **Answer:** False
+   **Difficulty:** Medium
+3. **Question:**  The oxonitride pigments can be directly used for coloring all types of plastics.
+   **Answer:** False
+   **Difficulty:** Hard 
+4. **Question:** The synthesis of the oxonitride pigments involves a liquid-phase reaction. 
+   **Answer:** False
+   **Difficulty:** Easy
+5. **Question:** The new pigments are only available in a limited range of colors.
+   **Answer:** False
+   **Difficulty:** Easy
+6. **Question:** The crystal structure of the synthesized oxonitrides was not investigated in this study.
+   **Answer:** False
+   **Difficulty:** Hard
+7. **Question:** The authors suggest that the new pigments are a viable alternative to cadmium-based pigments due to their comparable or superior properties and lower environmental impact. 
+   **Answer:** True
+   **Difficulty:** Easy 
+
+## Multi-hop Q&A for DOI: 10.1038/35015536
+
+**Synthesis Conditions:**
+
+* **Materials:**  Enantiopure organic building block 1 (synthesized from D-tartaric acid), Zn2+ ions.
+* **Method:**  Reaction of building block 1 with Zn2+ ions.
+* **Product:** Homochiral open-framework solid [Zn3(m3-O)(1-H)6](cid:215)2H3O(cid:215)12H2O (D-POST-1 or L-POST-1 depending on the enantiomer of 1 used)
+
+**Factual Questions:**
+
+1. **Question:** What is the name given to the oxo-bridged trinuclear metal carboxylates often found in transition metal coordination chemistry? 
+   **Answer:** \"Basic\" Carboxylates.
+   **Difficulty:** Medium
+2. **Question:** What type of interaction links the trinuclear units to form the 2D layers in the POST-1 structure?
+   **Answer:** Coordinate covalent bonds between zinc ions and pyridyl groups.
+   **Difficulty:** Medium
+3. **Question:** What is the approximate percentage of void volume occupied by the channels within the total volume of the D-POST-1 structure?
+   **Answer:** 47%.
+   **Difficulty:** Easy
+4. **Question:** Besides water, what other solvent is POST-1 slightly soluble in?
+   **Answer:** Dimethyl sulfoxide (DMSO).
+   **Difficulty:** Hard
+5. **Question:**  How many water molecules are present per unit cell of D-POST-1?
+   **Answer:** 47.
+   **Difficulty:** Hard
+6. **Question:** How was the presence of I-
+3 counterions in the methylated POST-1 confirmed? 
+   **Answer:** Raman Spectroscopy.
+   **Difficulty:** Hard
+
+**Reasoning Questions:**
+
+1. **Question:**  Why is the use of enantiopure metal-organic clusters as building blocks advantageous for creating materials suitable for enantioselective separation?
+   **Answer:** Enantiopure building blocks lead to the formation of chiral frameworks with specific enantioselective recognition properties, allowing separation of enantiomers.
+   **Difficulty:** Medium
+2. **Question:**  Why is the replacement of water molecules with pyridine in the trinuclear metal carboxylate units significant for the formation of POST-1? 
+   **Answer:** Pyridine acts as a linking agent, coordinating with zinc ions from neighboring trinuclear units and enabling the formation of the extended framework.
+   **Difficulty:** Hard
+3. **Question:** Why is the presence of free pyridyl groups within the channels of POST-1 important for its potential applications?
+   **Answer:** These groups offer sites for chemical modification, allowing tuning of the channel environment and enabling functions like cation exchange and catalysis.
+   **Difficulty:** Medium
+4. **Question:**  The text mentions that POST-1 is stable in \"normal\" organic solvents. What can be inferred about the potential applications of POST-1 based on this stability?
+   **Answer:** This stability suggests its suitability for various applications involving organic solvents, such as catalysis or separation processes in organic synthesis.
+   **Difficulty:** Medium
+5. **Question:**  Why is the ability to exchange protons with alkali metal ions in POST-1 significant?
+   **Answer:**  This cation exchange property suggests potential applications in areas like ion exchange, separation, and sensing.
+   **Difficulty:** Medium
+6. **Question:** How does N-alkylation of the pyridyl groups in POST-1 allow for pore size modulation?
+   **Answer:**  Attaching alkyl groups of different sizes to the pyridyl groups effectively changes the steric hindrance within the channels, thereby controlling the accessible pore size. 
+   **Difficulty:** Hard
+7. **Question:**  Why does the enantioselective catalytic activity of POST-1 in transesterification reactions make it particularly interesting for practical applications?
+   **Answer:**  Enantioselective catalysts are highly sought after in the pharmaceutical and fine chemical industries for producing enantiomerically pure compounds, which are crucial for drug development and other applications.
+   **Difficulty:** Medium 
+
+**True or False Questions:**
+
+1. **Question:**  POST-1 completely loses its structural integrity upon removal of the solvent molecules.
+   **Answer:** False
+   **Difficulty:** Easy
+2. **Question:**  The chiral channels in POST-1 are of uniform size throughout the framework.
+   **Answer:** True
+   **Difficulty:** Hard
+3. **Question:** POST-1 exhibits a high degree of enantioselectivity in the transesterification reaction, consistently achieving high enantiomeric excess values for different substrates.
+   **Answer:** False
+   **Difficulty:** Medium
+4. **Question:**  The synthesis of POST-1 involves the formation of a three-dimensional infinite network.
+   **Answer:** False
+   **Difficulty:** Easy
+5. **Question:** The researchers were able to successfully exchange the I-
+3 counterions in methylated POST-1 with PF-
+6 ions.
+   **Answer:** True
+   **Difficulty:** Easy
+6. **Question:**  The catalytic activity of POST-1 in transesterification reactions is independent of the size of the alcohol reactant.
+   **Answer:** False
+   **Difficulty:** Medium
+7. **Question:**  The research suggests that POST-1 has potential applications in various fields, including enantioselective separation, catalysis, and ion exchange.
+   **Answer:** True
+   **Difficulty:** Easy 

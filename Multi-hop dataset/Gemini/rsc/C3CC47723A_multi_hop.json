@@ -1,0 +1,63 @@
+**Q&A Pairs:**
+
+**Factual (6)**
+
+1. **Question:** What is the Cu  Cu distance in the Cu2I2 cluster core of Cu(I)-MOF after exposure to air?
+   **Answer:** 2.7601(19) \u00c5 
+   **Difficulty:** Hard
+2. **Question:** What type of spectroscopy confirms the encapsulation of formaldehyde in the Cu(I)-MOF? 
+   **Answer:** 1H NMR spectroscopy
+   **Difficulty:** Medium
+3. **Question:** How does the emission maximum of Cu(I)-MOF change upon transitioning from its yellow to red-brown form?
+   **Answer:** It red-shifts from 607 nm to 613 nm.
+   **Difficulty:** Hard
+4. **Question:** What is the dimension of the rhombus-like open channels in the Cu(I)-MOF structure?
+   **Answer:** Approximately 10 x 11 \u00c5.
+   **Difficulty:** Medium
+5. **Question:**  What is the concentration of formaldehyde vapor that does not produce a noticeable color change in the Cu(I)-MOF sensor?
+   **Answer:** 0.0016 ppm
+   **Difficulty:** Hard
+6. **Question:** What are the two characterization techniques used to confirm the guest exchange process from Cu(I)-MOF (1) to (2)?
+   **Answer:** 1H NMR spectroscopy and TGA.
+   **Difficulty:** Medium
+
+**Reasoning (7)**
+
+1. **Question:** Why does the emission intensity of Cu(I)-MOF decrease upon water adsorption?
+   **Answer:** The encapsulated water molecules quench the emission through non-radiative energy transitions.
+   **Difficulty:** Hard
+2. **Question:**  Based on the text, explain why single-crystal X-ray diffraction is crucial for understanding the sensing mechanism of this Cu(I)-MOF. 
+   **Answer:**  Single-crystal X-ray diffraction reveals the structural changes within the Cu(I)-MOF upon guest molecule inclusion, directly correlating these changes to the observed colorimetric and luminescent responses.
+   **Difficulty:** Hard
+3. **Question:** Why is the Cu(I)-MOF a more practical sensor for formaldehyde compared to previous sensors?
+   **Answer:**  It can detect formaldehyde even in the presence of water molecules, unlike many previous sensors that are influenced by humidity.
+   **Difficulty:** Medium
+4. **Question:** How does the change in Cu  Cu distance in the Cu2I2 cluster core correlate to the color change observed in the Cu(I)-MOF upon formaldehyde uptake?
+   **Answer:** The Cu  Cu distance decreases slightly upon formaldehyde uptake, indicating a structural change in the Cu2I2 core, which likely influences the electronic transitions responsible for the color change.
+   **Difficulty:** Hard
+5. **Question:** Considering the hydrogen bonding interactions mentioned, explain why formaldehyde might be expected to displace some, but not all, of the water molecules in the Cu(I)-MOF.
+   **Answer:**  Formaldehyde forms stronger hydrogen bonds compared to water, allowing it to displace some water molecules. However, some water molecules might be involved in hydrogen bonding interactions crucial for the overall stability of the framework, preventing complete displacement.
+   **Difficulty:** Hard
+6. **Question:** Based on the described properties of the Cu(I)-MOF, why might it be a suitable candidate for a portable sensing device?
+   **Answer:** It exhibits naked-eye detectable color changes in response to analytes, making it a convenient and potentially portable sensor without requiring complex instrumentation.
+   **Difficulty:** Medium
+7. **Question:** Given the structure of the ligand L, what properties make it suitable for designing a MOF with sensing capabilities?
+   **Answer:**  The benzimidazolyl and pyridyl groups in ligand L can participate in hydrogen bonding and \u03c0-\u03c0 interactions with guest molecules, contributing to the selective binding and sensing of specific analytes.
+   **Difficulty:** Medium 
+
+**True or False (7)**
+
+1. **Statement:** The Cu(I)-MOF undergoes an irreversible structural change when transitioning from its yellow to red-brown form.
+   **Answer:** False
+2. **Statement:** The emission of the Cu(I)-MOF is attributed to a ligand-to-metal charge transfer (LMCT) mechanism.
+   **Answer:** False
+3. **Statement:** The Cu(I)-MOF shows a color change upon exposure to dry air (RH 5%).
+   **Answer:** False
+4. **Statement:** The Cu(I)-MOF exhibits a single-crystal-to-single-crystal transformation upon guest exchange.
+   **Answer:** True
+5. **Statement:** The Cu(I)-MOF sensor can differentiate between formaldehyde concentrations of 0.16 ppm and 0.016 ppm based on color change.
+   **Answer:** True
+6. **Statement:** Temperature variations significantly affect the colorimetric response of the Cu(I)-MOF sensor. 
+   **Answer:** False
+7. **Statement:** The Cu(I)-MOF demonstrates higher sensitivity to water vapor than formaldehyde vapor.
+   **Answer:** False 

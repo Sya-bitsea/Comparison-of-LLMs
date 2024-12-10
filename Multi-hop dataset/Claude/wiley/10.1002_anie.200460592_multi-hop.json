@@ -1,0 +1,126 @@
+s a multi-hop Q&A dataset in JSON format for the given text:
+
+{
+  "doi": "10.1002/anie.200460592",
+  "questions": [
+    {
+      "question": "What is the chemical composition of the new chromium hybrid solid MIL-100 synthesized under hydrothermal conditions?",
+      "answer": "The chemical composition of MIL-100 is Cr3F(H2O)3O[C6H3-(CO2)3]2·n H2O (n ~ 28).",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What are the dimensions of the smallest cage delimited by the corner sharing of the supertetrahedra in MIL-100?",
+      "answer": "The smallest cage, which has 20 supertetrahedra, has an internal diameter of ~25 Å.",
+      "type": "factual", 
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the apparent Langmuir surface area estimated for MIL-100 assuming a monolayer coverage of N2?",
+      "answer": "The apparent Langmuir surface area is estimated to be 3100(40) m2 g−1 for MIL-100, assuming a monolayer coverage of N2.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What are the two main topological concepts that were applied to reach a possible design of porous solids?",
+      "answer": "The two main topological concepts applied to reach a possible design of porous solids are \"scale chemistry\" for inorganics and \"reticular synthesis from augmented nets\" for metal-organic frameworks (MOFs).",
+      "type": "factual",
+      "difficulty": "medium" 
+    },
+    {
+      "question": "What is the internal diameter of the cage within the supertetrahedra in MIL-100?",
+      "answer": "The internal diameter of the cage within the supertetrahedra in MIL-100 is 6.6 Å.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What are the three candidate polymorphs identified for the [Cr-BTC] system using the simulation approach?",
+      "answer": "The three candidate polymorphs identified for the [Cr-BTC] system are MEP, MTN and a new hexagonal type referred to as HEX.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Why was the location of the fluoride counterions within MIL-100 not able to be determined from the structure refinement?",
+      "answer": "The location of the fluoride counterions within MIL-100 could not be determined due to the similar diffusion factors of oxygen and fluorine atoms.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Based on the thermal gravimetric analysis, what can be inferred about the stability of MIL-100 and the nature of the weight loss steps observed?",
+      "answer": "The thermal gravimetric analysis reveals that MIL-100 is stable up to 275°C. The first weight loss step between 25-250°C is attributed to the loss of guest water molecules, while the second step between 275-400°C is due to the removal of fluoride ions and decomposition of the framework.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "How does the corner sharing of the supertetrahedra in MIL-100 lead to the formation of a hierarchical pore system with both micro- and mesopores?",
+      "answer": "The corner sharing of the supertetrahedra in MIL-100 delimits a framework with two types of cages - the smallest cage with 20 supertetrahedra has microporous dimensions (~25 Å), while the larger cages with 28 supertetrahedra have mesoporous dimensions (~29 Å). This leads to a unique hierarchical pore system with both micro- and mesopores.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What evidence from the nitrogen gas sorption isotherm suggests the presence of both micro- and mesopores in MIL-100?",
+      "answer": "The nitrogen gas sorption isotherm for MIL-100 is between type I and IV with a slight secondary uptake, which is indicative of the presence of both micro- and mesopores.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "How does the simulation approach used in this study enable the discovery of new porous solids with giant pores that were previously inaccessible?",
+      "answer": "The simulation approach explores all possible combinations of connections between inorganic and organic building blocks, providing candidate structures with their crystallographic parameters. This enables the discovery of new porous solids with giant pores that represent upper homologues of known zeolites, which were previously inaccessible due to the lack of single crystals and complexity of the powder patterns.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the key advantage of the combined chemistry-simulation approach demonstrated in this study for obtaining new materials?",
+      "answer": "The key advantage is that single crystals are not required for structure solution, as it can be done from Rietveld refinements of powder diffraction data. This allows tackling the polymorphism of MOFs and enables structure solution for complex solids that were previously abandoned due to lack of single crystals.",
+      "type": "reasoning",
+      "difficulty": "hard" 
+    },
+    {
+      "question": "How does the concept of \"scale chemistry\" relate to the giant pore sizes achieved in MIL-100?",
+      "answer": "The concept of \"scale chemistry\" involves increasing the size of the building blocks (in this case the supertetrahedra) to generate larger pores. This is exemplified in MIL-100, where the giant pore sizes in the micro- and mesoporous range arise from the large dimensions of the supertetrahedra building units.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "True or False: MIL-100 is the first example of a mesoporous solid with crystalline walls.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "True or False: The simulated X-ray powder diffraction pattern for the MTN-type structure exactly matches the experimental pattern for MIL-100.",
+      "answer": "False. The simulated pattern matches the position of the Bragg peaks but there are differences in intensities compared to the experimental pattern, as the simulated one corresponds only to the skeleton while the experimental also includes contributions from occluded species.",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "True or False: The approach used to obtain MIL-100 can be considered an example of design, where the structure is first imagined and then realized afterwards.",
+      "answer": "False. The approach is not considered design because the first step involves computational prediction rather than imagination. The authors suggest the label \"simulation assisted chemical structures\" (SACS) to describe solids obtained by this method.",
+      "type": "true_false", 
+      "difficulty": "medium"
+    },
+    {
+      "question": "True or False: The thermal stability of MIL-100 extends beyond 400°C based on the thermal gravimetric analysis.",
+      "answer": "False. The thermal gravimetric analysis shows that MIL-100 is stable up to 275°C, with framework decomposition occurring between 275-400°C.",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "True or False: The two weight loss steps observed in the thermal gravimetric analysis of MIL-100 are both attributed to the removal of guest water molecules.",
+      "answer": "False. Only the first weight loss step between 25-250°C is attributed to the loss of guest water molecules. The second step between 275-400°C is due to removal of fluoride ions and framework decomposition.",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "True or False: The Rietveld refinement of the MIL-100 structure was performed using atomic coordinates derived from the simulations as a starting point.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "True or False: The computational approach used in this study is limited to the [Cr-BTC] system and cannot be generalized to other metal-organic frameworks.",
+      "answer": "False. The computational approach is general and has been validated for different types of inorganic and organic building units. It can be applied to explore the polymorphism of various metal-organic frameworks.",
+      "type": "true_false",
+      "difficulty": "medium"
+    }
+  ]

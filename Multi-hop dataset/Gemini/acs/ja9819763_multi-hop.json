@@ -1,0 +1,142 @@
+[
+    {
+        "doi": "10.1021/ja9819763",
+        "question": "What is the space group of the mixed sodium/cesium salt of gold thiomalate?",
+        "answer": "The mixed sodium/cesium salt of gold thiomalate crystallizes in the tetragonal space group P\\bar{4}b2 (No. 117).",
+        "difficulty": "Factual",
+        "type": "What is"
+    },
+    {
+        "doi": "10.1021/ja9819763",
+        "question": "What is the role of cesium ions in the crystallization of gold sodium thiomalate?",
+        "answer": "Cesium ions act as cationic additives that proved to be decisive in the successful crystallization of gold sodium thiomalate.",
+        "difficulty": "Factual",
+        "type": "What is"
+    },
+    {
+        "doi": "10.1021/ja9819763",
+        "question": "What is the method used to determine the structure of gold thiomalate?",
+        "answer": "The structure of gold thiomalate was determined using single-crystal X-ray diffraction.",
+        "difficulty": "Factual",
+        "type": "What is"
+    },
+    {
+        "doi": "10.1021/ja9819763",
+        "question": "What are the lengths of the unit cell dimensions of the mixed sodium/cesium salt of gold thiomalate?",
+        "answer": "The unit cell dimensions are a = 18.767(2) \u00c5 and c = 4.798(2) \u00c5.",
+        "difficulty": "Factual",
+        "type": "What is"
+    },
+    {
+        "doi": "10.1021/ja9819763",
+        "question": "What is the formula of the title compound?",
+        "answer": "The title compound is formulated as Na2CsAu2(L)(LH), where L is the thiomalate ligand [O2C-CH2-CH(S)-CO2]3\u2212.",
+        "difficulty": "Factual",
+        "type": "What is"
+    },
+    {
+        "doi": "10.1021/ja9819763",
+        "question": "What is the closest interstrand Au\u00e2\u2039\u2026\u00e2\u2039\u2026Au distance in the gold(I) thiomalate double helix?",
+        "answer": "The closest interstrand Au\u00e2\u2039\u2026\u00e2\u2039\u2026Au distance in the gold(I) thiomalate double helix is 3.227(5) \u00c5.",
+        "difficulty": "Factual",
+        "type": "What is"
+    },
+    {
+        "doi": "10.1021/ja9819763",
+        "question": "Based on the article, is the statement 'Gold thiomalate is monomeric in the solid state' true or false?",
+        "answer": "False. The article states that gold thiomalate is polymeric in the solid state.",
+        "difficulty": "TrueOrFalse",
+        "type": "Is the statement true or false?"
+    },
+    {
+        "doi": "10.1021/ja9819763",
+        "question": "Based on the article, is the statement 'Cesium ions were found to be crucial for the crystallization of gold sodium thiomalate.' true or false?",
+        "answer": "True. The article explicitly states that the use of cationic additives, particularly cesium ions, was decisive in achieving successful crystallization.",
+        "difficulty": "TrueOrFalse",
+        "type": "Is the statement true or false?"
+    },
+    {
+        "doi": "10.1021/ja9819763",
+        "question": "Based on the article, is the statement 'The solid-state structure of gold thiomalate, as revealed by this study, is inconsistent with the findings of earlier EXAFS/WAXS analyses' true or false?",
+        "answer": "False. The article states that the findings from their X-ray diffraction study are in good agreement with the earlier EXAFS/WAXS studies.",
+        "difficulty": "TrueOrFalse",
+        "type": "Is the statement true or false?"
+    },
+    {
+        "doi": "10.1021/ja9819763",
+        "question": "Based on the article, is the statement 'The structure of gold thiomalate in solution is well-established and known to be cyclic' true or false?",
+        "answer": "False. The article mentions that it is unclear whether the structure of gold thiomalate in solution is cyclic, as this aspect is still under investigation.",
+        "difficulty": "TrueOrFalse",
+        "type": "Is the statement true or false?"
+    },
+    {
+        "doi": "10.1021/ja9819763",
+        "question": "Based on the article, is the statement 'The authors suggest that the double-helical structure observed in the solid state might also be present, at least in part, in solution' true or false?",
+        "answer": "True. The article proposes that the intertwined spiral structure, or fragments of it, could be the species existing in solution.",
+        "difficulty": "TrueOrFalse",
+        "type": "Is the statement true or false?"
+    },
+    {
+        "doi": "10.1021/ja9819763",
+        "question": "Based on the article, is the statement 'Previous attempts to crystallize gold thiomalate had been unsuccessful.' true or false?",
+        "answer": "True. The article highlights the difficulty in crystallizing gold thiomalate, mentioning that numerous prior attempts using various methods had failed.",
+        "difficulty": "TrueOrFalse",
+        "type": "Is the statement true or false?"
+    },
+    {
+        "doi": "10.1021/ja9819763",
+        "question": "Based on the article, is the statement 'The use of PEG 4000 was important for obtaining crystals suitable for X-ray diffraction.' true or false?",
+        "answer": "True. The article states that gold sodium thiomalate was successfully crystallized by vapor diffusion against 50% PEG 4000.",
+        "difficulty": "TrueOrFalse",
+        "type": "Is the statement true or false?"
+    },
+    {
+        "doi": "10.1021/ja9819763",
+        "question": "The authors used crystallization techniques that are typically employed for what kind of samples?",
+        "answer": "The authors applied systematic crystallization techniques typically used for macromolecular samples, such as proteins and nucleic acids.",
+        "difficulty": "Reasoning",
+        "type": "What"
+    },
+    {
+        "doi": "10.1021/ja9819763",
+        "question": "Explain the significance of the presence of both L3\u2212 and LH2\u2212 ligands in the structure of gold thiomalate.",
+        "answer": "The presence of both L3\u2212 and LH2\u2212 ligands, coordinated to Au4 tetrameric clusters in Myochrysine, is significant because it explains why commercial Myochrysine is a mixture of monosodium [NaAu(LH)] and disodium [Na2Au(L)] salts.",
+        "difficulty": "Reasoning",
+        "type": "Explain"
+    },
+    {
+        "doi": "10.1021/ja9819763",
+        "question": "Why was it challenging to determine the solid-state and solution structures of aurothiomalate and aurothioglucose?",
+        "answer": "It was challenging to determine the solid-state and solution structures of aurothiomalate and aurothioglucose because these compounds had never been successfully crystallized.",
+        "difficulty": "Reasoning",
+        "type": "Why"
+    },
+    {
+        "doi": "10.1021/ja9819763",
+        "question": "What evidence supports the idea that gold thiomalate maintains a similar structure in solution as it does in the solid state?",
+        "answer": "WAXS/DAS analysis showed nearly identical radial distribution functions for Myochrysine in both solution and solid-state mull, suggesting a similar structure in both states.",
+        "difficulty": "Reasoning",
+        "type": "What"
+    },
+    {
+        "doi": "10.1021/ja9819763",
+        "question": "Why is the distortion from linearity observed in one of the independent gold atoms in the unit cell?",
+        "answer": "Although not definitively determined, the distortion from linearity in one of the gold atoms is likely due to crystal packing effects.",
+        "difficulty": "Reasoning",
+        "type": "Why"
+    },
+    {
+        "doi": "10.1021/ja9819763",
+        "question": "Why is the fact that commercial Myochrysine is a mixture of monosodium and disodium salts relevant to the study?",
+        "answer": "The fact that commercial Myochrysine is a mixture of monosodium and disodium salts is relevant because it explains why half of the thiomalate ligands in the crystal structure are monoprotonated to maintain charge balance.",
+        "difficulty": "Reasoning",
+        "type": "Why"
+    },
+    {
+        "doi": "10.1021/ja9819763",
+        "question": "What techniques provide evidence for the presence of low molecular weight polymers of gold thiomalate in solution?",
+        "answer": "The presence of low molecular weight polymers of gold thiomalate in solution is supported by 1H and 13C NMR evidence.",
+        "difficulty": "Reasoning",
+        "type": "What"
+    }
+]

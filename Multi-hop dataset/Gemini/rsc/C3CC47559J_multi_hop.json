@@ -1,0 +1,70 @@
+**Multi-hop Q&A:**
+
+**Factual:**
+
+1. **Question:** What is the color of compound **1** and what is its coordination geometry around the Co2+ ion inside the cavity? 
+    **Answer:** Compound **1** is pink. The Co2+ ion inside the cavity has an octahedral coordination geometry, existing as [Co(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup>.
+    **Difficulty:** Medium
+2. **Question:**  What technique was used to confirm the transformation from compound **2** to **3**? 
+    **Answer:** Single-crystal X-ray diffraction (SCXRD) was used to confirm the transformation from compound **2** to **3**.
+    **Difficulty:** Easy
+3. **Question:** What happens to the Co2+ ion within the cavity when compound **1** is heated to form compound **3**? 
+    **Answer:**  When compound **1** is heated to form compound **3**, the Co2+ ion loses its coordinated water molecules and moves closer to the negatively charged phenolic hydroxyl groups at the cavity window. 
+    **Difficulty:** Hard
+4. **Question:**  Besides elemental analysis, what other technique was employed to confirm the chemical composition of compound **3**?
+    **Answer:**  Besides elemental analysis, Inductively Coupled Plasma (ICP) measurement was used to confirm the chemical composition of compound **3**.
+    **Difficulty:** Medium
+5. **Question:** What is the diameter of the cavity window in compound **1**?
+    **Answer:** The diameter of the cavity window in compound **1** is 3.5 \u00c5.
+    **Difficulty:** Easy
+6. **Question:**  What specific spectroscopic technique was used to investigate the changes in the coordination environment of the Co2+ ions during the transformations?
+    **Answer:**  Diffuse-reflectance UV-vis (DRUV\u2013vis) spectroscopy was used to investigate the changes in the coordination environment of the Co2+ ions during the transformations.
+    **Difficulty:** Easy
+
+**Reasoning:**
+
+1. **Question:** Why is it difficult for the [Co(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup> ion to move out of the cavity in compound **1**?
+    **Answer:** The [Co(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup> ion has a calculated size of 5.6 \u00c5, which is larger than the 3.5 \u00c5 diameter of the cavity window.
+    **Difficulty:** Medium
+2. **Question:** Explain the color change observed when compound **1** is heated. 
+    **Answer:** The color change from pink to violet upon heating is due to the change in coordination environment of the Co2+ ions from octahedral in **1** to tetrahedral in **2** and finally to a distorted geometry in **3** where it interacts with the phenolic hydroxyl groups. 
+    **Difficulty:** Hard
+3. **Question:** Based on the information in the text, would you expect compound **3** to be soluble in water? Why or why not?
+    **Answer:**  It is unlikely that compound **3** would be soluble in water because the removal of the coordinated water molecules from the Co2+ ion might lead to a more stable, less soluble structure.
+    **Difficulty:** Hard
+4. **Question:**  How does the size of the [Co(H2O)6]2+ ion compare to the size of the cavity window in compound **1**?
+    **Answer:** The [Co(H2O)6]2+ ion (5.6 \u00c5) is bigger than the cavity window (3.5 \u00c5).
+    **Difficulty:** Easy
+5. **Question:**  Why does the guest Co2+ ion in compound **3** have a dispersed electron density, as observed in the difference Fourier map?
+    **Answer:** The dispersed electron density suggests the Co2+ ion is not fixed at a specific location and can move within the cavity due to the absence of coordinated water molecules.
+    **Difficulty:** Hard
+6. **Question:**  What causes the color change observed when compound **3** is exposed to water vapor at room temperature?
+    **Answer:** The color change from violet back to pink happens because the Co2+ ion in compound **3** coordinates with water molecules from the vapor, reverting to the [Co(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup> form and changing its coordination environment.
+    **Difficulty:** Medium
+7. **Question:**  Based on the provided information, how is the \"open\" or \"closed\" status of the cavity determined in this system?
+    **Answer:**  The \"open\" status is associated with the pink color, indicating the presence of [Co(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup> in the center of the cavity.  The \"closed\" status is linked to the violet color, signifying the Co2+ ion has moved and the cavity is \"sealed.\" 
+    **Difficulty:** Medium
+
+**True or False:**
+
+1. **Statement:** The guest Co2+ ion can easily move out of the cavity in all three compounds. 
+    **Answer:** False.
+    **Difficulty:** Easy
+2. **Statement:**  The transformation from compound **3** back to compound **1** involves the loss of water molecules.
+    **Answer:** False.
+    **Difficulty:** Medium
+3. **Statement:** The color change observed in the compounds is solely due to temperature changes.
+    **Answer:** False. 
+    **Difficulty:** Hard
+4. **Statement:** The coordination environment of Co2+ in compound **2** is tetrahedral.
+    **Answer:** True.
+    **Difficulty:** Medium
+5. **Statement:** The volume of the unit cell increases when compound **2** transforms into compound **3**.
+    **Answer:** False.
+    **Difficulty:** Medium
+6. **Statement:** The reversible SC-SC transformation observed in this study is driven by the coordination and decoordination of water molecules.
+    **Answer:** True.
+    **Difficulty:** Easy
+7. **Statement:**  Compound **1** exhibits a strong absorption band around 620 nm in its DRUV-vis spectrum.
+    **Answer:** False.
+    **Difficulty:** Medium 

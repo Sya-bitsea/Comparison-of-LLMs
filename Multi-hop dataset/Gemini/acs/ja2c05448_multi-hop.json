@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the purpose of tuning the pore structure of MOFs?",
+        "answer": "The fine-tuning of the pore structure of metal\u2013organic frameworks\n(MOFs) is of critical importance to developing energy-efficient processes\nfor the challenging separation of structurally similar molecules.",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "How does the increase in ring number and moiety volume in the cdc ligand affect the dimension of the accessible pore space?",
+        "answer": "From ZUL-C1 to ZUL-C2, the increase in ring number and moiety volume\nin the cdc ligand effectively reduces the dimension of the accessible\npore space in a specific direction and forms a contoured pore surface\nwith more alkyl sites",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "What is the impact of expanding the polycyclic moiety in the cdc ligand compared to the bpdc ligand on the H-H distance?",
+        "answer": "As a result of the expanded polycyclic moiety in cdc than in bpdc and an enhanced ligand\u2013ligand attraction, the pore aperture slightly contracted along a vertical axis, resulting in a shorter H\u2013H distance (7.56 \u00c5 vs 7.82 \u00c5)",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "What effect does the use of a bubbler filled with liquid water have on the breakthrough times of C3H8 and C2H6?",
+        "answer": "Although the breakthrough times of C3H8 and\nC2H6 were both advanced in the presence of water, ZUL-C2 still exhibited good separation performance with only a slight reduction in CH4 productivity",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "What is the difference in Xe uptake between ZUL-C1 and ZUL-C2 at 20 kPa?",
+        "answer": "At 20 kPa, the Xe uptake of ZUL-C2 was 2.05 mmol\u00b7g\u20131, higher than that of ZUL-C1 (1.76 mmol\u00b7g\u20131).",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "What is the result of introducing a ternary mixed gas of C3H8/C2H6/CH4=5:15:80 (v/v/v) at 1.0 ml\u00b7min\u22121 to columns packed with ZUL-C1 and ZUL-C2?",
+        "answer": "Results showed that CH4 penetrated immediately in both MOFs, whereas C2H6 was retained for 146 min\u00b7g\u20131 on ZUL-C1 and for 318 min\u00b7g\u20131 on ZUL-C2",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "Why is it necessary to separate C2H6 and C3H8 from CH4 in natural gas?",
+        "answer": "The existence of these light hydrocarbon impurities not only reduces the conversion rate of CH4 but also affects the cyclic steady state in the storage process and safe transportation in the pipe. Moreover, C2H6 and C3H8 are important raw materials for the manufacture of alkenes and polymers.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "Explain why the increase in ring number and moiety volume in the cdc ligand enhances the adsorption of C2H6, C3H8, and Xe.",
+        "answer": "The increase in ring number and moiety volume in the cdc ligand effectively reduces the dimension of the accessible pore space in a specific direction and forms a contoured pore surface with more alkyl sites, realizing the simultaneous enhancement of both the van der Waals and hydrogen-bonding/dipolar interactions that guarantee C2H6, C3H8, and Xe molecules firmly grasped within the framework.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why does ZUL-C2 exhibit a higher C2H6 uptake at 1 kPa compared to ZUL-C1?",
+        "answer": "The shrinkage of pores along the shorter diagonal made the metal chain closer to C2H6. The distances of C\u2013H\u00b7\u00b7\u00b7O (3.05, 3.09, and 3.10 \u00c5) and C\u00b7\u00b7\u00b7H\u2013O (2.44 \u00c5) interactions are all shortened, which led to the higher binding energy of 52.95 kJ\u00b7mol\u20131 in ZUL-C2 than in ZUL-C1 (49.03 kJ\u00b7mol\u20131).",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "What is the reason for the higher binding energy of Xe in ZUL-C2 compared to ZUL-C1?",
+        "answer": "The confined pore of ZUL-C2 led to shorter average Xe\u00b7\u00b7\u00b7O bonds than that in ZUL-C1 (4.3 \u00c5 vs 4.6 \u00c5), resulting in the higher binding energy of 37.4 kJ\u00b7mol\u20131 in ZUL-C2 than in ZUL-C1 (34.0 kJ\u00b7mol\u20131).",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why does ZUL-C2 have higher C3H8/CH4 and C2H6/CH4 IAST selectivities than ZUL-C1?",
+        "answer": "The expansion of the polycycloalkane moiety enables sub-angstrom contraction in specific directions and forms a pore surface with more alkyl sites, which affords stronger trapping of guest molecules with relatively higher polarizability.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why is there a higher \u201croll-up\u201d peak of C2H6 breakthrough curves in ZUL-C2 compared to ZUL-C1?",
+        "answer": "This was ascribed to the larger adsorption heat difference between C3H8 and C2H6 in ZUL-C2 than that in ZUL-C1, leading to more significant competitive adsorption. More C2H6 was subsequently replaced by C3H8, causing a higher \u201croll-up\u201d peak of C2H6 breakthrough curves in ZUL-C2 and ultimately less C2H6 and more C3H8 left in ZUL-C2 than in ZUL-C1.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "Explain the relationship between the pore environment and the adsorption behavior of alkanes and noble gases in ZUL-C1 and ZUL-C2.",
+        "answer": "The electron-rich carbonyl oxygen coordinated to the metal exhibits a negative electrostatic potential, while the aliphatic rings present a positive electrostatic potential, generating a micro-electric field on the pore surface that is conducive to the polarization of the guest molecules. This polarization, along with the confined aliphatic pore environment created by the specific ring size and number in the ligands, leads to stronger interactions between the gases and the framework, resulting in the observed adsorption behavior.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "ZUL-C1 and ZUL-C2 were synthesized by stirring the DMF solution of H2bpdc (or H2cdc) and AlCl3\u00b76H2O at 473 K for 24 h.",
+        "answer": "False",
+        "difficulty": "easy",
+        "type": "True/False"
+    },
+    {
+        "question": "ZUL-C1 and ZUL-C2 are built from infinite chains of corner-sharing AlO6 octahedra interconnected by bpdc or cdc ligands.",
+        "answer": "False",
+        "difficulty": "easy",
+        "type": "True/False"
+    },
+    {
+        "question": "The cubane moiety has fewer dispersed C\u2013H groups than [1.1.1]-propellane.",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "True/False"
+    },
+    {
+        "question": "The affinity of the frameworks to guest molecules follows the order of C3H8 > C2H6 > CH4.",
+        "answer": "True",
+        "difficulty": "easy",
+        "type": "True/False"
+    },
+    {
+        "question": "The C3H8 and C2H6 adsorption isotherms of ZUL-C1 were much steeper than those of ZUL-C2 at low pressures.",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "True/False"
+    },
+    {
+        "question": "The optimized adsorption sites of C2H6 molecules were at the center of channels in both materials.",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "True/False"
+    },
+    {
+        "question": "In breakthrough experiments for the CH4/C2H6/C3H8 (85:10:5, v/v/v) mixture, ZUL-C2 achieved an all-round improvement in the separation performance compared to ZUL-C1.",
+        "answer": "True",
+        "difficulty": "easy",
+        "type": "True/False"
+    }
+]

@@ -1,0 +1,72 @@
+**Questions:**
+
+**Factual (6)**
+
+1. **Question:** What is the distance between the cobalt-carboxylate layers in the synthesized material?
+    * **Answer:** 7 \u00c5
+    * **Difficulty:** Medium
+2. **Question:** What type of bonding interaction exists between the free carbonyls in adjacent BTC units?
+    * **Answer:** Hydrogen bonding
+    * **Difficulty:** Hard
+3. **Question:** Besides X-ray diffraction, what analytical technique was used to confirm the absence of pyridine guests after heating the material to 200 \u00b0C?
+    * **Answer:** Elemental microanalysis
+    * **Difficulty:** Medium
+4. **Question:** What is the stoichiometric ratio of pyridine guests residing within the channels to those coordinated to the cobalt centers?
+    * **Answer:** 1:3
+    * **Difficulty:** Hard
+5. **Question:** According to the authors, what structural feature contributes to the material's selectivity for aromatic molecules?
+    * **Answer:**  \u03c0-stacking interactions between aromatic guests and the benzene rings of BTC units.
+    * **Difficulty:** Medium
+6. **Question:**  If the density of freshly isolated crystals is 1.48 gcm-3, what is the calculated volume occupied by one formula unit of the material?
+    * **Answer:**  ~ 2315 \u00c5^3  (using the formula weight and Avogadro's number)
+    * **Difficulty:** Hard
+
+**Reasoning (7)**
+
+1. **Question:** Why is the choice of 1,3,5-benzenetricarboxylate (BTC) as a building block significant for the synthesis of this porous material?
+    * **Answer:** Its three equally spaced carboxylate groups and rigid disk-like conformation facilitate the formation of layered structures with potential for guest inclusion.
+    * **Difficulty:** Medium
+2. **Question:** Explain why the synthesized material is considered analogous to zeolites rather than intercalation compounds.
+    * **Answer:** The material possesses a rigid, three-dimensional framework with well-defined channels, and the spacing between the layers remains consistent upon guest removal or inclusion. 
+    * **Difficulty:** Medium
+3. **Question:**  How does the \u03c0-stacking of coordinated pyridine ligands contribute to the properties of the synthesized material?
+    * **Answer:**  It enhances the rigidity of the framework, holding the layers tightly together and contributing to its thermal stability.
+    * **Difficulty:** Hard
+4. **Question:** Based on the infrared spectroscopy results, what can be inferred about the relative strengths of interactions between the framework and aromatic vs. non-aromatic molecules?
+    * **Answer:** The framework exhibits stronger interactions with aromatic molecules, likely due to favorable \u03c0-stacking interactions, leading to selective absorption. 
+    * **Difficulty:** Medium
+5. **Question:** Why is the thermal stability of this material significant for its potential applications?
+    * **Answer:**  The high thermal stability allows for guest removal and inclusion cycles without degradation of the framework, enabling reusability and potential in applications like catalysis or sensing.
+    * **Difficulty:** Easy
+6. **Question:** The material exhibits selectivity for aromatic molecules. How could this property be further exploited for specific applications? 
+    * **Answer:** It could be used for the separation of aromatic compounds from mixtures, for example, in the purification of chemicals or environmental remediation.
+    * **Difficulty:** Medium
+7. **Question:**  The authors mention that the cobalt-carboxylate layers are likely preserved upon heating and cooling. What further experiments could be conducted to confirm this hypothesis?
+    * **Answer:**  Techniques like X-ray absorption spectroscopy or solid-state NMR could be used to probe the local environment of cobalt ions and confirm the preservation of the layer structure.
+    * **Difficulty:** Hard
+
+**True or False (7)**
+
+1. **Question:**  The synthesis of this material requires high pressure conditions.
+    * **Answer:** False
+    * **Difficulty:** Easy
+2. **Question:** The material loses all its pyridine content upon heating to 200 \u00b0C.
+    * **Answer:** False
+    * **Difficulty:** Medium
+3. **Question:**  The X-ray diffraction pattern of the material remains completely unchanged during the guest removal and inclusion cycle.
+    * **Answer:** False 
+    * **Difficulty:** Medium
+4. **Question:**  The selective inclusion of aromatic molecules is primarily driven by the size and shape of the channels.
+    * **Answer:** False
+    * **Difficulty:** Medium
+5. **Question:**  The material can selectively absorb acetonitrile from a mixture of acetonitrile and benzene. 
+    * **Answer:** False
+    * **Difficulty:** Easy
+6. **Question:** The use of multidentate ligands like BTC contributes to the material's low thermal stability.
+    * **Answer:** False
+    * **Difficulty:** Easy
+7. **Question:**  The coordination geometry of all cobalt(II) centers in the framework is identical.
+    * **Answer:** False
+    * **Difficulty:** Hard 
+"
+              }

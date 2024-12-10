@@ -1,0 +1,70 @@
+**Questions:**
+
+**Factual (6)**
+
+1. **Question:** What is the Zn   Zn separation in the dimerised product after the photoreaction of compound 1?
+   **Answer:** 4.253 \u00c5
+   **Difficulty:** Hard
+2. **Question:** What technique was used to confirm the solid-state structure of the product formed from the photoreaction of compound 1?
+   **Answer:** X-ray crystallography
+   **Difficulty:** Medium
+3. **Question:** What is the interplanar angle between the two pyridyl rings in the bpe ligand of compound 2?
+   **Answer:** 26.21\u00b0
+   **Difficulty:** Medium
+4. **Question:**  Besides bridging the Zn(II) dimer in compound 4, how else do the p-toluate groups interact within the crystal lattice?
+   **Answer:** Through \u03c0-\u03c0 interactions with the rctt-tpcb ligand.
+   **Difficulty:** Hard
+5. **Question:** What analytical technique, besides PXRD, showed no significant changes during the transformation of compound 2 to 1?
+   **Answer:** Differential Scanning Calorimetry (DSC)
+   **Difficulty:** Hard
+6. **Question:** What is the molar ratio of reactants used to synthesize compound 1?
+    **Answer:** Zn(NO3)2 6H2O : para-toluic acid : bpe : NaOH = 1 : 2 : 1 : 2
+    **Difficulty:** Medium
+
+**Reasoning (7)**
+
+1. **Question:**  Why does compound 3 not undergo dimerization upon UV irradiation?
+   **Answer:** The crystal structure of compound 3 reveals that the C=C bonds are not aligned properly for the [2+2] cycloaddition reaction to occur. 
+   **Difficulty:** Hard
+2. **Question:** Why is compound 1 considered a thermodynamic product, while compound 2 is considered a kinetic product?
+   **Answer:** Compound 1 forms more slowly over time (2-3 days) suggesting it is more thermodynamically stable. Compound 2 forms more quickly (12 hours) but then slowly converts to compound 1 over time, indicating it is a kinetic product.
+   **Difficulty:** Hard
+3. **Question:** What evidence supports the conclusion that compound 2 undergoes a 100% photodimerization reaction?
+   **Answer:** 1H-NMR spectra shows complete disappearance of olefin protons at \u03b4 = 7.54 ppm and formation of cyclobutane protons at \u03b4 = 4.67 ppm.
+   **Difficulty:** Medium
+4. **Question:**  Why is the transformation of compound 2 to compound 1 faster in solution compared to the solid state?
+   **Answer:**  In solution, molecules have higher mobility and can easily rearrange, facilitating the conversion from the less stable kinetic product (2) to the more stable thermodynamic product (1).
+   **Difficulty:** Hard
+5. **Question:**  Based on the information provided about topochemical postulates, why is the photoreactivity of compound 2 unusual?
+   **Answer:**  The topochemical postulate suggests that [2+2] cycloaddition reactions occur when C=C bonds are parallel. However, compound 2 exhibits a criss-cross orientation of C=C bonds yet still undergoes photodimerization, likely due to pedal motion. 
+   **Difficulty:** Hard 
+6. **Question:** Why might the PXRD pattern of ground powder of compound 2 not perfectly match the simulated pattern from single crystals?
+   **Answer:** Grinding can induce partial transformation of compound 2 to the thermodynamically favored compound 1, leading to a mixture of phases in the powder and discrepancies in the PXRD pattern.
+   **Difficulty:** Hard
+7. **Question:**  Why does the formation of the rctt-tpcb ligand in compound 4 lead to distortions in the octahedral geometry of the Zn(II) center? 
+    **Answer:** The formation of the rctt-tpcb ligand introduces steric constraints and changes in bond lengths and angles within the coordination sphere of Zn(II), leading to deviations from perfect octahedral geometry.
+    **Difficulty:** Hard 
+
+**True/False (7)**
+
+1. **Question:** Both compound 1 and 2 crystallize in the same space group.
+   **Answer:** False
+   **Difficulty:** Easy
+2. **Question:** The photodimerization product of compound 2 retains its single crystallinity. 
+   **Answer:** False
+   **Difficulty:** Medium
+3. **Question:** The paddle-wheel nodes in compound 3 have a crystallographic inversion center.
+   **Answer:** True 
+   **Difficulty:** Medium
+4. **Question:**  Compound 1 undergoes a single-crystal to single-crystal (SCSC) transformation upon UV irradiation.
+   **Answer:** True
+   **Difficulty:** Easy
+5. **Question:**  The bpe ligands in compound 3 connect the paddle-wheel nodes along the c-direction.
+   **Answer:** False 
+   **Difficulty:** Medium
+6. **Question:**  Compound 2 is less thermodynamically stable than compound 1.
+   **Answer:** True
+   **Difficulty:** Easy
+7. **Question:** Both polymorphs, compound 1 and 2, contain Zn(II) centers with a distorted octahedral coordination environment.
+   **Answer:** True
+   **Difficulty:** Medium 

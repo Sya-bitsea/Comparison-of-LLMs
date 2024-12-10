@@ -1,0 +1,70 @@
+**Questions:**
+
+**Factual (6 Questions)**
+
+1. **Question:** What is the internal diameter of the micropores found within the supertetrahedral building units of MIL-100?
+    * **Answer:** 6.6 \u00c5
+    * **Difficulty:** Medium
+2. **Question:**  What is the yield of the synthesis procedure for MIL-100, based on the initial amount of chromium used? 
+    * **Answer:** ~45%
+    * **Difficulty:** Easy
+3. **Question:**  Aside from water molecules, what other anion was detected in the chemical analysis of MIL-100?
+    * **Answer:** Fluoride ions
+    * **Difficulty:** Medium
+4. **Question:** What are the two types of cages present in MIL-100, categorized by the number of supertetrahedra forming them?
+    * **Answer:** 20-ST cages and 28-ST cages
+    * **Difficulty:** Hard
+5. **Question:**  During the synthesis of MIL-100, how long is the mixture kept at the maximum temperature of 220 \u00b0C?
+    * **Answer:** 96 hours
+    * **Difficulty:** Easy
+6. **Question:** What is the shape of the larger cages formed in the MIL-100 framework, and what is their approximate internal diameter?
+    * **Answer:** The larger cages are approximately 29 \u00c5 in diameter and have a shape formed by 12 pentagonal and 4 hexagonal faces.
+    * **Difficulty:** Hard 
+
+**Reasoning (7 Questions)**
+
+1. **Question:** Why was it challenging to determine the structure of MIL-100 using conventional crystallographic methods?
+    * **Answer:** The absence of single crystals and the complexity of the powder diffraction pattern made it difficult to solve the structure conventionally.
+    * **Difficulty:** Medium
+2. **Question:** How does the concept of \"scale chemistry\" apply to the structure of MIL-100?
+    * **Answer:** The larger size of the supertetrahedral building blocks in MIL-100, compared to the tetrahedra in zeolites, leads to the formation of larger pores.
+    * **Difficulty:** Medium
+3. **Question:** Based on the N2 sorption isotherm, what can be concluded about the pore size distribution in MIL-100?
+    * **Answer:** The isotherm falls between Type I and Type IV, suggesting the presence of both micropores and mesopores in MIL-100.
+    * **Difficulty:** Hard
+4. **Question:** Why is the combination of chromium ions with trimesic acid under hydrothermal conditions particularly interesting in the context of synthesizing materials with large pores?
+    * **Answer:** This combination promotes the formation of trimeric chromium building blocks, which can then assemble with the trimesic acid to create large supertetrahedral units.
+    * **Difficulty:** Hard
+5. **Question:**  Why is it important to use synchrotron radiation for the Rietveld refinement of MIL-100's structure?
+    * **Answer:**  Due to the large cell volume of MIL-100, a high-resolution data set is required for accurate refinement, which synchrotron radiation provides.
+    * **Difficulty:** Medium
+6. **Question:**  Considering the synthesis conditions of MIL-100, explain why the final product is a powder and not single crystals.
+    * **Answer:** The hydrothermal synthesis method, while enabling the formation of the desired framework, typically yields powders due to the high temperatures and pressures involved.
+    * **Difficulty:** Medium
+7. **Question:** How does the computational simulation approach used in this study differ from traditional \"design\" in materials chemistry?
+    * **Answer:** Instead of first imagining a structure and then trying to synthesize it, this approach uses computations to predict likely structures based on building block interactions. 
+    * **Difficulty:** Medium
+
+**True or False (7 Questions)**
+
+1. **Question:** True or False: MIL-100 exhibits a single type of pore with a diameter of approximately 25 \u00c5.
+    * **Answer:** False. MIL-100 exhibits a hierarchical pore system with both micropores (5-9 \u00c5) and mesopores (25-30 \u00c5).
+    * **Difficulty:** Medium
+2. **Question:** True or False: The organic ligand, trimesic acid, occupies the vertices of the supertetrahedral building units in MIL-100.
+    * **Answer:** False. The trimesic acid molecules are located on the faces of the supertetrahedra, while the vertices are occupied by the chromium trimers.
+    * **Difficulty:** Medium
+3. **Question:**  True or False: The structure of MIL-100 was successfully solved using single-crystal X-ray diffraction.
+    * **Answer:** False. The structure was solved using a combination of computational simulations and Rietveld refinement of powder X-ray diffraction data.
+    * **Difficulty:** Easy
+4. **Question:** True or False: MIL-100 is thermally stable up to approximately 500 \u00b0C.
+    * **Answer:**  False.  TGA measurements indicate that MIL-100 is stable up to approximately 275 \u00b0C.
+    * **Difficulty:** Easy
+5. **Question:** True or False:  The fluoride ions in MIL-100 were definitively located within the pores of the framework.
+    * **Answer:** False. The exact location of the fluoride ions could not be determined, but they are likely bound to chromium atoms or located within the cages.
+    * **Difficulty:** Hard
+6. **Question:**  True or False: The simulated X-ray powder diffraction patterns of the three candidate structures were identical in terms of peak positions and intensities.
+    * **Answer:**  False.  While the peak positions might be similar, the intensities would vary depending on the arrangement of atoms within each structure.
+    * **Difficulty:** Hard
+7. **Question:**  True or False: The authors suggest that the term \"simulation assisted chemical structures\" (SACS) accurately reflects the approach used to discover MIL-100.
+    * **Answer:** True. The authors propose SACS as a suitable label to emphasize the crucial role of computational simulations in predicting and identifying new structures.
+    * **Difficulty:** Easy 

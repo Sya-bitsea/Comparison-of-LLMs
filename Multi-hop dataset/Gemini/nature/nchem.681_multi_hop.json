@@ -1,0 +1,88 @@
+**Factual Questions (6)**
+
+1.  **Question:** What is the significance of the FTIR image accurately representing the optical image in the KBr disc photolysis experiment?
+    * **Answer:** The accurate representation confirms the uniform distribution of 1 within the KBr disc and the localized conversion of fac- to mer-Re(diimine)(CO)3Cl within the photolysed region. This validates the experimental setup and suggests the observed changes are due to photolysis and not uneven sample distribution. 
+    * **Difficulty:** Hard
+    * **Type:** Factual
+2.  **Question:**  How does the absence of measurable emission in crystalline powder form of compound 1 contrast with the typical behavior of Re(bpy)(CO)3Cl complexes in solution, and what initial assumption did this discrepancy lead researchers to investigate? 
+    * **Answer:** Unlike the usual luminescence observed in solution, compound 1 shows no measurable emission in its crystalline powder form. This contrast led researchers to investigate the possibility of different excited state properties manifesting in the MOF environment compared to the typical solution phase. 
+    * **Difficulty:** Medium
+    * **Type:** Factual
+3.  **Question:** What is the structural difference between compounds 1 and 2a, and how was this difference confirmed?
+    * **Answer:** Compounds 1 and 2a share the same overall topology of the MOF framework. However, they differ in the metal atom present in the photoactive unit, with 1 containing Rhenium (Re) and 2a containing Manganese (Mn). This difference was confirmed through single-crystal X-ray diffraction studies and elemental analysis. 
+    * **Difficulty:** Medium
+    * **Type:** Factual
+4.  **Question:** Why was it necessary to use a synchrotron X-ray source for the single-crystal X-ray diffraction studies of compound 2a? 
+    * **Answer:** The crystals of compound 2a were of poor quality, and conventional X-ray sources did not provide data of sufficient quality for analysis. The high intensity of the synchrotron X-ray source allowed for the collection of usable data despite the limitations posed by the crystal quality.
+    * **Difficulty:** Easy
+    * **Type:** Factual
+5.  **Question:** What specific spectral change, observed during the photolysis of 2 using ATR-FTIR, confirms the formation of the *mer*-isomer, and what is the significance of the observed time constant associated with this change?
+    * **Answer:** The appearance of new \u03bd(CO) bands at 2,049, 1,946, and 1,890 cm\u207b\u00b9 in the ATR-FTIR spectrum during the photolysis of 2 confirms the formation of the *mer*-isomer. The observed time constant (\u03c4 = 15 \u00b1 5 s) for the decay of intermediate dicarbonyl species and the concurrent growth of these bands indicates the kinetics of the *fac* to *mer* isomerization process within the MOF environment.
+    * **Difficulty:** Hard
+    * **Type:** Factual
+6. **Question:** The study mentions an alternative explanation for the infrared rigidochromism effect observed in Re(bpy)(CO)3Cl. What is this alternative explanation, and how does it differ from the initial interpretation?
+    * **Answer:** The initial interpretation attributed the infrared rigidochromism effect to increased mixing of the 3MLCT excited state with the p2p* state in rigid media. However, the alternative explanation suggests that the effect arises from the 3MLCT [dp(Re)\u2013\u03c0*(CO)] excited state mixing with the emitting MLCT [dp(Re)\u2013\u03c0*(bpy)] excited states, rather than involving the p2p* state. This interpretation emphasizes the role of different MLCT states instead of MLCT-IL mixing.
+    * **Difficulty:** Hard
+    * **Type:** Factual
+
+**Reasoning Questions (7)**
+
+1.  **Question:** Based on the TRIR analysis of compound 1, explain why the observation of a p2p* excited state is significant and how it deviates from the typical photophysical behavior of Re(diimine)(CO)3Cl complexes in solution.
+    * **Answer:** The observation of a p2p* excited state in compound 1 is significant because Re(diimine)(CO)3Cl complexes typically exhibit a 3MLCT excited state in solution. This deviation suggests that the MOF environment alters the relative energy levels of the excited states, making the p2p* state more favorable than the 3MLCT state.
+    * **Difficulty:** Medium
+    * **Type:** Reasoning
+2.  **Question:**  Why did researchers choose to investigate the Mn-containing analogue (compound 2) after studying the photolysis of the Re-containing MOF (compound 1)?
+    * **Answer:** Researchers chose to investigate the Mn-containing analogue because Mn(diimine)(CO)3X complexes are known to have a higher quantum yield of CO loss and fac to mer isomerization compared to their Re counterparts. They anticipated that the higher photoactivity of the Mn complex would facilitate a more efficient conversion within the MOF and enhance the observation of structural changes.
+    * **Difficulty:** Medium
+    * **Type:** Reasoning
+3.  **Question:**  Considering the challenges faced during the synthesis and characterization of compound 2, why was it considered important to study this Mn-containing MOF despite these difficulties?
+    * **Answer:** Despite the synthetic challenges, studying the Mn-containing MOF (compound 2) was crucial because it offered a higher likelihood of observing the fac-to-mer isomerization. The potential for higher conversion rates with the Mn complex outweighed the synthetic difficulties. Observing this isomerization was a key objective of the study.
+    * **Difficulty:** Hard
+    * **Type:** Reasoning
+4.  **Question:** The researchers encountered halide scrambling while synthesizing the single crystals of 2a. How might this scrambling affect the interpretation of the single-crystal X-ray diffraction data and what measures were taken to address this issue?
+    * **Answer:** Halide scrambling could complicate the interpretation of X-ray diffraction data by introducing uncertainty in the identity and position of the halide ligand. To address this, researchers used CHN elemental analysis to determine the predominant halide present and refined the single-crystal structures accordingly, assuming the major halide identified.
+    * **Difficulty:** Medium
+    * **Type:** Reasoning
+5.  **Question:** The text mentions that the MOF framework can be seen as mimicking a 'gas-phase-like environment'. Justify this statement based on the observed photophysical properties of the Re(diimine)(CO)3Cl unit within the MOF and its comparison to solution-phase behavior.
+    * **Answer:** In solution, solvent molecules influence the photophysics of Re(diimine)(CO)3Cl by stabilizing the charge-transfer excited state. The absence of such solvent interactions within the rigid MOF framework leads to a different excited state (p2p*) being favored. This behavior is similar to what might be expected in the gas phase, where solvent effects are absent. Therefore, the MOF provides an environment that shares similarities with the gas phase in terms of its influence on the photophysics of the incorporated complex. 
+    * **Difficulty:** Hard
+    * **Type:** Reasoning
+6.  **Question:**  Despite successful observation of the mer-isomer in the KBr disc experiment with compound 1, why were attempts to monitor this conversion by X-ray crystallography unsuccessful?
+    * **Answer:** The attempts to monitor the fac-to-mer conversion in compound 1 using X-ray crystallography were likely unsuccessful due to the low conversion rate of the Re complex, estimated at around 10%. This low conversion might not create sufficient electron density difference in the crystal lattice to be detectable by X-ray diffraction, making it difficult to distinguish the mer-isomer from the dominant fac-isomer.
+    * **Difficulty:** Medium
+    * **Type:** Reasoning
+7. **Question:**  The study highlights that the use of MOFs as hosts for photoactive species could be beneficial for studying short-lived intermediate species. Explain the rationale behind this statement and how the properties of MOFs might contribute to such studies.
+    * **Answer:** The rigid framework of MOFs could act as a matrix that physically traps and stabilizes short-lived intermediate species, preventing their rapid decay or further reaction. This trapping would increase their lifetime, allowing for more detailed spectroscopic characterization and structural analysis. Additionally, the MOF environment could prevent unwanted side reactions that might occur in solution or other less controlled environments, leading to a cleaner and more definitive observation of the intermediates.
+    * **Difficulty:** Medium
+    * **Type:** Reasoning
+
+**True or False Questions (7)**
+
+1.  **Question:** The primary excited state observed for Re(diimine)(CO)3Cl within the MOF (compound 1) is the same as that typically observed for this type of complex in solution.
+    * **Answer:** False
+    * **Difficulty:** Medium
+    * **Type:** True/False
+2.  **Question:** The photochemical conversion of the *fac*-isomer to the *mer*-isomer in compound 1 is irreversible at room temperature within the MOF.
+    * **Answer:** False
+    * **Difficulty:** Medium
+    * **Type:** True/False
+3.  **Question:**  The MOF structure restricts significant movement of the photoactive unit, essentially fixing its position within the framework.
+    * **Answer:** True
+    * **Difficulty:** Easy
+    * **Type:** True/False
+4.  **Question:** Compound 2 was synthesized as single crystals directly from a solution containing Mn(diimine)(CO)3Cl and Mn(acetate)2. 
+    * **Answer:** False
+    * **Difficulty:** Hard
+    * **Type:** True/False
+5.  **Question:** The use of MOFs in this study aimed to completely prevent any structural changes in the photoactive units upon irradiation.
+    * **Answer:** False
+    * **Difficulty:** Medium
+    * **Type:** True/False
+6.  **Question:** The photolysis of both compound 1 and 2 leads to the formation of free CO, as evidenced by FTIR spectroscopy.
+    * **Answer:** True
+    * **Difficulty:** Easy
+    * **Type:** True/False
+7.  **Question:** The choice of Mn as the metal center in compound 2 was arbitrary and did not have any specific advantage over using other metals. 
+    * **Answer:** False
+    * **Difficulty:** Medium
+    * **Type:** True/False 

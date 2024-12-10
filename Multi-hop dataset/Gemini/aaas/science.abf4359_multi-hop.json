@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What are the two primary categories of chiral phosphoric acids (CPAs) investigated in this study for stereoselective phosphoramidite couplings?",
+        "answer": "The two primary categories of chiral phosphoric acids (CPAs) studied are peptide-embedded phosphothreonine-derived CPAs and C2-symmetric BINOL-derived CPAs.",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "Which catalyst, P3 or (S)-B7, exhibited superior diastereoselectivity in favoring the (RP)-configured product when coupling guanosine phosphoramidite 1 with 2',3'-unprotected adenosine?",
+        "answer": "Catalyst (S)-B7 demonstrated superior diastereoselectivity in favor of the (RP)-configured product during the coupling reaction. ",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "What is the function of phenyl isocyanate in the catalytic phosphitylation reaction?",
+        "answer": "Phenyl isocyanate acts as a scavenger for the diisopropylamine released during the reaction by forming a phenyl urea adduct, which is irreversible, thus promoting catalyst turnover. ",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "How does the choice of counterion in the H-phosphonate salt (13) affect the stereoselectivity of the coupling reaction with guanosine phosphoramidite 1?",
+        "answer": "The counterion in the H-phosphonate salt (13) significantly influences the stereochemical outcome, with the cesium salt (13\u2022Cs) providing superior diastereoselectivity with pThr catalyst P3, favoring the (RP) diastereomer, and the lithium salt (13\u2022Li) demonstrating better selectivity with the BINOL catalyst (S)-B8 for the (SP) diastereomer.",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "What reagents are used for the oxidative sulfurization of the P(III) phosphite intermediate to yield the phosphorothioate 4?",
+        "answer": "Phenylacetyl disulfide (PADS) is employed for the sulfurization process.",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "What is the role of N-methylimidazole (NMI) in the macrocyclization step of CDN synthesis?",
+        "answer": "N-methylimidazole functions as a nucleophilic catalyst to enhance the diastereoselectivity of the macrocyclization step.",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "Considering the mechanistic hypothesis presented in the paper, would you anticipate observing the same diastereoselectivity in the final product if the starting phosphoramidite 1 was used as a single pure diastereomer rather than a mixture?",
+        "answer": "Based on the mechanistic hypothesis, the diastereoselectivity of the final product would likely remain the same, even if a single pure diastereomer of phosphoramidite 1 were used. The hypothesized mechanism suggests that the CPA catalysts promote rapid epimerization of the P(III) center, effectively rendering the stereochemistry of the starting phosphoramidite inconsequential to the overall stereochemical outcome.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "What structural features of the peptide-based catalysts contribute to their effectiveness in promoting the formation of the (SP)-configured phosphoramidite?",
+        "answer": "The key structural elements in the peptide-based catalysts are the DPro and Aib residues in the i+1 and i+2 positions, which favor the formation of a b-turn conformation. Additionally, the diaminopropionic acid (Dap) residue at the i+3 position likely participates in supplementary noncovalent interactions with the substrates, further boosting selectivity for the (SP) diastereomer.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "How does the reaction concentration affect the stereoselectivity observed with catalyst P3? Propose a rationale for this observation.",
+        "answer": "Reducing the reaction concentration generally enhances the diastereoselectivity achieved with catalyst P3. A plausible explanation is that lower concentrations disfavor intermolecular interactions between the substrates and catalysts, which might lead to competing pathways and decreased selectivity. Higher concentrations could potentially facilitate these non-selective interactions, diminishing the overall diastereomeric purity of the product.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "Explain the rationale behind using 3-\u00c5 molecular sieves in the reaction.",
+        "answer": "The 3-\u00c5 molecular sieves are added to prevent acid-catalyzed hydrolysis of the phosphoramidite 1. The acidic conditions of the reaction, necessary for activation, could potentially lead to the undesired breakdown of the phosphoramidite starting material. The molecular sieves serve to mitigate this side reaction by absorbing water present in the reaction medium.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why was it necessary to optimize the counterion of the H-phosphonate 13 for the CDN synthesis?",
+        "answer": "Optimization of the H-phosphonate 13 counterion was crucial due to the observed autocatalysis in the presence of the triethylammonium cation. Triethylammonium phosphonate, 13\u2022Et3N, underwent a non-selective background reaction, diminishing the desired stereoselectivity. Switching to alkali metal counterions like lithium or cesium helped suppress this undesired background reaction and facilitated the CPA-catalyzed pathway, ultimately enabling high stereoselectivity in the CDN synthesis.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "What are the potential advantages of using a catalytic asymmetric approach over chiral auxiliary-based strategies for the synthesis of stereogenic phosphorus compounds?",
+        "answer": "Catalytic asymmetric approaches, such as the one described in the paper, offer several benefits over chiral auxiliary-based strategies. Firstly, they eliminate the need for multistep syntheses to prepare and install chiral auxiliaries. Secondly, catalytic methods avoid the generation of stoichiometric byproducts associated with auxiliary cleavage. Lastly, asymmetric catalysis often allows for greater flexibility and broader substrate scope compared to auxiliary-based methods, potentially streamlining the synthesis of a more diverse range of P-stereogenic compounds.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why does the selectivity for the coupling reaction generally decrease when the roles of the coupling partners are reversed, with the adenosine-derived phosphoramidite reacting with the 5\u2032-OH of guanosine acetonide?",
+        "answer": "The selectivity decrease when switching the coupling partners likely arises from the distinct steric and electronic environments presented by each phosphoramidite and nucleophile combination. The catalysts, optimized for the guanosine phosphoramidite and adenosine acetonide pairing, might not effectively accommodate the altered steric demands or electronic interactions when the adenosine phosphoramidite is used as the electrophile. Further catalyst tuning and optimization would likely be necessary to achieve comparable selectivities for the reversed coupling.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "True or False: The use of chiral auxiliaries in oligonucleotide synthesis results in the formation of a stoichiometric amount of by-product during the process.",
+        "answer": "True",
+        "difficulty": "easy",
+        "type": "True/False"
+    },
+    {
+        "question": "True or False: The stereochemical outcome of the phosphoramidite coupling reaction is primarily determined by the stereochemistry of the starting phosphoramidite 1.",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "True/False"
+    },
+    {
+        "question": "True or False: Peptide-embedded phosphothreonine (pThr) catalysts consistently overturn the inherent stereochemical preference observed with diphenylphosphoric acid (DPP) in these reactions.",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "True/False"
+    },
+    {
+        "question": "True or False: The stereochemistry of the phosphorus center is retained during the oxidation of the P(III) phosphite intermediate to the corresponding P(V) phosphate.",
+        "answer": "True",
+        "difficulty": "easy",
+        "type": "True/False"
+    },
+    {
+        "question": "True or False: The same catalyst is equally effective for all nucleoside phosphoramidite and nucleophile combinations.",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "True/False"
+    },
+    {
+        "question": "True or False: The use of a cesium counterion in the H-phosphonate salt (13) invariably leads to higher selectivity for the (RP) diastereomer, irrespective of the catalyst used.",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "True/False"
+    },
+    {
+        "question": "True or False: The autocatalysis observed in the CDN synthesis is attributed to the presence of triethylamine in the reaction mixture.",
+        "answer": "False",
+        "difficulty": "medium",
+        "type": "True/False"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the maximum water uptake of Cr-soc-MOF-1 at 75% RH?",
+        "answer": "The maximum water uptake of Cr-soc-MOF-1 at 75% RH is 1.95 g (195 wt%) of adsorbed water per gram of sorbent.",
+        "difficulty_level": "factual",
+        "question_type": "factual"
+    },
+    {
+        "question": "How was the oxidation state of chromium in Cr-soc-MOF-1 verified?",
+        "answer": "The oxidation state of chromium in Cr-soc-MOF-1 was verified using XPS studies, showing it to be (+III).",
+        "difficulty_level": "factual",
+        "question_type": "factual"
+    },
+    {
+        "question": "What temperature and time parameters were employed to achieve optimal porosity in Cr-soc-MOF-1?",
+        "answer": "Optimal porosity of Cr-soc-MOF-1 was achieved by heating at 120\u00b0C under vacuum for 8 hours, as confirmed by nitrogen and argon sorption isotherms.",
+        "difficulty_level": "factual",
+        "question_type": "factual"
+    },
+    {
+        "question": "What is the composition of the clusters formed by adsorbed water molecules within the cages of Cr-soc-MOF-1?",
+        "answer": "Within the cubic cages of Cr-soc-MOF-1, adsorbed water molecules form well-ordered clusters containing 114 water molecules.",
+        "difficulty_level": "factual",
+        "question_type": "factual"
+    },
+    {
+        "question": "Describe the synthesis process for Cr-soc-MOF-1, including the precursor material and key reaction conditions.",
+        "answer": "Cr-soc-MOF-1 is synthesized through a post-synthetic modification approach. It involves transmetalation of Fe-soc-MOF-1 using CrCl2 in DMF under an inert atmosphere at 115\u00b0C for 24 hours. The Fe-soc-MOF-1 precursor is obtained by reacting H4TCPT ligand with FeCl3\u00b76H2O in an acidic solution of DMF and acetonitrile.",
+        "difficulty_level": "factual",
+        "question_type": "factual"
+    },
+    {
+        "question": "Compare the pore volume calculated from water vapor adsorption at 298 K and 0.95 p/p0 to that determined from nitrogen adsorption at 77 K in Cr-soc-MOF-1.",
+        "answer": "The pore volume calculated from water vapor adsorption at 298 K and 0.95 p/p0 (ca. 1.95 cm3/g) is in excellent agreement with the pore volume determined experimentally using nitrogen adsorption at 77 K, showcasing the outstanding stability of Cr-soc-MOF-1 to water vapor.",
+        "difficulty_level": "factual",
+        "question_type": "factual"
+    },
+    {
+        "question": "Why was a post-synthetic modification approach used to synthesize Cr-soc-MOF-1?",
+        "answer": "Direct synthesis attempts to form the trinuclear chromium (III) MBB in situ were unsuccessful, likely due to the inertness of Cr(III) towards carboxylate bonding under typical synthesis conditions. Therefore, a post-synthetic metal cluster metathesis from a template MOF, Fe-soc-MOF-1, was employed.",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Explain the significance of the S-shaped water adsorption isotherm exhibited by Cr-soc-MOF-1 at 298 K.",
+        "answer": "The S-shaped isotherm signifies a steep water uptake at a specific RH range (60% to 75%), making Cr-soc-MOF-1 a suitable candidate for moisture control applications. This shape indicates an energy barrier during the adsorption step, which is associated with water molecule nucleation and the formation of large water clusters within the MOF pores.",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Why does the adsorbed water in Cr-soc-MOF-1 exhibit a noticeable hysteresis during desorption?",
+        "answer": "The open hysteresis loop observed in the water adsorption-desorption isotherm indicates that the desorption process requires overcoming the energy barrier associated with the dissociation of the hosted water hydrogen-bonded network formed within the pore system.",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "How does the water adsorption performance of Cr-soc-MOF-1 compare to other materials, considering the working capacity at various RH ranges?",
+        "answer": "Cr-soc-MOF-1 displays a superior working capacity compared to other reported materials in the RH ranges of 35%\u201365%, 25%\u201375%, and 25%\u201385%. This performance is especially notable in the 25%\u201385% RH range, where it exhibits a 300% higher capacity than the benchmark material Y-shp-MOF-5.",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "What are the three main criteria considered when developing a porous material for water adsorption-related applications?",
+        "answer": "Three main criteria for water adsorption materials are: (1) a steep uptake isotherm at a specific RH for efficient adsorption; (2) high water uptake capacity for maximum delivery and spontaneous adsorption-desorption for energy efficiency; and (3) highly reproducible cycling performance for industrial applications.",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "How does the pore volume calculated from water adsorption data relate to the pore volume determined from nitrogen adsorption and theoretical calculations in Cr-soc-MOF-1?",
+        "answer": "The pore volume calculated from water vapor adsorption data at saturation is in excellent agreement with both the theoretically derived pore volume from the crystal structure and the experimentally determined pore volume using nitrogen adsorption. This consistency highlights the remarkable stability of Cr-soc-MOF-1 in the presence of water vapor.",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "Describe the arrangement of water molecules within the cubic cages of Cr-soc-MOF-1 and explain its significance.",
+        "answer": "The water molecules in the cages form a specific arrangement: eight water heptamers at the vertices, single water molecules at the edges connecting the heptamers, water hexamers at the faces, an inner cube of eight water molecules, and a central water dimer. This ordered assembly contributes to the unique water adsorption-desorption behavior, including the S-shaped isotherm and the open hysteresis loop.",
+        "difficulty_level": "reasoning",
+        "question_type": "reasoning"
+    },
+    {
+        "question": "True or False: Cr-soc-MOF-1 is more hydrolytically stable than Al-soc-MOF-1.",
+        "answer": "True",
+        "difficulty_level": "easy",
+        "question_type": "true_false"
+    },
+    {
+        "question": "True or False: Cr-soc-MOF-1 exhibits a type I nitrogen adsorption isotherm.",
+        "answer": "False",
+        "difficulty_level": "medium",
+        "question_type": "true_false"
+    },
+    {
+        "question": "True or False: The pore volume of Cr-soc-MOF-1 is solely associated with its microporous architecture.",
+        "answer": "False",
+        "difficulty_level": "hard",
+        "question_type": "true_false"
+    },
+    {
+        "question": "True or False: Cr-soc-MOF-1 requires heating for complete desorption of water molecules.",
+        "answer": "False",
+        "difficulty_level": "easy",
+        "question_type": "true_false"
+    },
+    {
+        "question": "True or False: The synthesis of Cr-soc-MOF-1 involves a single-crystal to single-crystal transformation.",
+        "answer": "True",
+        "difficulty_level": "easy",
+        "question_type": "true_false"
+    },
+    {
+        "question": "True or False: Fe-soc-MOF-1 exhibits a higher water adsorption capacity than Cr-soc-MOF-1.",
+        "answer": "False",
+        "difficulty_level": "medium",
+        "question_type": "true_false"
+    },
+    {
+        "question": "True or False: The water adsorption capacity of Cr-soc-MOF-1 remains unchanged after 100 adsorption-desorption cycles.",
+        "answer": "True",
+        "difficulty_level": "easy",
+        "question_type": "true_false"
+    }
+]

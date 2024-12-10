@@ -1,0 +1,70 @@
+**Questions:**
+
+**Factual (6):**
+
+1. **Question:** What is the space group of the synthesized crystal **1**?
+   **Answer:** P21/n (no. 14)
+   **Difficulty:** Easy
+2. **Question:**  What two characterization techniques were used to confirm the purity and thermal properties of  compound **1**?
+   **Answer:** Powder X-ray diffraction (XRD) and Thermogravimetric analysis and di\ufb00erential scanning calorimetry (TG-DSC)
+   **Difficulty:** Medium
+3. **Question:**  What is the bond length range observed for Cd-O bonds in the coordination sphere of the Cd2+ cation in compound **1**?
+   **Answer:** 2.317(2)\u20132.572(3) \u00c5
+   **Difficulty:** Medium
+4. **Question:**  Besides the experimental band gap, what other optical property of compound **1** was computationally calculated using CASTEP? 
+   **Answer:** Refractive index (and birefringence)
+   **Difficulty:** Hard
+5. **Question:** Based on the bond valence sum (BVS) calculation, what is the oxidation state of the Cd2+ cation in compound **1**? 
+   **Answer:** +2
+   **Difficulty:** Hard 
+6. **Question:**  What is the difference between the experimental energy gap of compound **1** and its organic precursor?
+   **Answer:** 0.02 eV 
+   **Difficulty:** Hard
+
+**Reasoning (7):**
+
+1. **Question:** Why is the initial decomposition temperature of compound **1** relatively low? 
+   **Answer:**  Due to the presence of crystalline water molecules in the structure.
+   **Difficulty:** Easy
+2. **Question:** How does the edge-sharing connection in the crystal structure of **1** contribute to its optical properties?
+   **Answer:**  It enhances optical anisotropy and widens the band-gap.
+   **Difficulty:** Medium
+3. **Question:**  The birefringence of compound **1** is lower than some other similar compounds with 6-membered ring units. What is the proposed reason for this observation?
+   **Answer:** The nitrate ions ([NO3]\u2212) are not coplanar with the deprotonated isoquinoline-1-carboxylic acid ([C10H6NO2]\u2212) units. 
+   **Difficulty:** Medium
+4. **Question:** Compound **1** exhibits a lower UV cut-off edge compared to isoquinoline-1-carboxylic acid. What is the primary reason behind this shift?
+   **Answer:** The combination of Cd2+ and (NO3)\u2212 with isoquinoline-1-carboxylic acid leads to the formation of a UV transparent compound.
+   **Difficulty:** Medium
+5. **Question:** Based on the DOS analysis, which structural components are considered the major contributors to the optical properties of compound **1**?
+   **Answer:** The \u03c0-conjugated [C10H6NO2]\u2212 group, [NO3]\u2212 group, and Cd2+.
+   **Difficulty:** Hard
+6. **Question:** The calculated theoretical band-gap often underestimates the experimental value. What is done to correct this discrepancy in the calculation for compound **1**?
+   **Answer:** A scissor operator is added to shift the conduction band based on the experimental band-gap.
+   **Difficulty:** Hard
+7. **Question:**  The DOS analysis shows an increase in the peaks of 2p orbitals of N and O at the top of the valence band in compound **1** compared to isoquinoline-1-carboxylic acid. What causes this change?
+   **Answer:** The hybridization of the Cd2+ 4d orbital with the 2p orbitals of N and O due to covalent bonding.
+   **Difficulty:** Hard
+
+**True or False (7):**
+
+1. **Question:**  Compound **1** is synthesized through a solid-state reaction. 
+   **Answer:** False (It is synthesized via an aqueous solution evaporation method.)
+   **Difficulty:** Easy
+2. **Question:**  The Cd2+ cation in compound **1** has a coordination number of 8. 
+   **Answer:** True 
+   **Difficulty:** Easy
+3. **Question:**  The experimental energy gap of compound **1** is smaller than that of all birefringent compounds containing N-heterocyclic plane groups.
+   **Answer:**  False (It is smaller than some, but not all.)
+   **Difficulty:** Medium
+4. **Question:** The [Cd\u2013O\u2013Cd]\u221e chains in compound **1** form perfectly straight lines along the b\u2013c plane. 
+   **Answer:**  False (They form wavy large arcs due to the Cd\u2013O\u2013Cd bond angle of 142.54(10)\u00b0.)
+   **Difficulty:** Medium
+5. **Question:**  The birefringence of compound **1** is higher than that of commercial \u03b1-BaB204. 
+   **Answer:** False (It is about half the value.)
+   **Difficulty:** Medium
+6. **Question:**  The presence of intramolecular hydrogen bonds in compound **1** negatively impacts its thermal stability. 
+   **Answer:**  False (The text doesn't suggest this, and hydrogen bonds generally increase stability.)
+   **Difficulty:** Hard
+7. **Question:**  Replacing the water molecules in compound **1** with other ligands could potentially enhance its birefringence. 
+   **Answer:** True (The text suggests removing water could allow nitrate ions to be coplanar and improve birefringence.)
+   **Difficulty:** Hard 

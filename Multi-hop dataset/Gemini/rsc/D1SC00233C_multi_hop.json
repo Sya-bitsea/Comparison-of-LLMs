@@ -1,0 +1,70 @@
+**Multi-hop Q&As:**
+
+**Factual:**
+
+1. **Question:** What is the average Cm-OO2CMe distance in (NH4)2Cm(O2CMe)5 determined by single-crystal X-ray diffraction?
+   **Answer:** 2.49 \u00c5
+   **Difficulty:** Medium
+2. **Question:** What technique was used to quantify the Cm3+ and Eu3+ hydration numbers in various ammonium acetate/acetic acid solutions?
+   **Answer:** Time-resolved fluorescence lifetime (TRFL) spectroscopy
+   **Difficulty:** Medium
+3. **Question:** What is the dominant species present in a concentrated solution of Ac3+ in ammonium acetate/acetic acid buffer?
+   **Answer:** Ac(H2O)6(1)(O2CMe)3(1)
+   **Difficulty:** Hard
+4. **Question:** What is the difference in the Ac3+ L3-edge inflection point between a dilute ammonium acetate/acetic acid solution and a concentrated one?
+   **Answer:** 0.6 eV
+   **Difficulty:** Medium
+5. **Question:** How does the Cm3+ speciation in a 4 M ammonium acetate/acetic acid solution compare to that in a 15 M solution?
+   **Answer:** It favors the 15 M extreme by 13%.
+   **Difficulty:** Hard
+6. **Question:** What is the yield of (NH4)2Eu(O2CMe)5 crystals from the described synthesis?
+   **Answer:** ~26%
+   **Difficulty:** Easy
+
+**Reasoning:**
+
+1. **Question:** Why does increasing the ammonium acetate/acetic acid concentration lead to a decrease in the hydration number of Cm3+?
+   **Answer:**  Increasing the concentration of acetate ions increases the likelihood of acetate complexation, displacing water molecules from the Cm3+ coordination sphere.
+   **Difficulty:** Medium
+2. **Question:** Based on the observed trends, would you expect the number of acetate ligands bound to Cf3+ in a concentrated ammonium acetate/acetic acid solution to be more similar to Ac3+ or Cm3+?
+   **Answer:** Cm3+, as Cf3+ has a smaller ionic radius and higher Lewis acidity than Ac3+, making it more similar to Cm3+. 
+   **Difficulty:** Hard
+3. **Question:** Why were the Ac3+ L3-edge inflection points more sensitive to ligand environments than those of Cm3+?
+   **Answer:**  This could be due to more substantial orbital mixing in Ac-ligand bonds compared to Cm-ligand bonds.
+   **Difficulty:** Hard
+4. **Question:** Why is the Cm\u2013OH2O distance shorter than the Ac\u2013OH2O distance in dilute ammonium acetate/acetic acid solutions?
+   **Answer:** Cm3+ has a smaller ionic radius than Ac3+, resulting in a shorter bond distance to the coordinating water molecules.
+   **Difficulty:** Easy
+5. **Question:**  Why does the presence of water molecules provide non-radiative decay pathways for excited Cm3+ and Eu3+ species?
+   **Answer:** Water molecules can absorb energy from the excited state and dissipate it as heat through vibrational motions, facilitating non-radiative relaxation.
+   **Difficulty:** Medium
+6. **Question:** Why was the DGA resin chosen over the DOWEX cation exchange resin for purifying Am3+ and Cm3+ stock solutions?
+   **Answer:** The DGA resin provided higher Am3+ and Cm3+ recoveries (>98%) compared to the cation exchange resin (~80%).
+   **Difficulty:** Easy
+7. **Question:** Based on the presented data, can you definitively state whether acetate binds to Cm3+ in a monodentate or bidentate fashion? 
+   **Answer:**  No, the resolution of the data is insufficient to distinguish between these two binding modes.
+   **Difficulty:** Medium
+
+**True or False:**
+
+1. **Question:** The (NH4)2M(O2CMe)5 compounds (M = Eu, Am, Cm) are isostructural.
+   **Answer:** True
+   **Difficulty:** Easy
+2. **Question:** Increasing the ammonium acetate/acetic acid concentration leads to a decrease in the Ac3+ L3-edge inflection point.
+   **Answer:** True
+   **Difficulty:** Medium
+3. **Question:** The Cm3+ L3-edge inflection points are significantly different in 0.1 M, 4 M, and 15 M ammonium acetate/acetic acid solutions.
+   **Answer:** False
+   **Difficulty:** Medium
+4. **Question:**  The dominant species present in a concentrated solution of Cm3+ in ammonium acetate/acetic acid buffer is Cm(H2O)9 3+.
+   **Answer:** False
+   **Difficulty:** Medium
+5. **Question:** The Ac(H2O)6(1)(O2CMe)3(1) complex is anionic.
+   **Answer:** False
+   **Difficulty:** Hard
+6. **Question:**  Time-resolved fluorescence lifetime (TRFL) measurements showed that the Cm(O2CMe)5 2- complex has a significant number of coordinated water molecules. 
+   **Answer:** False
+   **Difficulty:** Medium
+7. **Question:**  The study suggests that the chemistry of +3 actinides is constant across the 5f series.
+   **Answer:** False
+   **Difficulty:** Hard

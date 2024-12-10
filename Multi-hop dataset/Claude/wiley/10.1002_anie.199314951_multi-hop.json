@@ -1,0 +1,105 @@
+
+[
+  {
+    "question": "What is the chemical formula of the compound β-Na3Hg?",
+    "answer": "The chemical formula of β-Na3Hg is Na2.85Hg.",
+    "difficulty": "easy",
+    "type": "factual"
+  },
+  {
+    "question": "What is the space group and unit cell parameters of α-Na3Hg at 42°C?",
+    "answer": "The space group of α-Na3Hg is R3̄m (no. 166) with unit cell parameters a = 5.404(1) Å, c = 13.420(4) Å at 42°C.",
+    "difficulty": "medium",
+    "type": "factual"  
+  },
+  {
+    "question": "How were the single crystals of β-Na3Hg suitable for X-ray analysis obtained?",
+    "answer": "Single crystals of β-Na3Hg suitable for X-ray analysis were obtained by annealing samples with a net composition of Na2.85Hg at 50°C for 30 days and then quenching in a dry-ice/methanol mixture.",
+    "difficulty": "medium",
+    "type": "factual"
+  },
+  {
+    "question": "What are the atomic positions of Na1, Na2 and Hg in the hexagonal setting of the α-Na3Hg structure?",
+    "answer": "In the hexagonal setting of α-Na3Hg, Na1 is at (0, 0, 0.5), Na2 is at (0, 0, 0.245), and Hg is at (0, 0, 0).",
+    "difficulty": "hard",
+    "type": "factual"
+  },
+  {
+    "question": "What is the coordination number and geometry around the Na1 site in α-Na3Hg?",
+    "answer": "The Na1 site in α-Na3Hg is located in an octahedral void with a coordination number of 6.",
+    "difficulty": "medium",
+    "type": "reasoning"
+  },
+  {
+    "question": "Why is the exact sodium composition of the investigated β-Na3Hg crystals difficult to determine from X-ray occupation factors?",
+    "answer": "The exact sodium composition is difficult to determine because the occupation factor for the Na1 site and partial occupation factors for the split Na positions converge at physically meaningless values due to strong correlations during refinement.",
+    "difficulty": "hard",
+    "type": "reasoning"
+  },
+  {
+    "question": "What happens to the specific heat capacity curve of β-Na3Hg after the α/β phase transition?",
+    "answer": "The specific heat capacity curve of β-Na3Hg does not return to its initial base line after the α/β phase transition.",
+    "difficulty": "medium",
+    "type": "factual"
+  },
+  {
+    "question": "Why does the delocalization of electron density in the octahedral Na1 site increase with temperature?",
+    "answer": "The delocalization increases with temperature because of increased thermal motion and occupancy of split Na positions around the central Na1 site.",
+    "difficulty": "hard", 
+    "type": "reasoning"
+  },
+  {
+    "question": "How does the substoichiometric sodium content enable mobility of sodium atoms in the β-Na3Hg structure?",
+    "answer": "The substoichiometric sodium content of Na2.85Hg leads to approximately 5% unoccupied sodium positions, which provides vacancies that enable the mobility of the sodium atoms in the structure.",
+    "difficulty": "hard",
+    "type": "reasoning" 
+  },
+  {
+    "question": "What experimental methods were used to determine the crystal structure of α-Na3Hg?",
+    "answer": "The crystal structure of α-Na3Hg was determined using single crystal X-ray diffraction on a CAD4 diffractometer with Mo Kα radiation at 42°C.",
+    "difficulty": "easy",
+    "type": "factual"
+  },
+  {
+    "question": "True or False: The investigated β-Na3Hg crystals have the ideal composition Na3Hg.",
+    "answer": "False. The investigated β-Na3Hg crystals are slightly substoichiometric in sodium with a composition around Na2.85Hg.",
+    "difficulty": "easy",
+    "type": "true_false"
+  },
+  {
+    "question": "True or False: The Na2 site in α-Na3Hg is located in a tetrahedral void.",
+    "answer": "True. The Na2 site is located in a tetrahedral void, slightly displaced from the ideal center position of z = 1/4 to z = 0.245.",
+    "difficulty": "medium",
+    "type": "true_false"
+  },
+  {
+    "question": "True or False: β-Na3Hg crystals surrounded by melt are obtained from sodium-rich samples.",
+    "answer": "True. Samples richer in sodium than the Na2.85Hg composition produce β-Na3Hg crystals surrounded by melt.",
+    "difficulty": "easy",
+    "type": "true_false"
+  },
+  {
+    "question": "True or False: The specific heat capacity of β-Na3Hg was measured upon cooling.",
+    "answer": "False. The specific heat capacity was measured upon heating at a rate of 7°C/min.",
+    "difficulty": "medium",
+    "type": "true_false" 
+  },
+  {
+    "question": "True or False: The octahedral Na1 site in α-Na3Hg shows split positions to model the delocalized electron density.",
+    "answer": "True. Split positions Na1a, Na1b, Na1c and Na1d were introduced to simulate the delocalized electron density around the central Na1 site.",
+    "difficulty": "hard",
+    "type": "true_false"
+  },
+  {
+    "question": "True or False: The mobility of sodium in β-Na3Hg seems inconceivable because all octahedral and tetrahedral voids are fully occupied.",
+    "answer": "True. In a structure where all voids are fully occupied, vacancies should only be available in small concentrations, making sodium mobility seem inconceivable at first.",
+    "difficulty": "hard",
+    "type": "true_false"
+  },
+  {
+    "question": "True or False: The crystal structure of α-Na3Hg was determined at room temperature.",
+    "answer": "False. The crystal structure was determined at 42°C, not room temperature.",
+    "difficulty": "easy",
+    "type": "true_false"
+  }
+]

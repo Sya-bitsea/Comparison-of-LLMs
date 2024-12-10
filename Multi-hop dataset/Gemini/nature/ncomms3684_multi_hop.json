@@ -1,0 +1,88 @@
+**Factual:**
+
+1. **Question:** What is the solvent used in the synthesis of both NOF-1 single crystals and NOF-3 single crystals?
+    **Answer:** DMF
+    **Difficulty:** Easy
+    **Type:** Factual
+2. **Question:** What is the morphology and color of the NOF-3 crystals obtained from the synthesis?
+    **Answer:** Pale yellow plate-like crystals.
+    **Difficulty:** Easy
+    **Type:** Factual
+3. **Question:** What technique was used to confirm that NO was the only nitrogen oxide released after irradiating NOF-1?
+    **Answer:** Gas chromatography-mass spectrometry (GCMS)
+    **Difficulty:** Medium
+    **Type:** Factual
+4. **Question:** What is the percentage yield of NOF-1 microcrystalline powder obtained after synthesis and purification?
+    **Answer:** 27%
+    **Difficulty:** Medium
+    **Type:** Factual
+5. **Question:** What is the concentration of sodium formate used in the synthesis of NOF-2 microcrystalline powder?
+    **Answer:** 2.0 mmol
+    **Difficulty:** Hard
+    **Type:** Factual
+6. **Question:** According to Supplementary Figure S1, what is the scale bar used for the FESEM images of NOF-2 at magnifications d and e?
+    **Answer:** 1 \u03bcm
+    **Difficulty:** Hard
+    **Type:** Factual
+
+**Reasoning:**
+
+1. **Question:** Why does NOF-1 demonstrate better light absorption than NOF-2 between 400-500 nm?
+    **Answer:** NOF-1 has significant absorption tailing in that region due to the nitro substitution position on the imidazole ring.
+    **Difficulty:** Medium
+    **Type:** Reasoning
+2. **Question:** Why is the cobalt analogue of NOF-1, [Co(2nIm)2]n, a less efficient NO releaser than NOF-1 itself?
+    **Answer:**  The ligand field and low-energy states of the cobalt center deactivate the excited states of the ligands, hindering the photochemical pathway for NO release. 
+    **Difficulty:** Hard
+    **Type:** Reasoning
+3. **Question:** What is the rationale behind using a two-photon near-infrared laser for NOF-1 activation in cell culture experiments?
+    **Answer:**  Two-photon excitation using near-infrared light avoids cell damage from UV irradiation while still effectively triggering NO release.
+    **Difficulty:** Hard
+    **Type:** Reasoning
+4. **Question:** How did the authors confirm that the PDMS layer in the NOF-1/PDMS substrate did not hinder the diffusion of released NO?
+    **Answer:**  Irradiation experiments showed comparable NO release from both coated and uncoated materials, demonstrating NO permeability through the PDMS layer.
+    **Difficulty:** Medium
+    **Type:** Reasoning
+5. **Question:** Why did the researchers choose HEK293 cells genetically modified to express TRPC5 for their biological relevance studies?
+    **Answer:**  TRPC5 is a NO-sensitive transmembrane channel, and its activation by NO leads to a measurable change in intracellular calcium concentration, serving as a quantifiable cellular response.
+    **Difficulty:** Hard
+    **Type:** Reasoning
+6. **Question:** Based on the crystal structures, explain why NOF-1 and NOF-2 exhibit enhanced photoreactivity compared to their individual ligand counterparts.
+    **Answer:** The porous frameworks of NOF-1 and NOF-2 provide spatial segregation of the ligands, preventing aggregation-induced quenching of excited states that would otherwise occur in the aggregated ligand form.
+    **Difficulty:** Medium
+    **Type:** Reasoning
+7. **Question:** Why is the transient nature of NO release from the NOF-1 substrate advantageous for studying cellular responses?
+    **Answer:** It allows for the observation of dynamic and time-dependent changes in cellular processes, such as calcium influx, upon NO stimulation and withdrawal.
+    **Difficulty:** Medium
+    **Type:** Reasoning
+
+**True/False:**
+
+1. **Question:** The photoreactivity of both 2nIm and mnIm increase by at least five times when incorporated into their respective NOF structures. 
+    **Answer:** True
+    **Difficulty:** Easy
+    **Type:** True/False
+2. **Question:**  NOF-2 exhibits a higher NO release efficiency compared to NOF-1 under 300-600 nm light irradiation.
+    **Answer:** False
+    **Difficulty:** Medium
+    **Type:** True/False
+3. **Question:**  The addition of sodium formate in the synthesis of NOF-1 and NOF-2 microcrystalline powders acts as a modulator to slow down the nucleation process.
+    **Answer:** False
+    **Difficulty:** Medium
+    **Type:** True/False
+4. **Question:**  The presence of NOF-1 embedded in the PDMS layer had significant cytotoxic effects on HEK293 cells.
+    **Answer:** False
+    **Difficulty:** Medium
+    **Type:** True/False
+5. **Question:** The NO released from NOF-1/PDMS substrates caused a sustained increase in intracellular calcium concentration in HEK293-TRPC5 cells for several hours.
+    **Answer:** False
+    **Difficulty:** Hard
+    **Type:** True/False
+6. **Question:** According to Supplementary Figure S2, the sodalite cages represented in figures c and d highlight the imidazolate ligands with their nitro groups pointing towards the outer void. 
+    **Answer:** False
+    **Difficulty:** Hard
+    **Type:** True/False
+7. **Question:** The non-porous framework NOF-3 releases a comparable amount of NO to NOF-1 under similar illumination conditions. 
+    **Answer:** False
+    **Difficulty:** Medium
+    **Type:** True/False

@@ -1,0 +1,68 @@
+**Factual:**
+
+1. **Question:** What is the volumetric CO2 adsorption capacity of FJI-H14 at standard ambient conditions and what are these conditions?
+   **Answer:** 171 cm3 cm\u22123 at 298 K and 1 atm. 
+   **Difficulty:** Easy
+2. **Question:** What is the Brunauer-Emmett-Teller (BET) specific surface area calculated for FJI-H14? 
+   **Answer:** 904 m2 g\u22121
+   **Difficulty:** Easy
+3. **Question:** Compare the CO2 uptake per ligand molecule of FJI-H14 derived from both experimental and GCMC methods at 273K.
+    **Answer:** The experimental value is 3.1 CO2 per ligand molecule, and the simulated value is ~3.1 CO2 per ligand molecule. 
+    **Difficulty:** Medium 
+4. **Question:**  Based on the DFT calculations, what is the binding energy difference between Site I and Site III for CO2 adsorption?
+    **Answer:**  ~10.89 kJ mol\u22121 (43.71 kJ mol\u22121 - 32.82 kJ mol\u22121)
+    **Difficulty:** Hard
+5. **Question:** According to Table 1, what is the yield difference between using FJI-H14 and HKUST-1 as catalysts in the cycloaddition of styrene oxide with simulated flue gas? 
+    **Answer:** 19% (86% - 67%)
+    **Difficulty:** Medium
+6. **Question:** What is the Cu-O bond distance in the preferential CO2 adsorption Site I of FJI-H14 as determined by DFT optimization?
+    **Answer:** 2.889 \u00c5
+    **Difficulty:** Medium
+
+**Reasoning:**
+
+1. **Question:** Why is the volumetric CO2 adsorption capacity considered more important than the gravimetric capacity for practical applications in CO2 capture from power plants?
+   **Answer:** Because capture and separation of post-combustion CO2 is often carried out in a fixed-bed reactor.
+   **Difficulty:** Medium
+2. **Question:** What structural feature of FJI-H14 is attributed to its higher stability compared to other MOFs based on Cu ions and organic carboxylates?
+   **Answer:** The penta-coordinated Cu(II) ion subunit, stabilized by the stronger Cu-N coordination interaction compared to Cu-O, contributes to the higher stability of FJI-H14. 
+   **Difficulty:** Hard
+3. **Question:** Why is the N2 adsorption at 77 K for FJI-H14 much lower than expected, despite its demonstrated CO2 uptake capacity?
+   **Answer:** The relatively narrow pores of FJI-H14 are easily blocked by the larger N2 molecules at 77 K, hindering further diffusion. 
+   **Difficulty:** Medium
+4. **Question:**  Explain the reason for the increasing isosteric heat of adsorption (Qst) observed in FJI-H14 with increasing CO2 loading.
+    **Answer:** The increasing Qst is attributed to the formation of CO2 clusters within the pores of the material, leading to increasing CO2\u00b7\u00b7\u00b7CO2 interactions that contribute to the overall heat of adsorption.
+    **Difficulty:** Hard
+5. **Question:** What is the role of the open Cu(II) sites in FJI-H14 in terms of CO2 adsorption, and what experimental evidence supports this role?
+    **Answer:** Open Cu(II) sites act as Lewis acid sites, preferentially interacting with CO2 molecules. This is supported by the in situ FT-IR spectra showing strong absorption bands red-shifted from the CO2 asymmetric stretch, indicating interaction with the Cu(II) centers.
+    **Difficulty:** Hard
+6. **Question:** How does the large-scale synthesis method of FJI-H14 differ from the single-crystal synthesis, and why is this method beneficial for practical applications?
+    **Answer:**  Large-scale synthesis is achieved by refluxing a mixture of H2BTTA and Cu(NO3)2 in water, resulting in microcrystalline FJI-H14 with a high yield. This method allows for the production of larger quantities of the material, which is essential for its practical application in CO2 capture.
+    **Difficulty:** Medium
+7. **Question:** Based on the results presented in Table 1, how does the size of the epoxide substrate influence the yield of the cyclic carbonate product in the FJI-H14 catalyzed reaction?
+   **Answer:** Smaller epoxides, such as (chloromethyl)ethylene oxide, exhibit higher yields compared to larger epoxides like 1,2-epoxyoctane. This suggests that the reaction likely occurs within the pores of FJI-H14, and smaller substrates can diffuse more easily to access the active sites within the pores.
+   **Difficulty:** Medium
+
+**True or False:**
+
+1. **Statement:** FJI-H14 is synthesized using a hydrothermal method with a mixture of Cu(NO3)2 and H2BTTA in water.
+   **Answer:** True
+   **Difficulty:** Easy
+2. **Statement:** FJI-H14 shows significant structural degradation after being immersed in a solution at pH = 10 for 24 hours. 
+   **Answer:** False
+   **Difficulty:** Easy
+3. **Statement:**  The isosteric heat of adsorption (Qst) of FJI-H14 remains constant with increasing CO2 loading.
+   **Answer:** False 
+   **Difficulty:** Medium
+4. **Statement:**  The simulated CO2 adsorption isotherms of FJI-H14, obtained from GCMC simulations, perfectly match the experimental data.
+   **Answer:** False
+   **Difficulty:** Medium 
+5. **Statement:** The preferential CO2 adsorption sites in FJI-H14 identified through GCMC simulations and DFT calculations solely involve interactions with open Cu(II) sites.
+   **Answer:** False 
+   **Difficulty:** Hard 
+6. **Statement:**  The large-scale synthesized FJI-H14 exhibits a different crystal morphology compared to the single-crystal form.
+   **Answer:** False 
+   **Difficulty:** Easy
+7. **Statement:**  FJI-H14 demonstrates higher catalytic activity for CO2 cycloaddition with styrene oxide compared to homogeneous Cu(OAc)2, heterogeneous HKUST-1, and a mixture of Cu(NO3)2 and H2BTTA ligand under the same reaction conditions.
+   **Answer:** True
+   **Difficulty:** Medium 

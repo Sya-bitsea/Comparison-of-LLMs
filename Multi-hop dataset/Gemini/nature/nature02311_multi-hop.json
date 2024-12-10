@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the space group used in the structure refinement of MOF-177?",
+        "answer": "The space group used is P 1c (No. 163).",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "What is the volume of the unit cell in the crystal structure of MOF-177?",
+        "answer": "The volume of the unit cell is 35746(3) \u00c53.",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "What is the maximum temperature used in the thermal treatment of sample IV during the Powder X-ray Diffraction study?",
+        "answer": "The maximum temperature used to treat sample IV was 325 \u00b0C.",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "What is the chemical formula for the organic linker used in the synthesis of MOF-177?",
+        "answer": "The organic linker is 4,4\u2032,4\u2032\u2032-benzene-1,3,5-triyl-tri-benzoic acid (H3BTB).",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "What are the two characteristic peaks in the FT-IR spectrum that indicate the presence of DEF in sample I?",
+        "answer": "The characteristic peaks for DEF are n(C-H) = 2977, 2941 cm-1 and n(C=O) = 1648 cm-1.",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "Based on the TGA data, what percentage of the weight loss can be attributed to the loss of guest molecules?",
+        "answer": "The weight loss of 47.95% can be attributed to the loss of guest molecules.",
+        "difficulty": "factual",
+        "type": "factual"
+    },
+    {
+        "question": "Which solvent was used to wash the MOF-177 crystals in the Powder X-ray Diffraction study to replace DEF?",
+        "answer": "The solvent used to wash the crystals and replace DEF was chlorobenzene.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why was chlorobenzene chosen as the solvent to exchange with DEF in the Powder X-ray Diffraction study?",
+        "answer": "Chlorobenzene was chosen because it can displace DEF from the pores of the MOF and its presence can be confirmed by the appearance of characteristic peaks in the FT-IR spectrum.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why does the surface area increase when smaller fragments are excised from a graphene sheet?",
+        "answer": "Excising smaller fragments exposes the latent edges of the six-membered rings, which increases the overall surface area accessible for interaction.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "Why is MOF-177 capable of adsorbing large polycyclic organic molecules?",
+        "answer": "MOF-177 has extra-large pores, as evidenced by the positions in the structure that can accommodate spheres of 10.8 \u00c5 and 11.8 \u00c5 diameter without touching the framework.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "How does the topology of MOF-177 prevent interpenetration of frameworks?",
+        "answer": "The 'qom' topology of MOF-177 is based on a (6,3)-coordinated net where the dual net is very different. This makes efficient interpenetration of two 'qom' nets impossible.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "How does the choice of the BTB linker contribute to avoiding the formation of the pyr net?",
+        "answer": "BTB has coplanar carboxylates, which prevents the formation of the cubic closest packing arrangement of six-coordinated sites found in the pyr net.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "How was the presence of C60 in the MOF-177 framework confirmed?",
+        "answer": "The presence of C60 was confirmed by Raman spectroscopy, which showed broadened fullerene bands at slightly shifted positions compared to bulk C60, indicating interaction with the framework.",
+        "difficulty": "reasoning",
+        "type": "reasoning"
+    },
+    {
+        "question": "True or False: The integration of the X-ray diffraction data for MOF-177 used a cubic unit cell.",
+        "answer": "False. The integration used a trigonal unit cell.",
+        "difficulty": "True/False",
+        "type": "True/False"
+    },
+    {
+        "question": "True or False: The largest pores in MOF-177 can accommodate spheres with a diameter of 12.8 \u00c5.",
+        "answer": "False. The largest pores can accommodate spheres with a diameter of 11.8 \u00c5.",
+        "difficulty": "True/False",
+        "type": "True/False"
+    },
+    {
+        "question": "True or False: Reichardt's dye molecules freely diffuse into the MOF-177 crystals, similar to Astrazon Orange R and Nile Red.",
+        "answer": "False. Reichardt's dye, due to its large size, only penetrated the outer part of the crystal.",
+        "difficulty": "True/False",
+        "type": "True/False"
+    },
+    {
+        "question": "True or False: The nitrogen gas sorption isotherm for MOF-177 exhibits significant hysteresis upon desorption.",
+        "answer": "False. The isotherm shows no hysteresis upon desorption.",
+        "difficulty": "True/False",
+        "type": "True/False"
+    },
+    {
+        "question": "True or False: The structure of MOF-177 collapses upon removal of guest molecules.",
+        "answer": "False. The framework periodicity and structure are preserved even after the pores are fully evacuated.",
+        "difficulty": "True/False",
+        "type": "True/False"
+    },
+    {
+        "question": "True or False: The surface area of MOF-177 was determined by BET analysis.",
+        "answer": "False. The surface area was estimated using the Langmuir model, assuming monolayer coverage of N2.",
+        "difficulty": "True/False",
+        "type": "True/False"
+    },
+    {
+        "question": "True or False: Sample III in the Powder X-ray Diffraction study was prepared by heating sample II to 100 \u00b0C.",
+        "answer": "False. Sample III was prepared by heating sample II to 145 \u00b0C.",
+        "difficulty": "True/False",
+        "type": "True/False"
+    }
+]

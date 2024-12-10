@@ -1,0 +1,70 @@
+**Questions:**
+
+**Factual (6)**
+
+1. **Question:** What is the charge of the [MnL1] unit in the crystal structure of the complex?
+    * **Answer:** +1 
+    * **Difficulty:** Medium
+2. **Question:**  What is the chemical shift (ppm) for H1 in the 1H NMR spectrum of L1, and what is the corresponding Mn-N bond distance in the MnL1 complex?
+    * **Answer:**  7.95 ppm, 2.216 \u00c5
+    * **Difficulty:** Hard
+3. **Question:**  What is the percentage yield of L1 based on BrCH2COOH, considering the purity determined by potentiometric titration?
+    * **Answer:**  88.3%
+    * **Difficulty:** Hard
+4. **Question:**  What is the difference in log KML values between MnL1 and Mn(15-pyN3O2), and what structural feature of L1 leads to this difference?
+    * **Answer:** Approximately 4 units, the additional acetate pendant arm in L1.
+    * **Difficulty:** Medium
+5. **Question:** What two methods were used to determine the hydration number (q) of the MnL1 complex in solution?
+    * **Answer:** 1H NMRD and a semi-empirical method based on molecular weight and low field relaxivity.
+    * **Difficulty:** Medium
+6. **Question:** What type of anion compensates the positive charge in the crystal structure of MnL1, and what is its geometry?
+    * **Answer:** [MnBrCl3]2\u2212 anion, distorted tetrahedral structure.
+    * **Difficulty:** Medium
+
+**Reasoning (7)**
+
+1. **Question:** Why is the presence of inner-sphere water molecules desirable in a potential MRI contrast agent?
+    * **Answer:** Inner-sphere water molecules allow for efficient relaxation of water protons in the surrounding tissue, leading to enhanced image contrast.
+    * **Difficulty:** Medium
+2. **Question:** Why are macrocyclic ligands generally preferred over their non-cyclic counterparts for complexing Mn(II) for MRI applications? 
+    * **Answer:** Macrocyclic ligands often form more thermodynamically stable and kinetically inert complexes compared to non-cyclic ligands, which is crucial for preventing the release of potentially toxic Mn(II) ions in vivo.
+    * **Difficulty:** Medium
+3. **Question:** Although MnL1 exhibits higher thermodynamic stability compared to Mn(15-pyN3O2), why is it not considered suitable for in vivo applications?
+    * **Answer:** Despite the improvement in stability, MnL1 still exhibits fast dissociation kinetics, particularly spontaneous dissociation, making it unsuitable for in vivo use.
+    * **Difficulty:** Hard
+4. **Question:** How does the presence of the acetate pendant arm in L1 influence the water exchange rate of its Mn(II) complex compared to Mn(15-pyN3O2)?
+    * **Answer:** The acetate arm in L1 leads to a faster water exchange rate in its Mn(II) complex compared to Mn(15-pyN3O2). 
+    * **Difficulty:** Hard
+5. **Question:**  Explain why the first protonation constant (log KH1) of L1 is lower than that of 15-pyN5.
+    * **Answer:**  The presence of electronegative oxygen atoms in the macrocyclic scaffold of L1 decreases its basicity compared to the all-nitrogen donor 15-pyN5, resulting in a lower log KH1.
+    * **Difficulty:** Medium
+6. **Question:** Based on the observed dissociation kinetics, what is the dominant pathway for MnL1 dissociation at physiological pH?
+    * **Answer:** Spontaneous dissociation of the non-protonated complex (characterized by k0) is the dominant pathway for MnL1 dissociation at physiological pH.
+    * **Difficulty:** Hard
+7. **Question:** Why is the kinetic inertness of MnL1 important in the context of its potential use as an MRI contrast agent?
+    * **Answer:**  Sufficient kinetic inertness is crucial to ensure that the Mn(II) ion remains chelated and does not dissociate in vivo, preventing potential toxicity from free Mn(II) ions.
+    * **Difficulty:** Medium
+
+**True or False (7)**
+
+1. **Question:** True or False: The Mn(II) ion in the MnL1 complex adopts a distorted octahedral geometry.
+    * **Answer:** False. It adopts a pentagonal bipyramidal geometry.
+    * **Difficulty:** Medium
+2. **Question:** True or False: The introduction of the acetate pendant arm in L1 leads to a decrease in the thermodynamic stability of its Mn(II) complex. 
+    * **Answer:** False. It increases the thermodynamic stability.
+    * **Difficulty:** Easy
+3. **Question:** True or False: The MnL1 complex exhibits a single inner-sphere water molecule in its coordination sphere.
+    * **Answer:** True. 
+    * **Difficulty:** Easy
+4. **Question:** True or False: The relaxivity of MnL1 is significantly higher than that of Mn(15-pyN3O2) due to the presence of the acetate pendant arm.
+    * **Answer:** False. The relaxivity is lower due to a decrease in hydration number.
+    * **Difficulty:** Medium
+5. **Question:** True or False: The dissociation kinetics of MnL1 were studied by monitoring the water proton T1 relaxation times.
+    * **Answer:** False. The dissociation kinetics were studied by monitoring T2 relaxation times.
+    * **Difficulty:** Medium
+6. **Question:** True or False: The water exchange rate of MnL1 has a limiting effect on its relaxivity.
+    * **Answer:** False. The slow water exchange does not limit the relaxivity.
+    * **Difficulty:** Hard
+7. **Question:** True or False: The synthesis of L1 resulted in a significant amount of di-substituted side-product when a 1:1 molar ratio of BrCH2COOH and 15-pyN3O2 was used.
+    * **Answer:** True. 
+    * **Difficulty:** Medium 

@@ -1,0 +1,128 @@
+[
+    {
+        "doi": "10.1021/ja5060059",
+        "question": "What is the space group of the ZAG-4 and ZAG-6 materials?",
+        "answer": "The space group of both ZAG-4 and ZAG-6 is C2/c.",
+        "difficulty": "Factual",
+        "type": "single_step_reasoning"
+    },
+    {
+        "doi": "10.1021/ja5060059",
+        "question": "What is the significance of a shorter P\u2013O bond distance in the high-pressure structure of ZAG-6?",
+        "answer": "The shortening of the P\u2013O bond distance from 1.562(2) to 1.503(9) \u00c5 suggests the change of the phosphonic acid to a phosphonate, providing indirect evidence of the pressure-induced proton jump.",
+        "difficulty": "Factual",
+        "type": "single_step_reasoning"
+    },
+    {
+        "doi": "10.1021/ja5060059",
+        "question": "What computational method was used to calculate the mechanical properties of ZAG-4 and ZAG-6?",
+        "answer": "The mechanical properties were calculated using density functional theory (DFT) with the B3LYP hybrid exchange\u2013correlation functional, as implemented in the CRYSTAL09 code.",
+        "difficulty": "Factual",
+        "type": "single_step_reasoning"
+    },
+    {
+        "doi": "10.1021/ja5060059",
+        "question": "How does the length of the alkyl chain in ZAG materials affect their flexibility?",
+        "answer": "Longer alkyl chains increase flexibility. ZAG-6, with a 6-carbon chain, exhibits pressure-induced coiling, while ZAG-4, with a 4-carbon chain, remains rigid.",
+        "difficulty": "Factual",
+        "type": "single_step_reasoning"
+    },
+    {
+        "doi": "10.1021/ja5060059",
+        "question": "What are the advantages of ZAG materials for proton conduction compared to dense inorganic materials?",
+        "answer": "The relative softness of ZAG MOFs allows pressure-switchable proton conduction to be observed at much lower pressures than in dense inorganic materials like brucite.",
+        "difficulty": "Factual",
+        "type": "single_step_reasoning"
+    },
+    {
+        "doi": "10.1021/ja5060059",
+        "question": "Why was a mixture of methanol/ethanol chosen as the pressure medium for high-pressure studies of ZAG-6?",
+        "answer": "A 4:1 methanol/ethanol mixture was used because it remains hydrostatic, ensuring a uniform pressure transmission, in the pressure range used for the ZAG-6 study.",
+        "difficulty": "Factual",
+        "type": "single_step_reasoning"
+    },
+    {
+        "doi": "10.1021/ja5060059",
+        "question": "True or False: The proton transfer observed in ZAG-4 and ZAG-6 is irreversible.",
+        "answer": "False. The proton transfer between the phosphonate group and the water molecule is reversible.",
+        "difficulty": "Factual",
+        "type": "true_false"
+    },
+    {
+        "doi": "10.1021/ja5060059",
+        "question": "True or False: Pressure-induced bond rearrangement is a common occurrence in materials science.",
+        "answer": "False. Pressure-induced bond rearrangement, especially reversible rearrangement, is a very rare phenomenon in materials science.",
+        "difficulty": "Factual",
+        "type": "true_false"
+    },
+    {
+        "doi": "10.1021/ja5060059",
+        "question": "True or False: ZAG-4 exhibits negative linear compressibility in all directions under high pressure.",
+        "answer": "False. ZAG-4 only exhibits NLC along the b crystallographic axis at high pressure.",
+        "difficulty": "Factual",
+        "type": "true_false"
+    },
+    {
+        "doi": "10.1021/ja5060059",
+        "question": "True or False: The coiling of the alkyl chain in ZAG-6 under pressure is due to bond breaking.",
+        "answer": "False. The coiling is a conformational change and does not involve bond breaking or formation.",
+        "difficulty": "Factual",
+        "type": "true_false"
+    },
+    {
+        "doi": "10.1021/ja5060059",
+        "question": "True or False: The proton transfer in ZAG-4 occurs gradually and continuously as pressure is increased.",
+        "answer": "False. The proton transfer in ZAG-4 occurs as a sudden jump at a specific pressure (around 3.8 GPa).",
+        "difficulty": "Factual",
+        "type": "true_false"
+    },
+    {
+        "doi": "10.1021/ja5060059",
+        "question": "True or False: The ZAG materials are considered much softer than typical rigid MOFs, exhibiting significantly lower bulk moduli.",
+        "answer": "False. While ZAG materials show some characteristics of soft porous crystals, they are overall more robust with a bulk modulus (around 15 GPa) higher than typical soft porous crystals.",
+        "difficulty": "Reasoning",
+        "type": "true_false"
+    },
+    {
+        "doi": "10.1021/ja5060059",
+        "question": "What causes the nonmonotonic evolution of the unit cell parameter 'b' in ZAG-4 under pressure?",
+        "answer": "The nonmonotonic evolution of 'b' is caused by a structural transition at 3.8 GPa, associated with a proton transfer from the phosphonate group to the included water molecule.",
+        "difficulty": "Reasoning",
+        "type": "factual"
+    },
+    {
+        "doi": "10.1021/ja5060059",
+        "question": "Explain how the proton transfer in ZAG-4 contributes to a decrease in unit cell volume under pressure.",
+        "answer": "The proton transfer allows the formation of H3O+ with a shorter O-H bond. This leads to a smaller overall distance between the phosphonate and water oxygen atoms, contributing to a reduced unit cell volume.",
+        "difficulty": "Reasoning",
+        "type": "factual"
+    },
+    {
+        "doi": "10.1021/ja5060059",
+        "question": "Why is ZAG-4 considered a good candidate for a pressure-switchable proton conduction material?",
+        "answer": "At intermediate pressures (around 2.2 GPa), the enthalpy barrier for proton transfer in ZAG-4 becomes very low, facilitating fast proton diffusion along the hydrogen-bonded network via a Grotthuss-like mechanism.",
+        "difficulty": "Reasoning",
+        "type": "factual"
+    },
+    {
+        "doi": "10.1021/ja5060059",
+        "question": "How does the coiling of the alkyl chain in ZAG-6, along with the proton jump, contribute to minimizing the enthalpy of the system at high pressure?",
+        "answer": "Both coiling and proton transfer reduce the unit cell volume. Coiling shortens the alkyl chain length, while proton transfer allows for a smaller phosphonate-water distance, minimizing the PV term in enthalpy.",
+        "difficulty": "Reasoning",
+        "type": "factual"
+    },
+    {
+        "doi": "10.1021/ja5060059",
+        "question": "Based on the behavior of ZAG-4 and ZAG-6, how does the presence of a flexible linker and proton transfer affect the response of a MOF to pressure?",
+        "answer": "Flexible linkers, coupled with proton transfer, allow for more complex and diverse piezo-mechanical responses, including NLC, linker coiling, and potential proton conduction.",
+        "difficulty": "Reasoning",
+        "type": "factual"
+    },
+    {
+        "doi": "10.1021/ja5060059",
+        "question": "Why was it necessary to perform constrained enthalpy minimization calculations to study the proton jump in ZAG-4?",
+        "answer": "Constrained enthalpy minimization allowed researchers to fix the proton-water distance while relaxing the rest of the system, providing insights into the energy profile of the proton jump at different pressures.",
+        "difficulty": "Reasoning",
+        "type": "factual"
+    }
+]
