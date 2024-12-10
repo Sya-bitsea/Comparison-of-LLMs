@@ -1,0 +1,123 @@
+
+[
+  {
+    "question": "What are the two polymorphic forms of [Zn2(μ-O2C-p-Tol)2(O2C-p-Tol)2(bpe)2] that were isolated?",
+    "answer": "The two polymorphic forms of [Zn2(μ-O2C-p-Tol)2(O2C-p-Tol)2(bpe)2] that were isolated are: 1) a form with parallel orientation of C=C bond pairs (thermodynamic product), and 2) a form with criss-cross (antiparallel) orientation of C=C bond pairs (kinetic product).",
+    "type": "factual",
+    "level": "easy"
+  },
+  {
+    "question": "What is the difference in the crystal systems and space groups between the two polymorphic forms 1 and 2?",
+    "answer": "Polymorph 1 crystallized in the triclinic crystal system with space group P-1, while polymorph 2 crystallized in the monoclinic crystal system with space group C2/c.",
+    "type": "factual", 
+    "level": "medium"
+  },
+  {
+    "question": "What is the distance between the centers of the C=C bond pairs in polymorph 2 that has the criss-cross orientation?",
+    "answer": "The distance between the centers of the C=C bond pairs in polymorph 2 that has the criss-cross (antiparallel) orientation is 3.73 Å.",
+    "type": "factual",
+    "level": "easy"
+  },
+  {
+    "question": "What are the products formed along with polymorph 2 during the synthesis using zinc acetate?",
+    "answer": "During the synthesis using zinc acetate, polymorph 2 formed as thin plates along with long needles of a linear coordination polymer [Zn2(μ-O2C-p-Tol)4(bpe)] (3).",
+    "type": "factual",
+    "level": "medium" 
+  },
+  {
+    "question": "What type of photochemical reaction do both polymorphs 1 and 2 undergo upon UV irradiation?",
+    "answer": "Both polymorphs 1 and 2 undergo a 100% photochemical [2+2] cycloaddition reaction upon UV irradiation to yield another ladder structure [Zn2(μ-O2C-p-Tol)2(O2C-p-Tol)2(rctt-tpcb)].",
+    "type": "factual",
+    "level": "easy"
+  },
+  {
+    "question": "What is the full name of the ligand 'rctt-tpcb' formed after the photochemical reaction?",
+    "answer": "The full name of the ligand 'rctt-tpcb' formed after the photochemical [2+2] cycloaddition reaction is regio-cis,trans,trans-tetrapyridylcyclobutane.",
+    "type": "factual",
+    "level": "medium"
+  },
+  {
+    "question": "Why does polymorph 1 retain its single crystallinity after the photochemical reaction while polymorph 2 does not?",
+    "answer": "Polymorph 1, being the thermodynamic product with parallel orientation of the C=C bonds, is able to retain its single crystallinity after the photochemical reaction. In contrast, polymorph 2 with the criss-cross C=C bond orientation does not retain single crystallinity, likely because it is the kinetic product.",
+    "type": "reasoning",
+    "level": "hard"
+  },
+  {
+    "question": "What can likely explain the slow transformation of polymorph 2 to the more thermodynamically stable polymorph 1 over time?",
+    "answer": "The slow transformation of polymorph 2 to the more thermodynamically stable polymorph 1 over time can likely be explained by a pedal motion of the criss-cross C=C double bonds in 2 to the parallel alignment found in 1.",
+    "type": "reasoning",
+    "level": "hard" 
+  },
+  {
+    "question": "Why is polymorph 2 considered a kinetic product while polymorph 1 is the thermodynamic product?",
+    "answer": "Polymorph 2 is considered a kinetic product because it forms more quickly but then slowly transforms into the more stable polymorph 1 over time. This indicates polymorph 1 is the thermodynamically favored product.",
+    "type": "reasoning",
+    "level": "medium"
+  },
+  {
+    "question": "How do the Zn-Zn separation distances compare in the ladder polymer before and after the photochemical cycloaddition reaction?",
+    "answer": "The Zn-Zn separation distance in the original ladder polymer 1 was 4.005 Å. After the photochemical [2+2] cycloaddition reaction to form 4, this distance elongated to 4.253 Å, likely due to perturbations caused by the formation of the cyclobutane ring.",
+    "type": "reasoning",
+    "level": "hard"
+  },
+  {
+    "question": "What interactions help the 1D ladder chains pack together in the crystal lattice of the photoproduct 4?",
+    "answer": "The 1D ladder chains in the photoproduct 4 interact with each other in the crystal lattice via π-π contacts with a distance of 3.32 Å between the p-toluate rings.",
+    "type": "reasoning",
+    "level": "medium"
+  },
+  {
+    "question": "How does the photoreactivity of polymorphs 1 and 2 relate to Schmidt's topochemical postulate?",
+    "answer": "The photoreactivity of polymorphs 1 and 2 is consistent with Schmidt's topochemical postulate. Polymorph 1 has the parallel orientation of C=C bonds required for solid-state photodimerization. While polymorph 2 has a criss-cross orientation, it still undergoes photodimerization, likely enabled by pedal motion to align the bonds.",
+    "type": "reasoning",
+    "level": "hard"
+  },
+  {
+    "question": "What is the significance of isolating the two polymorphs with different C=C bond orientations in this study?",
+    "answer": "Isolating the two polymorphs with parallel and criss-cross C=C bond orientations provided an opportunity to investigate the differences in photoreactivity between polymorphic forms in coordination polymers, similar to Schmidt's classic studies on the polymorphs of cinnamic acid.",
+    "type": "reasoning",
+    "level": "hard"
+  },
+  {
+    "question": "Polymorph 1 and polymorph 2 have the same chemical composition but different crystal structures.",
+    "answer": "True",
+    "type": "true_false",
+    "level": "easy"
+  },
+  {
+    "question": "The photochemical [2+2] cycloaddition reaction of both polymorphs 1 and 2 yields the same photoproduct.",
+    "answer": "True",
+    "type": "true_false", 
+    "level": "easy"
+  },
+  {
+    "question": "Polymorph 2 is the thermodynamically more stable form compared to polymorph 1.",
+    "answer": "False",
+    "type": "true_false",
+    "level": "medium"
+  },
+  {
+    "question": "The Zn-Zn separation distance in the ladder polymer decreases after the photochemical reaction.",
+    "answer": "False",
+    "type": "true_false",
+    "level": "medium"
+  },
+  {
+    "question": "Polymorph 1 was obtained as the sole product when using zinc nitrate in the synthesis.",
+    "answer": "True",
+    "type": "true_false",
+    "level": "medium" 
+  },
+  {
+    "question": "The photoproduct 4 contains an rctt-tpcb ligand that lies about a crystallographic inversion center.",
+    "answer": "True",
+    "type": "true_false",
+    "level": "medium"
+  },
+  {
+    "question": "Differential scanning calorimetry (DSC) was able to detect the transformation of polymorph 2 to polymorph 1.",
+    "answer": "False",
+    "type": "true_false",
+    "level": "hard"
+  }
+]

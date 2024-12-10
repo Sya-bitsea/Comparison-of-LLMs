@@ -1,0 +1,123 @@
+
+[
+  {
+    "question": "What are the two ligands used to construct the mixed-ligand coordination polymer Cd-MIX?",
+    "answer": "The two ligands used to construct Cd-MIX are tricarboxytriphenylamine (H3TCA) and tris(4-(pyridinyl)phenyl)amine (NPy3).",
+    "difficulty": "easy",
+    "type": "factual"
+  },
+  {
+    "question": "How does incorporating both H3TCA and NPy3 ligands into one coordination polymer affect the conformation of the Ar3N moieties?",
+    "answer": "Incorporating both H3TCA and NPy3 ligands into Cd-MIX consolidates the Ar3N moieties into a special structural intermediate that mixes characteristics of both N(sp3) and N(sp2), decreasing potential structural relaxation during the hydrogen atom transfer process.",
+    "difficulty": "medium",
+    "type": "reasoning"
+  },
+  {
+    "question": "What are the channel openings of the 3D coordination polymer Cd-MIX?",
+    "answer": "Cd-MIX has channel openings of 8.6 × 13.0 Å2.",
+    "difficulty": "easy",
+    "type": "factual"
+  },
+  {
+    "question": "How does the mixed-ligand approach in Cd-MIX affect its absorption spectrum compared to the monoligand coordination polymers Cd-TCA and Cd-NPy3?",
+    "answer": "The mixed-ligand approach in Cd-MIX results in a broader absorption that spans the visible light range compared to the monoligand coordination polymers Cd-TCA and Cd-NPy3.",
+    "difficulty": "medium",
+    "type": "reasoning"
+  },
+  {
+    "question": "What is the proposed mechanism for the regioselective C(sp3)–H arylation reaction catalyzed by Cd-MIX?",
+    "answer": "The proposed mechanism involves Cd-MIX acting as a dual-functional catalyst, combining hydrogen atom transfer and photoredox catalysis. The excited Cd-MIX reduces an electron-deficient radical precursor to form an anionic radical and oxidized Ar3N•+, which selectively abstracts a hydrogen atom from the C(sp3)–H bond. The two radicals then couple to form the arylation product.",
+    "difficulty": "hard",
+    "type": "reasoning"
+  },
+  {
+    "question": "What is the reduction potential of the excited state of Cd-MIX?",
+    "answer": "The excited state reduction potentials of Cd-MIX are -2.04 V for the TCA3- ligand and -1.84 V for the NPy3 ligand (vs. Ag/AgCl).",
+    "difficulty": "easy",
+    "type": "factual"
+  },
+  {
+    "question": "Does the excited state of Cd-MIX oxidize the amine substrates N-phenylpyrrolidine (1a) and N-benzylpyrrolidine (1c) directly?",
+    "answer": "No, the inherent moderate oxidation potential of Ar3N•+ in Cd-MIX prohibits direct oxidation of the amine substrates 1a and 1c.",
+    "difficulty": "medium",
+    "type": "reasoning"
+  },
+  {
+    "question": "What is the Stern-Volmer constant for the quenching of Cd-MIX emission by 1,4-dicyanobenzene?",
+    "answer": "The Stern-Volmer constant for the quenching of Cd-MIX emission by 1,4-dicyanobenzene is about 1.0 × 103 M-1.",
+    "difficulty": "easy",
+    "type": "factual"
+  },
+  {
+    "question": "How does the photocurrent response of Cd-MIX compare to the monoligand coordination polymers Cd-TCA and Cd-NPy3?",
+    "answer": "Cd-MIX produces a higher photocurrent response than Cd-TCA and Cd-NPy3, indicating a higher electron-hole separation efficiency and photocatalytic activity.",
+    "difficulty": "medium",
+    "type": "reasoning"
+  },
+  {
+    "question": "What factors contribute to the higher catalytic efficiency of Cd-MIX compared to the monoligand coordination polymers Cd-TCA and Cd-NPy3?",
+    "answer": "The higher catalytic efficiency of Cd-MIX is attributed to the special structural intermediate of the Ar3N moieties that decreases structural relaxation, the improved photochemical and photophysical properties from the mixed-ligand approach, and the faster electron transfer rate in Cd-MIX.",
+    "difficulty": "hard",
+    "type": "reasoning"
+  },
+  {
+    "question": "True or False: The excited state of Cd-MIX can reduce the radical precursor 1,4-dicyanobenzene to form the anionic radical sub1•- and cation radical Ar3N•+.",
+    "answer": "True",
+    "difficulty": "easy",
+    "type": "true_false"
+  },
+  {
+    "question": "True or False: The oxidized state of Ar3N moieties in Cd-MIX can directly oxidize the amine substrates 1a and 1c via a single electron transfer process.",
+    "answer": "False",
+    "difficulty": "medium",
+    "type": "true_false"
+  },
+  {
+    "question": "True or False: The regioselectivity of the C-H arylation at the N-benzylic position when using N-benzylpyrrolidine as the substrate is consistent with a hydrogen atom transfer mechanism.",
+    "answer": "True",
+    "difficulty": "medium",
+    "type": "true_false"  
+  },
+  {
+    "question": "True or False: The surface area of the Cd-MIX catalyst is a crucial factor determining the catalytic efficiency for the C-H arylation reaction.",
+    "answer": "False",
+    "difficulty": "medium",
+    "type": "true_false"
+  },
+  {
+    "question": "True or False: The mixed-ligand approach in Cd-MIX improves its photochemical and photophysical properties compared to the monoligand coordination polymers Cd-TCA and Cd-NPy3.",
+    "answer": "True", 
+    "difficulty": "easy",
+    "type": "true_false"
+  },
+  {
+    "question": "True or False: Cd-MIX exhibits recyclability as a heterogeneous photocatalyst for the C-H arylation reaction.",
+    "answer": "True",
+    "difficulty": "easy",
+    "type": "true_false"
+  },
+  {
+    "question": "True or False: The proton-coupled electron transfer mechanism, requiring deprotonation of the amine substrates prior to oxidation, is the dominant pathway in this photocatalytic system.",
+    "answer": "False",
+    "difficulty": "hard",
+    "type": "true_false"
+  },
+  {
+    "question": "What are the included angles around the central nitrogen atom N2 of the NPy3 ligands in Cd-MIX?",
+    "answer": "The included angles around the central nitrogen atom N2 of the NPy3 ligands in Cd-MIX are 121.3°, 123.4°, and 115.0°.",
+    "difficulty": "easy",
+    "type": "factual"
+  },
+  {
+    "question": "What is the free volume percentage in the desolvated coordination polymer Cd-MIX as determined by PLATON?",
+    "answer": "The free volume in the desolvated coordination polymer Cd-MIX is approximately 43.5%, as determined by PLATON.",
+    "difficulty": "easy",
+    "type": "factual"
+  },
+  {
+    "question": "What is the dye uptake percentage of Cd-MIX based on crystal weight when soaked in a methylene blue solution?",
+    "answer": "The dye uptake of Cd-MIX is approximately 8.0% based on crystal weight when soaked in a methylene blue solution.",
+    "difficulty": "easy",
+    "type": "factual"
+  }
+]

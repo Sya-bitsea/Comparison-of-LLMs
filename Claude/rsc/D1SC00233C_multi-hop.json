@@ -1,0 +1,129 @@
+
+[
+  {
+    "question": "What were the three concentrations of (NH4)O2CMe(aq):HO2CMe(aq) buffer solutions used to study actinide speciation?",
+    "answer": "The three concentrations of (NH4)O2CMe(aq):HO2CMe(aq) buffer solutions used were 0.1 M, 4 M, and 15 M, all at pH 5.5.",
+    "difficulty": "easy",
+    "type": "factual"
+  },
+  {
+    "question": "What two actinides were studied at the extremes of the actinide series using X-ray absorption spectroscopy (XAS)?",
+    "answer": "Ac3+ and Cm3+ were studied at the extremes of the actinide series using XAS. Ac3+ is the largest +3 actinide with an ionic radius of 1.12 Å, while Cm3+ is one of the smallest actinides with an ionic radius of 0.97 Å.",
+    "difficulty": "medium",
+    "type": "factual"  
+  },
+  {
+    "question": "What were the two main factors that limited the scope of the XAS experiments?",
+    "answer": "The two main limiting factors for the XAS experiments were 1) being able to obtain reasonably-sized quantities of the radioactive actinides (mg for Ac and μg for Cm), and 2) the experiments had to be compatible with the complicated sample types of small quantities of highly radioactive actinides in aqueous media.",
+    "difficulty": "medium",
+    "type": "factual"
+  },
+  {
+    "question": "What spectroscopic techniques were used to validate the interpretations of the Cm3+ L3-edge EXAFS results regarding the number of bound H2O ligands?",
+    "answer": "Optical measurements, specifically UV-vis and time-resolved fluorescence lifetime (TRFL) spectroscopy, were used to validate the interpretations of the Cm3+ L3-edge EXAFS results regarding the number of bound H2O ligands.",
+    "difficulty": "easy",
+    "type": "factual"
+  },
+  {
+    "question": "Why were the optical measurements also performed on Eu3+ in addition to Cm3+?",
+    "answer": "The optical measurements were also performed on Eu3+ because, just like for Cm3+, UV-vis and TRFL spectroscopies are well-established methods for determining Eu3+ hydration numbers. This provided additional validation of the methods.",
+    "difficulty": "medium",
+    "type": "reasoning"
+  },
+  {
+    "question": "What was the purpose of collecting the An3+ L3-edge XANES spectra?",
+    "answer": "The An3+ L3-edge XANES spectra were collected to qualitatively compare changes in actinide speciation and electronic structure as a function of the (NH4)O2CMe(aq):HO2CMe(aq) buffer concentration.",
+    "difficulty": "medium",
+    "type": "reasoning"
+  },
+  {
+    "question": "Why was it important to study actinide speciation in both dilute and concentrated (NH4)O2CMe(aq):HO2CMe(aq) buffer solutions?",
+    "answer": "Studying the actinide speciation in both dilute and concentrated (NH4)O2CMe(aq):HO2CMe(aq) buffer solutions allowed the researchers to determine how the actinide coordination environment changed from an aqueous solution where the actinide and acetate were solutes (dilute conditions) to solutions where water became the solute and acetate was in large excess (concentrated conditions). This provided insight into actinide behavior across a range of relevant conditions.",
+    "difficulty": "hard",
+    "type": "reasoning"  
+  },
+  {
+    "question": "What was the main difference observed in the Ac3+ L3-edge XANES spectra between the dilute and concentrated (NH4)O2CMe(aq):HO2CMe(aq) buffer solutions?",
+    "answer": "The main difference in the Ac3+ L3-edge XANES spectra was a 1 eV shift in the edge energy to lower values in going from the dilute (0.2 M) to concentrated (15 M) (NH4)O2CMe(aq):HO2CMe(aq) buffer solutions. This shift may be related to substantial electronic structure changes that accompany Ac-O2CMe bond formation.",
+    "difficulty": "hard",
+    "type": "reasoning"
+  },
+  {
+    "question": "In contrast to Ac3+, were similar shifts observed in the Cm3+ L3-edge XANES spectra between dilute and concentrated acetate buffer solutions?",
+    "answer": "No, in contrast to Ac3+, the Cm3+ L3-edge inflection points were insensitive to acetate concentration, with identical values of 18,976.4(1) eV observed in the 0.1 M, 4 M and 15 M (NH4)O2CMe(aq):HO2CMe(aq) buffer solutions.",
+    "difficulty": "medium",
+    "type": "factual"
+  },
+  {
+    "question": "What was the difference in actinide speciation between Ac3+ and Cm3+ in the concentrated 15 M acetate buffer?",
+    "answer": "In the concentrated 15 M (NH4)O2CMe(aq):HO2CMe(aq) buffer, the larger and less Lewis acidic Ac3+ cation favored a neutral Ac(H2O)6(1)(O2CMe)3(1) species with more inner-sphere water ligands, while the smaller and more Lewis acidic Cm3+ cation favored an anionic species with approximately four O2CMe- ligands and only 1-2 inner-sphere waters.",
+    "difficulty": "hard",
+    "type": "reasoning"
+  },
+  {
+    "question": "The Cm3+ coordination environment in the intermediate 4 M acetate buffer was probed by both EXAFS and optical spectroscopy. Did the EXAFS data alone provide an unambiguous picture of the inner-sphere speciation?",
+    "answer": "No, the Cm3+ L3-edge EXAFS data alone did not provide an unambiguous picture of the inner-sphere speciation in 4 M acetate. Shell-by-shell fits including acetate were reasonable, but a simple aquo-ion model without any acetates also fit the data equally well. The optical measurements were required to conclusively determine the presence of inner-sphere acetates.",
+    "difficulty": "hard",
+    "type": "reasoning"
+  },
+  {
+    "question": "What was the main evidence from the optical spectroscopy measurements that indicated acetate complexation in the intermediate 4 M (NH4)O2CMe(aq):HO2CMe(aq) buffer solution?",
+    "answer": "The main evidence for acetate complexation from the optical measurements was an increase in the fluorescence lifetime of Cm3+ in going from dilute to intermediate to concentrated acetate, consistent with displacement of quenching inner-sphere water ligands by acetate anions. The Cm3+ excitation spectra also showed systematic changes consistent with acetate binding.",
+    "difficulty": "hard",
+    "type": "reasoning"  
+  },
+  {
+    "question": "Approximately how many inner-sphere water and acetate ligands were bound to Cm3+ in the intermediate 4 M acetate buffer based on the TRLF data?",
+    "answer": "The TRLF measurements indicated approximately 3.5 ± 0.5 inner-sphere water ligands bound to Cm3+ in the 4 M acetate buffer. Assuming a total Cm3+ coordination number of 9, this implies approximately 5.5 ± 0.5 inner-sphere acetate ligands.",
+    "difficulty": "medium",
+    "type": "factual"
+  },
+  {
+    "question": "Why was it useful to compare the optical properties of Cm3+ and Eu3+ in the acetate buffer solutions?",
+    "answer": "Comparing the optical properties of Cm3+ and Eu3+ was useful because the fluorescence behavior of Eu3+ is very well-established. The fact that Eu3+ showed similar changes in fluorescence lifetime and excitation spectra as a function of acetate concentration provided validation of the Cm3+ results.",
+    "difficulty": "easy",
+    "type": "reasoning"
+  },
+  {
+    "question": "What was the main conclusion regarding differences in actinide speciation across the actinide series in concentrated acetate solutions?",
+    "answer": "The main conclusion was that the early actinides like Ac3+ show less propensity for acetate complexation than the later actinides like Cm3+ in concentrated acetate media. This difference can be attributed to the higher Lewis acidity of the smaller, late actinide cations.",
+    "difficulty": "hard",
+    "type": "reasoning"
+  },
+  {
+    "question": "True or false: In the dilute 0.1 M acetate buffer, the Cm3+ cation exists primarily as the Cm(H2O)8(1)3+ aquo complex based on the EXAFS and optical data.",
+    "answer": "True",
+    "difficulty": "easy",
+    "type": "true_false"
+  },
+  {
+    "question": "True or false: The optical properties of Eu3+ were insensitive to acetate concentration, in contrast to the behavior seen for Cm3+.",
+    "answer": "False - the Eu3+ optical properties showed similar systematic changes with acetate concentration as seen for Cm3+, providing validation of the Cm3+ results.",
+    "difficulty": "medium",
+    "type": "true_false"
+  },
+  {
+    "question": "True or false: The Ac3+ L3-edge XANES spectra showed a shift in edge energy to higher values with increasing acetate concentration, consistent with increased covalency of the Ac-O2CMe bonds.",
+    "answer": "False - the Ac3+ L3-edge XANES spectra actually showed a 1 eV shift to lower energies with increasing acetate concentration, potentially indicating increased ionic character of the Ac-O2CMe bonds.",
+    "difficulty": "hard",
+    "type": "true_false"
+  },
+  {
+    "question": "True or false: The Cm3+ coordination environment in 15 M acetate could be well-described without including any inner-sphere water ligands.",
+    "answer": "False - although the Cm3+ coordination environment in 15 M acetate was dominated by acetate ligands, the EXAFS and TRLF data indicated that 1-2 inner-sphere waters remained bound to the Cm3+ center.",
+    "difficulty": "medium",
+    "type": "true_false"
+  },
+  {
+    "question": "True or false: The crystal structures of the (NH4)2M(O2CMe)5 (M = Eu, Am, Cm) compounds showed a total coordination number of 9, with 5 inner-sphere acetates and 4 inner-sphere waters around the M3+ cations.",
+    "answer": "False - the crystal structures showed a total coordination number of 9, but with all 9 oxygens coming from acetate ligands (5 total acetates). No inner-sphere waters were observed in the solid state structures.",
+    "difficulty": "easy",
+    "type": "true_false"
+  },
+  {
+    "question": "True or false: The EXAFS data for Cm3+ in 4 M acetate could distinguish between bidentate and monodentate binding modes of the acetate ligands.",
+    "answer": "False - although models including monodentate acetate ligands were tested, the quality of the EXAFS data was insufficient to quantify the number of monodentate vs bidentate acetates while remaining under the Nyquist limit of free variables.",
+    "difficulty": "hard",
+    "type": "true_false"
+  }
+]

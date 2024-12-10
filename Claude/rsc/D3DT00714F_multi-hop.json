@@ -1,0 +1,108 @@
+
+{
+  "doi": "10.1039/d3dt00714f",
+  "questions": [
+    {
+      "question": "What are the two air-stable sulfur-ligated dysprosium complexes synthesized in this study?",
+      "answer": "The two complexes synthesized are [HN(Et)3][Dy2NaL8] (1) and [DyNaL4(MeOH)x(H2O)2−x]n (2) based on 2-pyridinethiol 1-oxide (HL).",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the key difference between the anionic units in complexes 1 and 2 despite them sharing the same [DyL4]− unit?",
+      "answer": "While both complexes share the same [DyL4]− anionic unit with an O4S4 coordination environment, they differ in the precise geometry - triangular dodecahedron geometry in 1 and biaugmented trigonal prism geometry in 2.",
+      "type": "reasoning",
+      "difficulty": "medium" 
+    },
+    {
+      "question": "What is the coordination mode of the L− ligands in the polymeric complex 2?",
+      "answer": "In complex 2, the four independent L− ligands function in chelating, μ2-η1:η2, and μ3-η2:η2 coordination modes, bridging the Dy and Na ions to form a zig-zag one-dimensional chain.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the shortest coordination bond around the Dy3+ ion in both complexes 1 and 2?",
+      "answer": "In both complexes, the shortest coordination bond around the Dy3+ ion is the bond between Dy3+ and the non-bridged oxygen atom, which is 2.284(7) Å in 1 and 2.3178(18) Å in 2.",
+      "type": "factual", 
+      "difficulty": "medium"
+    },
+    {
+      "question": "How does the subtle change in coordination geometry between complexes 1 and 2 affect their single-molecule magnetism behavior?",
+      "answer": "The subtle change from triangular dodecahedron geometry in 1 to biaugmented trigonal prism geometry in 2 leads to observable temperature-independent relaxation for 2 while a faster relaxation with invisible peak for 1 at zero dc field. Under an optimal dc field, both display the typical Raman process with a smaller pre-factor and higher exponent for 2.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What type of magnetic relaxation process is observed for complex 2 at zero dc field based on the ac susceptibility measurements?",
+      "answer": "The ac susceptibility as a function of frequency with varying temperatures at zero dc field reveals a temperature-independent relaxation for complex 2, known as the quantum tunneling of magnetization (QTM) process.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the optimal dc field that efficiently suppresses the quantum tunneling of magnetization in both complexes 1 and 2?",
+      "answer": "The quantum tunneling of magnetization is suppressed efficiently at an optimal field of 1 kOe for both complexes 1 and 2.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "According to the ab initio calculations, which electronic state is the magnetic relaxation most likely to proceed via for both complexes?",
+      "answer": "Ab initio calculations reveal that the magnetic relaxation is most likely to proceed via the second excited Kramers doublet state for both complexes, which lies 287 cm−1 above the ground state for 1 and 303 cm−1 for 2.",
+      "type": "reasoning",
+      "difficulty": "hard"  
+    },
+    {
+      "question": "What approach do the authors suggest for constructing air-stable superior S-ligated Dy-SMMs with high coordination numbers based on the results of this study?",
+      "answer": "The authors suggest keeping the soft donor sulfur atoms in the equatorial plane to weaken the equatorial contribution, choosing hard donor atoms along the axial direction to enhance axial magnetic anisotropy, and controlling the local symmetry to suppress zero-field quantum tunneling.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the ground state doublet gz value and composition for both complexes according to the ab initio calculations?",
+      "answer": "The ab initio calculations show that the ground state doublets for both complexes have the same gz value of 19.76 with a pure mJ = ± 15/2 state composition.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "True or False: Complex 1 is a zero-dimensional discrete molecule while complex 2 is a one-dimensional zig-zag chain polymer.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "True or False: The main magnetic axes of the ground states for both complexes are nearly perpendicular to the shortest coordination bond direction.",
+      "answer": "False. The main magnetic axes are nearly parallel to the shortest coordination bond direction, along the Dy3+ ion and non-bridged oxygen atom.",
+      "type": "true_false", 
+      "difficulty": "medium"
+    },
+    {
+      "question": "True or False: Under an optimal dc field, both complexes display typical Orbach relaxation processes.",
+      "answer": "False. Under an optimal dc field, both complexes display typical Raman relaxation processes, not Orbach processes.",
+      "type": "true_false",
+      "difficulty": "medium" 
+    },
+    {
+      "question": "True or False: Factors like hyperfine interactions, molecular vibrations, and off-resonance phonon modes that are not accounted for in the ab initio calculations may lead to the observed quantum tunneling of magnetization relaxation between ground states in the actual complexes.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "hard"
+    },
+    {
+      "question": "True or False: The predicted energy barriers for the Orbach processes from the ab initio calculations are 287 cm−1 for complex 1 and 303 cm−1 for complex 2.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "True or False: The Na+ ion in complex 1 is 8-coordinate, bonding to oxygen atoms from six L− ligands that bridge between two symmetric [DyL4]− units.",
+      "answer": "False. The Na+ ion in complex 1 is 6-coordinate, bonding to oxygen atoms from six L− ligands, with three of the ligands bridging to another symmetric [DyL4]− unit.",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "True or False: Lanthanide mononuclear single-molecule magnets were first discovered by Ishikawa and co-workers in 2003, shifting the focus from transition metals to lanthanides.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "easy"
+    }
+  ]
+}

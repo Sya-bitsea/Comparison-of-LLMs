@@ -1,0 +1,126 @@
+s a multi-hop Q&A .json file for the given text:
+
+{
+  "doi": "10.1002/adma.201201846",
+  "questions": [
+    {
+      "question": "What is the formula of compound 1?", 
+      "answer": "MV[Mn2Cu3(mpba)3(H2O)3] · 20H2O",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What does mpba4- stand for in compound 1?",
+      "answer": "N,N′-1,3-phenylenebis(oxamate) bridging ligand",
+      "type": "factual", 
+      "difficulty": "easy"
+    },
+    {
+      "question": "What percentage of potential void per unit cell volume is estimated for compound 1 without the crystallization water molecules?",
+      "answer": "ca. 43%",
+      "type": "factual",
+      "difficulty": "medium" 
+    },
+    {
+      "question": "At what temperature does compound 1 exhibit a paramagnetic to ferromagnetic phase transition?",
+      "answer": "19.0 K",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What are the two distinct absorption bands centered at for compound 1 dispersed in toluene?",
+      "answer": "244 and 400 nm",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What gases was the anhydrous derivative of compound 1 able to adsorb at room temperature?",
+      "answer": "CO2 and H2O, but not CH4 or bigger hydrocarbons",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Why does compound 1 likely exhibit guest-induced luminescence from the MV2+ cations?",
+      "answer": "The MV2+ cations are highly ordered and almost planar in the crystal structure, which prevents fast radiationless deactivation of their excited state that would lead to non-emissive decay.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What causes the lower energy emission band at 544 nm for compound 1?",
+      "answer": "It is likely due to interaction between the MV2+ species and the Cu nodes, since they are only ~3.7 Å apart in the crystal structure.",
+      "type": "reasoning",
+      "difficulty": "hard" 
+    },
+    {
+      "question": "Why does adsorption of CO2 result in a red-shift of the emission, while adsorption of H2O and CH3OH cause a blue-shift?",
+      "answer": "This is likely due to differences in the specific adsorption sites for CO2, CH3OH and H2O and the different adsorption capacities of the anhydrous derivative for these adsorbates, which affects the Cu-MV distances.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What makes compound 1 an excellent candidate for fabrication of chemical sensors?",
+      "answer": "The remarkable shape selectivity of the porous structure combined with the exceptional tunability of the luminescent and magnetic properties.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "How does the crystallinity of compound 1 change upon dehydration and rehydration?",
+      "answer": "The anhydrous phase is amorphous, but crystallinity is rapidly recovered upon immersion in water for several minutes.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What type of magnetic ordering is observed in compound 1 below 19 K?",
+      "answer": "Long-range 3D ferromagnetic ordering, likely due to weak dipolar or through-bond interactions between adjacent layers mediated by the hydrogen-bonded water molecules.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What makes compound 1 a unique example of a luminescent porous magnet?",
+      "answer": "The combination of porosity, selective gas sorption, guest-induced luminescence, and long-range magnetic ordering at 19 K.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "True or False: The MV2+ cations are planar in the crystal structure of compound 1.",
+      "answer": "False. The two pyridinium rings are slightly twisted with dihedral angles of 7.3-7.7°.",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "True or False: Compound 1 exhibits ligand-based luminescence from the mpba4- bridging ligands.",
+      "answer": "False. The luminescence originates from the MV2+ cations and their interaction with the Cu nodes.",
+      "type": "true_false", 
+      "difficulty": "easy"
+    },
+    {
+      "question": "True or False: The anhydrous derivative of compound 1 exhibits selective adsorption of CO2 over CH4.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "True or False: The accessible pore size of the anhydrous derivative of compound 1 is estimated to be ~5 Å.",
+      "answer": "False. Based on the selective adsorption of CO2 but not CH4, the pore size is estimated to be ~3.8 Å.",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "True or False: Compound 1 exhibits an optical switching behavior accompanying reversible solvation/desolvation and gas sorption/desorption processes.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "easy"
+    },
+    {
+      "question": "True or False: The MV2+ cations establish strong covalent bonds with the carboxylate oxygens of the anionic metal-organic network.",
+      "answer": "False. The MV2+ cations establish only weak intermolecular interactions like van der Waals or electrostatic interactions with the carboxylate oxygens.",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "True or False: Compound 1 can detect the presence of CO2 even in a mixture with non-adsorbing gases like CH4.",
+      "answer": "True",
+      "type": "true_false",
+      "difficulty": "easy"
+    }
+  ]
