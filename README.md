@@ -13,7 +13,7 @@ For more information about the datasets, please refer to
 
 For synthesis condition dataset evaluation, we followed the procedures below:
 <p align="center">
-<img src="./Procedure.png" width="50%" height="50%">
+<img src="./Procedure.png" width="60%" height="60%">
 </p>
 
 For Q&A dataset evaluation, please refer to 
