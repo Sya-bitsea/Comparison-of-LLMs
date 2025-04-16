@@ -1,0 +1,292 @@
+import os
+
+from openai import OpenAI
+import json
+
+# import tiktoken
+from transformers import GPT2TokenizerFast
+
+from io import StringIO
+from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
+from pdfminer.converter import TextConverter
+from pdfminer.layout import LAParams
+from pdfminer.pdfpage import PDFPage
+
+import re
+
+import datetime
+
+import time
+
+import docx
+
+import random
+
+from bs4 import BeautifulSoup
+
+import xml.etree.ElementTree as ET
+
+start_time = time.time()
+
+import subprocess
+
+import google.generativeai as genai
+
+from selenium import webdriver
+
+def extract_text_from_pdf(pdf_path):
+    """Extracts the text from a PDF file and returns it as a string.
+
+    Parameters:
+    pdf_path (str): The file path to the PDF file.
+
+    Returns:
+    str: The extracted text.
+    """
+    with open(pdf_path, 'rb') as fh:
+        # Create a PDF resource manager object that stores shared resources
+        rsrcmgr = PDFResourceManager()
+
+        # Create a StringIO object to store the extracted text
+        output = StringIO()
+
+        # Create a TextConverter object to convert PDF pages to text
+        device = TextConverter(rsrcmgr, output, laparams=LAParams())
+
+        # Create a PDF page interpreter object
+        interpreter = PDFPageInterpreter(rsrcmgr, device)
+
+        # Process each page contained in the PDF document
+        for page in PDFPage.get_pages(fh, caching=True, check_extractable=True):
+            interpreter.process_page(page)
+
+        # Get the extracted text as a string and close the StringIO object
+        text = output.getvalue()
+        output.close()
+
+        # Close the PDF file and text converter objects
+        device.close()
+
+    # Remove ^L page breaks from the text
+    text = text.replace('\x0c', '\n')
+
+    # Write the extracted text to the output file
+    with open("full.txt", 'w', encoding='utf-8') as f:
+        f.write(text)
+
+    print(f"Text extracted from file and written to full.txt")
+
+    return text
+
+# Define file processing functions
+def process_docx(file_path):
+    doc = docx.Document(file_path)
+    return '\n'.join([para.text for para in doc.paragraphs])
+
+def process_xml(file_path):
+    tree = ET.parse(file_path)
+    root = tree.getroot()
+    return ET.tostring(root, encoding='utf8').decode('utf8')
+
+def process_xhtml(file_path):
+    with open(file_path, 'r') as file:
+        soup = BeautifulSoup(file, 'lxml')
+        return soup.get_text()
+
+def ensure_directory_exists(path):
+    """Ensures the specified directory exists, creating it if necessary."""
+    if not os.path.exists(path):
+        os.makedirs(path)
+
+def write_output_from_gpt_to_file(data, file_name, publisher, doi, home_dir):
+    try:
+        # Constructing the directory path
+        dir_path = os.path.join(home_dir, publisher, doi)
+        ensure_directory_exists(dir_path)  # Ensure the directory exists
+
+        # Constructing the full file path
+        formatted_file_name = f"{doi}_{file_name}"
+        full_file_path = os.path.join(dir_path, formatted_file_name)
+
+        # Writing the content to the file
+        with open(full_file_path, "w", encoding='utf-8') as file:
+            file.write(str(data))
+        print(f"File successfully written to {full_file_path}")
+    except Exception as e:
+        print(f"An error occurred while writing the file: {e}")
+
+# Function to extract data and write to a text file
+def write_output_of_file_or_code_generated_from_gpt(response, file_name, publisher, doi, home_dir):
+    try:
+
+        # Accessing the JSON string from the nested object
+        json_str = response.candidates[0].content.parts[0].text
+
+        # Extract the JSON part from the string
+        start_index = json_str.find('```json\n') + len('```json\n')
+        end_index = json_str.find('\n```', start_index)
+        json_content = json_str[start_index:end_index]
+
+        # Parse the JSON content
+        output = json.loads(json_content)
+
+        # Constructing the directory path
+        dir_path = os.path.join(home_dir, publisher, doi)
+        ensure_directory_exists(dir_path) 
+
+        # Constructing the full file path
+        formatted_file_name = f"{doi}_{file_name}"
+        full_file_path = os.path.join(dir_path, formatted_file_name)
+
+        # Writing the content to the file
+        # Save to a JSON file
+        with open(full_file_path, 'w') as json_file:
+            json.dump(output, json_file, indent=4)
+        print(f"File successfully written to {full_file_path}")
+    except Exception as e:
+        print(f"An error occurred while writing the file: {e}")
+
+def write_to_dump_file(model, prompt, output, file_name, temperature, start_time, publisher, doi, home_dir):
+    """
+    Writes the output along with the model used, the prompt, and a timestamp to the dump file.
+
+    Parameters:
+    model (str): The model used.
+    prompt (str): The prompt provided to the model.
+    output (str): The output generated by the model.
+    """
+    try:
+        # Get current date and time
+        now = datetime.datetime.now()
+        timestamp = now.strftime("%Y-%m-%d %H:%M:%S")
+
+        # Format the entry for the dump file
+        entry = f"{timestamp}\nModel Used: {model}\n Tempearture: {temperature}\nRuntime: {time.time()-start_time}s\nPrompt: {prompt}\nOutput: {output}\n - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - \n"
+
+        # Constructing the directory path
+        dir_path = os.path.join(home_dir, publisher, doi)
+        ensure_directory_exists(dir_path) 
+
+        # Constructing the full file path
+        formatted_file_name = f"{doi}_{file_name}"
+        full_file_path = os.path.join(dir_path, formatted_file_name)
+
+        # Writing the content to the file
+        with open(full_file_path, "w", encoding='utf-8') as file:
+            file.write(entry)
+            print(f"File successfully written to {full_file_path}")
+
+    except Exception as e:
+        print(f"An error occurred while writing the file: {e}")
+
+def process_tokens(tokens, model_engine, temperature, start_time, publisher, doi, home_dir):
+    # Placeholder for the block of code to run when the token limit is reached.
+    # Implement the desired functionality here.
+    print(f"Processing {len(tokens)} tokens...")
+
+    genai.configure(api_key="Put your API here")
+
+    model = genai.GenerativeModel('gemini-1.5-pro-001')
+
+    prompt = (f"Put your prompt here")
+
+    output = model.generate_content(prompt, request_options={"timeout": 600})
+
+    print (output)
+
+    # Example usage
+    file_name = "dump_file.txt"
+    write_to_dump_file(model_engine, prompt + f"\n\n{combined_text}", output, file_name, temperature, start_time, publisher, doi, home_dir)
+
+    # Example usage
+    file_name = "output.txt"
+    write_output_from_gpt_to_file(output, file_name, publisher, doi, home_dir)
+
+    file_name = "Dataset_entry.json"
+    write_output_of_file_or_code_generated_from_gpt(output, file_name, publisher, doi, home_dir)
+
+# Main processing function to handle different file types
+def process_file(file_path):
+    _, ext = os.path.splitext(file_path)
+    if ext.lower() == '.pdf':
+        return extract_text_from_pdf(file_path)
+    elif ext.lower() == '.docx':  # Assuming .doc is handled like .docx
+        return process_docx(file_path)
+    elif ext.lower() == '.doc':
+        return extract_text_from_doc(file_path)
+    elif ext.lower() == '.xml':
+        return process_xml(file_path)
+    elif ext.lower() == '.xhtml':
+        return process_xhtml(file_path)
+    else:
+        return None
+
+def process_doi(doi_dir):
+    combined_text = ""
+    for root, dirs, files in os.walk(doi_dir):
+        for file in files:
+            if file.endswith(('.pdf', '.docx', '.doc', '.xml', '.xhtml')):
+                file_path = os.path.join(root, file)
+                text = process_file(file_path)
+                if text is not None:
+                    combined_text += text + " "
+    return combined_text
+
+def extract_text_from_doc(file_path):
+    # This example uses `antiword` but you can replace the command with `catdoc`
+    # or a LibreOffice conversion command as needed.
+    command = ['antiword', file_path]
+
+    try:
+        result = subprocess.run(command, stdout=subprocess.PIPE, stderr=subprocess.PIPE, check=True)
+        # Decode the output to text
+        text = result.stdout.decode('utf-8')
+        return text
+    except subprocess.CalledProcessError as e:
+        print(f"Error during file processing: {e}")
+        return None
+
+if __name__ == '__main__':
+
+    model_engine = "gemini-1.5-pro-001"
+    max_tokens = 128000
+    temperature = 0
+    home_dir = os.path.join(os.getcwd(), 'output')
+    base_path = os.path.join(os.getcwd(), 'data')  # Base path to the 'data' directory
+
+    # Initialize tokenizer
+    tokenizer = GPT2TokenizerFast.from_pretrained("gpt2")
+
+    combined_text = ""
+    tokens = []
+
+    for publisher in os.listdir(base_path):
+        publisher_path = os.path.join(base_path, publisher)
+        if not os.path.isdir(publisher_path):
+            continue  # Skip files, process directories only
+        for doi in os.listdir(publisher_path):
+            doi_path = os.path.join(publisher_path, doi)
+            if not os.path.isdir(doi_path):
+                continue
+
+            # Construct the output path to check if it exists
+            output_path = os.path.join(home_dir, publisher, doi)
+            if not os.path.exists(output_path):
+                print(doi_path)
+                combined_text = process_doi(doi_path)
+
+                # Check if combined text exceeds max_tokens
+                temp_tokens = tokenizer.encode(combined_text, add_special_tokens=False)
+                if len(temp_tokens) > max_tokens:
+                    process_tokens(tokens, model_engine, temperature, start_time, publisher, doi,
+                                   home_dir)  # Process the tokens collected so far
+                    combined_text = combined_text 
+                    tokens = temp_tokens[len(tokens):]  
+                else:
+                    tokens = temp_tokens
+
+                if tokens:
+                    process_tokens(tokens, model_engine, temperature, start_time, publisher, doi, home_dir)
+
+            else:
+                print(f"Skipping {doi_path}, output path already exists.")
